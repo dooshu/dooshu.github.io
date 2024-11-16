@@ -1,0 +1,397 @@
+第15章 房地产投资对经济增长影响再分析
+
+
+陈杰 农汇福[1]
+
+
+一种流行的观点认为：进一步提升房地产投资规模，能够减缓我国宏观经济增速的下滑。事实上，如果房地产投资规模已经超过了当前市场和经济的需求，进一步增加房地产投资将会加剧社会资源错配，进而进一步降低中国宏观经济增长，最终阻碍我国经济的长期稳定发展。
+
+
+
+
+
+引言
+
+
+1998年的住房制度改革使我国告别了住房福利分配历史，进入全面市场化的历史新阶段。从此以后，房地产业取得迅猛增长，并逐步发展成为国民经济非常重要的一个行业。从全国层面来看（图15.1所示），1999年，我国房地产投资名义值仅为4103亿元，占当年全社会固定资产投资的13.74%，占当年GDP的4.55%；2014年，我国房地产投资名义值增长为95036亿元，与当年全社会固定资产投资和GDP之比分别增长到18.54%和14.93%[2]。就对GDP贡献率而言，2013年我国房地产业对GDP贡献为13.6%[3]。此外，房地产投资对关联产业有显著的带动作用，带动了居住消费、建材消费和耐用品消费，而且房地产还会通过财富效应渠道对中国宏观经济产生直接影响（Chen, Guo and Zhu，2009）。总而言之，在我国经济快速增长的过程中，有很多迹象表明，房地产在推动地方经济发展的过程中发挥了积极而重要的作用。Arku（2006）强调房地产可以成为大幅推动经济增长的重要行业。Turin（1978）也强调房地产业在发展中国家的经济发展过程中的重要性，认为房地产业对GDP的贡献可以达到制造业对GDP贡献的1/3~2/3。
+
+
+图15.1 我国房地产投资与GDP（1999~2014年）
+
+
+
+
+实际上，正如新古典经济学派所强调的，投资在经济增长过程中扮演着非常重要的角色，从投资入手寻找经济增长的动力以及经济增长的差异是一个很好的研究视角。因此，房地产投资与经济增长之间的关系也引起了国内外学者的广泛关注和深入研究，并产生了很多代表性的文献（Chen, Guo and Zhu，2011；Harris and Arku，2006；Kim，2004；张清勇，郑环环，2012）。其中，Chen, Guo和Zhu（2011）基于我国1997Q1~2007Q4省级面板数据，以及面板VECM模型检验了住宅投资、非住宅投资和经济产出的相互关系，认为住宅投资扮演了经济产出的引导者和追随者双重角色，但它们之间的因果关系在不同的区域存在显著的差异。但张清勇、郑环环（2012）采用同样的VECM模型，和1985~2009年省级面板数据，研究了我国房地产投资与经济增长之间的关系，认为住宅投资不会引领经济增长，但存在从经济增长到住宅投资的单向Granger因果关系。此外，Lambertini, Mendicino和Punzi（2013），Leamer（2007），况伟大（2011），虞晓芬和张娟锋（2011），郑思齐和刘洪玉（2002）等研究结果往往发现房地产投资与经济增长之间的关系表现出不稳定性。总而言之，目前学术界对于房地产投资与经济增长之间的关系尚未形成统一的认识。值得注意的是，在经济新常态下，我国2014年GDP增长率仅为7.4%，是自1990年以来首次低于7.5%；2015年GDP增速进一步下滑至6.9%，为自改革开放以后首次低于7%。同时，2014年房地产投资增长率在11%以下，而2015年地产投资名义增速仅为1%（扣除价格因素实际增长2.8%），也是自1998年以来最低值。房地产投资与经济增长之间是否存在某种内在的联系？这就成为本章研究的一个重要驱动因素。因此，继续对我国房地产投资如何影响经济增长展开系统性的分析显然具有十分重要的学术价值与现实意义。
+
+在关于房地产投资与经济增长关系的问题上，既往文献主要集中在通过误差修正模型（VECM）和传统Granger因果检验方法，考察两者之间是否存在因果关系，以及存在何种作用方向。现有文献的研究多数在线性框架下展开，但近年来越来越多的研究已证实经济变量之间的相互关系往往是非线性的（Hiemstra and Jones，1994；Huh，2002；陈健，陈杰，高波，2012；陈杰，农汇福，2016）。而在房地产相关的研究领域，Holmes（2000），Kamalian, Pahlavani和Valadkhani（2010），Wang, Lee和TT Binh（2008）等研究证实，人均可支配收入和通货膨胀对房地产市场和其他经济变量的影响是非线性的；陈杰和农汇福（2016）基于我国1999~2010年省级面板数据和门限面板模型，发现经济适用房供应对商品市场的影响是非线性的。因此，我们有充分的理由认为房地产投资对经济增长之间的影响很可能是非线性的。但目前对我国房地产投资与经济增长之间非线性关系的研究还比较欠缺。此外，纵观现有的文献，多数研究在双变量的框架下独立考察房地产投资与经济增长之间的关系，这很可能会出现遗漏变量的问题。同时，错误地将模型固定在线性框架下对房地产投资和经济增长的关系展开研究，可能是既往文献结果之间出现冲突和矛盾的主要原因。
+
+从研究方法上看，传统的Granger因果关系检验可能存在一定的局限性。Granger因果关系检验是基于因果事件发生时间次序的先后的统计意义上的显著性，其检验结果严重依赖于滞后阶数，往往会因滞后阶数的不同选择而出现较大的差异。（Gujarati，2003）与此同时，传统Granger因果关系检验在实证检验过程中要么过度地关注了变量之间在统计意义上的显著性，而忽视了内在的经济意义上的显著性（Abdullah and Rangazas，1988; Sims，1972)；要么在进行方差分解分析时，因为在正交化（orthogonalize）过程中对扰动项关系结构存在主观性判断（Awokuse，2008; Bernanke，1986），从而使分析结果因变量的不同次序而产生显著的差别（Enders，2008; Yang, Hsiao, Li and Wang，2005）。
+
+基于上述分析和经验认识，本章将尝试在新古典经济增长模型框架下(Lucas，1988; Solow，1974; Solow，2008)，运用当前流行的非线性计量模型对我国房地产投资如何影响经济增长展开系统性的定量分析。因此，与既往多数文献相比，本章毫无疑问更具有坚固的经济学理论基础。在我们的知识范围内，本章将是第一篇基于全国地级市面板数据，且在非线性框架下系统地研究我国房地产投资如何影响经济增长的实证文章。
+
+具体而言，本章将尝试回答三个问题：我国房地产投资的变动是否会以及怎样对经济增长产生影响，这种影响关系和大小是否因条件而异。因此，本章收集了2000~2013年我国255个地级市面板数[4]，综合运用当前流行的非线性门限面板模型（Caner and Hansen，2004; Hansen，1999; Hansen，2000）和GMM方法，系统性地定量考察不同环境下我国房地产投资如何影响宏观经济增长。房地产投资是否推动经济增长，以及在何种情景下对经济增长产生多大的影响，对于判断未来的房地产市场以及经济走势都非常重要。同时，本章的研究结果还有助于政府对未来房地产市场调控政策的选择和制定，以应对宏观经济周期的波动。
+
+本章的结构如下：第1节对相关研究文献进行回顾性总结；第2节对本章所使用的数据及计量模型进行介绍；第3节为实证研究及结果讨论；最后的第4节是结论性描述以及政策启示部分。
+
+
+
+
+
+1. 文献综述
+
+
+正如本章引言所述，从投资入手寻找经济增长的动力以及经济增长的差异是一个很好的研究视角。Keynes（1931）或许是最早关注投资与经济增长之间相互关系的学者之一，认为增加投资是应对经济衰退的一个好办法。但关于房地产投资对经济增长的影响，早期的主流观点则认为，房地产投资对经济增长无明显促进作用，甚至会存在挤出效应。（Dwyer，1972; Howenstine，1957; Wells，1985）比如，Weissmann（1955）认为对于欠发达的国家和地区，房地产投资并不是经济增长的原因，相反在资本积累不足的情况下，大规模进行房地产投资只能拖累经济发展。Wells（1985）指出建筑业的投资并不能带动经济增长，特别是在不够开放的发展中国家，无法有效利用外资，过度的建筑业投资会挤出其他行业投资。Mills（1987)指出美国因为税收扭曲，导致了资源错配，大量的资本从制造业流向房地产业，出现了房投资过热，并抑制了经济增长。
+
+进入20世纪80年代以后，随着房地产业在世界各地的蓬勃发展，以及计量经济学的快速发展和应用，一些学者利用数据和计量方法来研究房地产投资和经济增长之间的相互关系，实证普遍发现两者之间有明显相互作用（Aye, Balcilar, Bosch and Gupta，2014; Chen, Guo and Zhu，2011; Kuang and Zhou，2010）。但纵观现有文献，从研究结论来看，由于各个国家的发展阶段和产业政策的差异，住宅部门与经济联系的差异，以及样本期和数据类型[5]的不同，使得现有研究的基本结论甚至出现了相互冲突和备受争议。
+
+如本章引言所讨论的，现有文献主要基于VECM模型和Granger因果关系检验展开研究，因此既往文献的基本研究结论大致分成三类：一是房地产投资是经济增长的单向Granger原因。有代表性的文献主要包括Greasley和Madsen（2013），Green（1997），Greenwood和Hercowitz（1991），及Leamer（2007）。其中，Green（1997）基于美国1959~1992年度时序数据，发现房地产投资领先于经济增长，而其他行业投资滞后于经济增长，政府把房地产投资挤到其他行业（工厂、设备）投资，短期将导致经济混乱；Greenwood和Hercowitz（1991）采用美国1954~1989年家庭耐用消费品、住宅投资与商业投资的时序数据，均得出了房地产投资领先于经济增长和其他宏观经济变量的结论。此外，Coulson和Kim（2000），Gauger和Snyder（2003），Ghent和Owyang（2010），及Wen（2001）等研究结论也支持此类观点。
+
+二是经济增长是房地产投资的单向Granger原因。Kim（2004）与Vargas-Silva（2008）针对韩国1970~2002年的年度数据实证研究认为，住宅投资不是经济增长的推动因素，而是经济增长的产物，但非住宅投资则和经济增长存在双向互动关系。Davis和Heathcote（2005)通过研究多部门的经济增长模型发现，消费、住宅投资、非住宅投资都是同向波动的，其中住宅投资比其他商业投资波动大得多，他们发现非住宅投资滞后于经济增长，但找不到足够的证据证实住宅投资领先于经济增长。支持这类观点的代表性文献还包括Bulligan（2010），Hasan和Taghavi（2002），Kim（2002），及Madsen（2002）。
+
+三是房地产投资与经济增长间存在双向Granger因果关系。Aye, Balcilar, Bosch和Gupta（2014)采用了南非1972（Q2）~2012（Q2）的长样本数据，探讨了房价、住宅投资、新通过的建筑计划与经济产出之间的关系，结果显示房价单向影响产出，经济产出单向领先新通过的建筑计划，而住宅投资与产出存在双向的引导关系，在5个经济下滑期，住宅投资有1期对产出下滑有强烈的预示作用，而经济产出在4个下滑前期和2个下滑期对住宅投资有预测作用。最后指出了房地产业的衰退极有可能导致产出下降，建议保持房地产业稳定增长，但也要避免过度投资造成的泡沫。此外，Chen, Guo和Zhu（2011），Hongyu, Park和Siqi（2002），及Kuang和Zhou（2010)等研究也得出了“住宅投资与经济发展之间存在双向因果关系”的结论。
+
+近年来，随着国内房地产市场的迅速发展，研究我国房地产投资与经济增长之间关系的文献也增加很快。Hongyu, Park和Siqi（2002)采用中国1981~2000年国家层面年度数据，和双变量VAR模型检验了住宅投资、非住宅投资与经济增长之间的关系。他们认为：住宅投资、非住宅投资与经济增长之间存在长期均衡关系，经济增长带动了住宅投资与非住宅投资；住宅投资与非住宅投资对经济增长也有影响，且住宅投资对经济增长的影响较非住宅投资大得多。此外，王先柱（2007），皮舜和武康平（2004），及黄忠华、吴次芳和杜雪君（2008）研究结果均显示我国房地产投资和经济增长之间存在双向反馈机制；刘红（2006）研究表明房地产投资是刺激经济增长的重要变量之一。上述文献均采用全国层面数据，但对于房地产市场而言，它是典型的区域性市场，最适合房地产市场的单位应该是城市（龙奋杰，沈悦，刘洪玉，郑思齐，董黎明，2006）。
+
+但基于城市层面数据研究我国房地产投资与经济增长关系的既往文献还比较欠缺。Kuang和Zhou（2010)采用中国35个大中城市的年度数据，研究房地产投资、房地产信贷和经济增长的关系，结论显示住宅购买比住宅开发对经济增长的贡献更大，房地产投资比信贷对经济增长的影响更大，而经济增长对房地产信贷的影响比对房地产投资的影响大。张洪、金杰和全诗凡（2014）采用我国70个大中城市1998~2010年面板数据，并以柯布—道格拉斯生产函数为基础，构建了包括房地产投资及其空间效应的空间动态计量模型，其结果显示，样本期内各个大中城市房地产投资之间存在显著的空间效应，某一地区房地产投资不仅促进和提升本地区经济增长，同时也带动其他地区经济增长。无论是从区域来看，还是从区际来看，房地产投资均存在不同程度的空间溢出效应，但是彼此之间存在差异，总体而言，城市经济越发达其空间溢出效应越显著。上述文献虽然采用了城市数据进行研究，但选用的样本量还是显得太少，不论是35个大中城市，还是70个大中城市，均无法很好地体现我国城市的特征[6]，很可能存在样本选取（sample selection）等问题。
+
+此外，房地产作为我国国民经济的支柱性产业（梁云芳，高铁梅，贺书平，2006），毫无疑问会对其他产业产生显著的带动作用（国家统计局综合司课题组，2005）。因此部分学者通过不同的角度分析了我国房地产业对其他行业的影响，其中代表性的文献主要有梁云芳、高铁梅和贺书平（2006），王国军和刘水杏（2004），及蒲勇健和晏国菀（2010）等，这些文献的基本结论均表明，房地产业对国民经济中其他各行业产生不同程度的带动效应。其他视角的研究有原鹏飞和冯蕾（2014）通过构建DCGE模型说明了我国房价上涨刺激了房地产业膨胀，消化了过剩产能，从而带动宏观经济和其他行业快速增长。
+
+综上所述，现有的文献仍存在三大不足，一是对变量之间的非线性关系重视不足，多数文献直接假定变量之间是静态的、线性的关系；二是现有文献主要基于Granger因果关系展开研究，Granger因果检验的局限性在本章引言部分有较详细阐述，不再赘述；三是既往文献大多数基于国家层面时序数据或省级面板数据，或者采用少数城市数据构建面板。鉴于此，本章将基于新古典经济增长模型(Lucas，1988; Solow，1974; Solow，2008)，通过更全面的、更具微观特征的全国所有地级城市面板数据，以及当前流行的非线性分析框架和非线性计量模型(Caner and Hansen，2004; Hansen，2000)，系统而严谨地定量研究我国房地产投资如何影响本地经济增长，以及在何种情况下产生多大的影响。
+
+
+
+
+
+2. 数据与计量模型
+
+
+数据及统计性描述
+
+
+根据国家统计局公布的数据显示，房地产投资包括住宅、办公楼、商业营业用房、经济适用房（2011年后停止公布该项数据，原因未知），以及其他等种类的投资。其中，住宅投资占比最高，其他几类投资占比较小。本章采用的房地产投资包括了以上几类投资总和，这与Chen, Guo和Zhu（2011)所用的数据是等价的。
+
+考虑到我国房地产市场在1998年前后存在较大的差异性，本章样本期为2000~2013年255个地级市的面板数据。样本中剔除了样本期内前后名称不一致、政府办公位置发生变化的城市，剔除了自治州和县级市城市，但包含北京、上海、重庆、天津4个直辖市，15个副省级城市及计划单列市。此外，由于西藏自治区的城市数据缺失非常严重，样本内不含有西藏自治区下辖地级市。对于样本中少数城市某个年份的数据缺失，本章采用前一年和后一年的平均值进行填补，如果出现连续超过2年（以上）数据缺失的城市，则从样本中剔除。
+
+本章用的变量包括了经济增长率(g)、人均实际GDP(y)、人口增长率(gn)、固定资产投资占GDP之比(fixratio)、房地产开发投资占GDP之比(reiratio)、房地产开发投资占全社会固定资产投资之比(reifixratio)等。数据来源于国家统计局、Wind数据库、同花顺数据库和中国统计年鉴（2001~2014年）等。因为没有各地级市CPI指数的数据，本章与陆铭、欧海军和陈斌开（2014）一致，采用经调整后省级CPI指数对本省内的城市变量进行价格平减，为实值。人均实际GDP等于实际GDP总额除以城市年末常住人口规模。
+
+此外，借鉴陈艳艳和罗党论（2012）做法，本章以winsorize方法处理固定资产投资占GDP之比和房地产投资占GDP之比这两个变量的异常值，即把1%以下与99%以上的数值分别替换为1%和99%。表15.1报告了本章主要变量的统计信息。
+
+
+
+
+
+表15.1 2000~2013年主要变量数据描述性统计（平均值）
+
+
+注：本表为笔者根据国家统计局、Wind数据库以及统计年鉴等公开数据整理而得。g表示实际经济增长率；y表示实际人均GDP；fixratio表示固定资产投资与GDP之比；gn表示人口年增长率；reiratio表示房地产投资与GDP之比；reifixratio表示房地产投资与固定资产投资之比。
+
+
+
+
+
+实证模型
+
+
+正如前文所述，许多不同领域的研究文献已经证明变量之间的关系往往是非线性的，在房地产领域，陈杰和农汇福（2016）运用我国房地产数据证实了非线性关系的存在。在房地产投资与经济增长关系的问题上，既往文献中，Turin（1978）与Waswo（2013)认为在社会发展的不同阶段，房地产对经济增长的影响会不同。在社会经济发展初期，房地产投资对本地经济增长的影响力可能比较小(Weissmann，1955)，当房地产投资占GDP之比增加时，房地产投资对本地国民经济的影响可能会随之增大(Arku，2006; Hirayama，2003)。但另一方面，当房地产开发投资与固定资产投资之比上升时，它隐含着资本有可能会从其他行业流向房地产业，此时可能会出现房地产投资过热，从而对本地经济发展产生抑制的作用，拖累经济的发展(Mills，1987)。鉴于此，本章将在非线性框架下系统地研究房地产投资如何影响经济增长。
+
+下面我们将规范地实证检验，我国房地产投资是否会对经济增长产生影响，以及这种影响是否因条件而言。借鉴Gregory, Romer和Weil（1992)基于新古典经济增长理论所发展的实证经济增长模型，但考虑变量之间潜在非线性特征，具体的实证模型为[7]：
+
+
+
+
+
+其中，git表示城市i在时间t的GDP增长率；yit-1表示城市i在时间t-1的人均实际GDP；invit表示城市i在时间t投资与GDP之比；gnit、 γit和δit分别表示城市i在时间t的人口增长率、技术进步率和资本折旧率；φi和vt分别表示城市i的固定效应和时间t的固定效应；qit表示模型的门限变量，表示指示函数；τ表示模型的门阀值；eit表示误差修正项。
+
+系数β2和β3的大小与显著性将是本文最为关注的估计参数。本文出于书写方便的考虑，式（1）是仅包含1个门限值的表达形式，但实际数据可能存在多个门限值。多个门限值的方程形式依次类推，计算方式是先计算单个门限值，然后将第一个门限值固定下来，并在两个体制（regime）中分别采用格点搜索方法（Grid Search）计算第二个门限值，依次类推计算第三个门限值。
+
+在式（1）中，如果不考虑门限变量，其类似于Gregory, Romer和Weil（1992)基于新古典经济增长理论所发展的实证经济增长模型。该模型现已成为实证经济增长文献的标准模型之一。在实证过程中，我们借鉴了徐现祥和王贤彬（2010）及徐现祥、王贤彬和舒元（2007）的做法，假定γit+δit=0.1。根据既往经济增长核算文献的相关发现，改变这个设定并不会对后文的实证结果带来实质性影响（徐现祥和王贤彬，2010）。
+
+对于式（1），以单门限为例，如果门限变量的值大于门阀值τ，即I(qit)=1，则β3不存在，我们只需考虑系数β2的大小及其显著性，其表示在门限变量小于门限值时，投资对经济增长的影响大小；如果门限变量的值小于门阀值τ，即I(qit)=0，我们只需考虑系数β3的大小及其显著性，其表示在门限变量高于门限值时，投资对经济增长的影响程度。
+
+由于过去十几年时间里，房地产投资迅猛上涨与我国经济的高速增长在时间上存在一致性，而进入经济新常态后，房地产投资大幅回落与经济增速快速下滑在时间是也存在一致性。因此，一种流行的观点认为：进一步提升房地产投资规模，能够减缓我国宏观经济增速的下滑。本文认为，这种观点忽视了不同行业之间生产率的差异性，生产率的提高才是经济增长的最终动力(Hsieh and Klenow, 2007; Solow, 1956)。但是，房地产及其相关行业生产率水平普遍低于其他行业（陈斌开、金箫和欧阳涤非,2015），因此，如果房地产投资规模已经超过了当前市场和经济的需求，进一步增加房地产投资将会加剧社会资源错配，进而进一步降低中国宏观经济增长，最终阻碍我国经济的长期稳定发展（曹玉书和楼东玮，2012；李静、彭飞和毛德凤，2012）。
+
+鉴于上述讨论，本文将选用以下两个门限变量：（1）房地产投资占GDP的比重（reiratio）；（2）房地产投资占社会固定资产投资比重（reifixratio），通过非线性门限面板模型，检验房地产投资是否以及将会如何影响本地经济增长。本文预期随着以上两个门限变量比重的提升，投资对我国经济增长的影响将逐步减弱。
+
+
+
+
+
+计量方法
+
+
+Gregory, Romer和Weil（1992)认为，nit、 γit和δit均是外生，在施加一些约束后，理论上可以直接采用OLS方法对式（1）进行回归。在理论上以及实际应用中，通常采用固定效应模型（fixed-effect model）对面板数据和模型进行估计。然而，如果面板数据的个体数量（N）很大，且时间跨度（T）较小时（比如本文所采用的面板数据，N=260，T=13），基于一阶差分计算的最小二乘法（OLS）方法得到的估计量很可能是不一致的(Nickell，1981)。但是，在T比较小（只要满足T>4），且NT的情况下，采用IV/GMM方法对面板数据和模型回归得到的估计值是一致的(Arellano and Bond，1991; Han and Phillips，2006; Stock and Wright，2000)。
+
+本文采用全国255个地级市面板数据。由于我国东、中、西部经济发展和房地产市场均存在较大差距，因此，本文数据很可能存在较大的异质性。对于可能存在异质性的面板数据来说，GMM方法可以有效地消除数据异质性带来的不利影响。更重要的是，在本文中由于门限变量的存在，每个体制（regime）的数据实际上是非平衡（unbalanced）面板数据，在这种情况下，GMM方法得到的估计量一般要优于混合最小二乘法（pooled OLS）得到的估计量(Han and Phillips，2006)。此外，Hansen（2000)建议采用GMM方法对门限面板数据进行检验。
+
+在式（1）中，我们还需要加以考虑的另一个问题是固定资产投资占GDP比重与被解释变量之间很可能存在内生性。如果存在内生性，且不用适当的工具变量加以控制，OLS方法和GMM方法回归结果均可能是有偏的。因此，本文采用了固定资产投资占GDP比重的滞后一期变量作为工具变量，以解决式（1）中潜在的内生性问题。同时，采用滞后一期变量作为解释变量的经济学含义是经济环境发生变化时，经济主体难以及时对环境和信息变化更改生产决策，因此解释变量的变化要到下一期才会对被解释变量产生影响。
+
+鉴于上述讨论，出于稳健性考虑，本文将同时采用OLS方法和GMM方法对式（1）进行回归检验。
+
+
+
+
+
+3. 实证研究结果
+
+
+在使用门限面板模型之前，要先确认式（1）是否存在门限效应以及门限的数量。在此，还有一点值得进一步指出，为了保证每个体制包含足够的观测值，本文仅对样本期中间的80%样本量进行格点搜索（即最大值的10%和最小值的10%均不在格点搜索范围内），同时，也为了使得计算难度控制在一个合理范围之内，我们将最大门限数量设置为3个。[8]本文采用条件最小二乘法（conditional OLS）估计门限变量的门阀值以及门限的个数(Hansen，2000)，并对所有可能的门限值进行迭代，选取式（1）中残差平方和(RSS)最小的门限值作为门限估计值(Chan，1993)。在得到门限估计值之后，利用Bootstrap方法检验门限效应的显著性水平(Chan，1993; Hansen，2000)。
+
+表15.2报告了式（1）各门限变量的门限效应检验结果。从估计量以及对应的p值可以看出，两个门限变量房地产投资占GDP比重（reiratio）和房地产投资占固定资产投资比重（reifixratio）均能通过5%的统计性检验，均存在一个门限值。
+
+
+
+
+
+表15.2 各门限变量的门限效应检验结果
+
+
+注：（1）小括号内数字为p值，经过1000次bootstrap而得；(2)***表示p<0.01,**表示p<0.05,*表示p<0.1。
+
+
+
+
+在确定各门限变量均存在门限效应之后，我们就可以对模型进行门限面板检验。具体地，与Gregory, Romer和Weil（1992）与王贤彬、徐现祥和李郇（2009）等研究一致，本文假定nit、 γit和δit均是外生的，分别采用OLS方法和系统GMM方法对式（1）进行回归，结果如表15.3所示。可以看出，房地产投资对经济增长的影响存在非线性特征。表15.3所有解释变量的符号与新古典经济增长理论预测和现有实证经济增长文献的发现相一致。
+
+
+
+
+
+表15.3 房地产投资对经济增长影响的回归结果（2000~2013年）
+
+
+
+
+
+注：（1）小括号内数字为标准差；（2）***表示p<0.01,**表示p<0.05,*表示p<0.1；（3）解释变量中的-1表示滞后1期；（4）后缀_below表示门限变量低于门限值的区域，后缀_above表示门限变量高于门限值的区域；（5）后缀_regime1表示两个门限变量均小于各自门限值的区域；后缀_regime2表示其中一个门限变量大于其门限值的区域；后缀_regime3表示两个门限变量均大于各自门限值的区域。
+
+
+
+
+表15.3的第1~2列报告了房地产投资占GDP比重（reiratio）作为门限变量的变化如何影响经济增长，其中第1列回归结果采用OLS方法，第2列回归结果采用一步系统GMM方法。可以看出，两种方法均显示，在reiratio≤10.10%（共2904个观测值，占75.92%）时，投资占比（inv）对经济增长的影响系数是9.48左右；在reiratio>10.10%（共921个观测值，占24.08%）时，投资占比（inv）对经济增长的影响系数下降为6.64左右。两种机制（regime）下均能通过1%的统计性检验。这表明，在超过75%的绝大部分城市，房地产投资占比仍在门限值之下，该地区投资对经济增长拉动比较明显，但在不到25%的部分城市，房地产投资占比超过了门限值，该地区投资对经济增长的促进作用出现较大幅度地下降。
+
+表15.3的第3~4列报告了房地产投资占固定资产投资比重（reifixratio）作为门限变量的回归结果，其中第3列回归结果采用OLS方法，第4列回归结果采用一步系统GMM方法。可以看出，两种方法、两种机制（regime）下均能通过1%的统计性检验。在reifixratio≤7.31%（共2282个观测值，占59.66%）时，投资占比（inv）对经济增长的影响系数大约是8.28；在reifixratio>17.31%（共1543个观测值，占40.34%）时，投资占比（inv）对经济增长的影响系数下降为5.52左右。这与表15.3第1~2列的检验结果是一致的。
+
+两个均存在1个门限值的门限变量可以将整个样本划分成三个小样本。（1）样本1：房地产投资占GDP比重（reiratio）小于其门限值，同时房地产投资占固定资产投资比重（reifixratio）小于其门限值；（2）样本2：房地产投资占GDP比重（reiratio）大于其门限值，或者房地产投资占固定资产投资比重（reifixratio）高于其门限值；（3）样本3：房地产投资占GDP比重（reiratio）高于其门限值，同时房地产投资占固定资产投资比重（reifixratio）大于其门限值。显然，这三个小样本房地产投资在经济中比重应该是逐渐递增的。
+
+表15.3的第5~6列报告了分成三个小样本后的回归结果，类似地，第5列回归结果采用OLS方法，第6列回归结果采用一步系统GMM方法。可以看出，在房地产占比最小的样本1中（共2153个观测值，占56.28%），投资占比（inv）对经济增长的影响系数大约是9.26；在房地产占比比较高的样本2中（共880个观测值，占23.01%），投资占比（inv）对经济增长的影响系数下降为6.25左右；在房地产占比最大的样本3中（共792个观测值，占20.71%），投资占比（inv）对经济增长的影响进一步减少到大约5.85。这与表15.3第1~4列的检验结果是一致的。
+
+
+
+
+
+4. 结论及启示
+
+
+世界各国的发展经验已经告诉我们，投资在经济增长过程发挥着非常重要的作用。但是，对于房地产投资是否推动经济增长，以及在何种情景下对经济增长产生多大的影响，目前国内外学者长期对此有很多争论，已有的实证研究存在很多相互矛盾的结果。房地产投资与经济增长的关系，对于判断未来的房地产市场以及经济走势都非常重要。鉴于此，本章通过我国255个地级市2000~2013年面板数据，综合运用GMM方法、非线性门限面板模型，系统分析了我国房地产投资对经济增长的影响。
+
+本章计量模型和方法显示我国房地产投资对经济增长的影响并非静态不变的。具体而言，本章的研究可以得出以下结论：随着房地产投资占GDP比重、房地产投资占固定资产投资比重的增加，投资对我国经济增长的影响逐渐下降，而且房地产投资占GDP比重和房地产投资占固定资产投资比重同时增加时，投资对我国经济增长的影响力进一步减弱。
+
+基于以上的研究结论，本章可以得到以下启示：本地政府要用战略眼光来看待房地产行业的发展，不可高估房地产投资对经济增长的拉动作用，而将投资资源过于集中在房地产行业，导致房地产投资占比过大。当房地产投资占比过高时，隐含着社会资本从其他行业流向房地产业的可能，形成社会资本过于集中到房地产业，此时若继续增加房地产投资比重会抑制经济增长、拖累经济长期稳定。因此，我们可以认为，当地政府要有全局眼光来鼓励和引导房地产发展过程中，一方面，要合理引导其他产业的发展（比如加大基础投资比重等）避免出现投资过于集中房地产行业，另一方面要避免出现社会资本从其他行业流出，进入房地产业的情形发生。总而言之，中央及地方政府在出台政策时，应该考虑本地区的经济发展和资本积累程度，以及房地产投资比重等实际情况，以“科学发展观”的理念做到因地制宜地选择和制定合理的产业政策，最终实现经济和社会可持续发展。
+
+
+
+
+
+参考文献■
+
+
+［1］Chen, Jie; Guo, Feng; Zhu, Aiyong. Housing Wealth, Financial Wealth and Consumption in China ［J］. China & World Economy, 2009, 17(3)：57-74.
+
+［2］Arku G. The Housing and Economic Development Debate Revisited：Economic Significance of Housing in Developing Countries［J］. Journal of Housing & the Built Environment, 2006, 21(4)：377-395.
+
+［3］Turin D A. Construction and development ☆［J］. Habitat International, 1978, 3(1-2)：33-45.
+
+［4］Chen, Jie, Feng Guo, and Aiyong Zhu,. The Housing-Led Growth Hypothesis Revisited：Evidence from the Chinese Provincial Panel Data, Urban Studies, 2011,48：2049-2067.
+
+［5］Harris R, Arku G. Housing and economic development：The Evolution of an Idea since 1945［J］. Habitat International, 2006, 30(4)：1007-1017.
+
+［6］Lambertini L, Mendicino C, Punzi M T. Expectation-Driven Cycles in the Housing Market：Evidence from survey data ☆［J］. Journal of Financial Stability, 2013, 9(4)：518-529.
+
+［7］Leamer, Edward E, 2007. Housing Is the Business Cycle(National Bureau of Economic Research).
+
+［8］Kim K H. Housing and the Korean Economy［J］. Journal of Housing Economics, 2004, 13(4)：321-341.
+
+［9］Hiemstra C, Jones J D. Testing for Linear and Nonlinear Granger Causality in the Stock Price — Volume Relation［J］. Journal of Finance, 1994, 49(5)：1639-1664.
+
+［10］Huh H S. GDP Growth and the Composite Leading Index：A Nonlinear Causality Analysis for Eleven Countries［J］. Economics Letters, 2002, 77(1)：93-99.
+
+［11］Mark J. Holmes. Monetary Shocks, Inflation and the Asymmetric Adjustment of UK Industrial Output.［J］. Applied Economics Letters, 2000, 7(3)：159-163.
+
+［12］Kamalian A R, Pahlavani M, Valadkhani A. Modelling the Asymmetric Effects of Inflation on Real Investment in Iran, 1959-2008［J］. Applied Econometrics & International Development, 2010, 10(10)：169-182.
+
+［13］Wang K M, Yuan-Ming L, Binh N T T. Asymmetric Inflation Hedge of Housing Return：A Non-linear Vector Error Correction Approach［J］. International Real Estate Review, 2008, 11(1)：65-82.
+
+［14］Gujarati, DN, 2003. Basic Econometrics Fourth Edition McGraw Hill Gujarati, DN,(2003). Basic Econometrics(McGraw Hill. International Edition).
+
+［15］Abdullah, Dewan A, and Peter C Rangazas. Money and the business cycle：another look, The Review of Economics and Statistics, 1988：680-685.
+
+［16］Sims C A. Money, Income, and Causality.［J］. American Economic Review, 1972, 62(62)：540-552.
+
+［17］Titus O. Awokuse. Trade Openness and Economic Growth：Is Growth Export-Led or Import-Led?［J］. Applied Economics, 2008, 40(2)：161-173.
+
+［18］Bernanke, Ben S, 1986. Alternative Explanations of the Money-Income Correlation(Elsevier).
+
+［19］Enders, Walter, 2008. Applied Econometric Time Series(John Wiley & Sons).
+
+［20］Yang J, Cheng H, Li Q, et al. The Emerging Market Crisis and Stock Market Linkages：Further Evidence ［J］. Journal of Applied Econometrics, 2005, 21(6)：727-744.
+
+［21］Lucas R E. On the Mechanics of Economic Development ［J］. Journal of Monetary Economics, 1988, 22(1)：3-42.
+
+［22］Solow R M. The Economics of Resources or the Resources of Economics ［J］. American Economic Review, 1974, 64(2)：1-14.
+
+［23］Solow, Robert M,. The Economics of Resources or the Resources of Economics, Journal of Natural Resources Policy Research, 2008：69-82.
+
+［24］Caner, Mehmet, and Bruce E Hansen. Instrumental Variable Estimation of a Threshold Model, Econometric Theory 2004, 20(5), 813-843.
+
+［25］Hansen B E. Threshold Effects in Non-Dynamic Panels：Estimation, Testing, and Inference ［J］. Journal of Econometrics, 1999, 93(2)：345-368.
+
+［26］Hansen B E. Sample Splitting and Threshold Estimation［J］. Econometrica, 2000, 68(3)：575-603.
+
+［27］Keynes, John Maynard, 1931. Letter of February 1 to Franklin Delano Roosevelt, The Collected Writings of John Maynard Keynes, XXI：Activities 1939.
+
+［28］Howenstine E J. Appraising the Role of Housing in Economic Development ［J］. International Labor Review, 1957, 75(1)：21-33.
+
+［29］Wells J. The Role of Construction in Economic Growth and Development ［J］. Habitat International, 1985, 9(1)：55-70.
+
+［30］Weissmann, E. 1955. Importance of physical planning in economic development. In B. Kelly （Ed）. Housing and economic development. MA：A report of a Conference Sponsored at the Massachusetts Institute of Technology by the Albert Farwell Bemis Foundation.
+
+［31］Mills E S. Has the United States Overinvested in Housing?［J］. Real Estate Economics, 1987, 15(1)：601-616.
+
+［32］Aye G C, Balcilar M, Bosch A, et al. Housing and the business cycle in South Africa ［J］. Journal of Policy Modeling, 2014, 36(3)：471-491.
+
+［33］Kuang W, Zhou H. Housing Investment, Housing Credit and Economic Growth in China ［C］. International Conference on Information Management, Innovation Management and Industrial Engineering. 2010：3-6.
+
+［34］Greasley D, Madsen J B. The housing slump and the great depression in the USA ［J］. Cliometrica, 2013, 7(1)：15-35.
+
+［35］Green, Richard K. Follow the Leader：How Changes in Residential and Non-Residential Investment Predict Changes in GDP, Real Estate Economics.1997,25：253-270.
+
+［36］Greenwood J, Hercowitz Z. The Allocation of Capital and Time over the Business Cycle.［J］. Journal of Political Economy, 1991, 99(6)：1188-1214.
+
+［37］Coulson N E, Kim M S. Residential Investment, Non-residential Investment and GDP ［J］. Real Estate Economics, 2000, 28(2)：233-247.
+
+［38］Gauger J, Snyder T C. Residential Fixed Investment and the Macroeconomy：Has Deregulation Altered Key Relationships?［J］. Journal of Real Estate Finance & Economics, 2003, 27(27)：335-354.
+
+［39］Ghent A C, Owyang M T. Is Housing the Business Cycle? Evidence from US Cities ［J］. Journal of Urban Economics, 2010, 67(3)：336-351.
+
+［40］Wen Y. Residential Investment and Economic Growth ［J］. Annals of Economics & Finance, 2001, 2(2)：437-444.
+
+［41］Vargas-Silva C. Monetary Policy and the US Housing Market：A VAR Analysis Imposing Sign Restrictions［J］. Journal of Macroeconomics, 2008, 30(3)：977-990.
+
+［42］Davis, Morris A, and Jonathan Heathcote,. Housing and the business cycle ［J］. International Economic Review, 2005, 46：751-784.
+
+［43］Bulligan G. Housing and the Macroeconomy：The Italian Case ［M］. Housing Markets in Europe. Springer Berlin Heidelberg, 2009：19-38.
+
+［44］Hasan M S, Taghavi M. Residential Investment, Macroeconomic Activity and Financial Deregulation in the UK：An Empirical Investigation ［J］. Journal of Economics & Business, 2002, 54(4)：447-462.
+
+［45］Kim, Mycong-Soo, 2002. A Comparative Study on Residential Investment and Nonresidential Investment in GDP Fluctuation.
+
+［46］Madsen J B. The Causality between Investment and Economic Growth［J］. Economics Letters, 2002, 74(2)：157-163.
+
+［47］Liu H, Yun W P, Zheng S. The Interaction between Housing Investment and Economic Growth in China［J］. International Real Estate Review, 2002, 5(1)：40-60.
+
+［48］Waswo A. Housing in Postwar Japan：A Social History［M］. RoutledgeCurzon, 2002.
+
+［49］Hirayama, Yosuke. Home-Ownership in an Unstable World, Housing and Social Change：East-West Perspectives, 2003. 8：140.
+
+［50］Gregory, Mankiw N, David Romer, and David N Weil. A Contribution to the Empirics of Economic growth. Quarterly Journal of Economics, 1992, 107：407-437.
+
+［51］Hsieh, Chang-Tai, and Peter J Klenow, 2007. Misallocation and manufacturing TFP in China and India(National Bureau of Economic Research).
+
+［52］Solow R M. A Contribution to the Theory of Economic Growth［J］. Quarterly Journal of Economics, 1956, 70(1)：65-94.
+
+［53］Nickell S. Biases in Dynamic Models with Fixed Effects［J］. Econometrica, 1981, 49(6)：1417-1426.
+
+［54］Arellano, Manuel, and Stephen Bond. Some Tests of Specification for Panel Data：Monte Carlo Evidence and an Application to Employment Equations, The Review of Economic Studies, 1991, 58：277-297.
+
+［55］Han C, Phillips P C B. GMM with Many Moment Conditions ［J］. Cowles Foundation Discussion Papers, 2005, 74(1)：147-192.
+
+［56］Stock J H, Wright J H. GMM with Weak Identification［J］. Econometrica, 2000, 68(68)：1055-1096.
+
+［57］Chan K S. Consistency and Limiting Distribution of the Least Squares Estimator of a Threshold Autoregressive Model［J］. Annals of Statistics, 1993, 21(1)：520-533.
+
+［58］陈钊,陈杰,刘晓峰.安得广厦千万间：中国城镇住房体制市场化改革的回顾与展望［J］.世界经济文汇,2008(1)：43—54.
+
+［59］国家统计局综合司课题组.关于房地产对国民经济影响的初步分析［J］.管理世界,2005(11)：30—33.
+
+［60］张清勇,郑环环.中国住宅投资引领经济增长吗?［J］.经济研究,2012(2)：67—79.
+
+［61］况伟大.房地产投资、房地产信贷与中国经济增长［J］.经济理论与经济管理,2011(1)：59—68.
+
+［62］虞晓芬,张娟锋.我国房地产业健康稳定发展的若干问题——2010中国房地产学术研讨会综述［J］.经济研究,2011(2)：149—152.
+
+［63］郑思齐,刘洪玉.住宅产业发展与国民经济增长［J］.建筑经济,2002(10)：29—32.
+
+［64］陈健,陈杰,高波.信贷约束、房价与居民消费率——基于面板门槛模型的研究［J］.金融研究,2012(4)：45—57.
+
+［65］陈杰,农汇福.保障房挤出效应的存在性及其时空异质性：基于省级面板门限模型的证据［J］.统计研究,2016,33(4).
+
+［66］王先柱.VAR模型框架下房地产业与经济增长关系的实证检验［J］.经济问题,2007(7)：31—34.
+
+［67］皮舜,武康平.房地产市场发展和经济增长间的因果关系——对我国的实证分析［J］.管理评论,2004,16(3)：8—12.
+
+［68］黄忠华,吴次芳,杜雪君.房地产投资与经济增长——全国及区域层面的面板数据分析［J］.财贸经济,2008(8)：56—60.
+
+［69］刘红.中国城市房地产投资的动态经济效应［J］.经济与管理研究,2006(3)：49—53.
+
+［70］龙奋杰,沈悦,刘洪玉等.住宅市场与城市经济互动机理研究综述与展望［J］.城市问题,2006(1)：44—51.
+
+［71］张洪,金杰,全诗凡.房地产投资、经济增长与空间效应——基于70个大中城市的空间面板数据实证研究［J］.南开经济研究,2014(1)：42—58.
+
+［72］梁云芳,高铁梅,贺书平.房地产市场与国民经济协调发展的实证分析［J］.中国社会科学,2006(3)：74—84.
+
+［73］王国军,刘水杏.房地产业对相关产业的带动效应研究［J］.经济研究,2004(8)：38—47.
+
+［74］蒲勇健,晏国菀.房地产行业对三次产业增长的贡献度研究［J］.经济与管理,2010,24(7)：5—9.
+
+［75］原鹏飞,冯蕾.经济增长、收入分配与贫富分化——基于DCGE模型的房地产价格上涨效应研究［J］.经济研究,2014(9)：77—90.
+
+［76］陆铭,欧海军,陈斌开.理性还是泡沫：对城市化、移民和房价的经验研究［J］.世界经济,2014(1)：30—54.
+
+［77］陈艳艳,罗党论.地方官员更替与企业投资［J］.经济研究,2012(S2)：18—30.
+
+［78］徐现祥,王贤彬.晋升激励与经济增长：来自中国省级官员的证据［J］.世界经济,2010(2)：15—36.
+
+［79］徐现祥,王贤彬,舒元.地方官员与经济增长——来自中国省长、省委书记交流的证据［J］.经济研究,2007(9)：18—31.
+
+［80］陈斌开,金箫,欧阳涤非.住房价格、资源错配与中国工业企业生产率［J］.世界经济,2015(4)：77—98.
+
+［81］曹玉书,楼东玮.资源错配、结构变迁与中国经济转型［J］.中国工业经济,2012(10)：5—18.
+
+［82］李静,彭飞,毛德凤.资源错配与中国工业企业全要素生产率［J］.财贸研究,2012,23(5).
+
+［83］王贤彬,徐现祥,李郇.地方官员更替与经济增长［J］.经济学：季刊,2009(3)：1301—1328.
+
+[1] 本章初稿为第九届中国房地产学术研讨会暨中国高等院校房地产学者联谊会2015年年会“最佳论文二等奖”获奖论文。
+
+
+
+[2] 作者根据国家统计局公布数据计算而得。
+
+
+
+[3] 左右资料来源：国家统计局。此外，在早期相关的研究中，刘洪玉、张红：《房地产业与社会经济》，清华大学出版社2006年版认为1998~2001年我国房地产开发投资对经济增长的平均贡献率为14.3%左右；梁云芳等人(2006)研究甚至认为2004年我国房地产开发投资对经济增长的贡献率高达28.5%左右。
+
+
+
+[4] 据根据国家统计局公布数据，2012年我国共有333个地级市行政单位（包含地级市，自治州），其中283个地级市。由于个别城市数据缺少非常严重，或者数据出现明显错误，因此本章数据样本不包括自治州，但包括4个直辖市。
+
+
+
+[5] 比如，有的文献仅适用房地产住宅投资，比如张清勇和郑环环(2012)，有的文献则使用房地产开发总投资，比如chen, Guo,和Zhu(2011)。
+
+
+
+[6] 根据中国国际统计局2012年公布的数据，中国共有283个地级（以上）城市。
+
+
+
+[7] 当前，基于非线性框架下的研究模型，大致可以分成两类：一是本文所采用的门限模型；二是Markov转换函数模型。Markov转换模型假设不存在引发变量关系突变的门限值，而是允许模型参数随着转换变量的变化而作平滑、渐进的转变。Markov转换模型经常被用于金融市场的价格波动研究。但是，第一，房地产投资与经济增长显然比金融产品价格有更强的黏性；第二，房地产投资通常会在经济环境持续变化至超过某个临界值时才会做出更改；第三，本文采用的数据为年度数据（由于我国房地产市场的原因，导致无法获取频率更高的数据）。这三个因素的存在，使得本文采用非线性面板门限模型比Markov转换模型更加合适。
+
+
+
+[8] 在现有的文献中，我们还没看到将门限个数设置在3个以上的权威文献。
+
+
+
+
+

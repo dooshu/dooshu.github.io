@@ -1,0 +1,72 @@
+79：Optimus Unveiled：Tesla, September 2022
+
+
+
+
+X shakes hands with Optimus as Milan Kovac and Anand Swaminathan watch
+
+
+
+
+
+Hair on fire
+
+
+“My psychic health goes in waves,” Musk said as he flew from Austin to Silicon Valley on Tuesday, September 27, to get ready for AI Day 2, the big public presentation he had promised of Tesla’s artificial intelligence work, self-driving cars, and the launch of Optimus the robot. “It’s bad when there is extreme pressure. But if a lot of things start going right, it’s also not great for my psychic health.”
+
+A lot was hitting him that week. He was scheduled to give depositions in the Delaware court case seeking to force him to close the Twitter deal, an SEC investigation, and a lawsuit challenging his Tesla compensation. He was also worried about controversies over the use of Starlink satellites in Ukraine, difficulties in reducing Tesla’s supply-chain dependence on China, a Falcon 9 launch of four astronauts (including one Russian woman cosmonaut) to the International Space Station, a West Coast launch the same day of a Falcon 9 carrying fifty-two Starlink satellites, and sundry personal issues regarding children, girlfriends, and former wives.
+
+Musk sublimates stress in a variety of ways, goofiness being one. On the flight west, he became excited by his latest idea for swag they could sell: a perfume with the scent of singed human hair. When he landed, he called Steve Davis, his CEO at The Boring Company, who had previously executed Musk’s idea to sell a toy flamethrower. “Burnt hair perfume!” Musk said, imagining the marketing pitch. “Do you like that smell you experienced after the flamethrower? We have that scent for you!” Davis was always eager to indulge Musk. He sent out a request to scent labs saying the first to match the smell would get the contract. When The Boring Company offered it on its website, Musk tweeted, “Please buy my perfume, so I can buy Twitter.” Within a week, it sold out thirty thousand orders for $100 apiece.
+
+When he got to Tesla headquarters, he went to a makeshift stage in a cavernous showroom that was being readied for that Friday’s AI Day 2. An almost finished version of Optimus was dangling from a gantry, ready to practice. When an engineer shouted “Activate,” another pushed a red button that started Optimus walking. It shuffled to the front of the stage, paused, and waved its hand like a serene monarch. For the next hour, the team put Optimus through its paces twenty more times. The sight of it getting to the edge of the stage, stopping, looking around, and then waving became mesmerizing. After its last circuit for the day, X walked up to Optimus and touched its fingers.
+
+The engineer directing the practice sessions was Milan Kovac. “I think I have PTSD,” he said. “After last time, it’s really hard to stay composed.” I realized that he was the engineer who was the target of Musk’s fury a year earlier, during the rehearsals for AI Day 1, because his slides were deemed to be too boring. After that incident, he brooded for weeks about quitting. “But I decided that the mission was too important,” he says.
+
+As AI Day 2 approached in September 2022, Kovac worked up the courage to raise with Musk the topic of the run-in they had a year earlier. Musk looked at him blankly. “You remember how you hated my planned presentation and kept telling me how horrible it was?” Kovac asked. “And everyone was worried I had quit?” Musk continued to stare blankly. He didn’t remember.
+
+
+
+
+
+The AI Day rehearsal
+
+
+After he had been photographed looking blubbery during his two-day Greek vacation with Ari Emanuel, Musk decided to go on the diet drug Ozempic and follow an intermittent fasting diet, eating only one meal per day. That meal, in his case, was a late breakfast, and his version of the diet allowed him to gorge as he pleased for that. At 11 a.m. on Wednesday, he went to the Palo Alto Creamery, a retro-hip diner, and ordered a bacon-cheese barbecue burger with sweet potato fries and an Oreo and a cookie-dough ice-cream milkshake. X helped by eating some of the fries.
+
+Then he visited Neuralink’s lab in a strip mall in Fremont, where he focused on the mechanics and signals involved in walking. Donning lab coats and shoe covers, Shivon Zilis, DJ Seo, and Jeremy Barenholtz brought him into a windowless room where a pig named Mint was walking on a treadmill and being rewarded by apple slices dipped in honey. Every few moments, he was given a jolt to make his muscles twitch. They were trying to decode what actuators were involved in the act of walking.
+
+When Musk arrived at Tesla headquarters, the engineers there were also focused on walking. In preparation for the unveiling of Optimus scheduled for the following night, they had programmed the robot to take slightly shorter strides because the presentation stage was smoother than the concrete floor of their workshop. But Musk liked the longer stride and started mimicking John Cleese high-stepping in the Monty Python sketch “The Ministry of Silly Walks.” “It looked cooler with the groovy walk,” Musk said. The engineers started making tweaks.
+
+Afterward, thirty of the engineers gathered around Musk for a pep talk. “Humanoid robots will uncork the economy to quasi-infinite levels,” he said.
+
+“Robot workers would solve the problem of lack of population growth,” Drew Baglino added.
+
+“Yes, but people should still have kids,” Musk replied. “We want human consciousness to survive.”
+
+Later that night, we went on a little nostalgia tour to the three-story building on the edge of downtown Palo Alto that once housed the tiny office of Zip2, the startup that he and Kimbal founded twenty-seven years earlier. Whistling as if in a reverie, he walked around the building trying to get in. But all the doors were locked, and a “For Lease” sign was in the window. Then he headed the two blocks to Jack in the Box, where he and Kimbal ate every day. “I’m supposed to be fasting now, but I just have to get something here,” he said. At the drive-through speaker, he asked, “Do you still have the teriyaki bowl?” They did. He ordered one for himself and a hamburger for X. “I wonder if it will still be here twenty-five years from now so X can bring his kids here?” he mused.
+
+
+
+
+
+AI Day 2
+
+
+When Musk arrived the following afternoon for the grand unveiling of Optimus at AI Day 2, dozens of engineers were scurrying through the halls with worried looks. A connection had come loose in the chest of Optimus, and it was no longer working. “I can’t believe this is happening,” said Kovac, who was having flashbacks to his trauma at AI Day 1 a year earlier. Eventually, some of the engineers were able to jam the connection back together, and they hoped it would stay in place. They decided to take that risk. With Musk hovering, they had no other choice.
+
+The twenty engineers who were scheduled to be part of the presentation huddled in a backstage area telling war stories. Phil Duan, a young machine-learning expert on the Autopilot team, studied optic information science in his hometown of Wuhan, China, then got a PhD at Ohio University. He joined Tesla in 2017, just in time for the crazed surges that culminated with Musk’s push to unveil a self-driving car on Autonomy Day in 2019. “I worked for months without a day off and got so tired that I quit Tesla right after Autonomy Day,” he said. “I was burned out. But after nine months, I was bored, so I called my boss and begged him to let me come back. I decided I’d rather be burned out than bored.”
+
+Tim Zaman, who led the artificial intelligence infrastructure team, had a similar story. From northern Holland, he joined Tesla in 2019. “When you’re at Tesla, you’re afraid to go anywhere else, because you will become so bored.” He just had his first child, a daughter, and knows that Tesla is not conducive to a work-life balance. Nevertheless, he plans to stay. “I’m going to spend the next few days off with my wife and daughter,” he says, “but if I take a whole week off, my brain gets fried.”
+
+At the previous AI Day, none of the twenty presenters were women. This time, one of the cohosts was a charismatic mechanical design engineer named Lizzie Miskovetz. As the blaring music subsided and Optimus was about to make its entrance, she revved up the audience by announcing, “This is the first time we are going to try this robot without any backup support, cranes, mechanisms—no cables, nothing!”
+
+The curtains, emblazoned with the logo of Optimus’s hands forming a heart, parted. Optimus, untethered, stood confidently and started to raise its arms. “It moved, it’s working,” Duan said backstage. Then it wiggled its hands, rotated its forearms, and flexed its wrists. The engineers held their breath as it started to move its right leg forward. Marching stiffly but confidently to the front of the stage, it executed its regal wave. Victorious, it pumped its right fist into the air, did a little dance, then turned around and walked back behind the curtain.
+
+Even Musk looked relieved. “Our goal is to make a useful humanoid robot as quickly as possible,” he told the audience. Eventually, he promised, there would be millions of them. “This means a future of abundance, a future where there is no poverty. We can afford to have a universal basic income we give people. It really is a fundamental transformation of civilization.”
+
+Milan Kovac
+
+
+
+
+

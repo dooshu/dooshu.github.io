@@ -1,0 +1,166 @@
+92：Christmas Capers：December 2022
+
+
+
+
+The Musketeers with the movers in Sacramento
+
+
+
+James pushing a server rack
+
+
+
+
+
+Head-explosion emoji
+
+
+“Does this timeframe seem like something that I would find remotely acceptable?” Musk asked. “Obviously not. If a timeline is long, it’s wrong.”
+
+It was late at night on December 22, and the meeting in Musk’s tenth-floor Twitter conference room had become tense. He was talking to two Twitter infrastructure managers who had not dealt with him much before, and certainly not when he was in a foul mood.
+
+One of them tried to explain the problem. The data-services company that housed one of Twitter’s server farms, located in Sacramento, had agreed to allow them some short-term extensions on their lease so they could begin to move out during 2023 in an orderly fashion. “But this morning,” the nervous manager told Musk, “they came back to us and said that plan was no longer on the table because, and these are their words, they don’t think that we will be financially viable.”
+
+The facility was costing Twitter more than $100 million a year. Musk wanted to save that money by moving the servers to one of Twitter’s other facilities, in Portland, Oregon. Another manager at the meeting said that couldn’t be done right away. “We can’t get out safely before six to nine months,” she said in a matter-of-fact tone. “Sacramento still needs to be around to serve traffic.”
+
+Over the years, Musk had been faced many times with a choice between what he thought was necessary and what others told him was possible. The result was almost always the same. He paused in silence for a few moments, then announced, “You have ninety days to do it. If you can’t make that work, your resignation is accepted.”
+
+The manager began to explain in detail some of the obstacles to relocating the servers to Portland. “It has different rack densities, different power densities,” she said. “So the rooms need to be upgraded.” She started to give a lot more details, but after a minute, Musk interrupted.
+
+“This is making my brain hurt,” he said.
+
+“I’m sorry, that was not my intention,” she replied in a measured monotone.
+
+“Do you know the head-explosion emoji?” he asked her. “That’s what my head feels like right now. What a pile of fucking bullshit. Jesus H fucking Christ. Portland obviously has tons of room. It’s trivial to move servers one place to another.”
+
+The Twitter managers again tried to explain the constraints. Musk interrupted. “Can you have someone go to our server centers and send me videos of the insides?” he asked. It was three days before Christmas, and the manager promised the video in a week. “No, tomorrow,” Musk ordered. “I’ve built server centers myself, and I can tell if you could put more servers there or not. That’s why I asked if you had actually visited these facilities. If you’ve not been there, you’re just talking bullshit.”
+
+SpaceX and Tesla were successful because Musk relentlessly pushed his teams to be scrappier, more nimble, and to launch fire-drill surges that extruded all obstacles. That’s how they had cobbled together a car production line in a tent in Fremont and a test facility in the Texas desert and a launch site at Cape Canaveral made of used parts. “All you need to do is just move the fucking servers to Portland,” he said. “If it takes longer than thirty days, that would blow my mind.” He paused and recalculated. “Just get a moving company, and it will take a week to move the computers and another week to plug them in. Two weeks. That’s what should happen.” Everyone was silent. But Musk was still warming up. “If you got a goddamn U-Haul, you could probably do it by yourself.” The two Twitter managers looked to see if he was serious. Steve Davis and Omead Afshar were also at the table. They had seen him like this many times before, and they knew that he might be.
+
+
+
+
+
+The Sacramento raid
+
+
+“Why don’t we do it right now?” James Musk asked.
+
+He and his brother Andrew were flying with Elon from San Francisco to Austin on Friday evening, December 23, the day after the frustrating infrastructure meeting about how long it would take to move the servers out of the Sacramento facility. Avid skiers, they had planned to go by themselves to Tahoe for Christmas, but Elon that day invited them to come to Austin instead. James was reluctant. He was mentally exhausted and didn’t need more intensity, but Andrew convinced him that they should go. So that’s how they ended up on the plane—with Musk, Grimes, and X, along with Steve Davis and Nicole Hollander and their baby—listening to Elon complain about the servers.
+
+They were somewhere over Las Vegas when James made his suggestion that they could move them now. It was the type of impulsive, impractical, surge-into-the-breach idea that Musk loved. It was already late evening, but he told his pilot to divert, and they made a loop back up to Sacramento.
+
+The only rental car they could find when they landed was a Toyota Corolla. Musk’s chief security guard drove, Grimes sat on Elon’s lap in the passenger seat, and others crammed into the back. They were not sure how they would even get inside the data center at night, but one very surprised Twitter staffer, a guy named Alex from Uzbekistan, was still there. He merrily let them in and showed them around.
+
+The facility, which housed rooms of servers for many other companies as well, was very secure, with a retinal scan required for entry into each of the vaults. Alex the Uzbek was able to get them into the Twitter vault, which contained about fifty-two hundred refrigerator-size racks of thirty computers each. “These things do not look that hard to move,” Elon announced. It was a reality-distorting assertion, since each rack weighed about twenty-five hundred pounds and was eight feet tall.
+
+“You’ll have to hire a contractor to lift the floor panels,” Alex said. “They need to be lifted with suction cups.” Another set of contractors, he said, would then have to go underneath the floor panels and disconnect the electric cables and seismic rods.
+
+Musk turned to his security guard and asked to borrow his pocket knife. Using it, he was able to lift one of the air vents in the floor, which allowed him to pry open the floor panels. He then crawled under the server floor himself, used the knife to jimmy open an electrical cabinet, pulled the server plugs, and waited to see what happened. Nothing exploded. The server was ready to be moved. “Well that doesn’t seem super hard,” he said as Alex the Uzbek and the rest of the gang stared. Musk was totally jazzed by this point. It was, he said with a loud laugh, like a remake of Mission: Impossible, Sacramento edition.
+
+
+
+* * *
+
+
+
+The next day—Christmas Eve—Musk called in reinforcements. Ross Nordeen drove from San Francisco. He stopped at the Apple Store in Union Square and spent $2,000 to buy out the entire stock of AirTags so the servers could be tracked on their journey, and then stopped at Home Depot, where he spent $2,500 on wrenches, bolt-cutters, headlamps, and the tools needed to unscrew the seismic bolts. Steve Davis got someone from The Boring Company to procure a semi truck and line up moving vans. Other enlistees arrived from SpaceX.
+
+The server racks were on wheels, so the team was able to disconnect four of them and roll them to the waiting truck. This showed that all fifty-two hundred or so could probably be moved within days. “The guys are kicking ass!” Musk exulted.
+
+Other workers at the facility watched with a mix of amazement and horror. Musk and his renegade team were rolling servers out without putting them in crates or swaddling them in protective material, then using store-bought straps to secure them in the truck. “I’ve never loaded a semi before,” James admitted. Ross called it “terrifying.” It was like cleaning out a closet, “but the stuff in it is totally critical.”
+
+At 3 p.m., after they had gotten four servers onto the truck, word of the caper reached the top executives at NTT, the company that owned and managed the data center. They issued orders that Musk’s team halt. Musk had the mix of glee and anger that often accompanied one of his manic surges. He called the CEO of the storage division, who told him it was impossible to move server racks without a bevy of experts. “Bullshit,” Musk explained. “We have already loaded four onto the semi.” The CEO then told him that some of the floors could not handle more than five hundred pounds of pressure, so rolling a two-thousand-pound server would cause damage. Musk replied that the servers had four wheels, so the pressure at any one point was only five hundred pounds. “The dude is not very good at math,” Musk told the musketeers.
+
+Having ruined the Christmas Eve of the NTT managers, as well as hitting them with a potential loss of more than $100 million in revenue for the coming year, Musk showed pity and said he would suspend moving the servers for two days. But they would resume, he warned, the day after Christmas.
+
+
+
+
+
+Family Christmas
+
+
+Late Christmas Eve, with the temporary ceasefire in place at the Sacramento data center, Musk invited James and Andrew, their ski plans foiled, to come to Boulder to spend Christmas with Kimbal and his family. Christiana scrambled to buy gifts and stuff stockings for the two unexpected guests. Kimbal cooked roast beef and a foot-high Yorkshire pudding. Elon’s son Damian, also an avid chef, made a yam dish. X played with an air-pump rocket, chanting the countdown, then stomping on the release button to make it launch. James and Andrew soaked in the hot tub, decompressing.
+
+The visit was a chance for Kimbal to have a serious conversation with his brother about how, since the Twitter deal, he had been spinning out of control. A year earlier, he had been Person of the Year and the world’s richest, and now he was neither. It was like what happened in 2018, and it was time for another open-loop warning. You’re making enemies at a dangerous pace, and at dangerous levels, Kimbal told him. “It’s like the days of high school, when you kept getting beaten up.”
+
+Kimbal even broached the topic of whether Elon wanted to remain as CEO of Tesla. It was in deep trouble, and he wasn’t focused on it. “Why don’t you just not be CEO?” Kimbal asked. Elon was not ready to answer that.
+
+There was also the issue of his late-night tweeting. Kimbal had stopped following Elon on Twitter because it was too nerve-wracking. Elon admitted that the tweet about Paul Pelosi was a mistake. He had not realized that the story he saw online about a male prostitute was from an unreliable site. “You’re an idiot,” Kimbal said. “Stop falling for weird shit.” The same was true for his Fauci tweet. “It’s not okay. It’s not funny. You can’t do that shit.” Kimbal also lectured James and Andrew for abetting him. “This is not okay, guys. This is not okay.”
+
+One topic they did not discuss was Twitter the company. When Elon brought it up, Kimbal refused to talk about it. “I really don’t give a shit about Twitter,” he said. “It’s just a pimple on the ass of what should be your impact on the world.” Elon disagreed, but they didn’t argue about it.
+
+One Christmas tradition that Kimbal and Christiana had was to ask everyone to reflect on a question. This year it was “What regrets do you have?” “My main regret,” Elon answered, “is how often I stab myself in the thigh with a fork, how often I shoot my own feet and stab myself in the eye.”
+
+
+
+* * *
+
+
+
+Christmas gave Musk the opportunity to reconnect with his sons Griffin, Damian, and Kai, who had become distanced from him during the turmoil stirred up by Twitter and his tweets. Like James and Andrew, they were bestowed with outsized capabilities in math and science, but without the demons and harshness of their father and grandfather. Being the sons of Elon Musk was difficult, but they were “stoics,” as Musk called them.
+
+He discussed with Kai, then sixteen, the possibility of leaving high school and coming to work at Twitter. “He’s an outstanding programmer, so he could write software and do high school online, which is what Damian has done,” Musk says. “I’m not pushing hard, because I know there’s a social element to school, but he’s way too smart for high school. It’s kind of ridiculous.” Kai said he would think about it.
+
+Damian, Kai’s identical twin, had the same brilliance but different interests. For more than a year, he had been working on quantum computation and cryptography in the academic lab of a particle physicist. After doing high school online, he was accepted at one of the nation’s top research universities, but Musk thought it might not be intellectually challenging enough for him to enroll there as an undergraduate. “He’s already at the graduate-school level in math and physics.”
+
+Griffin was the most easygoing extrovert of the Musk family. As a freshman at an Ivy League college, he was dealing with the animosity directed at his father. In talking about himself, he is very deferential and humble, but he did say, almost apologetically, “I’m sorry this may sound a bit boastful, but I was number one in my class of four hundred fifty in computer science.” He spent a lot of his time, like his father did as a teenager, programming video games. His favorite to play was Elden Ring.
+
+Jenna, who was once known as Xavier, wasn’t there, of course. But Christiana sent her a text message saying the whole family missed her and that she was sending along the Christmas stocking she had made for her. “Thank you,” Jenna responded. “This means so much to me.”
+
+As for Saxon, who is autistic, he again showed his wisdom. At one point the family was discussing how they needed to use pseudonyms when they went to a restaurant. “Oh, yes,” he said. “If anyone finds out I’m Elon Musk’s son, they are going to be mad at me because he’s ruining Twitter.”
+
+
+
+
+
+The heist continued
+
+
+After Christmas, Andrew and James headed back to Sacramento to see how many more servers they could move. They hadn’t brought enough clothes, so they went to Walmart and bought jeans and T-shirts.
+
+The NTT supervisors who ran the facility continued to throw up obstacles, some quite understandable. Instead of letting them prop open the door to the vault, for example, they required the musketeers and their crew to go through a retinal security scan each time they went in. One of the supervisors watched them at all times. “She was the most insufferable person I’ve ever worked with,” James says. “But to be fair, I could understand where she was coming from, because we were ruining her holidays, right?”
+
+The moving contractors that NTT wanted them to use charged $200 an hour. So James went on Yelp and found a company named Extra Care Movers that would do the work at one-tenth the cost. The motley company pushed the ideal of scrappiness to its outer limits. The owner had lived on the streets for a while, then had a kid, and he was trying to turn his life around. He didn’t have a bank account, so James ended up using PayPal to pay him. The second day, the crew wanted cash, so James went to a bank and withdrew $13,000 from his personal account. Two of the crew members had no identification, which made it hard for them to sign into the facility. But they made up for it in hustle. “You get a dollar tip for every additional server we move,” James announced at one point. From then on, when they got a new one on a truck, the workers would ask how many they were up to.
+
+The servers had user data on them, and James did not initially realize that, for privacy reasons, they were supposed to be wiped clean before being moved. “By the time we learned this, the servers had already been unplugged and rolled out, so there was no way we would roll them back, plug them in, and then wipe them,” he says. Plus, the wiping software wasn’t working. “Fuck, what do we do?” he asked. Elon recommended that they lock the trucks and track them. So James sent someone to Home Depot to buy big padlocks, and they sent the combination codes on a spreadsheet to Portland so the trucks could be opened there. “I can’t believe it worked,” James says. “They all made it to Portland safely.”
+
+By the end of the week they had used all of the available trucks in Sacramento. Despite the area being pummeled by rain, they moved more than seven hundred of the racks in three days. The previous record at that facility had been moving thirty in a month. That still left a lot of servers in the facility, but the musketeers had proven that they could be moved quickly. The rest were handled by the Twitter infrastructure team in January.
+
+Elon had promised James a big bonus, up to $1 million, if he got the servers moved by the end of the year. Nothing was put in writing, but James trusted his cousin. After the move, he heard from Jared Birchall that the deal applied only to the number of servers that got up and running in Portland. Because they needed new electrical connections, that was zero. James texted Elon, who came back with the proposal that he would get $1,000 for every server that arrived safely in Portland, whether or not it was plugged in. That amounted to just over $700,000. Elon also offered him a stock option package to join Twitter. James accepted both.
+
+James loved his family in South Africa. Having missed the chance to spend Christmas with them, he planned to use part of the bonus to buy them tickets to visit the U.S. in the spring. He also was saving up to buy his parents a home in California. “My father loves woodworking, but he just sliced off part of his finger and is going through a rough time now,” James says. “I’m very close to my dad.”
+
+
+
+* * *
+
+
+
+All very exciting and inspiring, right? An example of Musk’s bold and scrappy approach! But as with all things Musk, it was, alas, not that simple. It was also an example of his recklessness, his impatience with pushback, and the way he intimidated people. Twitter’s infrastructure engineers had tried to explain to him, in that head-explosion-emoji meeting a week earlier, why a quick shutdown of the Sacramento center would be a problem, but he shot them down. He had a good track record of knowing when to ignore naysayers. But not a perfect one. For the next two months, Twitter was destabilized. The lack of servers caused meltdowns, including when Musk hosted a Twitter Spaces for presidential candidate Ron DeSantis. “In retrospect, the whole Sacramento shutdown was a mistake,” Musk would admit in March 2023. “I was told we had redundancy across our data centers. What I wasn’t told was that we had seventy thousand hard-coded references to Sacramento. And there’s still shit that’s broken because of it.”
+
+His most valuable lieutenants at Tesla and SpaceX had learned ways to deflect his bad ideas and drip-feed him unwelcome information, but the legacy employees at Twitter didn’t know how to handle him. That said, Twitter survived. And the Sacramento caper showed Twitter employees that he was serious when he spoke about the need for a maniacal sense of urgency.
+
+
+
+
+
+New Year’s Eve
+
+
+Musk badly needed to decompress. He was not good at vacations, but a few times each year he would get away for two or three days to Lanai, Hawaii, to stay at one of the homes of his mentor, Larry Ellison, as he had done in April when he decided to buy Twitter. At the end of December, he went there with Grimes and X.
+
+Ellison had recently built a domed astronomical observatory on the island with a one-meter mirror telescope weighing three thousand pounds. Musk asked to have it pointed toward Mars. After looking through the eyepiece for a while in silence, he called X over and lifted him up to see. “Look at this,” he said. “This is where you are going to live someday.”
+
+Then he and Grimes and X flew to Cabo San Lucas, Mexico, to celebrate the welcome end to a tumultuous 2022 with Kimbal and his family. His four older sons were there. So were all of Kimbal’s. “It was good for our nervous system to be together,” Kimbal says. “We are a very complex family, and it’s really unusual for everyone to be happy at the same time.”
+
+Ever since the Twitter purchase, Musk had been in war mode, feeling the siege mentality that had suffused his childhood and bred inside him easily triggered resentments. His feet were heavy, his body language fierce, and his posture tense for battle. But the family gatherings produced a few periods of intermittent calm. On his first evening in Cabo, he went to dinner with just Kimbal, Kai, and Antonio Gracias at a very quiet restaurant. The next day they played board games and watched movies. The one that Musk picked was the 1993 action drama Demolition Man, in which Sylvester Stallone plays a risk-loving policeman who pursues his work with such intensity that he wreaks great collateral damage. He found it funny.
+
+There was a community party to celebrate New Year’s Eve, which culminated with the traditional midnight countdown. After the hugging and fireworks were over, Musk took on his vacant look and started staring into the distance. His friends knew not to interrupt when he was in such a trance, but finally Christiana put her hand on his back and asked if everything was okay. He stayed silent for another minute. “Got to get Starship into orbit,” he finally said. “We’ve got to get Starship into orbit.”
+
+
+
+
+

@@ -1,0 +1,152 @@
+72：Active Investor：Twitter, January–April 2022
+
+
+
+
+Parag Agrawal
+
+
+
+Jack Dorsey
+
+
+
+
+
+Before the storm
+
+
+In April 2022, things were going surprisingly well for Musk. Tesla sales had grown 71 percent in the past twelve months, without spending a penny on advertising. Its stock had gone up fifteen-fold in five years, and it was now worth more than the next nine auto companies combined. Musk’s fierce browbeating of microchip suppliers meant that Tesla, unlike other manufacturers, had survived the supply-chain dislocations caused by the pandemic, allowing it to achieve record deliveries in the first quarter of 2022.
+
+As for SpaceX, in the first quarter of 2022 it launched twice as much mass into orbit as all other companies and countries combined. In April it sent up its fourth manned mission to the International Space Station, carrying three astronauts for NASA (which still didn’t have its own launch capability) and one for the European Space Agency. It also that month sent into orbit another batch of Starlink communications satellites, bringing to twenty-one hundred the number in the SpaceX constellation that was by then providing internet connectivity to 500,000 subscribers in forty countries, including Ukraine. No other company or country had been able to land orbital rockets safely and reuse them. “The super-weird thing is that Falcon 9 is still the only orbital booster to land or re-fly after all these years!” Musk tweeted.
+
+The upshot was that the value of the four companies he had initially funded and built were:
+
+Tesla: $1 trillion
+
+SpaceX: $100 billion
+
+The Boring Company: $5.6 billion
+
+Neuralink: $1 billion
+
+
+
+It promised to be a glorious year, if only he could leave well enough alone. But it was not in Musk’s nature to leave well enough alone.
+
+Shivon Zilis noticed that by early April he had the itchiness of a video-game addict who has triumphed but couldn’t unplug. “You don’t have to be in a state of war at all times,” she told him that month. “Or, is it that you find greater comfort when you’re in periods of war?”
+
+“It’s part of my default settings,” he replied.
+
+“It was like he was winning the simulation and now felt at a loss for what to do,” she says. “Extended periods of calm are unnerving for him.”
+
+During a conversation that month about the milestones his companies had reached, he explained to me why he thought Tesla was on a trajectory to be the most valuable company in the world, one that made $1 trillion in profits every year. Yet there were no notes of celebration or even satisfaction in his voice. “I guess I’ve always wanted to push my chips back on the table or play the next level of the game,” he said. “I’m not good at sitting back.”
+
+Usually at such moments of unnerving success, Musk manufactures a drama. He launches a surge, scrambles the jets, announces an unrealistic and unnecessary deadline. Autonomy Day, Starship stacking, solar roof installations, car production hell—he yanks the alarm chain and forces a fire drill. “Normally, he would go into one of his companies and find something to turn into a crisis,” Kimbal says. But this time, Musk didn’t do that. Instead, without fully thinking it through, he decided to buy Twitter.
+
+
+
+
+
+Flamethrower for the thumbs
+
+
+Musk’s period of unnerving calm in early 2022 coincided, fatefully, with a moment when he suddenly had a lot of cash in his pocket. His stock sales had left him with about $10 billion. “I didn’t want to just leave it in the bank,” he says, “so I asked myself what product I liked, and that was an easy question. It was Twitter.” In January, he confidentially told his personal manager Jared Birchall to start buying shares.
+
+Twitter is an ideal—almost too ideal—playground for Musk. It rewards players who are impulsive, irreverent, and unfiltered, like a flamethrower for the thumbs. It has many of the attributes of a school yard, including taunting and bullying. But in the case of Twitter, the clever kids win followers rather than get pushed down the concrete steps. And if you’re the richest and cleverest of all, you can even decide, unlike back when you were a kid, to become king of the school yard.
+
+Musk first used Twitter soon after it was launched in 2006, but dropped his account after being “bored by tweets about what kind of latte somebody had at Starbucks.” His friend Bill Lee urged him to reengage so that he could have an unfiltered method of communicating with the public, and he turned on the spigot in December 2011. His early tweets included a picture of him at a Christmas party wearing a fright wig and pretending to be Art Garfunkel and another that became the beginning of a fraught friendship. “Got called randomly by Kanye West today and received a download of his thoughts, ranging from shoes to Moses,” Musk wrote. “He was polite, but opaque.”
+
+Over the next decade, Musk composed nineteen thousand tweets. “My tweets are like Niagara Falls sometimes and they come too fast,” he says. “Just dip a cup in there and try to avoid the random turds.” His 2018 “pedo guy” and “funding secured” tweets showed that Twitter could be dangerous in his twitchy fingers, especially late on some agitated nights fueled by Red Bull and Ambien. When asked why he doesn’t restrain himself, he merrily admits that he too often “shoots himself in the foot” or “digs his own grave.” But life needs to be interesting and edgy, he says, then quotes his favorite line from the 2000 movie Gladiator: “Are you not entertained? Is that not why you are here?”
+
+By early 2022, a new ingredient had been added to this combustible cauldron: Musk’s swelling concern with the dangers of the “woke-mind virus” that he believed was infecting America. He disdained Donald Trump, but he felt it was absurd to ban permanently a former president, and he became increasingly riled up by complaints from those on the Right who were being suppressed on Twitter. “He saw the direction Twitter was heading, which was that if you were on the wrong end of the spectrum you were censored,” says Birchall.
+
+His libertarian tech friends cheered him on. When Musk suggested in March that Twitter should make public the algorithms it used to boost or downplay content, his young friend Joe Lonsdale expressed support. “Our public square needs to not have arbitrary sketchy censorship,” he texted. “I’m actually speaking to over 100 members of congress tomorrow at GOP policy retreat and this is one of the ideas I’m pushing.”
+
+“Absolutely,” Musk responded. “What we have now is hidden corruption!”
+
+Their Austin friend Joe Rogan also weighed in. “Are you going to liberate Twitter from the censorship happy mob?” he texted Musk.
+
+“I will provide advice, which they may or may not choose to follow,” Musk answered.
+
+His view of free speech was that the more there was, the better it would be for democracy. At one point in March he conducted a poll on Twitter: “Free speech is essential to a functioning democracy. Do you believe Twitter rigorously adheres to this principle?” When more than 70 percent answered no, Musk posed another question: “Is a new platform needed?”
+
+Twitter’s cofounder Jack Dorsey, then still on the company’s board, privately texted an answer to Musk: “Yes.”
+
+Replied Musk, “I’d like to help if I’m able to.”
+
+
+
+
+
+Board seat
+
+
+At that point, Musk was considering whether to start a new platform. But in late March, he had some private conversations with a few members of the Twitter board who urged him to become more involved with the company. One night, right after he finished his 9 o’clock meeting with the Tesla Autopilot team, he called Parag Agrawal, the software engineer who had taken over from Dorsey as Twitter CEO. The two of them decided to meet secretly for dinner on March 31, along with Twitter’s board chair Bret Taylor.
+
+The Twitter staff arranged for them to use an Airbnb farmhouse near the San Jose airport. When Taylor arrived first, he texted Musk to warn him. “This wins for the weirdest place I’ve had a meeting recently,” he wrote. “There are tractors and donkeys.”
+
+Musk replied, “Maybe Airbnb’s algorithm thinks you love tractors and donkeys (who doesn’t).”
+
+At the meeting, Musk found Agrawal to be likable. “He’s a really nice guy,” he says. But that was the problem. If you ask Musk what are the traits needed in a CEO, he would not include “being a really nice guy.” One of his maxims is that managers should not aim to be liked. “What Twitter needs is a fire-breathing dragon,” he said after that meeting, “and Parag is not that.”
+
+Fire-breathing dragon. That’s a pithy description of Musk. But he hadn’t yet thought about taking over Twitter himself. At their meeting, Agrawal told him that Dorsey had proposed a while back that Musk join the board. Agrawal urged him to do so.
+
+Musk was traveling in Germany two days later when the Twitter board sent over its official offer for him to join. But to Musk’s surprise, it was not a friendly agreement. It was based on what Twitter had used two years earlier when it agreed to put two hostile activist investors on the board. It was seven pages long and included provisions that would bar him from making public statements (and presumably tweets) critical of the company. From the Twitter board’s perspective, that was understandable. History showed, as would the future, the damage Musk could do when not compelled to holster his flamethrowers. His battle with the SEC also showed how hard it was to force such restrictions on him.
+
+Musk told Birchall to reject the agreement. It was “the ultimate irony,” he said, for a company that was supposed to be “the public square” to try to restrict his freedom of speech. Within a few hours, the Twitter board backed down. They sent back a very friendly revised agreement that was only three paragraphs long. Its only major restriction was that he could not purchase more than 14.9 percent of Twitter stock. “Well, if they’re going to roll out the red carpet, I’ll do it,” he told Birchall.
+
+After Musk belatedly disclosed to the SEC that he owned about 9 percent of Twitter’s stock, he and Agrawal exchanged celebratory tweets. “I’m excited to share that we’re appointing @elonmusk to our board!” Agrawal posted early on the morning of April 5. “He’s both a passionate believer and intense critic of the service, which is exactly what we need.”
+
+Musk responded seven minutes later with a carefully scripted tweet. “Looking forward to working with Parag & Twitter board to make significant improvements to Twitter in coming months!”
+
+For a brief couple of days, it looked as if there would be peace in the valley. Musk liked the fact that Agrawal was an engineer, not a typical CEO. “I interface way better with engineers who are able to do hardcore programming than with program manager/MBA types of people,” he texted. “I love our conversations!”
+
+“In our next convo, treat me like an engineer instead of CEO and let’s see where we get to,” Agrawal replied.
+
+
+
+
+
+Brainstorming
+
+
+Luke Nosek and Ken Howery, Musk’s close friends and fellow PayPal cofounders, paced around the mezzanine workspace of Giga Texas on the afternoon of April 6, waiting for him to finish his discussion on philanthropy with Birchall and then his call with Biden administration officials about China tariffs. He had been living at Howery’s house and also sometimes stayed at Nosek’s. “My two landlords!” he declared when he finally broke free and wandered over.
+
+It was the day after the announcement that he was joining the Twitter board, and Nosek and Howery were skeptical about the decision. “It’s probably a recipe for trouble,” Musk merrily conceded as he sat down at a conference table overlooking the Tesla assembly lines. “I had a bunch of cash sitting around!” Howery and Nosek chuckled, then waited for more. “I think it’s important to have a forum that is trusted, or at least not too distrusted,” Musk added. The Twitter board, he complained, had little personal investment in the service, either as stockholders or users. “Parag is a technologist and has a medium idea of what’s going on, but it’s very clear that the inmates are running the asylum.”
+
+He repeated his simple view that it would be good for democracy if Twitter stopped trying to restrict what users could say. “Twitter has to move more in the direction of free speech, at least as defined by the law,” he said. “Right now, Twitter’s suppression of speech is far in excess of the law.”
+
+Despite sharing Musk’s libertarian views on free speech, Howery pushed back gently with some sophisticated thoughts, posed as gentle questions. “Should it be like a telephone system, where the words that go in one end come out exactly the same on the other end?” he asked. “Or do you think this is more like a system that is governing the discourse of the world, and maybe there should be some intelligence put into the algorithm that prioritizes and deprioritizes things?”
+
+“Yeah, it’s a thorny question,” Musk answered. “There’s an ability to say something, and then there is also the issue of to what degree it’s promoted or demoted or amplified.” Perhaps the formula for promoting tweets should be more open. “It could be an open-source algorithm placed on GitHub so people can sift through it.” This was an idea that appealed to conservatives who felt that there were liberal biases secretly baked into the algorithm, but it didn’t really address the issue of whether Twitter should try to prevent the spread of dangerous, false, or harmful content.
+
+Musk then threw out a few other ideas. “What if we charged people a small amount, like two dollars a month, to be verified?” he asked. This would become one of Musk’s core ideas for Twitter: making people subscribe using their credit card and cell phone number would be a way to verify and authenticate their identity. The algorithm could favor those users, who would probably be less likely to engage in scams, bullying, and spreading what they knew to be lies. It might reduce how quickly any discussion degenerated into comparing people to Nazis.
+
+Getting a user’s credit card, he said, would have an additional advantage: it could facilitate turning Twitter into a payments platform where people could send money, hand out tips, and pay for stories, music, and videos. Because Howery and Nosek had been with Musk at PayPal, they liked the idea. “It could fulfill my original vision for X.com and PayPal,” Musk said with a gleeful laugh. From the very beginning, he saw the potential that Twitter could become what he had envisioned for X.com, a social network that supported financial transactions.
+
+The conversation continued over a late dinner at the Pershing, an elegant but unpretentious club in Austin, where Nosek had reserved an upstairs room. Also there were Griffin and Saxon; Chris Anderson of TED, who was in town to record an interview for his upcoming conference; Maye, who had just arrived from Prague, where she was doing appearances for Vogue; and later Grimes.
+
+Griffin and Saxon allowed that they rarely used Twitter, but Maye said she did so often, which perhaps should have been a warning sign about the demographics of the service’s users. “I probably spend too much time on Twitter,” Elon said. “It’s a good place to dig your own grave. You get your shoulder into it, and you keep on digging.”
+
+
+
+
+
+Giga Rodeo
+
+
+The grand opening of the Giga Texas factory was set for the next night, April 7. Omead Afshar had planned what he dubbed a Giga Rodeo, with fifteen thousand guests. Instead of overseeing the preparations and rehearsing his show, Musk flew to Colorado Springs for a three-hour visit to the U.S. Air Force Academy, where he had agreed to give a lecture. It was a welcome break. He could process his thoughts about Twitter in the background while he engaged in something else.
+
+He pushed the cadets not to fall prey to the cautious bureaucratic mindset that he believed stymied government programs. “If we’re not blowing up engines, we’re not trying hard enough,” he told them. He seemed unhurried, despite all that was going on. After his talk, he met with a small group of students to discuss their research on artificial intelligence and the development of autonomous drones.
+
+When he returned in the late afternoon, Giga Texas had been transformed. The parking area was festooned with art installations like those at Burning Man, arcade games, bandstands, a mechanical bull, a giant rubber duck, and two towering Tesla coils. Inside, parts of the factory were staged to look like a nightclub. Kimbal helped put together a drone show that featured likenesses of Nikola Tesla, the Dogecoin dog mascot, and a Cybertruck in the night sky. Celebrities included Harrison Ford, Spike Lee, and the artist Beeple, who had created an installation.
+
+Musk came onstage to a blaring Dr. Dre song driving the black Tesla Roadster that was the first car the company had ever made. He gave many statistics about the enormity of the 10-million-square-foot factory, then he put it in perspective by saying it could fit 194 billion hamsters. After listing the many milestones that Tesla had achieved, he emphasized what he said would be the ultimate one. “Full Self-Driving,” he promised, “is going to revolutionize the world.”
+
+The opening of Giga Texas should have been a moment of triumph. Musk had led the way into the era of electric vehicles, and now he was showing that manufacturing could thrive in America. But the buzz at the opening celebration and the afterparty was not about miracles of manufacturing. Especially among Musk’s close friends and family—Kimbal, Antonio, Luke, and even Maye—the conversation was about Twitter. Why was he throwing himself into that snake-infested swamp? Would this be his Wilderness Campaign? Should we try to talk him out of it?
+
+
+
+
+

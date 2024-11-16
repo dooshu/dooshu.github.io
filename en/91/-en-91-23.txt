@@ -1,0 +1,89 @@
+23：Two Strikes：Kwaj, 2006–2007
+
+
+
+
+Bülent Altan cooking goulash
+
+
+
+Hans Koenigsmann, Chris Thompson, and Anne Chinnery on Kwajalein
+
+
+
+
+
+The first launch attempt
+
+
+“Want to go for a bike ride?” Kimbal asked his brother when they woke at 6 a.m. They had flown to Kwaj for the scheduled launch day—March 24, 2006—when Elon hoped that the Falcon 1 rocket he had dreamed up four years earlier would make history.
+
+“No, I need to go to the control center,” Elon replied.
+
+Kimbal pushed back. “The launch isn’t until later. Let’s go for a ride. It will be a stress reliever.”
+
+Elon relented, and they pedaled at their furious pace up a bluff where they could take in the sunrise. There Elon stood silently for a long time, staring into the distance, before heading to the control room. Wearing shorts and a black T-shirt, he paced amid the government-issued wooden desks. When Musk gets stressed, he often retreats into the future. He will surprise his engineers, who are focused on some impending major event, by peppering them with questions about the details of things that are years away: plans for Mars landings, “Robotaxis” without steering wheels, implanted brain chips that can connect to computers. At Tesla, amid the crises facing production of the Roadster, he would start quizzing his team about the status of parts for the next car he envisioned.
+
+Now, on Kwaj, as the countdown for the first launch of the Falcon 1 entered its final hour, Musk was asking his engineers about the components needed for the Falcon 5, the future rocket that would have five Merlin engines. Had they ordered the new type of aluminum alloy for the fuel tanks? he asked a harried Chris Thompson, who was sitting at his console overseeing the countdown. When Thompson, one of SpaceX’s first engineers, said no, Musk got angry. “We were right smack in the middle of a count, and he just wanted to have this deep, aggressive conversation about materials,” Thompson later told Eric Berger. “I was absolutely dumbfounded that he was not even aware that we were trying to launch a rocket, and that I was the launch conductor, and responsible for basically calling out every single command that we’re going to run. It just blew me away.”
+
+Only at the moment of launch did Musk again focus on the present. As the Falcon 1 lifted off the pad, and the engineers in the control room pumped their fists into the air, Musk stared at the video feed from a camera pointed down from the rocket’s second stage. Twenty seconds into the flight, it showed the pristine beach and turquoise water of Omelek in the distance below. “It launched!” Kimbal said. “It really launched!”
+
+Then, after five more seconds, Tom Mueller, who was looking at the data coming in, noticed a problem. “Oh, shit,” he said. “We’re losing thrust.” Koenigsmann saw flames flickering around the outside of the engine. “Oh, shit,” he said, echoing Mueller. “There’s a fire, a leak.”
+
+For a moment, Musk hoped that the rocket would make it up high enough that the dwindling oxygen in the atmosphere would cause the flame to snuff out. Instead, it started to fall. On the video feed, Omelek began to come closer. Then the video went blank. Burning debris fell into the ocean. “My stomach wrenched,” Musk says. An hour later, he and his top team—Mueller, Koenigsmann, Buzza, and Thompson—crammed into an Army helicopter to survey the wreckage.
+
+That night, everyone gathered in the open-air bar on Kwaj and quietly sipped beer. A couple of the engineers cried. Musk brooded silently, his face like a stone and his eyes distant. Then he spoke, very softly. “When we started, we all knew we could fail on the first mission,” he said. “But we will build another rocket and try again.”
+
+Musk and the rest of the SpaceX team were joined by local volunteers the next day as they walked the beach of Omelek and rode in small boats to collect the fragments. “We put the pieces in a hangar and pieced them together as we tried to figure out what went wrong,” Koenigsmann says. Kimbal, a passionate foodie who trained as a chef after Zip2 was sold, tried to cheer everyone up that evening by cooking an outdoor meal that included a stew of meat, canned cannellini beans, and tomato, with a salad of bread, tomatoes, garlic, and anchovies.
+
+As Musk and his top engineers flew on his jet back to Los Angeles, they studied the video. Mueller pointed out the moment when the flame broke out on the Merlin engine. It had clearly been caused by a fuel leak. Musk simmered, then exploded at Mueller: “Do you know how many people told me I should fire you?”
+
+“Why don’t you just fire me?” Mueller shot back.
+
+“I didn’t fucking fire you, did I?” Musk replied. “You’re still fucking here.” Then, to relieve tension, Musk put on the wacky action-film spoof Team America: World Police. As often happened with Musk, darkness gave way to silly humor.
+
+Later that day he posted a statement: “SpaceX is in this for the long haul. Come hell or high water, we are going to make this work.”
+
+
+
+* * *
+
+
+
+Musk has a rule about responsibility: every part, every process, and every specification needs to have a name attached. He can be quick to personalize blame when something goes wrong. In the case of the launch failure, it became evident that the leak had come from a small B-nut that secured a fuel line. Musk fingered an engineer named Jeremy Hollman, one of Mueller’s first hires, who, the night before the launch, had removed and then reattached the nut in order to get access to a valve. At a public symposium a few days later, Musk described the mistake by “one of our most experienced technicians,” and insiders knew he was referring to Hollman.
+
+Hollman had stayed behind in Kwaj for two weeks to analyze the debris. On his flight from Honolulu to Los Angeles, he was reading news stories about the failure and was shocked to see that Musk had blamed him. As soon as he landed, he drove the two miles from the airport to SpaceX headquarters and barged into Musk’s cubicle. A shouting match erupted, and both Shotwell and Mueller went over to try to calm things down. Hollman wanted the company to retract Musk’s statement, and Mueller pressed for permission to do so. “I’m the CEO,” Musk replied. “I’m the one that deals with the press, so stay out of it.”
+
+Hollman told Mueller he would stay at the company only if he never had to deal directly with Musk. He left SpaceX a year later. Musk says he doesn’t remember the event, but he adds that Hollman was not a great engineer. Mueller disagrees: “We lost a good guy.”
+
+As it turned out, Hollman was not at fault. When the fuel line was found, part of the B-nut was still attached, but it was corroded and had cracked in half. The sea air of Kwaj was to blame.
+
+
+
+
+
+The second attempt
+
+
+After the failure of its first launch, SpaceX became more cautious. The team began testing carefully and recording the details of each of the hundreds of components in the rocket. For once, Musk did not push everyone to move at warp speed and sweep away caution.
+
+Nevertheless, he did not try to eliminate all possible risks. That would make SpaceX rockets as costly and late as those built by the government’s bloated cost-plus contractors. So he demanded a chart showing every component, the cost of its raw materials, the cost that SpaceX was paying suppliers for it, and the name of the engineer responsible for getting that cost down. At meetings he would sometimes show that he knew these numbers better than the engineers doing the presentation, which was not a pleasant experience. Review meetings could be brutal. But costs came down.
+
+All of this meant taking calculated risks. For example, Musk had been the one who approved the use of cheap and light aluminum for the B-nut that corroded and doomed the first Falcon 1 flight.
+
+Another example involved what are known as slosh baffles. As a rocket ascends, the fuel remaining in its tanks can slosh around. To prevent this, rigid metal rings can be attached to the inside wall of the tank. The engineers did that in the first stage of the Falcon 1, but adding mass to the upper stage was more of a problem because it had to be thrust all the way into orbit.
+
+Koenigsmann’s team ran a variety of computer simulations to test the risks from sloshing. Only in a tiny percentage of the models did it seem to be a problem. In the list they made of the top fifteen risks, number one was the possibility that the thin material they were using for the rocket shell might bend in flight. Second-stage sloshing was ranked number eleven. When Musk went over the list with Koenigsmann and his engineers, he decided they would accept some of the risks, including slosh. The likelihood of most of these risks could not be determined just by simulations. The risk of slosh would have to be tested in a real flight.
+
+The test came in March 2007. As it had a year earlier, the launch started well. The countdown reached zero, the Merlin engine ignited, and the Falcon 1 lumbered toward space. This time Musk was watching from the control room at SpaceX headquarters in Los Angeles. “Yes, yes! We’ve made it,” Mueller shouted, hugging him. As the second stage made its planned separation, Musk bit his lip, then started to smile.
+
+“Congratulations,” Musk said. “I’m going to watch that video for a long time.”
+
+For five full minutes, enough time to pop open a couple of bottles of champagne, there was jubilation. Then Mueller noticed something on the video. The second stage was beginning to wobble. The data feed confirmed his fears. “I knew right away it was slosh,” he says.
+
+On the video, it looked like the Earth was tumbling in a dryer, but it was actually the second stage spinning. “Catch it, catch it,” an engineer yelled. But by then it was hopeless. At the eleven-minute mark, the feed went blank. The second stage and its payload were crashing back to Earth from 180 miles up. The rocket had reached outer space but had failed to get into orbit. The decision to accept the eleventh item on the risk list—to not incorporate slosh baffles—had come back to bite them. “From now on,” Musk said to Koenigsmann, “we are going to have eleven items on our risk list, never just ten.”
+
+
+
+
+

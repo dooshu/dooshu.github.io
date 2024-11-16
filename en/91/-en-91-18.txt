@@ -1,0 +1,93 @@
+18：Musk’s Rules for Rocket-Building：SpaceX, 2002–2003
+
+
+
+
+Test stand in McGregor, Texas
+
+
+
+
+
+Question every cost
+
+
+Musk was laser-focused on keeping down costs. It was not simply because his own money was on the line, though that was a factor. It was also because cost-effectiveness was critical for his ultimate goal, which was to colonize Mars. He challenged the prices that aerospace suppliers charged for components, which were usually ten times higher than similar parts in the auto industry.
+
+His focus on cost, as well as his natural controlling instincts, led him to want to manufacture as many components as possible in-house, rather than buy them from suppliers, which was then the standard practice in the rocket and car industries. At one point SpaceX needed a valve, Mueller recalls, and the supplier said it would cost $250,000. Musk declared that insane and told Mueller they should make it themselves. They were able to do so in months at a fraction of the cost. Another supplier quoted a price of $120,000 for an actuator that would swivel the nozzle of the upper-stage engines. Musk declared it was not more complicated than a garage door opener, and he told one of his engineers to make it for $5,000. Jeremy Hollman, one of the young engineers working for Mueller, discovered that a valve that was used to mix liquids in a car wash system could be modified to work with rocket fuel.
+
+After a supplier delivered some aluminum domes that go on top of the fuel tanks, it jacked up the price for the next batch. “It was like a painter who paints half your house for one price, then wants three times that for the rest,” says Mark Juncosa, who became Musk’s closest colleague at SpaceX. “That didn’t make Elon too enthusiastic.” Musk referred to it as “going Russian” on him, as the rocket hucksters in Moscow had done. “Let’s go do this ourselves,” he told Juncosa. So a new part of the assembly facility was added to build domes. After a few years, SpaceX was making in-house 70 percent of the components of its rockets.
+
+When SpaceX began producing its first Merlin engines, Musk asked Mueller how much they weighed. About a thousand pounds, Mueller responded. The Tesla Model S engine, Musk said, weighed about four thousand pounds and cost about $30,000 to make. “So if the Tesla engine is four times as heavy as your engine, why does yours cost so fucking much?”
+
+One reason was that rocket components were subject to hundreds of specifications and requirements mandated by the military and NASA. At big aerospace companies, engineers followed these religiously. Musk did the opposite: he made his engineers question all specifications. This would later become step one in a five-point checklist, dubbed “the algorithm,” that became his oft-repeated mantra when developing products. Whenever one of his engineers cited “a requirement” as a reason for doing something, Musk would grill them: Who made that requirement? And answering “The military” or “The legal department” was not good enough. Musk would insist that they know the name of the actual person who made the requirement. “We would talk about how we were going to qualify an engine or certify a fuel tank, and he would ask, ‘Why do we have to do that?’ ” says Tim Buzza, a refugee from Boeing who would become SpaceX’s vice president of launch and testing. “And we would say, ‘There is a military specification that says it’s a requirement.’ And he’d reply, ‘Who wrote that? Why does it make sense?’ ” All requirements should be treated as recommendations, he repeatedly instructed. The only immutable ones were those decreed by the laws of physics.
+
+
+
+
+
+Have a maniacal sense of urgency
+
+
+When Mueller was working on the Merlin engines, he presented an aggressive schedule for completing one of the versions. It wasn’t aggressive enough for Musk. “How the fuck can it take so long?” he asked. “This is stupid. Cut it in half.”
+
+Mueller balked. “You can’t just take a schedule that we already cut in half and then cut it in half again,” he said. Musk looked at him coldly and told him to stay behind after the meeting. When they were alone, he asked Mueller whether he wanted to remain in charge of engines. When Mueller said he did, Musk replied, “Then when I ask for something, you fucking give it to me.”
+
+Mueller agreed and arbitrarily cut the schedule in half. “And guess what?” he says. “We ended up developing it in about the time that we had put in that original schedule.” Sometimes Musk’s insane schedules produced the impossible, sometimes they didn’t. “I learned never to tell him no,” Mueller says. “Just say you’re going to try, then later explain why if it doesn’t work out.”
+
+Musk insisted on setting unrealistic deadlines even when they weren’t necessary, such as when he ordered test stands to be erected in weeks for rocket engines that had not yet been built. “A maniacal sense of urgency is our operating principle,” he repeatedly declared. The sense of urgency was good for its own sake. It made his engineers engage in first-principles thinking. But as Mueller points out, it was also corrosive. “If you set an aggressive schedule that people think they might be able to make, they will try to put out extra effort,” he says. “But if you give them a schedule that’s physically impossible, engineers aren’t stupid. You’ve demoralized them. It’s Elon’s biggest weakness.”
+
+Steve Jobs did something similar. His colleagues called it his reality-distortion field. He set unrealistic deadlines, and when people balked, he would stare at them without blinking and say, “Don’t be afraid, you can do it.” Although the practice demoralized people, they ended up accomplishing things that other companies couldn’t. “Even though we failed to meet most schedules or cost targets that Elon laid out, we still beat all of our peers,” Mueller admits. “We developed the lowest-cost, most awesome rockets in history, and we would end up feeling pretty good about it, even if Dad wasn’t always happy with us.”
+
+
+
+
+
+Learn by failing
+
+
+Musk took an iterative approach to design. Rockets and engines would be quickly prototyped, tested, blown up, revised, and tried again, until finally something worked. Move fast, blow things up, repeat. “It’s not how well you avoid problems,” Mueller says. “It’s how fast you figure out what the problem is and fix it.”
+
+For example, there was a set of military specifications on how many hours each new version of an engine needed to be test-fired under a long list of different conditions. “It was a tedious approach and very expensive,” Tim Buzza explains. “Elon told us just to build one engine and fire it up on the test stand; if it worked, put it on a rocket and fly it.” Because SpaceX was a private company, and because Musk was willing to flout rules, it could take the risks it wanted. Buzza and Mueller pushed their engines until they broke, and then said, “Okay, now we know what the limits are.”
+
+This belief in iterative design meant that SpaceX needed a freewheeling place for testing. At first they considered the Mojave Air and Space Port, but a county board kept delaying a decision on SpaceX’s application in late 2002. “We need to get the hell out of Mojave,” Mueller told Musk. “California is difficult.”
+
+Musk gave a talk that December at Purdue, which has a renowned rocket-testing program, and he brought with him Mueller and Buzza. There they met an engineer who had worked for Beal Aerospace, one of the many private rocket companies that had gone bankrupt. He described Beal’s abandoned test site outside of McGregor, Texas, about twenty-six miles east of Waco, and gave them the cell number of a former employee who still lived in the area.
+
+Musk decided they should fly there that day. On the way, they called the former employee, Joe Allen, and reached him at Texas State Technical College, where he was studying computer coding after losing his job at Beal. Allen had never heard of Musk or SpaceX, but he agreed to meet them under a tripod on the old testing site. When they landed in Musk’s jet, they had no trouble finding the tripod in the desert. It was 110 feet tall. At its base was Allen, standing next to his beat-up old Chevy pickup.
+
+“Holy crap,” Mueller muttered to Buzza as they walked the site. “Almost everything we need is here.” There were test stands and water systems and a block house amid the scrubby grass. Buzza started to enthuse about how well the facility could work. Musk pulled him aside. “Stop saying how good all this is,” he said. “You’re making it more expensive.” Musk ended up hiring Allen on the spot and was able to lease the McGregor site and its abandoned equipment for a mere $45,000 a year.
+
+Thus began a buddy movie in which a platoon of die-hard rocket engineers, led by Mueller and Buzza with occasional visits by Musk, ignited engines and set off explosions, which they dubbed “rapid unscheduled disassemblies,” in a hardscrabble patch of concrete and rattlesnakes in the Texas desert.
+
+The first test firing of a Merlin came on the night of Mueller’s birthday, March 11, 2003. The kerosene and liquid oxygen was injected into the thrust chamber and burned for just half a second, which was all they needed to assure that the mechanisms worked. They celebrated with a $1,000 bottle of Rémy Martin cognac, which had been a gift to Musk for speaking at a space conference. His assistant, Mary Beth Brown, had given it to Mueller to use when a suitable cause for celebration arose. They polished it off from paper cups.
+
+
+
+
+
+Improvise
+
+
+Mueller and his team would spend twelve-hour days testing engines at McGregor, grab dinner at Outback Steakhouse, then have a late-night conference call with Musk, who peppered them with technical questions. Often he would erupt with the controlled yet searing fury of an engine burn when an engineer did not know an answer. With his tolerance for risk, Musk pushed them to find makeshift solutions. Using machine tools that Mueller had brought to Texas, they would try to make fixes on the spot.
+
+One night lightning struck a test stand, knocking out the pressurization system for a fuel tank. That led to a bulge and rip in one of the tank’s membranes. In a normal aerospace company, that would have meant replacing the tanks, which would take months. “Nah, just fix it,” Musk said. “Go up there with some hammers and just pound it back out, weld it, and we’ll keep going.” Buzza thought that was nuts, but he had learned to follow the boss’s orders. So they went out to the test stand and pounded out the bulge. Musk jumped on his plane to make the three-hour flight to oversee things personally. “When he showed up, we began testing the tank with gas in it, and it held,” Buzza says. “Elon believes that every situation is salvageable. That taught us a lot. And it actually was fun.” It also saved SpaceX months in getting its initial rocket tested.
+
+Of course that didn’t always work. Musk tried a similar unconventional approach in late 2003 when cracks developed in the heat-diffusing material inside the thrust chambers of the engines. “First one, then two, then three of our first chambers cracked,” Mueller recalls. “It was a disaster.”
+
+When Musk got the bad news, he ordered Mueller to find a way to fix them. “We can’t throw them away,” he said.
+
+“There’s no way to fix them,” Mueller replied.
+
+It was the type of statement that infuriated Musk. He told Mueller to put the three chambers on his jet and fly with them to the SpaceX factory in Los Angeles. His idea was to apply a layer of epoxy glue that would seep into the cracks and cure the problem. When Mueller told him that the idea was crazy, they got into a shouting match. Finally, Mueller relented. “He’s the boss,” he told the team.
+
+When the chambers arrived at the factory, Musk was dressed in fine leather boots for a Christmas party he was planning to attend. He never got to the party. He spent all night helping to apply the epoxy and ruining his boots.
+
+The gamble failed. As soon as pressure was applied, the epoxy came unstuck. The chambers had to be redesigned, and the schedule for launch slipped four months. But Musk’s willingness to work all night at the factory pursuing the innovative idea inspired his engineers not to be afraid of trying offbeat fixes.
+
+A pattern was set: try new ideas and be willing to blow things up. The residents in the area got used to explosions. The cows, however, did not. Like pioneers circling the wagons, they would run in a circle protecting the young calves in the center when a big bang happened. The engineers at McGregor set up what they called a “cow cam” so they could watch.
+
+
+
+
+

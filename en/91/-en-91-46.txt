@@ -1,0 +1,161 @@
+46：Fremont Factory Hell：Tesla, 2018
+
+
+
+
+On the line and resting under his desk at the Fremont factory
+
+
+
+
+
+Short-sellers
+
+
+As the bottlenecks in the Nevada battery factory eased in the spring of 2018, Musk shifted his focus to the Fremont car-assembly factory, located on the fraying industrial fringe of Silicon Valley across San Francisco Bay from Palo Alto. By the beginning of April, it was producing only two thousand Model 3s per week. There seemed to be no way that the laws of physics would allow him to juice the plant’s assembly lines into producing his magic number of five thousand per week, which he was now promising Wall Street would happen by the end of June.
+
+Musk put a stake in the ground by telling all managers to order enough parts and materials to make that number. These had to be paid for, but if they were not turned into finished cars, Tesla would have cash-flow problems that would lead to a death spiral. The result was another one of those frenzied fire drills of activity that Musk called a surge.
+
+Tesla stock was hovering near its all-time high in early 2018, making it more valuable than General Motors, even though GM had sold 10 million cars for a $12 billion profit the previous year, while Tesla had sold 100,000 cars and lost $2.2 billion. Those numbers, and skepticism about Musk’s five-thousand-cars-per-week pledge, made Tesla stock a magnet for short-sellers, who make money if the stock price falls. By 2018, Tesla had become the most shorted stock in history.
+
+This infuriated Musk. He believed that short-sellers were not merely skeptics but evil: “They are leeches on the neck of business.” The short-sellers publicly attacked Tesla and Musk personally. He would scroll through his Twitter feed seething about the false information. Even worse was the true information. “They had up-to-date data from sources in the company and drones that flew over our factory giving them numbers in real time,” he says. “They organized themselves into a shorty ground force and a shorty air force. The degree of inside information they had was insane.”
+
+That would eventually lead to their undoing. The short-sellers had hard numbers about how many cars could possibly be produced on the two assembly lines at Fremont, and it led them to conclude that there was no way Tesla could reach five thousand cars per week by mid-2018. “We think the deception is about to catch up to TSLA,” wrote one of the shorts, David Einhorn. “Elon Musk’s erratic behavior suggests that he sees it the same way.” And the most prominent short-seller, Jim Chanos, publicly declared that Tesla stock was basically worthless.
+
+Around that time, Musk made the opposite bet. The Tesla board granted him the boldest pay package in American history, one that would pay him nothing if the stock price did not rise dramatically but that had the potential to pay out $100 billion or more if the company achieved an extraordinarily aggressive set of targets, including a leap in the production numbers, revenue, and stock price. There was widespread skepticism that he could reach the targets. “Mr. Musk will be paid only if he reaches a series of jaw-dropping milestones based on the company’s market value and operations,” Andrew Ross Sorkin wrote in the New York Times. “Otherwise, he will be paid nothing.” The payout would top out, Sorkin wrote, only “if Mr. Musk were somehow to increase the value of Tesla to $650 billion—a figure many experts would contend is laughably impossible.”
+
+
+
+
+
+Walk to the red
+
+
+In the middle of the Fremont factory is the main conference room, known as Jupiter. Musk used it as his office, meeting space, haven from mental torments, and sometimes a place to sleep. An array of screens, blinking and updating like stock displays, tracked in real time the total output of the factory and of each workstation.
+
+Musk had come to realize that designing a good factory was like designing a microchip. It was important to create, in each patch, the right density, flow, and processes. So he paid the most attention to a monitor that showed each station on the assembly line with a green or red light indicating whether it was flowing properly. There were also green and red lights at the stations themselves, so Musk was able to walk the floor and home in on trouble spots. His team called it “walk to the red.”
+
+The surge at Fremont began the first week of April 2018. That Monday, he began walking the floor with his fast bearlike gait, heading to any red light he saw. What’s the problem? A part was missing. Who’s in charge of that part? Get him over here. A sensor keeps tripping. Who calibrated it? Find someone who can open the console. Can we adjust the settings? Why do we even need that fucking sensor?
+
+The process was paused that afternoon because SpaceX was launching a critical cargo supply mission to the Space Station. So Musk went back to the Jupiter conference room to watch it on one of the monitors. But even then, his eyes kept darting to the screens showing the production numbers and bottlenecks on the Tesla line. Sam Teller ordered Thai takeout, then Musk resumed his procession through the factory, looking for the red lights. At 2:30 a.m., he was with the night shift underneath a car being moved on a rack watching bolts being installed. Why do we have four bolts there? Who set that specification? Can we do it with two? Try it.
+
+Throughout the spring and early summer of 2018, he prowled the factory floor, like he had in Nevada, making decisions on the fly. “Elon was going completely apeshit, marching from station to station,” says Juncosa. Musk calculated that on a good day he made a hundred command decisions as he walked the floor. “At least twenty percent are going to be wrong, and we’re going to alter them later,” he said. “But if I don’t make decisions, we die.”
+
+
+
+* * *
+
+
+
+One day Lars Moravy, a valued top executive, was working at Tesla’s executive headquarters a few miles away in Palo Alto. He got an urgent call from Omead Afshar asking him to come to the factory. There he found Musk sitting cross-legged underneath the elevated conveyor moving car bodies down the line. Again he was struck by the number of bolts that had been specified. “Why are there six here?” he asked, pointing.
+
+“To make it stable in a crash,” Moravy replied.
+
+“No, the main crash load would come through this rail,” Musk explained. He had visualized where all the pressure points would be and started rattling off the tolerance numbers at each spot. Moravy sent it back to the engineers to be redesigned and tested.
+
+At another of the stations, the partially completed auto bodies were bolted to a skid that moved them through the final assembly process. The robotic arms tightening the bolts were, Musk thought, moving too slowly. “Even I could do it faster,” he said. He told the workers to see what the settings were for the bolt drivers. But nobody knew how to open the control console. “Okay,” he said, “I’m just going to just stand here until we find someone who can bring up that console.” Finally a technician was found who knew how to access the robot’s controls. Musk discovered that the robot was set to 20 percent of its maximum speed and that the default settings instructed the arm to turn the bolt backward twice before spinning it forward to tighten. “Factory settings are always idiotic,” he said. So he quickly rewrote the code to delete the backward turns. Then he set the speed to 100 percent capacity. That started to strip the threads, so he dialed it back to 70 percent. It worked fine and cut the time it took to bolt the cars to the skids by more than half.
+
+One part of the painting process, an electrocoat bath, involved dipping the shell of the car into a tank. Areas of the car shell have small holes so that the cavities will drain after the dipping. These holes are then plugged with patches made of synthetic rubber, known as butyl patches. “Why are we applying these?” Musk asked one of the line managers, who replied that it had been specified by the vehicle structures department. So Musk summoned the head of that department. “What the hell are these for?” he demanded. “They’re slowing the whole damn line.” He was told that in a flood, if the water is higher than the floorboards, the butyl patches help prevent the floor from getting too wet. “That’s insane,” Musk responded. “Once in ten years there will be such a flood. When it happens, the floor mats can get wet.” The patches were deleted.
+
+The production lines often halted when safety sensors were triggered. Musk decided they were too sensitive, tripping when there was no real problem. He tested some of them to see if something small like a piece of paper falling past the sensor could trigger a stoppage. This led to a crusade to weed out sensors in both Tesla cars and SpaceX rockets. “Unless a sensor is absolutely needed to start an engine or safely stop an engine before it explodes, it must be deleted,” he wrote in an email to SpaceX engineers. “Going forward, anyone who puts a sensor (or anything) on the engine that isn’t obviously critical will be asked to leave.”
+
+Some of the managers objected. They felt that Musk was compromising safety and quality in order to rush production. The senior director for production quality left. A group of current and former employees told CNBC that they were “pressured to take shortcuts to hit aggressive Model 3 production goals.” They also said they were pushed to make patchwork fixes, such as repairing cracked plastic brackets with electrical tape. The New York Times reported that workers felt pressure to work ten-hour days. “It’s a constant ‘How many cars have we built so far?’—a constant pressure to build,” one worker told the paper. There was some truth to the complaints. Tesla’s injury rate was 30 percent higher than the rest of the industry.
+
+
+
+
+
+Robot removal
+
+
+During his push to ramp up production at the Nevada battery factory, Musk had learned that there are certain tasks, sometimes very simple ones, that humans do better than robots. We can use our eyes to look around a room and find just the right tool we need. Then we can weave our way over, pick it up with our fingers and thumb, eyeball the right spot to use it, and guide it there with our arm. Easy, right? Not for a robot, however good its cameras. At Fremont, where each assembly line had twelve hundred robotic devices, Musk came to the same realization he had in Nevada about the perils of pursuing automation too relentlessly.
+
+Near the end of the final assembly line were robotic arms trying to adjust the little seals around the windows. They were having a hard time. One day, after standing silently in front of the balky robotics for a few minutes, Musk tried doing the task with his own hands. It was easy for a human. He issued an order, similar to the one he had given in Nevada. “You have seventy-two hours to remove every unnecessary machine,” he declared.
+
+The robot removal started grimly. People had a lot vested in the machines. But then it became like a game. Musk started walking down the conveyor line, wielding a can of orange spray paint. “Go or stay?” he would ask Nick Kalayjian, his vice president for engineering, or others. If the answer was “go,” the piece would be marked with an orange X, and workers would tear it off the line. “Soon he was laughing, like with childlike humor,” Kalayjian says.
+
+Musk took responsibility for the over-automation. He even announced it publicly. “Excessive automation at Tesla was a mistake,” he tweeted. “To be precise, my mistake. Humans are underrated.”
+
+After the de-automation and other improvements, the juiced-up Fremont plant was churning out thirty-five hundred Model 3 sedans per week by late May 2018. That was impressive, but it was far short of the five thousand per week that Musk had promised for the end of June. The short-sellers, with their spies and drones, determined that there was no way the factory, with its two assembly lines, could get to that number. They also knew that there was no way for Tesla to build another factory, or even get a permit to do so, for at least a year. “The shorts thought they had perfect information,” Musk says, “and they were all gloating online that, ‘Hah, Tesla is screwed.’ ”
+
+
+
+
+
+The tent
+
+
+Musk likes military history, especially the tales of warplane development. At a meeting at the Fremont factory on May 22, he recounted a story about World War II. When the government needed to rush the making of bombers, it set up production lines in the parking lots of the aerospace companies in California. He discussed the idea with Jerome Guillen, whom he would soon promote to being Tesla’s president of automotive, and they decided that they could do something similar.
+
+There was a provision in the Fremont zoning code for something called “a temporary vehicle repair facility.” It was intended to allow gas stations to set up tents where they could change tires or mufflers. But the regulations did not specify a maximum size. “Get one of those permits and start building a huge tent,” he told Guillen. “We’ll have to pay a fine later.”
+
+That afternoon, Tesla workers began clearing away the rubble that covered an old parking lot behind the factory. There was not time to pave over the cracked concrete, so they simply paved a long strip and began erecting a tent around it. One of Musk’s ace facilities builders, Rodney Westmoreland, flew in to coordinate the construction, and Teller rounded up some ice-cream trucks to hand out treats to those working in the hot sun. In two weeks, they were able to complete a tented facility that was 1,000 feet long and 150 feet wide, big enough to accommodate a makeshift assembly line. Instead of robots, there were humans at each station.
+
+One problem was that they did not have a conveyor belt to move the unfinished cars through the tent. All they had was an old system for moving parts, but it was not powerful enough to move car bodies. “So we put it on a slight slope, and gravity meant it had enough power to move the cars at the right speed,” Musk says.
+
+At just after 4 p.m. on June 16, just three weeks after Musk came up with the idea, the new assembly line was rolling Model 3 sedans out of the makeshift tent. Neal Boudette of the New York Times had come to Fremont to report on Musk in action, and he was able to see the tent going up in the parking lot. “If conventional thinking makes your mission impossible,” Musk told him, “then unconventional thinking is necessary.”
+
+
+
+
+
+Birthday celebration
+
+
+Musk’s forty-seventh birthday, on June 28, 2018, came just before the deadline he had promised for reaching five thousand cars per week. He spent most of the day in the paint shop of the main factory. Why is it backing up? he would ask each time there was a slowdown, and then he would walk over to the choke point and stand there until engineers came and fixed the situation.
+
+Amber Heard called to wish him a happy birthday, after which he dropped his phone and it broke, so he was not in a good mood. But Teller was able to get him to take a break just after 2 p.m. for a quick celebration in the conference room. “Enjoy year 48 in the simulation!” read the icing on the ice-cream cake that Teller bought. There were no knives or forks, so they ate it with their hands.
+
+Twelve hours later, just after 2:30 a.m., Musk finally left the factory floor and returned to the conference room. But it would be another hour before he would fall asleep there. Instead, he watched on one of the monitors the launch of a SpaceX rocket at Cape Canaveral. It was carrying a robotic assistant along with supplies that included sixty packets of super-caffeinated Death Wish Coffee for the astronauts on the International Space Station. The launch went flawlessly, making it the fifteenth successful cargo mission SpaceX had flown for NASA.
+
+June 30, the deadline Musk had promised for reaching the goal of five thousand cars per week, was a Saturday, and when Musk woke up on the conference room couch that morning and looked at the monitors, he realized they would succeed. He worked for a few hours on the paint line, then rushed from the factory, still wearing protective sleeves, to his airplane to make it to Spain in time to be the best man at Kimbal’s wedding in a medieval Catalonian village.
+
+At 1:53 a.m. on Sunday, July 1, a black Model 3 was disgorged from the factory with a paper banner across its windshield reading “5000th.” When Musk received a photograph of it on his iPhone, he sent a message to all Tesla workers: “We did it!!… Created entirely new solutions that were thought impossible. Intense in tents. Whatever. It worked…. I think we just became a real car company.”
+
+
+
+
+
+The algorithm
+
+
+At any given production meeting, whether at Tesla or SpaceX, there is a nontrivial chance that Musk will intone, like a mantra, what he calls “the algorithm.” It was shaped by the lessons he learned during the production hell surges at the Nevada and Fremont factories. His executives sometimes move their lips and mouth the words, like they would chant the liturgy along with their priest. “I became a broken record on the algorithm,” Musk says. “But I think it’s helpful to say it to an annoying degree.” It had five commandments:
+
+1. Question every requirement. Each should come with the name of the person who made it. You should never accept that a requirement came from a department, such as from “the legal department” or “the safety department.” You need to know the name of the real person who made that requirement. Then you should question it, no matter how smart that person is. Requirements from smart people are the most dangerous, because people are less likely to question them. Always do so, even if the requirement came from me. Then make the requirements less dumb.
+
+2. Delete any part or process you can. You may have to add them back later. In fact, if you do not end up adding back at least 10% of them, then you didn’t delete enough.
+
+3. Simplify and optimize. This should come after step two. A common mistake is to simplify and optimize a part or a process that should not exist.
+
+4. Accelerate cycle time. Every process can be speeded up. But only do this after you have followed the first three steps. In the Tesla factory, I mistakenly spent a lot of time accelerating processes that I later realized should have been deleted.
+
+5. Automate. That comes last. The big mistake in Nevada and at Fremont was that I began by trying to automate every step. We should have waited until all the requirements had been questioned, parts and processes deleted, and the bugs were shaken out.
+
+
+
+The algorithm was sometimes accompanied by a few corollaries, among them:
+
+All technical managers must have hands-on experience. For example, managers of software teams must spend at least 20% of their time coding. Solar roof managers must spend time on the roofs doing installations. Otherwise, they are like a cavalry leader who can’t ride a horse or a general who can’t use a sword.
+
+Comradery is dangerous. It makes it hard for people to challenge each other’s work. There is a tendency to not want to throw a colleague under the bus. That needs to be avoided.
+
+It’s OK to be wrong. Just don’t be confident and wrong.
+
+Never ask your troops to do something you’re not willing to do.
+
+Whenever there are problems to solve, don’t just meet with your managers. Do a skip level, where you meet with the level right below your managers.
+
+When hiring, look for people with the right attitude. Skills can be taught. Attitude changes require a brain transplant.
+
+A maniacal sense of urgency is our operating principle.
+
+The only rules are the ones dictated by the laws of physics. Everything else is a recommendation.
+
+
+
+On the assembly line
+
+
+
+
+

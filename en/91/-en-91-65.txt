@@ -1,0 +1,61 @@
+65：Neuralink：2017–2020
+
+
+
+
+A monkey playing Pong using only his brainwaves
+
+
+
+
+
+Human-computer interfaces
+
+
+Some of the most important technology leaps in the digital age involved advances in the way that humans and machines communicate with each other, known as “human-computer interfaces.” The psychologist and engineer J. C. R. Licklider, who worked on air-defense systems that tracked planes on a monitor, wrote a seminal paper in 1960 titled “Man-Computer Symbiosis,” showing how video displays could “get a computer and a person thinking together.” He added, “The hope is that, in not too many years, human brains and computing machines will be coupled together very tightly.”
+
+MIT hackers used these video displays to create a game called Spacewar, which helped spawn commercial games that, in order to be easy enough for a stoned college student to play, had interfaces that were so intuitive they required almost no instructions. (“1. Insert quarter 2. Avoid Klingons” were the only ones on Atari’s first Star Trek game.) Doug Engelbart combined such displays with a mouse that allowed users to interface with a computer by pointing and clicking, and Alan Kay at Xerox PARC helped develop that into an easy-to-use graphical interface that mimicked a desktop. Steve Jobs adopted that for Apple’s Macintosh computer, and at his very last board meeting, as he was dying in 2011, he tested another great leap in human-computer interfaces: an application called Siri that allowed people and computers to interact by voice.
+
+Despite all these advances, the input-output between humans and machines remained crushingly slow. On a trip in 2016, Musk was typing on his iPhone with his thumbs and began complaining about how long it took. Typing allowed information to flow from our brains into our devices at only about a hundred bits per second. “Imagine if you could think into the machine,” he said, “like a high-speed connection directly between your mind and your machine.” He leaned over to Sam Teller, who was riding in the car with him. “Can you get a neuroscientist who can help me understand computer-brain interface?” he asked.
+
+The ultimate human-machine interface, Musk realized, would be a device that connected our computers directly to our brains, such as a chip inside our skull that could send our brain signals to a computer and receive signals back. That could allow information to flow back and forth up to a million times faster. “Then you could have true human-machine symbiosis,” he says. In other words, it would assure that humans and machines would work together as partners. To make this happen, he founded, in late 2016, a company that he dubbed Neuralink, which would implant small chips into the brain and allow humans to mind-meld with computers.
+
+Like Optimus, the idea for Neuralink was inspired by science fiction, most notably the Culture space-travel novels by Iain Banks, which feature a human-machine interface technology called “neural lace” that is implanted into people and can connect all of their thoughts to a computer. “When I first read Banks,” he says, “it struck me that this idea had a chance of protecting us on the artificial intelligence front.”
+
+Musk’s lofty goals are usually accompanied by practical business models. He had developed Starlink satellites, for example, as a way to fund SpaceX’s mission to Mars. Likewise, he planned for Neuralink brain chips to be used to help people with neurological problems, such as ALS, interact with computers. “If we can find good commercial uses to fund Neuralink,” he says, “then in a few decades we will get to our ultimate goal of protecting us against evil AI by tightly coupling the human world to our digital machinery.”
+
+Among his cofounders were six top neuroscientists and engineers, led by the brain-machine interface researcher Max Hodak. The only member of the founding team who survived the pressure and turmoil of working with Musk was DJ Seo, who had moved from Korea to Louisiana at age four. Because he didn’t speak English well as a young boy, he became very frustrated about having thoughts that he could not express. “How can I get this thing that’s in my head out as efficiently as possible?” he began asking himself. “It would have to be something tiny put in my head.” At Caltech, then at Berkeley, he developed what he called “neural dust,” tiny implants that could be put in the brain and send out signals.
+
+Musk also recruited a bright-eyed and sharp-minded technology investor named Shivon Zilis. As a student growing up near Toronto, she starred at hockey, but she also became a tech geek after reading Ray Kurzweil’s 1999 book, The Age of Spiritual Machines: When Computers Exceed Human Intelligence. After studying at Yale, she worked at a few startup incubators helping new AI ventures, and she became a part-time consultant at OpenAI.
+
+When Musk founded Neuralink, he took her out for coffee and asked her to join. “Neuralink is not just about research,” he assured her. “It’s about building real devices.” She quickly decided that would be more fun and useful than continuing to be a venture investor. “I noticed that I learned more unique lessons from Elon per minute than any other human I’ve met,” she says. “It would be dumb to not spend some of your life with such a person.” Initially, she spent her time working on artificial intelligence projects at all three of his companies—Neuralink, Tesla, and SpaceX—but she eventually moved into the role of top manager at Neuralink in addition to being a close personal companion to Musk (about which more later).
+
+
+
+
+
+The chip
+
+
+The underlying technology for the Neuralink chip was based on the Utah Array, invented at the University of Utah in 1992, which is a microchip studded with a hundred needles that can be pushed into the brain. Each needle detects the activity of a single neuron and sends the data by wire to a box strapped to someone’s skull. Because the brain has roughly 86 billion neurons, this was only a nano-step toward human-computer interfaces.
+
+In August 2019, Musk published a scientific paper describing how Neuralink would improve on the Utah Array to create what he called “an integrated brain-machine interface platform with thousands of channels.” Neuralink’s chips had more than three thousand electrodes on ninety-six threads. As always, Musk focused not only on the product but also on how it would be manufactured and deployed. Robots working at high speeds would cut a small hole in a human skull, insert the chip, and push the threads into the brain.
+
+He revealed an early version of the device at an August 2020 public presentation at Neuralink featuring a pig named Gertrude with a chip in her brain. A video of her walking on a treadmill showed how the chip could detect the signals in her brain and send it to a computer. Musk held up the chip, which was the size of a quarter. When it was nestled underneath the skull, it could transmit its data wirelessly, assuring that the user did not look like a cyborg from a horror movie. “I could have a Neuralink right now and you wouldn’t know,” Musk said. “Maybe I do.”
+
+A few months later, Musk came by the Neuralink lab in Fremont, near the Tesla factory, where the engineers showed him their latest version. It combined four separate chips, each with about a thousand threads. They would be implanted in different parts of the skull with wires connecting them to a router that was embedded behind the ear. Musk paused silently for almost two minutes, while Zilis and her colleagues watched. Then he delivered his verdict: he hated it. It was too complex, with too many wires and connections.
+
+He was in the process of deleting connections from SpaceX’s Raptor engines. Each was a possible failure point. “This has to be a single device,” he told the deflated Neuralink engineers. “A single elegant package with no wires, no connections, no router.” There was no law of physics—no basic principle—that prevented all of the functionality from being on one device. When the engineers tried to explain the need for the router, Musk’s face turned stony. “Delete,” he said. “Delete, delete, delete.”
+
+After they left the meeting, the engineers went through the usual stages of post-Musk distress disorder: baffled, then angry, then anxious. But within a week they got to the stage of being intrigued, because the new approach, they realized, might actually work.
+
+When Musk returned to the lab a few weeks later, they showed him a single chip that could handle the processing of data from all the threads and transmit it by Bluetooth to a computer. No connections, no router, no wires. “We thought this was impossible,” one of the engineers said, “but now we’re actually pretty stoked by it.”
+
+One problem they faced was caused by the requirement that the chip be very small. That made it a challenge for it to have a long battery life and support many threads. “Why does it have to be so small?” Musk asked. Someone made the mistake of saying that it was one of the requirements they had been given. This flipped on the switch for Musk to intone his algorithm, beginning with questioning every requirement. Then he engaged them on the basic science of the chip size. Our skulls are rounded, so couldn’t the chip bulge a bit? And couldn’t the diameter be bigger? They came to the conclusion that a human skull could easily accommodate a larger chip.
+
+When they had the new device ready, they implanted it in one of the macaque monkeys, named Pager, housed at the lab. He was taught to play the video game Pong by rewarding him with a fruit smoothie when he scored well. The Neuralink device recorded which neurons were firing each time he moved the joystick a certain way. Then the joystick was deactivated, and the signals from the monkey’s brain controlled the game. It was a major step toward Musk’s goal of creating a direct connection between a brain and a machine. Neuralink uploaded a video of it to YouTube, and within a year it was viewed six million times.
+
+
+
+
+

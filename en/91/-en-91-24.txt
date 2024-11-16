@@ -1,0 +1,97 @@
+24：The SWAT Team：Tesla, 2006–2008
+
+
+
+
+Antonio Gracias and Tim Watson
+
+
+
+
+
+Roadster costs
+
+
+Designing a car is easy, Musk often said. The difficult part is manufacturing it. After the prototype of the Roadster was unveiled in July 2006, the hard part began.
+
+The target cost of the Roadster had originally been about $50,000. But then came Musk’s design changes as well as massive problems finding the right transmission system. By November 2006, the cost had swelled to $83,000.
+
+That prompted Musk to do something unusual for a board chair: he flew to England to visit Lotus, the chassis supplier, without telling Martin Eberhard, his CEO. “I find this a rather awkward situation where Elon has asked for Lotus’ own view of the production timing,” one of the Lotus executives wrote Eberhard.
+
+Musk got an earful in England. The Lotus team, which was dealing with rapidly shifting design specifications from Tesla, said that there was no way that they could start producing Roadster bodies until the end of 2007, at least eight months behind schedule. They presented him with a list of more than eight hundred problems that had arisen.
+
+For example, there was a problem with the British company that Tesla had contracted to supply the customized carbon fiber panels, fenders, and doors. It was a Friday, and Musk impulsively decided to visit the supplier. “I hiked through the mud to this building, where I saw that the Lotus guys were right, the body tooling wasn’t working,” he says. “It was a total failure.”
+
+By the end of July 2007, the financial situation had worsened. The cost of materials for the first round of production was estimated to be $110,000 per car, and the company was projected to run out of cash within weeks. That’s when Musk decided to call in a SWAT team.
+
+
+
+
+
+Antonio Gracias
+
+
+When Antonio Gracias was twelve years old, he asked for some Apple Computer for Christmas. Not the computer itself; he already had an early Apple II. He wanted the company’s stock. His mother, who ran a small lingerie store in Grand Rapids, Michigan, spoke only Spanish, but she managed to buy him ten shares for $300. He still owns them. They are now worth about $490,000.
+
+Among his first business ventures while a student at Georgetown University was buying condoms in bulk and shipping them to a friend in Russia to sell. That ended up not working well, so he had a huge inventory of condoms in his dorm room. He put them in matchboxes, sold advertising on the boxes, and distributed them at bars and fraternities.
+
+He got a job at Goldman Sachs in New York, but quit to go to the University of Chicago Law School. Most law students, especially at a place like Chicago, find the work all-consuming, but Gracias was bored. On the side, he started a venture fund that bought small companies. One of them seemed particularly promising: a California firm that did electroplating. But it turned out to be a mess. Gracias found himself commuting to California to try to fix things at the factory, while a friend at law school named David Sacks took notes for him in class. (Remember these names, Antonio Gracias and David Sacks, because they will reemerge in the Twitter saga.)
+
+Because Gracias spoke Spanish like most of the factory workers, he was able to learn from them where the problems were. “I realized that if you invest in a company, you should spend all your time on the shop floor,” he says. When he asked how they could speed things up, one of the workers explained that having smaller vats for the nickel baths would make the plating go faster. Those and other worker-generated ideas succeeded so well that the factory began turning a profit, and Gracias started buying more troubled companies.
+
+He learned one very big lesson from these ventures: “It’s not the product that leads to success. It’s the ability to make the product efficiently. It’s about building the machine that builds the machine. In other words, how do you design the factory?” It was a guiding principle that Musk would make his own.
+
+After law school, David Sacks had gone on to be a cofounder with Musk of PayPal. Gracias was an investor, and he and Musk were among the new millionaires who went to Las Vegas to celebrate Sacks’s thirtieth birthday in May 2002.
+
+Six of the partygoers were in a limousine when one of them, a friend from Stanford, threw up in the back seat. When the driver got them to the hotel, most of the others took off. “Elon and I looked at each other and said, we can’t leave this poor driver with vomit in his car,” Gracias recalls. So they rode with the driver to a 7-Eleven convenience store, bought paper towels and spray cleaner, and cleaned up the car. “Elon has Asperger’s,” Gracias says, “so he sometimes comes across as not emotional, but he actually can care.”
+
+Gracias and his venture capital firm, Valor Management, participated in four of Tesla’s early funding rounds, and in May 2007 he joined the board. That was just when Musk was fathoming the depth of the production problems with the Roadster, and he asked Gracias to figure out what was wrong. For help, Gracias called on an eccentric partner who was a wizard at understanding factories.
+
+
+
+
+
+Tim Watkins
+
+
+After reviving his electroplating company, Gracias bought some similar companies, including one that had a small factory in Switzerland. When he flew there to inspect it, he was picked up at the airport by a ponytailed British robotics engineer named Tim Watkins, who was wearing a black T-shirt, jeans, and a black fanny pack. Whenever he took a new assignment, he would go to a local chain store and buy a ten-pack of T-shirts and jeans, which he would then shed like a molting lizard during his stay.
+
+After a leisurely dinner, Watkins suggested that they go look at the factory. Gracias knew that it did not have a permit to run a night shift, so he was wary when Watkins and the plant manager drove him to a back alley of an industrial park. “I thought for a moment that they might rob me,” Gracias admits. Watkins, with a flair for drama, threw open the back door. The lights were out, and it was pitch black, but there were sounds of high-speed stamping machines working. When Watkins turned on the lights, Gracias realized that they were whirring on their own, with no workers on the premises.
+
+Swiss regulations decreed that workers could be on duty no more than sixteen hours per day. So Watkins had instituted a schedule of two eight-hour shifts separated by four-hour periods when machines would run on their own. He had devised a formula that predicted when every part of the process would need human intervention. “We could get twenty-four hours of production for sixteen hours of labor each day,” he says. Gracias made Watkins a partner in his firm, and they became soul mates, even rooming together, as they developed a shared vision of how to swoop into manufacturing companies and make them more efficient. And that’s what they set out to do for Musk and Tesla in 2007.
+
+
+
+
+
+The supply-chain problem
+
+
+The first task was to deal with the problem involving the British supplier of the carbon fiber panels, fenders, and doors. After Musk’s visit to the company, he had some heated exchanges with its managers. A few months later, they called and said they were giving up. They couldn’t deal with his demands, and they were canceling their contract.
+
+As soon as Musk got the news, he called Watkins in Chicago. “I’m getting in my plane. I will pick you up in Chicago, and we’ll go sort this out,” he said. In England, they packed some of the machinery into the plane and flew it to France, where another company, Sotira Composites, had agreed to take on the work. Musk was worried that workers in France were not as dedicated as he was, so he gave them a pep talk. “Please don’t strike or go on vacation right now, or Tesla will die,” he pleaded. After a dinner at a Loire Valley chateau, he left Watkins behind to teach the French how to work with carbon fiber and make their production lines efficient.
+
+The problem with the body panels prompted Musk to worry about other parts of the supply chain, so he asked Watkins to sort out the entire system. What he found was a nightmare. The process began in Japan, where the cells for the lithium-ion batteries were made. Seventy of these cells were glued together to form bricks, which were then shipped to a makeshift factory in the jungles of Thailand that once made barbecue grills. There they were assembled into a battery pack with a web of tubes as a cooling mechanism. These could not be flown by airplane, so they were shipped by boat to England and driven to the Lotus factory, where they were assembled into the Roadster chassis. The body panels came from the new supplier in France. The bodies with batteries would then be shipped across the Atlantic and through the Panama Canal to the Tesla assembly facility near Palo Alto. There a team was in charge of the final assembly, including the AC Propulsion motor and drivetrain. By the time the battery cells made their way into a customer’s car, they had traveled around the world.
+
+This presented not just a logistics nightmare but also a cash-flow problem. Each cell at the beginning of the journey cost $1.50. With labor, a full battery pack of nine thousand cells cost $15,000. Tesla had to pay for them up front, but it would be nine months before those packs made it around the world and could be sold in a car to consumers. Other parts going into the long supply process likewise burned cash. Outsourcing may save money, but it can hurt cash flow.
+
+Compounding the problem was that the design of the car, partly because of Musk’s fiddling, had gotten too complex. “It was just a flat-out burning dumpster fire of stupidity,” Musk later admitted. The chassis had become 40 percent heavier and it had to be redesigned to fit the battery pack, which invalidated the crash testing Lotus had done. “In retrospect it would have been much smarter to start with a clean-sheet design and not try to modify the Lotus Elise,” he says. As for the drivetrain, almost none of the AC Propulsion technology turned out to be viable for a production car. “We screwed the pooch six ways to Sunday,” Musk says.
+
+
+
+* * *
+
+
+
+When Watkins got to Tesla’s California headquarters to sort through this mess with Eberhard, he was shocked to discover that there was no bill of materials for the production of the Roadster. In other words, there was no comprehensive record of every part that went into the car and how much Tesla was paying for each. Eberhard explained that he was trying to move to an SAP system to manage such information, but he didn’t have a chief financial officer to organize the transition. “You can’t manufacture a product without a bill of materials,” Watkins told him. “There are tens of thousands of components on a vehicle, and you are getting pecked to death by ducks.”
+
+When Watkins pieced together the true costs, he realized that things were worse than even the most pessimistic projections. The initial Roadsters off the assembly line would cost, including overhead, at least $140,000, and it would not fall much below $120,000 even after production increased. Even if they sold the car for $100,000, they would be hemorrhaging money.
+
+Watkins and Gracias presented the grim findings to Musk. The cash-sucking supply chain and the cost of the car would bleed the company of all its money—including the deposits that had been made by customers to reserve a Roadster—before it could even begin selling the car at scale. “It was,” Watkins says, “an oh-shit moment.”
+
+Gracias pulled Musk aside later. “This is not going to work,” he said. “Eberhard is not being for real about the numbers.”
+
+
+
+
+

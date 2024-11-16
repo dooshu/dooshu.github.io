@@ -1,0 +1,3763 @@
+Index
+
+
+A note about the index: The pages referenced in this index refer to the page numbers in the print edition. Clicking on a page number will take you to the ebook location that corresponds to the beginning of that page in the print edition. For a comprehensive list of locations of any word or phrase, use your reading system’s search function.
+
+AC Propulsion, 126–27, 128, 129, 132, 133, 160
+
+Adams, Douglas, 31–32, 51, 299
+
+Afshar, Omead, 267, 335, 501 automation/de-automation and, 274
+
+Autopilot project and, 333–34
+
+EM’s Austin home plans and, 472
+
+EM’s management of Twitter and, 583
+
+EM’s politics and, 423
+
+Gates and, 436
+
+Giga Texas and, 336, 337, 448, 472
+
+Model 3 production surge and, 271–72
+
+Optimus and, 484
+
+production algorithm and, 279
+
+Robotaxi and, 501, 502
+
+
+
+
+
+Age of Spiritual Machines: When Computers Exceed Human Intelligence, The (Kurzweil), 401
+
+Agrawal, Parag, 440 EM’s Twitter acquisition and, 452, 453, 462, 507, 510
+
+firing of, 512, 513
+
+Twitter board invitation and, 444, 446, 451
+
+
+
+
+
+Ahuja, Deepak, 294
+
+Al-Rumayyan, Yasir, 293
+
+Aldrin, Buzz, 107
+
+Aliens, 92
+
+Allen, Joe, 115
+
+Allen, Paul, 133
+
+Alpha Blaster, 33
+
+Altan, Bülent, 148, 149, 185, 210
+
+Altman, Sam, 239, 242, 243, 244, 569, 600, 601–2
+
+Alwaleed bin Talal (prince of Saudi Arabia), 461
+
+Amazon, 241, 336, 355–56
+
+Ambras, Jim, 61
+
+Ancient Art of War, The, 46
+
+Anderson, Chris, 448, 454
+
+Apocalypse Now, 481
+
+Apple, 542, 558–60 See also Jobs, Steve
+
+
+
+
+
+Aquaman, 263
+
+Arceneaux, Hayley, 383
+
+Armstrong, Neil, 107, 207, 224, 225, 227, 233
+
+artificial intelligence data sources for, 243, 598, 602–3, 605
+
+EM’s childhood interest in, 31
+
+EM’s safety concerns, 31, 240–42, 394, 395, 485–86, 600, 601, 604–5
+
+Grimes on, 306
+
+human-computer interfaces and, 400
+
+Tesla AI Days and, 394, 395–97, 482, 487, 496–97, 498–500, 518
+
+Tesla neural network planner and, 593–98, 614
+
+X.AI and, 244, 605–6
+
+Zilis and, 402
+
+See also OpenAI
+
+
+
+
+
+Asimov, Isaac, 31, 243, 394, 486
+
+Autopilot project. See Tesla Autopilot project
+
+
+
+Babuschkin, Igor, 605
+
+Babylon Bee, 419, 527, 529, 554
+
+Baglino, Drew, 195 Autopilot project and, 246, 247
+
+Model S and, 199
+
+Optimus and, 498
+
+Robotaxi and, 501, 502
+
+Straubel departure and, 302, 303
+
+
+
+
+
+Baker, Jim, 571
+
+Balajadia, Jehn, 362, 513
+
+Bankman-Fried, Sam, 460–61
+
+Banks, Azealia, 308–9
+
+Banks, Iain, 400
+
+Bannon, Pete, 396
+
+Bard, 601
+
+Barenholtz, Jeremy, 497, 561, 562–63
+
+Barra, Mary, 421
+
+Bassett, Natasha, 7, 265, 451, 491
+
+Battle of Polytopia, The, 46
+
+Bauch, Matt, 597
+
+Beal Aerospace, 115
+
+Beeple, 448–49
+
+Belsky, Scott, 520
+
+Benioff, Marc, 430
+
+Berland, Leslie, 465, 508, 534
+
+Bernstein, Carl, 573
+
+Beykpour, Kayvon, 520
+
+Bezos, Jeff, 223, 353 Amazon HQ and, 336
+
+competition with SpaceX, 226, 227–28, 231–32, 233–34, 354
+
+competition with Starlink, 355–56
+
+Inspiration4 mission and, 385
+
+love of space travel, 224–25
+
+management style, 166, 354–55
+
+space tourism and, 353, 356, 383, 476
+
+Trump and, 261
+
+Washington Post purchase, 357
+
+wealth of, 408
+
+
+
+
+
+Bhattacharya, Jay, 573, 578
+
+Biden, Hunter, 567, 577, 579
+
+Biden, Joe, and administration, 420–23, 535, 567
+
+Binder, Matt, 576
+
+Birchall, Jared Austin home plans and, 473
+
+EM’s demon mode and, 539
+
+EM’s management of Twitter and, 543
+
+EM’s politics and, 419, 443
+
+Kimbal’s restaurant business and, 300–301
+
+philanthropy and, 439
+
+Twitter acquisition and, 442, 451, 452–53, 464, 490, 494, 512
+
+Twitter board invitation and, 445
+
+
+
+
+
+Blade Runner, 318, 485
+
+Blastar, 29, 33, 425
+
+Blue Origin, 224, 226, 227–28, 233–34, 354, 355
+
+board games. See strategy games
+
+Boeing, 101, 113, 123, 187, 206, 348, 350 See also Lockheed-Boeing United Launch Alliance
+
+
+
+
+
+Bolden, Charlie, 206
+
+Bolsonaro, Jair, 419
+
+Boring Company, The, 257–59, 288, 298, 441, 472, 496, 585
+
+Boston Dynamics, 394
+
+Botha, Roelof, 75, 82, 86
+
+Boucher, Claire. See Grimes
+
+Boudette, Neal, 283, 406
+
+Bowles, Nellie, 568, 569–71, 576
+
+Brady, Nicholas, 48
+
+Branson, Richard, 353, 356–57, 383, 476
+
+Brin, Sergey, 63, 126, 138, 180, 468–69
+
+Brodie-Sangster, Thomas, 471
+
+Brown, Jerry, 218
+
+Brown, Mary Beth, 116
+
+Brown, Tina, 66
+
+Brownlee, Marques, 217
+
+Burning Man, 103, 252, 310, 341, 378–79
+
+Bush, George W., 101
+
+Butterfield, Elissa, 258, 321, 329
+
+Buzza, Tim Falcon 1 launch attempts and, 151, 184, 185, 186
+
+Falcon 9 liftoff and, 210
+
+on improvisation, 116–17
+
+launch location and, 145
+
+NASA contract and, 205
+
+on production algorithm, 113
+
+testing and, 115, 116
+
+
+
+
+
+Calacanis, Jason, 523, 529, 530, 531, 576
+
+Cameron, James, 92
+
+Cantrell, Jim, 95–96, 98, 99–100, 101
+
+CAPTCHA technology, 83
+
+Challenger mission, 119, 385
+
+Chanos, Jim, 278
+
+Chappelle, Dave, 580
+
+ChatGPT, 243, 593, 600–601, 606
+
+Chinnery, Anne, 149
+
+Christensen, Clayton, 84
+
+Christian symbolism, 71
+
+CitySearch, 65
+
+Civilization, 46, 51, 425
+
+Claassen, Kate, 511
+
+Cleese, John, 498
+
+Clinton, Hillary, 261, 424, 525
+
+Clooney, George, 143
+
+Cobra Kai, 346
+
+Cocconi, Alan, 126
+
+Coffin, Gage, 273
+
+comics, 27
+
+communications satellites. See Starlink
+
+Compaq Computer, 66
+
+computer programming EM’s childhood interest in, 29, 33–34
+
+EM’s college years and, 50
+
+EM’s Silicon Valley internship and, 55–56
+
+See also Zip2
+
+
+
+
+
+“Computing Machinery and Intelligence” (Turing), 595
+
+Confinity, 76
+
+Cook, Tim, 261, 559
+
+Corcoran, Kyle, Twitter acquisition and, 511
+
+COVID-19 pandemic conspiracy theories and, 578–80
+
+EM’s reconciliation with Kimbal and, 346
+
+EM’s resistance to authority and, 379, 417–18
+
+Tesla and, 408, 417–18, 441
+
+Twitter content moderation and, 572–73
+
+
+
+
+
+Cramer, Jim, 293
+
+Crawford, Esther, 509, 540
+
+Crider, Johnna, 290
+
+Culture, The novels (Banks), 400
+
+Cyberpunk video games, 310, 318, 485
+
+
+
+Daimler, 193
+
+Davenport, Christian, 357
+
+David, Larry, 491
+
+Davis, Steve The Boring Company and, 257, 258
+
+EM’s management of Twitter and, 547, 583
+
+flamethrowing and, 299, 496
+
+Model 3 production surge and, 271
+
+Twitter server move and, 584, 585
+
+
+
+
+
+DeepMind, 240–41, 600, 601, 605
+
+Deese, Brian, 421
+
+Demolition Man, 591
+
+Denholm, Robyn, 580
+
+Depp, Johnny, 263
+
+Dharamsi, Tejas, 514
+
+DiCaprio, Leonardo, 381
+
+Diez, Shana, 478, 608
+
+Diplomacy, 46
+
+Diversity Myth: Multiculturalism and Political Intolerance on Campus, The (Thiel and Musk), 424
+
+Dojo, 244, 394, 397, 487, 596
+
+Dontchev, Kiko, 347, 349–51, 362, 385
+
+Doohan, James, 176
+
+Dorsey, Jack, 440, 444, 461, 510, 567
+
+Dow, Brian, 271, 369, 370–71, 372, 373–74
+
+Downey, Robert, Jr., 142
+
+Drexler, Mickey, 143
+
+Dreyer, Lauren, 428–29
+
+Drori, Ze’ev, 167
+
+Duan, Phil, 499
+
+Dungeons & Dragons, 32–33, 50, 309
+
+Durban, Egon, 492
+
+Dyer, Deborah Anne (Skin), 344
+
+
+
+eBay PayPal and, 85, 86–87
+
+X.com and, 76, 77, 78–79
+
+
+
+
+
+Eberhard, Martin, 124, 162 component outsourcing and, 132–33, 156
+
+departure of, 163–64
+
+development mule and, 133
+
+electric car ideas, 127–28, 129, 130
+
+EM’s attacks on, 164–65
+
+EM’s design input and, 136–37
+
+EM’s enmity and, 164, 192
+
+EM’s sensitivity about credit and, 139, 141–42
+
+legal settlement with EM, 164
+
+Roadster launch and, 140–41, 143
+
+Roadster production costs and, 160
+
+Tesla financial issues and, 161, 163
+
+Tesla founding and, 130, 133, 139, 164
+
+Tesla leadership conflicts and, 134, 137, 139–40
+
+
+
+
+
+economic crisis (2007–2008), 179–81, 193
+
+Edgett, Sean, 513
+
+effective altruism movement, 460
+
+Ehrenpreis, Ira, 167
+
+Einhorn, David, 278
+
+Ekenstam, Felix, 425
+
+Elden Ring, 7, 455, 588
+
+electric cars AC Propulsion and, 126–27, 129
+
+auto industry abandonment of, 193
+
+Biden and, 420–21
+
+Eberhard and, 127–28, 129, 130
+
+EM’s college interest in, 51, 55, 57–58
+
+Rosen meeting and, 125–26
+
+Tesla Motors and, 127–28, 129–30
+
+tzero prototype, 126–27, 128
+
+See also Tesla
+
+
+
+
+
+Ellison, Larry, 7, 218, 451, 459–60, 461, 558–59, 590–91
+
+Elluswamy, Ashok, 596–97, 598
+
+Emanuel, Ari, 488, 491, 494, 497, 554
+
+EM’s management of Twitter advertiser boycotts and, 537–38
+
+advertisers and, 533–35, 537–38, 547, 559–60, 580
+
+Apple and, 559–60
+
+content moderation and, 524–31, 537, 554, 566, 567, 572–73, 574–77
+
+desk-siding, 552
+
+EM’s demon mode and, 537–39
+
+EM’s management style and, 367
+
+EM’s personality and, 534
+
+EM’s stress and, 544–45, 547–48
+
+engineering integration and, 79, 494, 557
+
+financial issues and, 541
+
+firings and, 509, 510, 521–22, 540, 547–50, 555–57
+
+government agencies and, 568, 572
+
+hardcore culture and, 220, 349, 508, 522, 547, 550–51
+
+hardcore opt-in, 550–51, 556
+
+impulsive tweets and, 533, 534, 577–78
+
+in-person vs. remote work, 519, 541–42
+
+journalist suspensions, 575–77
+
+layoff reviews, 515, 516–19, 536, 548–49
+
+product changes, 514
+
+product review, 508–9
+
+risk and, 522, 555
+
+Roth departure, 542–44
+
+server move, 581, 582–86, 588–90, 598
+
+survival, 558
+
+top management question, 520–21
+
+troll/bot campaign and, 530–31
+
+Twitter Blue, 539–40, 542–43, 547, 613
+
+Twitter Files, 529, 566–68, 569–73, 575, 576, 579
+
+visibility filtering, 529, 571, 572–73, 575
+
+X.com and, 87, 507, 509, 560
+
+Yaccarino as CEO, 613
+
+
+
+
+
+Endeavor, 491
+
+Engelbart, Doug, 399
+
+Epstein, Jeffrey, 296
+
+
+
+Fabricant, James, 173, 174
+
+Falcon 1 launch attempts EM’s stress and, 5, 173, 179
+
+first attempt (Mar. 2006), 150–52
+
+second attempt (Mar. 2007), 153–54
+
+third attempt (Aug. 2008), 175, 176–77, 197–98
+
+fourth attempt (Sept. 2008), 184–88, 206
+
+Kimbal’s support and, 150, 151, 186–87, 300
+
+Obama administration and, 206
+
+
+
+
+
+Farooq, Navaid, 44, 235 EM’s friendship with, 45
+
+on EM’s grief, 103–4
+
+EM’s marriage to Justine and, 71–72
+
+EM’s marriage to Talulah and, 215
+
+strategy games and, 46, 47, 51
+
+Twitter and, 455–56
+
+Zip2 and, 62
+
+
+
+
+
+Farooq, Nyame, 61
+
+Fath, Joe, 291, 334
+
+Fauci, Anthony, 577–78, 587
+
+Favreau, Jon, 142
+
+Federal Aviation Administration (FAA), 351–52, 360, 362
+
+Federal Communications Commission (FCC), 355–56
+
+Fedorov, Mykhailo, 428, 431, 433, 434
+
+Felsenthal, Ed, 416
+
+Ferguson, Niall, 430
+
+Fermi, Enrico, 93
+
+Fermi’s Paradox, 93
+
+Fibonacci Sequence, 37
+
+Field, Doug, 301
+
+Fisker, Henrik, 196, 197
+
+Flesh without Blood, 306
+
+Fletcher, Winnifred. See Haldeman, Winnifred Fletcher
+
+Flextronics, 165
+
+Flying Haldemans, The, 11
+
+Flynn, Michael, 262
+
+Food and Drug Administration (FDA), 613
+
+Ford, Harrison, 448
+
+Ford, Henry, 132
+
+Ford Motor Company, 179, 193
+
+Foster, Norman, 466, 472–73, 559
+
+Foundation series (Asimov), 31
+
+Founders Fund, 183–84, 240
+
+Francis (pope), 471–72
+
+Free Press, The, 569
+
+Fricker, Harris, 74, 75
+
+Fridman, Lex, 564
+
+Full Self-Driving (FSD). See Tesla Autopilot project
+
+
+
+Gadde, Vijaya, 513, 525
+
+Gage, Tom, 126, 127, 128, 129
+
+Galaxian, 33
+
+Garcetti, Eric, 258
+
+Garver, Lori, 206–7, 211, 212
+
+Garvey, John, 108
+
+Gates, Bill, 435, 436–39 artificial intelligence and, 600–601
+
+EM’s admiration for, 80
+
+management style, 166, 436
+
+philanthropy and, 436–37, 438, 439
+
+praise for EM, 438–39
+
+startup and, 133
+
+Tesla short-selling and, 437–38
+
+
+
+
+
+Gelles, David, 296–97
+
+General Motors (GM), 128, 143, 193, 277, 408, 420–21
+
+Gerstenmaier, Bill, 189, 384
+
+Gertrude (pig), 401–2
+
+Gingrich, Newt, 262
+
+Girotra, Kunal, 370
+
+Giuliani, Rudy, 79
+
+Gladiator, 443
+
+Glover, Juleanna, 262, 297
+
+Gonzalez, Lorena, 420
+
+Google artificial intelligence and, 241–42, 243–44, 600, 601, 602, 603, 605
+
+self-driving cars, 246
+
+venture capitalists and, 63
+
+
+
+
+
+Gorman, James, 492
+
+Gracias, Antonio, 155 automation and, 274
+
+background of, 156–57
+
+Burning Man and, 379
+
+on EM’s childhood trauma, 19
+
+EM’s impulsive tweets and, 290, 614–15
+
+EM’s management of Twitter and, 540
+
+on EM’s personality, 158
+
+EM’s psychological tailspin (2018) and, 288
+
+EM’s visit to Errol and, 265
+
+family gatherings (2022) and, 591
+
+proposal to take Tesla private ad, 292
+
+Roadster production costs and, 158, 161
+
+SEC deal and, 294
+
+Tesla EM removal attempts and, 191
+
+Tesla financial issues and, 161
+
+Tesla investment, 138, 180
+
+Twitter acquisition and, 449, 489–90, 511, 512
+
+Watkins and, 158–59
+
+
+
+
+
+Griffin, Kathy, 554
+
+Griffin, Michael, 98, 99, 101, 207
+
+Grimes (Claire Boucher), 305, 376 astronaut transport and, 348
+
+Austin home plans and, 472
+
+Banks attacks and, 308–9
+
+The Boring Company and, 258–59, 472
+
+breakup with EM, 379–80
+
+Christina’s birthday party and, 409
+
+Cybertruck project and, 320
+
+Ellison visit (2022), 590–91
+
+EM’s Boca Chica home and, 330, 331, 345
+
+EM’s children with, 340, 341–42, 379, 415–16, 466, 468
+
+EM’s children with Zilis and, 467–68
+
+EM’s contentment aversion and, 5, 41
+
+EM’s management of Twitter and, 530, 575
+
+on EM’s personality, 5, 310–11
+
+EM’s politics and, 423, 424
+
+EM’s psychological tailspin (2018) and, 307, 311
+
+family gatherings (2022) and, 591
+
+on Gates, 438
+
+Inspiration4 mission and, 381, 385
+
+Met Gala and, 380–81
+
+Polytopia and, 425–26, 427
+
+relationship with EM, 306–10
+
+Saturday Night Live and, 377
+
+server move and, 584
+
+stalking and, 574–75
+
+Starship launch and, 607, 609, 612, 615
+
+Starship system and, 481
+
+Twitter acquisition and, 7
+
+Twitter and, 448
+
+video games and, 7, 426, 455
+
+visit to family, 454
+
+X’s birth and, 340, 341, 342
+
+Zilis and, 413
+
+
+
+
+
+Grimes, Michael, 460, 513
+
+Gross, Michael, 66
+
+Guillen, Jerome, 282, 405
+
+Gwynne, Jennifer, 57
+
+
+
+Haile, Tony, 508
+
+Halberstam, David, 573
+
+Haldeman, J. Elon (EM’s great-grandfather), 16
+
+Haldeman, Joshua (EM’s grandfather), 9, 10, 11–12
+
+Haldeman, Kaye (EM’s great aunt), 11
+
+Haldeman, Maye (EM’s mother), 13
+
+Haldeman, Winnifred Fletcher (EM’s grandmother), 9, 10–11, 19–20, 25
+
+Halo, 318
+
+Harlow, Stephen, 360
+
+Harris, Bill, 75, 77, 78
+
+Harriss, Trip, 184–85
+
+Harwell, Drew, 575, 576, 577
+
+Hassabis, Demis, 240–41, 600
+
+Heard, Amber, 260, 262–64, 266, 268, 283, 291, 306, 309
+
+Heath, Alex, 558
+
+Heidegger, Martin, 30
+
+Heinlein, Robert, 224
+
+Higgins, Tim, 298
+
+Hitchhiker’s Guide to the Galaxy, The (Adams), 6, 31–32, 51, 93, 299–300, 386, 415, 606
+
+Hodak, Max, 400
+
+Hoffman, Reid artificial intelligence and, 241, 242
+
+EM’s Mars mission and, 92–93
+
+OpenAI and, 242
+
+PayPal coup and, 82, 83–84, 86
+
+PayPal merger and, 78–79
+
+SpaceX concept and, 92–99
+
+
+
+
+
+Hollander, Nicole, 547, 584
+
+Hollman, Jeremy, 112, 152
+
+Horowitz, Andreessen, 461, 489
+
+House, Nick, 173
+
+Howery, Ken, 82, 183, 345, 423, 446–47
+
+Hughes, Lucas, 358, 363–65, 366–67
+
+Hull, Dana, 421
+
+human-computer interfaces. See Neuralink
+
+Hunt, William, 11
+
+Hurley, Chad, 420
+
+Hyperloop, 258
+
+
+
+idiot index, 99–100, 363–65
+
+“Importance of Being Solar, The” (Musk), 51
+
+Innovator’s Dilemma, The (Christensen), 84
+
+Inspiration4 mission, 383–85, 388
+
+International Space Station astronaut transport to, 212, 225, 348–49, 441
+
+cargo missions to, 122, 188, 189, 204, 231
+
+Obama administration SpaceX contract, 210–12
+
+space capsule returns from, 211, 614
+
+SpaceX supply rockets contract, 188, 189, 204
+
+
+
+
+
+internet. See Starlink; X.com; Zip2
+
+Iron Man, 142
+
+Iron Man 2, 142
+
+Isaacman, Jared, 382, 383, 384–85, 386, 476
+
+Ive, Jony, 197, 200
+
+
+
+Jackson, Andrew, 6
+
+Jobs, Steve architecture and, 337, 559
+
+company leadership and, 63, 133
+
+engineering integration and, 200
+
+human-computer interfaces and, 399
+
+Jony Ive and, 197, 200
+
+management style, 7, 64, 114, 166, 167, 559
+
+OCD and, 218
+
+product launches and, 140
+
+Roadster launch and, 143
+
+sealed devices and, 56
+
+simplicity and, 76
+
+venture capitalists and, 63
+
+
+
+
+
+Joe Rogan show, 295, 297–98
+
+Johnsen, Bret, 363
+
+Johnson, RJ, 370
+
+Jones, Alex, 554
+
+Jost, Colin, 377
+
+Juncosa, Mark, 325 background of, 322–23
+
+Burning Man and, 379
+
+business principles and, 427
+
+on cost-effectiveness, 112
+
+Falcon 9 successes and, 209, 232–33
+
+Model 3 production surge and, 271, 279
+
+personality of, 323, 389, 477, 479
+
+Bill Riley and, 327
+
+Starlink and, 322, 323–24, 355
+
+Starship launch and, 607, 608, 609
+
+Starship system and, 378, 477, 478, 479
+
+Tesla financial issues and, 180–81
+
+Zilis and, 413
+
+
+
+
+
+Junod, Tom, 170, 237
+
+Jurvetson, Steve, 138, 231
+
+
+
+Kalayjian, Nick, 282
+
+Karate Kid, The, 360
+
+Karpathy, Andrej, 244, 600
+
+Kay, Alan, 399
+
+Kennedy, John F., 207–8, 226
+
+Kennedy, Robert, Jr., 578
+
+Khanna, Ro, 514
+
+Kirkhorn, Zach, 501, 502
+
+Kissinger, Henry, 539
+
+Kistler Aerospace, 122
+
+Klain, Ron, 421
+
+Kleinrock, Len, 517
+
+Klum, Heidi, 535
+
+Koenigsmann, Hans, 382 departure of, 385
+
+Falcon 1 launch attempts and, 151, 154, 175
+
+Inspiration4 mission and, 384
+
+Kwajalein Island launch site and, 144, 147, 149
+
+safety and, 351–52
+
+Shotwell and, 120
+
+Starship system and, 611–12
+
+
+
+
+
+Kovac, Milan, 333, 396, 495, 497, 499, 500
+
+Krebs, Andy, 358, 361, 366, 367–68, 475, 476, 478, 480
+
+Kuehmann, Charles, 317
+
+Kuhn, Joe, 258, 259
+
+Kurzweil, Ray, 401
+
+
+
+Landrieu, Mitch, 422
+
+Lee, Bill, 173, 174, 180, 275, 443
+
+Lee, Spike, 448
+
+Levchin, Max EM’s reconciliation with, 87, 183–84
+
+on EM’s sense of mission, 94
+
+Nosek and, 423
+
+PayPal coup and, 82, 83, 86, 87
+
+“PayPal mafia” and, 183
+
+PayPal merger and, 76, 77, 78, 79, 81
+
+PayPal recoding effort and, 79–80
+
+
+
+
+
+Licklider, J. C. R., 399
+
+LiDAR, 246, 406
+
+Life of Brian, 563
+
+LinkedIn, 78–79
+
+Lockheed, 101, 123, 145
+
+Lockheed-Boeing United Launch Alliance, 204, 205, 206
+
+Lohan, Lindsay, 291
+
+Lonsdale, Joe, 423, 444
+
+Lord of the Rings (Tolkien), 307
+
+Lorenz, Taylor, 575
+
+Lotus, 132–33, 135, 136, 137, 156, 160, 200, 316
+
+Lucid, 421, 468
+
+Ludicrous (Niedermeyer), 406
+
+
+
+Mac, Ryan, 290, 575
+
+MacAskill, William, 460
+
+Machete Kills, 262
+
+Macron, Emmanuel, 567
+
+MAGA, 424
+
+Maheu, Jean-Philippe, 534
+
+“Man-Computer Symbiosis” (Licklider), 399
+
+Mango, Tim, 146–47
+
+Marks, Michael, 165–68
+
+Mars Society, 92, 95, 129
+
+Marver, Jim, 138
+
+Matrix, The, 418, 578
+
+Maxwell, Ghislaine, 296
+
+McAuliffe, Christa, 119, 385
+
+McCarthy, Kevin, 424
+
+McCormick, Kathaleen, 490
+
+McFarland, K. T., 262
+
+McKenzie, Jake, 387, 389–90, 478, 479, 480, 607, 608
+
+McNeill, Jon, 257, 268–69, 273, 301
+
+men’s-rights activists, 418
+
+Metz, Cade, 406
+
+Michaels, Lorne, 377
+
+Microcosm Inc, 120
+
+Microsoft, 80, 600, 601–2, 603
+
+Milley, Mark, 431, 535
+
+“Ministry of Silly Walks, The” (Monty Python), 498
+
+Mint (pig), 497
+
+Miskovetz, Lizzie, 499
+
+Mission: Impossible, 585
+
+Mobileye, 248
+
+Mohr Davidow Ventures, 62, 63
+
+Montana, French, 484
+
+Moon Is a Harsh Mistress, The (Heinlein), 31
+
+Moravy, Lars, 279, 390, 396, 407, 501, 502, 504
+
+Moritz, Michael, 75, 77, 79, 82, 83–84, 138, 461
+
+Morris, Dave, 198, 220, 318–19
+
+Morris, Rich, 351
+
+Mosdell, Brian, 204–5
+
+Mueller, Marcus, 372
+
+Mueller, Tom, 106 background of, 107–8
+
+cost-effectiveness and, 112–13
+
+Falcon 1 launch attempts and, 151–52, 154, 176
+
+improvisation and, 117
+
+on iterative design approach, 114
+
+naming and, 110
+
+SpaceX recruitment, 108–9
+
+testing and, 115, 116, 117
+
+unrealistic deadlines and, 113–14
+
+
+
+
+
+Murdoch, Elisabeth, 471
+
+Murdoch, James, 471
+
+Musk, Andrew (EM’s cousin), 515, 536 EM’s impulsive tweets and, 587
+
+family gatherings (2022) and, 586
+
+Neuralink and, 564
+
+server move and, 581, 583–85, 588
+
+Twitter firings and, 516, 518, 519, 522, 547–48, 556
+
+
+
+
+
+Musk, Azure Astra Alice (EM’s daughter), 412, 414, 467, 599, 603
+
+Musk, Christiana (EM’s sister-in-law), 265, 343–44, 409, 416, 426, 586, 588, 591
+
+Musk, Cora (EM’s grandmother), 9, 12, 23
+
+Musk, Damian (EM’s son), 169, 342, 378, 410, 471, 586, 587
+
+Musk, Elon (EM), 59, 275 Austin home plans, 466, 472–73
+
+birth of, 16
+
+on birthrates, 413, 468, 475–76, 498, 604
+
+Boca Chica home, 325, 330–31, 345
+
+departure from South Africa, 38–39
+
+early Canada years, 40, 41–43, 43
+
+family background, 9, 10–14, 94
+
+family gatherings (2022) and, 586–88
+
+fiftieth birthday celebration, 378
+
+Gates and, 436–39
+
+honeymoon, 83
+
+maniacal sense of urgency and. See unrealistic deadlines and below
+
+marriages. See Musk, Justine Wilson; Riley, Talulah
+
+meeting with pope, 471–72
+
+Nevada’s birth and death and, 103–4, 105, 554
+
+philanthropy and, 437, 438, 439
+
+press coverage, 63–64, 75, 357, 558, 567, 575
+
+press relationships, 357
+
+sexual harassment accusation, 419
+
+as Time magazine Person of the Year, 416
+
+U.S. citizenship, 95
+
+—BELIEF IN HUMANITY:
+
+artificial intelligence and, 31, 241, 242, 243, 600, 602, 606
+
+automation/de-automation and, 281
+
+birthrates and, 413, 468, 475–76, 498
+
+Inspiration4 mission and, 386
+
+internet and, 58
+
+reality of, 6
+
+space travel and, 93–94, 100, 240
+
+—BUSINESS PRINCIPLES:
+
+automation/de-automation and, 57, 272, 274–75, 280, 281–82
+
+cost-effectiveness, 112–13, 148, 246, 337, 374
+
+engineering integration, 79, 109, 200, 219, 372, 390, 494, 557
+
+founder qualifications, 109, 133
+
+hardcore culture and, 64, 220, 349, 350, 508, 522, 547, 550–51
+
+idiot index, 99–100, 363–65
+
+improvisation, 116–17, 148, 210, 211, 212, 282–83
+
+in-house component manufacturing, 112–13, 132
+
+iterative design approach, 114–15
+
+overview, 112–17
+
+Polytopia lessons, 426–27
+
+responsibility and, 152
+
+sense of mission and, 92–93, 129, 249–50
+
+See also production algorithm and unrealistic deadlines and below
+
+—CHILDHOOD, 1, 15, 21, 22, 35
+
+abuse and trauma during, 2–6, 7, 19, 21, 36–38, 104, 171, 264, 309, 458
+
+computer programming and, 29, 33–34, 36, 43
+
+cousins and, 25–26, 27, 28, 32–33, 252
+
+determination and, 17–18, 33
+
+Dungeons & Dragons and, 32–33
+
+entrepreneurship and, 27
+
+existential crisis, 30–32
+
+gambling, 36–37
+
+living with father, 23–24, 25
+
+loneliness, 17
+
+overseas trips, 24
+
+parents’ divorce and, 20
+
+reading, 20, 27, 30–32
+
+religion and, 30
+
+school experiences, 3–4, 16–17, 26–27
+
+space travel interest, 27–28
+
+violent environment of, 2, 25, 41, 64–65
+
+—CHILDREN OF:
+
+caring and, 5, 38
+
+with Grimes, 340, 341–42, 379, 415–16, 466, 468
+
+with Justine, 5, 169, 342
+
+parenting, 18, 341, 414–15, 475, 481, 612
+
+Talulah and, 471
+
+wealth and, 344–45
+
+with Zilis, 412, 413–15, 467–68, 599, 603
+
+See also specific children
+
+—COLLEGE YEARS, 45–53
+
+friendships, 45, 50–51, 52
+
+Nicholson mentorship, 47–48
+
+partying, 52–53
+
+relationship with Justine, 69–70
+
+road trips, 56–57
+
+Silicon Valley internships, 54, 55–56
+
+strategy games, 46–47, 51
+
+—COMPANIES:
+
+The Boring Company, 257–59, 288, 298, 441, 472, 496, 585
+
+X.AI, 244, 605–6
+
+X.com, 73, 74–79, 81, 87, 447
+
+See also EM’s management of Twitter; Neuralink; SpaceX; Tesla; Twitter acquisition; Zip2
+
+—DRAMA ATTRACTION:
+
+artificial intelligence and, 601
+
+childhood trauma and, 6
+
+contentment aversion and, 410, 442
+
+EM’s admission of, 7
+
+Grimes and, 308
+
+Heard and, 263–64
+
+Justine and, 70–71, 169
+
+SpaceX and, 380–81
+
+surges and, 362
+
+tailspin (2018) and, 288
+
+Talulah and, 216, 471
+
+Twitter acquisition and, 547
+
+—HARSHNESS:
+
+Agrawal and, 445
+
+Baglino on, 199
+
+childhood, 17
+
+childhood trauma and, 169
+
+Lucas Hughes and, 363–65
+
+Kimbal and, 64
+
+lack of memory of, 396, 497
+
+Marks on, 165–66
+
+Salzman on, 191
+
+Straubel on, 273
+
+Twitter acquisition and, 489
+
+—HEALTH ISSUES:
+
+back and neck pain, 237, 378, 396
+
+COVID, 346
+
+dieting, 497, 603
+
+malaria, 88–89
+
+See also mental health issues below
+
+—HUMOR:
+
+anti-wokeness and, 419
+
+birthrates and, 468
+
+Falcon 1 launch attempts and, 152
+
+flamethrowing and, 298–99, 496
+
+irony and, 80–81
+
+management of Twitter and, 549
+
+Mechazilla and, 360
+
+naming and, 257
+
+Optimus and, 485, 498
+
+Roadster space launch, 299–300
+
+Starship launch and, 609
+
+Teller’s management of, 230
+
+Tesla automation/de-automation and, 282
+
+Tesla Chinese manufacturing and, 313
+
+Tesla fart app, 303
+
+Twitter acquisition and, 507
+
+—IMPULSIVE TWEETS:
+
+attempts to prevent, 614–15
+
+children and, 472
+
+competition with Bezos and, 356
+
+EM’s sons and, 587, 588
+
+Gates and, 438
+
+Kimbal on, 578, 586–87
+
+management of Twitter and, 533, 534, 577–78
+
+Polytopia lessons and, 427
+
+proposal to take Tesla private, 292–93, 294
+
+Spiro and, 512
+
+Thai cave rescue and, 289–91
+
+Twitter acquisition and, 490
+
+Twitter Files and, 567
+
+—INTERESTS:
+
+Burning Man, 252, 310, 378–79
+
+computer programming, 29, 33–34, 36
+
+engineering, 27, 55, 56, 57–58, 326–27, 354–55, 388
+
+flying, 90
+
+internet, 57–59
+
+mechanics, 56–57
+
+partying, 52–53, 169, 190, 215–16, 237
+
+reading, 20, 27, 30–32, 51
+
+strategy games, 46–47, 51, 425
+
+See also space travel; video games
+
+—MANAGEMENT STYLE, 445
+
+firings and, 220, 273, 313, 333–34, 352, 363, 374–75, 518
+
+See also under EM’s management of Twitter
+
+future imaginings and, 150
+
+Lucas Hughes on, 366–67
+
+job interviews and, 204–5
+
+Andy Krebs on, 367–68
+
+Marks on, 165–66, 167
+
+Neuralink and, 402
+
+participation, 480–81
+
+sense of mission and, 249–50
+
+SpaceX and, 64, 110, 113–14, 150
+
+surges, 270–73, 279, 281, 314, 361–62, 583–86
+
+Tesla and, 140, 165–66
+
+“walk to the red,” 278–79, 283
+
+X.com and, 74–75
+
+Zip2 and, 64–65
+
+See also harshness above; personality and unrealistic deadlines and below
+
+—MARS MISSION:
+
+college years, 51
+
+Gates on, 436–37
+
+Mars Society inspiration for, 92
+
+Optimus and, 485
+
+SpaceX founding and, 92–94, 100, 321
+
+Starlink founding and, 321
+
+Starship system and, 326, 362, 391, 604–5, 608, 611
+
+unrealistic deadlines and, 391
+
+vision/hype mixing and, 230, 604
+
+—MENTAL HEALTH ISSUES:
+
+Joe Rogan show and, 295, 297–98
+
+Kimbal’s Ayahuasca suggestion and, 346
+
+open-loop warnings and, 291, 586
+
+stress-induced stomach pains, 173, 180, 409–10
+
+tailspin (2018), 268–70, 288–91, 296–97, 307, 311, 317
+
+—NAMING AND:
+
+children and, 103, 341, 415
+
+humor and, 257
+
+rocket engines and, 110
+
+SpaceX company name and, 101
+
+X.com and, 74, 79
+
+Zip2 and, 62, 64, 65
+
+—PERSONALITY:
+
+accomplishments and, 7
+
+apocalyptic outlook, 431
+
+Asperger’s and, 18–19, 120–21, 158, 166, 170, 310–11, 377
+
+attempts to restrain, 615
+
+caring, 5, 38, 158
+
+changeability, 5–6, 16, 36, 38, 214, 222, 268, 302, 310, 424
+
+college years and, 53
+
+combativeness, 70–71, 170
+
+competitiveness, 25–26, 46, 76–77, 110, 200
+
+conspiratorial mindset, 357, 418, 533, 566, 578, 586–87
+
+contentment aversion, 5, 409, 410–11, 441–42
+
+decision-making and, 405, 490
+
+demon mode, 5, 299, 310, 311, 424, 537–39
+
+determination, 17–18, 33, 69–70, 138, 176–77, 524
+
+emotional repression, 5, 104, 170–71
+
+empathy deficit, 19, 64, 71, 120–21, 249, 385, 426, 612
+
+enemies and, 164, 192
+
+future imaginings as refuge and, 150, 240, 317–18, 385, 608
+
+gentleness, 32
+
+impatience, 147
+
+impulsivity, 66, 392, 455, 527, 584
+
+Justine on, 104, 170–71
+
+love of celebrity, 66, 85, 95, 139, 142, 169, 381, 491, 524
+
+management of Twitter and, 534
+
+non-collegiality, 64, 85, 119
+
+OCD and, 218
+
+positive effects of, 7, 615
+
+processing trances, 16–17, 191, 240, 257, 479, 591, 608
+
+reality distortion, 110, 114, 584
+
+resistance to authority, 261, 272, 320, 351, 379, 417, 424, 476
+
+Saturday Night Live appearance and, 377
+
+sense of mission, 6, 66, 92–94, 100, 129, 249, 334, 457–58
+
+sensitivity about credit, 139
+
+spaciness, 17, 18
+
+stubbornness, 503
+
+vision/hype mixing, 230, 249–50, 303, 328–29, 334, 604, 613
+
+work obsession, 236, 237–38, 307
+
+See also drama attraction, harshness, humor, and management style above; risk attraction below
+
+—POLITICS AND, 417–24, 447
+
+anti-wokeness and, 418–19, 420, 424, 443, 458, 465, 530, 569
+
+Biden and, 420–23
+
+changeability and, 424
+
+COVID-19 pandemic and, 417–18
+
+Larry David on, 491–92
+
+Democratic criticism and, 420
+
+disdain for Trump, 261, 420, 443, 555
+
+friends and, 423–24
+
+libertarianism and, 423, 443–44, 447, 457
+
+James and Elisabeth Murdoch and, 471
+
+Obama support and, 261, 418
+
+right-wing shift, 419–20, 424
+
+Twitter and, 465
+
+—PRODUCTION ALGORITHM:
+
+Giga Texas, 337–38
+
+Neuralink and, 402–3
+
+overview, 284–86
+
+questioning requirements and, 113, 272, 284–85, 286, 351, 370–71, 401–2
+
+SolarCity and, 370–72, 373
+
+SpaceX and, 113, 152
+
+Starlink and, 322, 323–24
+
+Starship system and, 328, 365, 378, 477–78
+
+Tesla and, 274, 278–81
+
+X.com and, 76
+
+—RISK ATTRACTION, 613–14
+
+childhood and, 5, 6, 10, 25
+
+family background and, 12, 94, 252, 612
+
+flying and, 91
+
+management of Twitter and, 522, 555
+
+parenting and, 18, 481, 612
+
+parties and, 237
+
+PayPal and, 77, 86
+
+public criticism of, 293
+
+Tesla and, 86, 613
+
+See also SpaceX, risk and
+
+—UNREALISTIC DEADLINES AND:
+
+PayPal, 101
+
+SpaceX, 101, 113–14, 177, 184
+
+Starship system, 360–61, 362, 391, 477
+
+Tesla, 165, 269, 319, 333
+
+Tesla server move, 590
+
+X.com, 75
+
+—WEALTH OF, 74, 408–11
+
+ambivalence about, 66–67
+
+lifestyle downsizing and, 344–46, 409
+
+marriage with Justine and, 170
+
+public criticisms and, 409, 420
+
+rift with daughter Jenna and, 343–44, 408–9, 418–19, 467
+
+taxes and, 409
+
+
+
+
+
+Musk, Errol (EM’s father), 9, 260 abuse by, 3–4, 7, 36, 37–38, 169
+
+background of, 12–13
+
+changeability of, 36
+
+computer programming and, 33
+
+conspiratorial mindset, 36, 578–79
+
+Dad of a Genius on, 470
+
+divorce, 19–20
+
+EM’s and Kimbal’s visit to (2016), 265
+
+EM’s childhood determination and, 18
+
+EM’s childhood years with, 23–24, 25
+
+EM’s financial support for, 469–70
+
+EM’s marriage to Justine and, 68
+
+EM’s name and, 16
+
+EM’s school experiences and, 17
+
+gambling and, 36–37
+
+marriage of, 13–14
+
+move to Los Angeles, 102, 104–5
+
+racism and, 13
+
+reality distortion and, 24, 37, 39, 264
+
+religion and, 30
+
+stepdaughter Jana and, 105, 265–66, 268, 470
+
+Zip2 and, 61, 66
+
+
+
+
+
+Musk, Griffin (EM’s son), 217 birth of, 169
+
+EM’s fiftieth birthday celebration and, 378
+
+EM’s marriage to Talulah and, 215
+
+personality of, 343, 587, 588
+
+Starship launch and, 607
+
+Talulah on, 471
+
+Twitter and, 448
+
+video games and, 588
+
+
+
+
+
+Musk, James (EM’s cousin), 546, 553 Autopilot project and, 333, 334
+
+EM’s impulsive tweets and, 577, 587
+
+family gatherings (2022) and, 586
+
+Model 3 production and, 271
+
+Neuralink and, 564
+
+server move and, 581, 583–85, 588–90
+
+Trump Twitter reinstatement issue and, 555
+
+Twitter Files and, 569, 571
+
+Twitter firings and, 515, 518, 519, 521, 522, 536, 547–48, 549, 555, 556, 557
+
+Twitter hardcore opt-in and, 550, 551
+
+
+
+
+
+Musk, Jenna (EM’s daughter). See Wilson, Vivian Jenna
+
+Musk, Justine Wilson (EM’s first wife), 168, 424 courtship, 69–70
+
+divorce, 171, 173, 177, 180
+
+on EM celebrity dinner, 92
+
+EM Rio vacation, 87
+
+EM’s and Kimbal’s visit to Errol and, 265
+
+on EM’s childhood trauma, 5, 38, 171
+
+EM’s children with, 5, 169, 342
+
+EM’s politics and, 424
+
+dating EM, 70–71
+
+honeymoon, 83
+
+Los Angeles move and, 95
+
+marriage, 68, 72, 72, 169–70
+
+Mars Society and, 92
+
+Mueller and, 108
+
+Nevada’s birth and death and, 103, 104, 171
+
+relations with EM’s family, 70, 88
+
+relationship difficulties, 170–71
+
+SpaceX Russia trip, 98
+
+twins pregnancy, 129–30
+
+Zip2 and, 60
+
+
+
+
+
+Musk, Kai (EM’s son) astronaut transport and, 348
+
+birth of, 169
+
+career choices, 587
+
+EM’s fiftieth birthday celebration and, 378
+
+family gatherings (2022) and, 587, 591
+
+personality of, 342–43, 587
+
+Talulah on, 471
+
+
+
+
+
+Musk, Kimbal (EM’s brother), 49, 60, 102, 295 astronaut transport and, 348–49
+
+birth of, 16
+
+Burning Man and, 378–79
+
+childhood of, 9, 15, 20, 22, 28
+
+childhood overseas trips, 24
+
+college years, 57
+
+cousins and, 25, 27, 28, 32–33, 252
+
+COVID and, 346
+
+Dungeons & Dragons and, 32–33
+
+EM Rio vacation, 87
+
+on EM’s childhood, 3, 4, 17–18, 23, 36, 37
+
+EM’s impulsive tweets and, 578, 586–87
+
+EM’s management of Twitter and, 580
+
+on EM’s management style, 64–65
+
+EM’s marriage to Talulah and, 174
+
+on EM’s personality, 6
+
+on EM’s psychological tailspin (2018), 288, 291
+
+EM’s reconciliation with, 346
+
+EM’s relationship with Justine and, 70, 71–72, 169–70
+
+Errol’s Los Angeles move and, 104, 105
+
+Errol’s move to Los Angeles and, 105
+
+Errol’s relationship with stepdaughter Jana and, 266
+
+Falcon 1 launch attempts and, 150, 151, 186–87, 300
+
+family gatherings (2022) and, 586, 587, 591
+
+Amber Heard and, 263, 264
+
+on Jack in the Box, 61
+
+mentors and, 47
+
+move to Canada, 43, 43
+
+Nevada’s birth and death and, 103
+
+open-loop warnings and, 291, 586
+
+partying and, 216
+
+restaurant business, 300–301
+
+rupture with EM, 300–301
+
+Saturday Night Live and, 377
+
+SEC deal and, 294, 300
+
+on server rack idea, 62
+
+SolarCity and, 253
+
+Tesla EM removal attempts and, 191
+
+Tesla financing issues and, 138
+
+Tesla investment, 179–80
+
+Twitter and, 449, 450, 451, 452, 459
+
+video games and, 34, 346, 426, 427
+
+violent childhood environment and, 2, 25, 26, 64–65
+
+Zip2 and, 60, 61–63, 64–65
+
+
+
+
+
+Musk, Maye (EM’s mother), 9, 15, 532 birth of, 11
+
+divorce, 19–20
+
+EM birth, 16
+
+on EM living with father, 23
+
+on EM’s Asperger’s, 19
+
+EM’s Boca Chica home and, 330–31
+
+on EM’s children, 342
+
+EM’s college partying and, 52
+
+EM’s contentment aversion and, 410
+
+on EM’s loneliness, 17
+
+EM’s management of Twitter and, 534
+
+EM’s marriage to Justine and, 68
+
+EM’s marriage to Talulah and, 174
+
+Grimes and, 308
+
+marriage of, 13–14
+
+Met Gala and, 380
+
+move to Canada, 42–43
+
+on Nevada’s death, 103
+
+religion and, 30
+
+risk attraction and, 12, 612
+
+Saturday Night Live and, 376, 377
+
+Starship launch and, 612, 615
+
+Twitter and, 448, 449
+
+Zip2 and, 60, 61–63, 66
+
+
+
+
+
+Musk, Nevada (EM and Justine’s son), 103–4, 105, 171, 554
+
+Musk, Saxon (EM’s son) birth of, 169
+
+Cybertruck project and, 318
+
+EM’s fiftieth birthday celebration and, 378
+
+EM’s marriage to Talulah and, 215
+
+family gatherings (2022) and, 588
+
+meeting with pope and, 471–72
+
+Talulah on, 471
+
+Twitter and, 448
+
+X’s birth and, 342
+
+
+
+
+
+Musk, Strider Sekhar Sirius (EM’s son), 412, 414, 467, 599, 603
+
+Musk, Techno Mechanicus (Tau) (EM’s son), 466, 468–69, 607, 609
+
+Musk, Tosca (EM’s sister) birth of, 16
+
+childhood of, 9, 15
+
+childhood overseas trips, 24
+
+on Errol’s childhood trauma, 36
+
+friends and, 17
+
+in-vitro fertilization and, 413
+
+move to Canada, 42–43
+
+on parents’ divorce, 20
+
+Saturday Night Live and, 377
+
+Zip2 and, 61
+
+
+
+
+
+Musk, Walter (EM’s grandfather), 9, 12
+
+Musk, X Æ A-12 (X) (EM’s son), 340, 412, 466 birth of, 340, 341–42
+
+Ellison visit (2022), 591
+
+EM’s contentment aversion and, 410
+
+EM’s diet and, 497
+
+EM’s management of Twitter and, 518, 534
+
+EM’s parenting and, 18, 341, 415, 475, 481, 612
+
+family gatherings (2022) and, 586, 591
+
+name of, 341
+
+Optimus and, 395, 495, 497
+
+Person of the Year ceremony and, 416
+
+server move and, 584
+
+SolarCity and, 371
+
+stalking and, 574, 576
+
+Starship launch and, 607, 609
+
+Starship system and, 359, 475, 478, 481
+
+visit to Grimes’s family, 454
+
+
+
+
+
+Musk, Xavier (EM’s son). See Wilson, Vivian Jenna
+
+Musk, Y/Why? (EM’s daughter), 415–16, 609
+
+
+
+Nadella, Satya, 261, 600–601
+
+NASA Biden and, 422
+
+Constellation program, 206–7
+
+Falcon 1 rocket prototype and, 121–22
+
+Mike Griffin and, 98, 101
+
+regulations and, 113
+
+Starship system and, 475
+
+See also International Space Station; Space Shuttle
+
+
+
+
+
+National Air and Space Museum, 121
+
+National Labor Relations Board, 421
+
+NATO, 434
+
+Navteq, 62
+
+Nelson, Bill, 386
+
+Neumann, John von, 604
+
+neural dust (brain implants), 400
+
+Neuralink, 398 AI safety and, 243, 394
+
+chip for, 401–3
+
+FSD and, 614
+
+launch of, 244, 399–401, 457
+
+miracle cures and, 561, 562–63, 564
+
+production algorithm and, 402–3
+
+value of, 441
+
+video games and, 310
+
+walking pig and, 497–98
+
+Zilis and, 400–401, 402, 413, 414, 468, 497, 562, 563
+
+
+
+
+
+Newton, Casey, 558
+
+Nicholson, Peter, 47–48, 58
+
+Niedermeyer, Edward, 406
+
+Nietzsche, Friedrich, 30
+
+Nix, Bill, 59
+
+Nolan, Jonah, 609
+
+Nordeen, Ross, 546 background of, 517
+
+Neuralink and, 564
+
+server move and, 581, 585
+
+Trump Twitter reinstatement issue and, 555
+
+Twitter Files and, 569, 570–71, 572
+
+Twitter firings and, 515, 522, 548, 549, 556, 557
+
+Twitter hardcore opt-in and, 550, 551
+
+
+
+
+
+Nosek, Luke, 82 artificial intelligence and, 241
+
+astronaut transport and, 348
+
+EM’s politics and, 423
+
+Founders Fund and, 183
+
+PayPal and, 83
+
+Twitter and, 446, 447, 449
+
+
+
+
+
+Notopoulos, Katie, 577
+
+
+
+Obama, Barack, and administration artificial intelligence and, 242
+
+EM’s political support of, 261, 418
+
+on fathers and sons, 4
+
+SpaceX and, 203, 206–8, 211–12, 226
+
+
+
+
+
+Odhner, Kale, 480
+
+O’Dowd, Dan, 406
+
+O’Keefe, Sean, 122
+
+OpenAI ChatGPT, 243, 593, 601, 606
+
+EM’s attacks on, 601–2
+
+founding of, 242–44, 394
+
+Zilis and, 401, 413
+
+
+
+
+
+Optimus AI Day 2 presentation of, 487, 496–97, 498–500
+
+AI Day presentation of, 393, 394, 395–97
+
+AI safety and, 485–86
+
+conception of, 244, 457
+
+design of, 482, 483–85
+
+Dojo and, 595
+
+production of, 486–87
+
+Tesla AI Days and, 487, 495, 496–97, 498–500
+
+
+
+
+
+Orbital Sciences, 231
+
+
+
+Page, Larry artificial intelligence and, 240–41, 243–44, 395, 600
+
+marriage of, 169
+
+self-driving cars and, 246
+
+Tesla investment, 138
+
+Trump and, 261
+
+venture capitalists and, 63
+
+
+
+
+
+Pager (macaque monkey), 398, 403
+
+Paine, Chris, 143
+
+Panasonic, 221–22
+
+Paris Accord, 262
+
+Patel, Sam, 329, 362, 386, 477
+
+Payne, Chris, 597
+
+PayPal coup, 83–86, 87, 91, 109, 183–84
+
+eBay acquisition of, 86–87
+
+EM’s irony and, 80–81
+
+EM’s life insurance policy, 88–89
+
+EM’s sensitivity about credit and, 139
+
+Gracias and, 157
+
+“mafia,” 82, 183–84
+
+recoding effort, 79–80
+
+Sacks and, 157
+
+unrealistic deadlines and, 101
+
+X.com merger, 76–79, 81
+
+
+
+
+
+PayPal brand, 83
+
+Pelosi, Paul, 533, 534, 586–87
+
+Pence, Mike, 262, 348
+
+Personette, Sarah, 534
+
+Peterson, Jordan, 423, 528, 529, 554
+
+Petro, Janet, 475
+
+Petrzelka, Joe, 478
+
+Pinnacle Research Institute, 55
+
+Pistol, 471
+
+“Player of Games” (Grimes), 379–80
+
+Podesta, John, 423
+
+Polytopia, 51, 409, 425–27, 512, 517
+
+Pritzker, Nick, Tesla investment, 138
+
+Project Mars (von Braun), 16
+
+Proudian, Derek, 65, 66
+
+Psaki, Jen, 421
+
+
+
+Queen’s University, 45–47
+
+
+
+Ramon, Yoni, 526, 527, 543
+
+Rawlinson, Peter, 200
+
+Redwood Materials, 302
+
+Ren, Robin, 49, 50–51, 57, 58, 312, 313–14
+
+Renegade Burn (2021), 379
+
+Ressi, Adeo, 90 EM’s friendship with, 52
+
+on EM’s personality, 53
+
+SpaceX concept and, 91–92, 95, 100
+
+SpaceX Russia trip and, 96, 97, 98–99
+
+
+
+
+
+Rick and Morty, 564
+
+Riley, Bill, 325, 327, 328, 359, 386, 475, 477, 478
+
+Riley, Talulah (EM’s second wife), 172, 213, 235 courtship, 173–74
+
+divorces, 236–37, 238
+
+on EM’s childhood trauma, 5
+
+EM’s personality and, 214–15
+
+parties and, 215–16, 235, 236, 237, 378
+
+relationship stability and, 216, 470–71
+
+remarriage, 237–38
+
+Tesla financial issues and, 180
+
+Tesla IPO and, 217, 219
+
+wedding, 215
+
+
+
+
+
+Ringler, Mike, 493
+
+Rive, Kaye (Maye’s sister), 25
+
+Rive, Lyndon (EM’s cousin), 25, 32, 251, 252–53, 256, 370
+
+Rive, Peter (EM’s cousin), 22, 28, 49, 251 EM’s childhood years with, 25, 26
+
+on EM’s father, 36
+
+on EM’s personality, 32, 36
+
+on EM’s video game interest, 34
+
+on Errol’s gambling, 36–37
+
+move to Canada, 43
+
+SolarCity and, 252–53, 254, 255, 256, 370
+
+X.com and, 74
+
+
+
+
+
+Rive, Russ (EM’s cousin), 22, 25, 28, 32, 87, 252
+
+Rivian, 421
+
+Robotaxi, 245, 250, 332, 334, 394, 485, 501, 502–5
+
+robotics Asimov’s laws of, 31, 243, 394, 486
+
+Autopilot project as AI data source, 603
+
+See also Optimus
+
+
+
+
+
+Robots and Empire (Asimov), 31
+
+Rock, Chris, 377, 381
+
+Rocket eBook, 127, 128
+
+Rocket Science, 55
+
+Rogan, Joe, 297–98, 345, 423, 444
+
+Roiland, Justin, 564
+
+Romney, Mitt, 424
+
+Rope, Keith, 82
+
+Rosen, Harold, 125–26
+
+Ross, Rick, 484
+
+Roth, Yoel, 523 advertiser boycotts and, 537–38
+
+content moderation and, 525–30, 531, 537, 567, 568, 572
+
+departure of, 542–44, 579
+
+EM’s attacks on, 579–80
+
+EM’s impulsive tweets and, 533
+
+Twitter Blue and, 539, 542–43
+
+
+
+
+
+Rowley, Gwynne (Shotwell), 119
+
+Russian invasion of Ukraine, 428–34 EM’s peace plan, 431–32
+
+Starlink and, 428–31, 432–34
+
+
+
+
+
+Sacks, David, 523 EM’s management of Twitter and, 530–31, 576
+
+EM’s reconciliation with, 87, 183
+
+Gracias and, 157
+
+PayPal coup and, 82, 83
+
+“PayPal mafia” and, 183
+
+politics and, 423–24, 529, 566
+
+Starlink for Ukraine and, 433
+
+Twitter acquisition and, 511
+
+
+
+
+
+Sailor Moon, 415
+
+Salzman, Alan, 138, 191–92
+
+San Souci, Ben, 509, 519, 548, 553
+
+Sarsfield, Liam, 122
+
+satellite communications. See Starlink
+
+Saturday Night Live, 376, 377
+
+Saudi Arabia, 291–93
+
+Scarborough, Joe, 492
+
+Scheutzow, Pete, 407
+
+Schiffer, Zoë, 558
+
+Schmidt, Eric, 241
+
+Schopenhauer, Arthur, 30
+
+Schwarzenegger, Arnold, 131, 140, 143
+
+science fiction, 30–32, 224, 243, 306, 310, 400, 485
+
+Securities and Exchange Commission (SEC), 292, 293–94, 409, 445
+
+Segal, Ned, 462, 507, 513
+
+self-driving cars. See Tesla Autopilot project
+
+Seo, DJ, 400, 497
+
+Sheehan, Neil, 573
+
+Shelby, Richard, 207
+
+Shotwell, Gwynne, 118 background of, 119–20
+
+Cape Canaveral Pad 40 and, 205
+
+DoD TacSat contract and, 121
+
+Dontchev and, 350
+
+EM’s management style and, 364, 365, 366
+
+Falcon 1 launch attempts and, 152
+
+Kistler NASA contract and, 122
+
+Malaysia contract, 145
+
+on Patel, 477
+
+as SpaceX president, 188–89
+
+Starlink for Ukraine and, 428, 432–33, 434
+
+Starship system and, 328–29, 362, 363, 364, 478–79, 611
+
+working relationship with EM, 119, 121, 328–29, 613
+
+
+
+
+
+Shroff, Dhaval Autopilot project and, 246
+
+neural network planner project and, 592, 593–97, 614
+
+Twitter firings and, 515, 518, 519, 522, 536, 548, 549, 556
+
+
+
+
+
+Singh, Dolly, 177
+
+Siri, 399
+
+Skarsgård, Alexander, 377
+
+Skoll, Jeff, 138, 180
+
+solar power, 51 See also SolarCity; Tesla Energy
+
+
+
+
+
+SolarCity, 252–56, 457 See also Tesla Energy
+
+
+
+
+
+Sorkin, Andrew Ross, 278
+
+Sorkin, Rich, 63, 65
+
+Sotira Composites, 159
+
+South Africa EM’s childhood in, 2–6, 22
+
+EM’s departure from, 38–39
+
+EM’s family background in, 11–13
+
+EM’s malaria and, 87–89
+
+violent environment of, 2, 25, 41, 64–65
+
+
+
+
+
+Space Exploration Technologies, 101
+
+Space Shuttle Challenger mission, 119–20, 385
+
+retirement of, 188, 206, 210, 212, 348
+
+
+
+
+
+space travel Bezos and, 224
+
+Challenger mission, 119, 385
+
+EM’s childhood interest in, 27–28, 31
+
+as tourism, 353, 356, 383
+
+Trump on, 261–62
+
+See also Musk, Elon (EM), Mars mission; SpaceX
+
+
+
+
+
+Spaceballs, 298–99
+
+Spacewar, 399
+
+SpaceX artificial intelligence projects of, 401
+
+astronaut transport and, 212, 225, 348–49, 441
+
+Bezos competition with, 226, 227–28, 231–32, 233–34
+
+Biden administration and, 535
+
+Cantrell and, 95–96
+
+Cape Canaveral Pad 39A, 225–26
+
+Cape Canaveral Pad 40, 204–5
+
+concept for, 91–92, 99
+
+cost-effectiveness focus and, 112–13, 148, 153
+
+DoD TacSat contract, 121
+
+Dontchev and, 349–51
+
+economic crisis (2007–2008) and, 180–81
+
+EM’s determination and, 176–77
+
+EM’s management style and, 64, 113–14
+
+EM’s sense of mission and, 92–94, 100, 321
+
+engineering integration and, 79, 109, 390
+
+Falcon 1 rocket, 110, 121
+
+Falcon 9 failures, 230–31
+
+Falcon 9 rocket, 188, 204–5, 324, 326, 328, 359
+
+Falcon 9 successes, 209, 210, 232–34, 326, 441
+
+Falcon Heavy rocket, 300, 326, 328–29, 535
+
+first rocket plans, 100–101
+
+Founders Fund investment in, 183–84
+
+Gates and, 436–37
+
+government contracting system and, 122, 123, 145, 205, 206
+
+hardcore culture and, 349, 350
+
+idiot index and, 99–100, 363–65
+
+improvisation and, 116–17, 148, 210, 212
+
+influence of, 416
+
+Inspiration4 mission, 381, 382, 383–86, 388
+
+International Space Station manned missions and, 441
+
+International Space Station supply contract, 188, 189, 204
+
+Iron Man movies and, 142
+
+iterative design approach and, 114–15
+
+Kistler contract and, 122
+
+Koenigsmann and, 120
+
+Kwajalein Island launch site and, 144, 146–48, 149
+
+launch location search, 145
+
+1337 engine, 390–92
+
+Los Angeles move and, 94–95
+
+Malaysia contract, 145
+
+Mars Oasis project, 95
+
+Merlin engines, 110, 112, 113, 116, 151, 153–54, 176
+
+moon lander and, 422
+
+Mueller recruitment, 108–9
+
+Obama administration and, 203, 206–8, 210–12, 226
+
+public awareness and, 121–22
+
+regulations and, 113, 114–15, 145, 205, 608
+
+reusable rockets and, 226–27, 230, 359, 441
+
+Roadster launch, 299–300
+
+Russia trip and, 96, 97, 98–99
+
+safety and, 351–52
+
+science fiction and, 31
+
+Shotwell and, 119
+
+Shotwell as president, 188–89
+
+space capsule return and, 211, 614
+
+Starshield, 434
+
+success of, 7, 288, 441
+
+Tesla design and, 136, 317
+
+testing, 111, 115–17
+
+Thai cave rescue and, 288
+
+Twitter server move and, 585
+
+unrealistic deadlines and, 101, 113–14, 177, 184, 330
+
+See also Falcon 1 launch attempts; SpaceX, risk and; Starlink; Starship system
+
+
+
+
+
+SpaceX, risk and Falcon 1 launch attempts and, 153, 154, 186
+
+Falcon 1 rocket and, 110
+
+Falcon 9 successes and, 232–33
+
+founding and, 100
+
+Inspiration4 mission and, 383–85
+
+iterative design approach and, 115
+
+Starship system and, 608–9, 610–11
+
+testing and, 116
+
+Thiel on, 86
+
+
+
+
+
+SpaceX test stand, 111
+
+Spiro, Alex, 488 EM’s impulsive tweets and, 294
+
+EM’s management of Twitter and, 521–22, 527–28, 543, 556
+
+Twitter acquisition and, 464, 490, 493, 512, 513
+
+
+
+
+
+Spy Who Loved Me, The, 316
+
+Stanley, Christopher, 546, 552
+
+Star Wars, 5, 110
+
+Starlink Bezos competition with, 355–56
+
+creation of, 321–22
+
+Gates on, 437
+
+production algorithm and, 322, 323–24
+
+Russian invasion of Ukraine and, 428–31, 432–34
+
+Starship system and, 476–77, 513
+
+success of, 441
+
+
+
+
+
+Starship system, 325, 358 B7 booster, 474, 477–80
+
+Boca Chica facility and, 329–30
+
+design of, 326–28
+
+EM’s Mars mission and, 326, 362, 391, 604–5, 608, 611
+
+EM’s vision for, 326, 591
+
+EM’s vision/hype mixing and, 328–29
+
+experimental launch and explosion of, 607, 608–12, 615
+
+management shake-up, 477, 478
+
+Mechazilla, 359–60
+
+production algorithm and, 378, 477–78
+
+public presentation of, 475, 476
+
+Raptor engine, 363–64, 388–92, 402, 410–11, 474
+
+risk and, 608–9, 610–11
+
+Starlink and, 476–77, 513
+
+surge, 361–65
+
+unrealistic deadlines and, 360–61, 362, 391, 477
+
+
+
+
+
+Steel, Robert, 489–90
+
+Stoppelman, Jeremy, 85
+
+strategy games, 46–47, 51, 425 See also video games
+
+
+
+
+
+Straubel, Jeffrey Brian (JB), 124 battery factory and, 221–22
+
+de-automation and, 274
+
+departure of, 302–4
+
+development mule and, 133
+
+EM’s emotional pain and, 269
+
+EM’s management style and, 199–200, 273
+
+leadership conflicts and, 134
+
+Musk as CEO and, 167
+
+Roadster launch and, 131
+
+Rosen meeting and, 125–26
+
+as Tesla board member, 304
+
+Tesla founding and, 130
+
+
+
+
+
+Strauss, Neil, 266
+
+Street Fighter, 75, 84
+
+Substack, 508–9, 569
+
+Sullivan, Jake, 431
+
+Sutskever, Ilya, 243–44
+
+Swaminathan, Anand, 334, 495
+
+Swan, Bob, 489
+
+Sweeney, Jack, 575
+
+Switzer, Jessica, 140
+
+
+
+TacSat, 121
+
+Taibbi, Matt, 565, 566–68, 573
+
+Tarpenning, Marc, 124 component outsourcing and, 132–33
+
+departure of, 164
+
+EM’s design input and, 135
+
+Tesla financing issues and, 137, 138, 163
+
+Tesla founding and, 130, 139
+
+Tesla Motors and, 128, 129
+
+
+
+
+
+Taylor, Bret, 444, 452, 454
+
+Teller, Sam Autopilot project and, 247
+
+DeepMind and, 241
+
+departure of, 334
+
+EM’s impulsive tweets and, 290
+
+on EM’s vision/hype mixing, 230, 604
+
+Amber Heard and, 263
+
+Model 3 production and, 275, 279
+
+Neuralink and, 399
+
+Thai cave rescue and, 289
+
+Trump meeting and, 261
+
+
+
+
+
+Terminator, The, 92
+
+Tesla AI Days, 394, 395–97, 482, 487, 496–97, 498–500, 518
+
+anti-union actions and, 421
+
+artificial intelligence and, 243
+
+artificial intelligence projects of, 401
+
+assembly outsourcing proposals, 166–67
+
+automation/de-automation and, 57, 272, 274–75, 280, 281–82
+
+Biden and, 420–23
+
+Boca Chica tented facility, 282–83, 360, 387
+
+Chinese manufacturing, 313–14, 417, 570
+
+component outsourcing and, 132–33, 137, 156, 159–60
+
+cost-effectiveness and, 246, 337
+
+COVID-19 pandemic and, 408, 417–18, 441
+
+Cybertruck project, 315, 316–20
+
+Daimler Smart car prototype, 193–94
+
+development mule, 133
+
+Drori as CEO, 167
+
+Eberhard departure, 163–64
+
+electric vehicle charging stations and, 422–23
+
+EM removal attempts, 191
+
+Emanuel and, 491
+
+EM’s compensation, 278, 408
+
+EM’s design input, 135–37, 160, 196
+
+EM’s humor and, 299, 303, 313
+
+EM’s love of celebrity and, 139
+
+EM’s management style and, 140
+
+EM’s sense of mission and, 129, 249
+
+EM’s sensitivity about credit and, 139, 141–42
+
+EM’s wealth and, 408
+
+engineering integration and, 79, 200, 219
+
+executive departures (2018), 301–2
+
+founding of, 130, 133
+
+Fremont assembly factory, 217, 218–19, 276, 277–84, 336
+
+Giga Texas, 336–38, 448–49, 472
+
+government regulations and, 201
+
+hardcore culture and, 220
+
+improvisation and, 282–83
+
+in-house component manufacturing, 132
+
+influence of, 416
+
+investment in, 138–39, 179–80
+
+IPO, 217, 219
+
+Jupiter conference room, 276, 278
+
+leadership conflicts, 133–34, 137, 138–40
+
+Marks as CEO, 165–68
+
+Model 3 production hell, 269–70, 277–84, 288, 314
+
+Model 3 success, 303
+
+Model S, 196, 197–202, 219–20, 407
+
+Model Y, 249–50, 318, 338, 407, 417, 439
+
+Musk as CEO, 167
+
+National Highway Traffic Safety Administration investigations of, 406
+
+Nevada battery Gigafactory, 221–22, 253, 267, 270–75
+
+next generation platform, 504–5
+
+OpenAI and, 244
+
+Phoenix radar system and, 405, 407
+
+production quality issues, 219–20, 281
+
+proposal to take private, 291–94
+
+risk and, 86, 613
+
+Roadster, 131, 132–33, 135, 140, 162
+
+Roadster launch, 140–41, 143, 179
+
+Roadster production costs, 156, 158, 159–61
+
+SEC deal, 293–94, 300, 309
+
+sexual harassment accusation and, 419
+
+solar energy and, 253–54
+
+SolarCity purchase, 253–55, 370, 375
+
+SpaceX design and, 136, 317
+
+Straubel departure, 302–4
+
+success of, 7, 303, 408, 441, 442
+
+supply-chain issues, 159–60
+
+toy industry and, 338–39
+
+unrealistic deadlines and, 269, 319, 333
+
+von Holzhausen hiring, 197–98
+
+White House invitation snub and, 420–21
+
+See also Optimus; Tesla Autopilot project; Tesla Energy; Tesla financial issues
+
+
+
+
+
+Tesla, Nikola, 128, 448
+
+Tesla Autopilot project, 244, 404 accidents and, 248–49, 406–7
+
+as AI data source, 243, 598, 603, 605
+
+AI Days and, 487, 496–97, 498
+
+EM’s testing, 246–47
+
+EM’s vision/hype mixing and, 249–50, 303, 332–33, 334
+
+financial issues and, 332–33
+
+Grimes and, 307
+
+in-car cameras and, 243, 406–7, 598, 603, 605
+
+neural network planner, 592, 593–98, 614
+
+Optimus and, 394, 396, 397
+
+public debate on, 406
+
+radar issue, 246, 247–48, 405–6, 407
+
+See also Robotaxi
+
+
+
+
+
+Tesla Energy, 369, 370–75
+
+Tesla financial issues Autopilot project and, 332–33
+
+Daimler Smart car prototype and, 194
+
+Eberhard departure and, 163
+
+EM removal attempts and, 191
+
+EM’s stress and, 5, 173, 180–81
+
+Energy Department loan and, 193
+
+investment and, 138, 179–80, 183–84
+
+Roadster production costs and, 156, 161
+
+short-sellers and, 277–78, 282, 292, 437–38
+
+Twitter acquisition and, 580
+
+VantagePoint Capital and, 138–39, 191–93
+
+
+
+
+
+Tesla Motors, 127–29
+
+Teulon, Mark (EM’s cousin), 41–42
+
+Thai cave rescue (2018), 287, 288–90, 314
+
+Thank You for Smoking, 183
+
+Thiel, Peter, 73 anti-wokeness and, 424
+
+artificial intelligence and, 242
+
+on EM’s life insurance policy, 88–89
+
+on EM’s personality, 6
+
+EM’s reconciliation with, 87, 183–84
+
+Founders Fund and, 183–84, 240
+
+libertarianism and, 423
+
+OpenAI and, 242
+
+PayPal coup and, 82, 83–84, 85, 86
+
+“PayPal mafia” and, 183
+
+PayPal merger and, 76, 77, 78, 79
+
+Trump and, 261
+
+
+
+
+
+Thompson, Chris, 149, 150, 151, 185
+
+three musketeers (Twitter). See Musk, Andrew; Musk, James; Nordeen, Ross
+
+Timbavati Game Reserve lodge, 22, 23–24
+
+Titanic, 92
+
+Toyoda, Akio, 218–19
+
+“traceroute,” 418
+
+transgender issues, 343–44, 527–28, 537, 577
+
+Trump, Donald, 260 astronaut transport and, 348
+
+EM’s disdain for, 261, 420, 443, 555
+
+EM’s joke about supporting, 462
+
+EM’s meeting with, 261–62
+
+Errol Musk on, 579
+
+Nosek and, 423
+
+Twitter content moderation and, 568
+
+Twitter reinstatement issue, 554–55
+
+
+
+
+
+Trump, Ivanka, 418
+
+Tsuga, Kazuhiro, 221–22
+
+Turing, Alan, 240, 595
+
+Twitter AI chatbots and, 601
+
+as AI data source, 243, 598, 602–3
+
+algorithms of, 443–44, 447, 457, 568
+
+@elonjet account, 574–75, 576
+
+employee town hall, 464–65
+
+EM’s anti-wokeness and, 443, 458, 465, 507, 569
+
+EM’s board invitation, 439, 444–47, 450–51, 452, 453
+
+libertarianism and, 443–44, 446–47
+
+nature of, 442–43
+
+Ukraine and, 428
+
+See also EM’s management of Twitter; Musk, Elon (EM), impulsive tweets; Twitter acquisition
+
+
+
+
+
+Twitter acquisition celebration, 511, 513–14
+
+closing disruption, 512–13
+
+culture clash and, 508, 557
+
+Delaware lawsuit, 490, 493–94
+
+Emanuel and, 491–93, 494
+
+EM’s arrival, 507–8
+
+EM’s childhood trauma and, 7, 443, 458
+
+EM’s indecision about, 463–64, 489–90, 492–94
+
+EM’s initial decision, 450–53
+
+EM’s sense of mission and, 457–58
+
+EM’s sons on, 461–62
+
+EM’s vision and, 447–48, 456–57, 570
+
+financing plans, 459–61, 510
+
+management meeting, 462–63
+
+nature of Twitter and, 442–43
+
+
+
+
+
+2001: A Space Odyssey, 243
+
+tzero prototype, 128
+
+tzero sports car, 126–27
+
+
+
+Ukraine. See Russian invasion of Ukraine
+
+United Auto Workers (UAW), 421
+
+University of Pennsylvania, 50–53, 55
+
+Unix, 80
+
+Unsworth, Vernon, 289–91
+
+Urban, Tim, 377
+
+US Foreign Military Sales program, 432
+
+Utah Array, 401
+
+
+
+Valor Management, 158
+
+Vance, Ashlee, 188
+
+VantagePoint Capital, 138–39, 191–93
+
+Viasat malware attack, 428
+
+video games EM’s childhood interest in, 24, 26–27, 32, 34
+
+EM’s college years and, 50, 53, 56–57
+
+EM’s management style and, 64, 75, 110
+
+EM’s Silicon Valley internship and, 55–56
+
+Amber Heard and, 263
+
+human-computer interfaces and, 399
+
+Kimbal and, 34, 346, 426, 427
+
+Neuralink and, 310
+
+Polytopia, 51, 409, 425–27, 512, 517
+
+as refuge for EM, 7, 409, 455
+
+Twitter acquisition and, 512
+
+
+
+
+
+Vinge, Vernor, 604
+
+Virtual City Navigator. See Zip2
+
+von Braun, Wernher, 16
+
+von Holzhausen, Franz, 195 Autopilot project and, 245, 250
+
+Cybertruck project and, 315, 316, 317, 318–19
+
+EM’s emotional pain and, 269
+
+Falcon 1 launch attempts and, 197–98
+
+Model S design and, 200, 201
+
+Model S production quality and, 219, 220
+
+Optimus and, 394, 483–84, 485, 487
+
+Robotaxi and, 501, 502, 503, 504, 545
+
+Tesla next generation platform and, 504
+
+
+
+
+
+Warcraft: Orcs and Humans, 46–47, 425
+
+Warren, Elizabeth, 409, 420
+
+Washington Post, 357
+
+Watergate scandal, 539, 573
+
+Watkins, Tim, 158–59, 160–61, 272, 274
+
+Watson, Tim, 155
+
+Watson-Morgan, Lisa, 475
+
+Waymo, 246
+
+Weiss, Bari, 565, 568–73, 575–76, 577
+
+West, Kanye (Ye), 443, 484, 485, 523, 524, 554
+
+Westmoreland, Rodney, 283
+
+Wheeler, Robin, 538, 555–56
+
+Who Killed the Electric Car?, 143
+
+Wilson, Justine. See Musk, Justine Wilson
+
+Wilson, Vivian Jenna (EM’s daughter), 217 birth of, 169
+
+family gatherings (2022) and, 588
+
+gender transition of, 343, 418–19, 467
+
+rift with EM, 344, 408–9, 419, 467
+
+
+
+
+
+Wood, Lin, 290
+
+Woods, James, 567
+
+Woodward, Bob, 573
+
+Woolway, Mark, 92
+
+World War II, 123
+
+Wozniak, Steve, 7, 56, 133
+
+Wright, Ian, 129, 130, 134
+
+Wyche, Vanessa, 475
+
+
+
+X.AI, 244, 605–6
+
+X.com, 73, 74–79, 81, 87, 447, 507, 509, 560
+
+Xi Jinping, 314
+
+
+
+Yaccarino, Linda, 613
+
+Yelp, 85
+
+Young Frankenstein, 485
+
+
+
+Zaman, Tim, 499
+
+Zambia, 13
+
+Zaslav, David, 580
+
+Zelenskyy, Volodymyr, 428, 432
+
+Zeroth Law, 31
+
+Zilis, Shivon (EM’s co-parent), 412 Autopilot project and, 333, 334
+
+business principles and, 426–27
+
+EM’s Austin home plans and, 472
+
+EM’s children with, 412, 413–15, 467–68, 599, 603
+
+on EM’s personality, 441–42
+
+Neuralink and, 400–401, 402, 414, 468, 497, 562, 563
+
+pregnancy of, 413–14, 416
+
+twins name change and, 467
+
+Twitter and, 427
+
+video games and, 425, 426, 427
+
+work strategy setting and, 426–27
+
+
+
+
+
+Zip2, 61–67, 70 development of, 61–62
+
+EM’s management style and, 64–65
+
+EM’s nostalgia for, 498
+
+idea for, 58–59
+
+investor meetings, 62–63
+
+marketing of, 63–64, 65
+
+sale of, 60, 65, 70
+
+Sorkin as CEO, 63, 65
+
+
+
+
+
+Zubrin, Robert, 92
+
+
+
+
+

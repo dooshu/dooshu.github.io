@@ -1,0 +1,41 @@
+54：Autonomy Day：Tesla, April 2019
+
+
+
+
+Night after night, Musk sat upright on the edge of his bed next to Grimes, unable to sleep. Some nights he did not move until dawn. Tesla had survived the surges and storms of 2018, but it needed to raise another round of financing to keep operating, and the short-sellers were still circling like vultures. In March 2019, he reentered crisis-drama mode. “We have to raise money or we’re fucked,” he said to Grimes one dawn. He needed to come up with a grand idea that would turn the narrative around and convince investors that Tesla would become the world’s most valuable car company.
+
+One night he left the light on and just stared into space silently. “Every couple hours I would wake up, and he was just still sitting there, in the thinking man statue pose, just completely silent on the edge of the bed,” Grimes says. When she woke up that morning, he said to her, “I solved it.” The solution, he explained, was for Tesla to host an Autonomy Day, where investors would get a demonstration of how Tesla was building a car that could drive itself.
+
+Ever since 2016, Musk had been pushing his vision of a completely autonomous car, one that could be summoned and drive itself with nobody behind the steering wheel. In fact, that year he began trying to get rid of the steering wheel altogether. At his insistence, von Holzhausen and his designers had been producing models of a Robotaxi with no brakes or pedals or steering wheel. Musk would go into the design studio on Fridays, pull out his phone, and take pictures of the different mock-ups. “This is where the world is going,” he said at one session. “Let’s push ourselves there.” Every year, he had regularly predicted in public that a fully autonomous car was just a year or so away.
+
+Except that it wasn’t. Full autonomy continued to be a receding mirage, always a year or so away.
+
+Nevertheless, Musk concluded that the best way to raise more funding was to hold a dramatic demonstration showing that autonomous vehicles were the way that the company would become phenomenally profitable. He was convinced that his team could put on a demo—even show off a credible prototype—of what the future would be.
+
+He set a marker for four weeks away: on April 22, 2019, they would demonstrate a version of a partially self-driving car for what would be Tesla’s first Autonomy Day. “We have to show people this is real,” he said, even though it wasn’t yet. The result was another of Musk’s hallmark surges: an all-hands-on-deck 24/7 frenzy to produce an outcome by a deadline that was artificial and unrealistic.
+
+Musk’s Autopilot surge not only drove his team crazy; it drove him crazy as well. “He had to divorce himself from reality in order to get out of a shitty situation when he thought disaster was imminent,” says Shivon Zilis, the close friend he had recruited to help with artificial intelligence projects. “He once asked me to tell him if he’d ever gone bananas. This was the only time I’ve ever walked in the room, looked at him, and said the word ‘bananas.’ This was the first time he saw me cry.”
+
+
+
+* * *
+
+
+
+One evening, his young cousin James Musk, a software coder on the Autopilot team, was having dinner with the team’s leader, Milan Kovac, at a fancy San Francisco restaurant when his phone rang. “I saw it was from Elon, and thought, ‘Oh, this is bad,’ ” he remembers. He walked to the parking lot, where he listened to Musk describe in a dark tone how Tesla would go bankrupt if they didn’t do something dramatic. For more than an hour, Musk questioned James about who on the Autopilot team was really good. As often happened when he went into crisis mode, he wanted to clean house and fire people, even in the midst of a surge.
+
+He decided he needed to get rid of all the top managers of the Autopilot team, but Omead Afshar intervened to convince him to at least wait until after Autonomy Day. Shivon Zilis, who had the thankless task of trying to serve as a buffer between Musk and the team, also tried to delay the firings, as did Sam Teller. Musk reluctantly agreed to wait until right after Autonomy Day, but he wasn’t happy. He moved Zilis out of Tesla to a job at Neuralink. Teller also ended up leaving during the turmoil.
+
+James Musk was given the task of trying to integrate into the Autopilot software the ability to see red and green traffic lights, a pretty basic task that was not yet part of the system. He got it to work pretty well, but it became clear that the team would not be able to meet Musk’s challenge of demonstrating a car that would drive on its own through Palo Alto. As Autonomy Day neared, he scaled his demand back to a task that was merely, as he later described it, “insanely difficult”: the car would drive around the Tesla headquarters, go onto the highway, do a loop involving seven turns, and then return. “We did not believe we could do what he demanded, but he believed we could,” says Anand Swaminathan, a member of the Autopilot team. “In just weeks, we were able to make it do seven difficult turns.”
+
+In his Autonomy Day presentation, Musk mixed, as he often did, vision and hype. Even in his own head, he blurred the line between what he believed and what he wanted to believe. Tesla, he said yet again, was within a year of creating a fully autonomous vehicle. At that point the company would deploy a million Robotaxis that people could summon for rides.
+
+In its story, CNBC reported that Musk “presented bold, visionary promises that only his most loyal followers would take at face value.” Nor did Musk fully impress major investors. “We asked a lot of tough questions when we had an analysts call with him afterwards,” says Joe Fath, the investment manager at T. Rowe Price. “He kept saying, ‘You guys just don’t get it.’ And then he hung up on us.”
+
+The skepticism was warranted. A year later—indeed, four years later—there would not be a million Tesla Robotaxis, or even one of them, driving autonomously on city streets. But underneath Musk’s hype and willful fantasy was a vision that he remained convinced would, like reusable rockets, someday transform our lives.
+
+
+
+
+

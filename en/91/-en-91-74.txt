@@ -1,0 +1,107 @@
+74：Hot and Cold：Twitter, April–June 2022
+
+
+
+
+The deal
+
+
+The Twitter board and Musk’s lawyers finished work on the details of a purchase plan on Sunday, April 24. When Musk texted me at 10 a.m., he mentioned that he had stayed up all night. I asked if that was because he was working on the final deal points or was worried about buying Twitter. “No,” he replied, “it was because I went to a party with friends and drank too much Red Bull.”
+
+Perhaps he should cut back on the Red Bull?
+
+“But it gives me wings?” he replied.
+
+He spent that day trying to find outside investors who would help him finance the purchase. He asked Kimbal, who declined. He was more successful with Larry Ellison. “Yes, of course,” Ellison had answered when Musk asked earlier in the week if he was interested in investing in the deal.
+
+“Roughly what dollar size?” Musk asked. “Not holding you to anything, but the deal is oversubscribed, so I have to reduce or kick out some participants.”
+
+“A billion,” said Ellison, “or whatever you recommend.”
+
+Ellison had not tweeted in a decade. In fact, he could not remember his Twitter password, so Musk had to personally get it reset for him. But he believed that Twitter was important. “It’s a real-time news service, and there’s nothing really like it,” he told me. “If you agree it’s important for a democracy, then I thought it was worth making an investment in it.”
+
+One person who was eager to be in the deal was Sam Bankman-Fried, the soon-to-be-disgraced founder of the cryptocurrency exchange FTX, who believed that Twitter could be rebuilt on the blockchain. He claimed to be a supporter of effective altruism, and the founder of that movement, William MacAskill, texted Musk to try to arrange a meeting. So did Michael Grimes, Musk’s primary banker at Morgan Stanley, who was working to put together the financing. “I’m backlogged with a mountain of critical work matters,” Musk texted Grimes. “ls this urgent?”
+
+Grimes replied that Bankman-Fried “would do the engineering for social media blockchain integration” and put $5 billion in the deal. He was available to fly to Austin the next day, if Musk was willing to meet with him.
+
+Musk had discussed with Kimbal and others the possibility of using the blockchain as a backbone for Twitter. But despite the fun he had with Dogecoin and other cryptocurrencies, he was not a blockchain acolyte, and he felt it would be too sluggish to support fast-paced Twitter postings. So he had no desire to meet with Bankman-Fried. When Michael Grimes persisted by texting that Bankman-Fried “could do $5bn if everything vision lock,” Musk responded with a “dislike” button. “Blockchain Twitter isn’t possible, as the bandwidth and latency requirements cannot be supported by a peer to peer network.” He said he might at some point meet with Bankman-Fried, “so long as I don’t have to have a laborious blockchain debate.”
+
+Bankman-Fried then texted Musk directly to say he was “really excited about what you’ll do with TWTR.” He said he had $100 million of Twitter stock that he’d like to “roll,” meaning that his Twitter stock would be converted into a stake in the new company once Musk took it private. “Sorry, who is sending this message?” Musk texted back. When Bankman-Fried apologized and introduced himself, Musk replied curtly, “You’re welcome to roll.”
+
+That led Bankman-Fried to call Musk in May. “My bullshit detector went off like red alert on a Geiger counter,” Musk says. Bankman-Fried began talking rapidly, all about himself. “He was talking like he was on speed or Adderall, a mile a minute,” Musk says. “I thought he was supposed to be asking me questions about the deal, but he kept telling me the things he was doing. And I was thinking, ‘Dude, calm down.’ ” The feeling was mutual; Bankman-Fried thought Musk seemed nuts. The call lasted a half-hour, and Bankman-Fried ended up neither investing nor rolling over his Twitter stock.
+
+The top investors Musk lined up included Ellison, Mike Moritz’s Sequoia Capital, the cryptocurrency exchange Binance, Andreessen Horowitz, a Dubai-based fund, and a Qatar-based fund. (Part of the deal for the Qatar investment was promising to go there for the final of the World Cup.) Prince Alwaleed bin Talal of Saudi Arabia agreed to roll over the investment he already had in Twitter.
+
+On Monday afternoon, April 25, the Twitter board accepted the plan. Assuming the stockholders approved it, the deal would close in the fall. “This is the right path,” the company’s cofounder Jack Dorsey texted Musk. “I’ll continue to do whatever it takes to make it work.”
+
+Instead of celebrating, Musk flew from Austin down to Starbase in south Texas. There he called in to the regular nightly meeting on redesigning the Raptor engine and, for more than an hour, wrestled with how to deal with unexplained methane leaks they were experiencing. The Twitter news was the burning topic online and around the world, but not at the Raptor meeting. The engineers knew he liked to stay focused on the task at hand, and no one mentioned Twitter. Then he met Kimbal at a roadside café in Brownsville that featured local musicians. They stayed there until 2 a.m., sitting at a table right in front of the bandstand, just listening to the music.
+
+
+
+
+
+Warning flags
+
+
+On the Friday after the Twitter board accepted his offer, Musk flew to Los Angeles to have dinner with his four older boys at the rooftop restaurant of the Soho Club in West Hollywood. They did not use Twitter very much and were puzzled. Why was he buying it? Just from their questioning, it was clear that they didn’t think it was a great idea.
+
+“I think it’s important to have a digital public square that’s inclusive and trusted,” he replied. Then, after a pause, he asked, “How else are we going to get Trump elected in 2024?”
+
+It was a joke. But with Musk, it was sometimes hard to tell, even for his kids. Maybe even for himself. They were aghast. He reassured them that he was just kidding.
+
+By the end of the dinner, they accepted most of his reasons for buying Twitter but were still uncomfortable. “They thought that I was asking for trouble,” he says. They were, of course, right. They also knew that their father actually liked asking for trouble.
+
+
+
+* * *
+
+
+
+That trouble began a week later, on May 6, when he strode into Twitter headquarters in San Francisco to meet with its management. Despite his tweets disparaging remote work, the lavish Art Deco headquarters was still almost empty when he got there. Even Agrawal wasn’t there. Having tested positive for COVID, he joined the meeting remotely.
+
+The meeting was led by Twitter CFO Ned Segal, who rubbed Musk the wrong way. In its public disclosures, Twitter estimated that bots and fake accounts made up about 5 percent of its users. Musk’s own experience convinced him that was wildly understating the problem. Twitter allowed—indeed encouraged—users to create new accounts under different names and aliases. Some troll farms burned through hundreds of identities. Not only did these fake accounts pollute the service; they were not monetizable.
+
+He asked Segal to explain the process the company used to determine the number of fake accounts. The Twitter executives suspected that Musk was laying the ground for revising or backing out of his purchase offer, so they were cautious about answering. “They said they didn’t know the precise answer,” Musk said right afterward. “I was like, ‘What do you mean? You don’t know?’ The whole exchange was so preposterous that if it was in that Silicon Valley sitcom, you’d think this is just too ridiculous. My jaw was really aching from hitting the floor so many times.”
+
+When annoyed, Musk often challenges people with very specific questions. With the Twitter execs, he unleashed a barrage. How many lines on average each day did their software coders write? His Autopilot team at Tesla had two hundred software engineers, so why did Twitter have twenty-five hundred? Twitter spent $1 billion a year on servers. What are the functions taking up most of that computing time and storage, and how were they ranked? He found it hard to get straight answers. At Tesla, he fired people for not knowing such details. “It was the worst diligence meeting I have ever witnessed in my life,” he said. “I did not make the deal contingent on full due diligence, but I did believe they could justify their own public disclosures. Otherwise it was fraud.”
+
+
+
+
+
+Second thoughts
+
+
+Musk’s pointed questions and angry challenges reflected the fact that he was not sure he wanted to go through with the deal. On most days he did. Sort of. But his appetite fluctuated and his emotions were conflicted.
+
+He felt strongly that he had overpaid, which was true. Advertising spending was down in the summer of 2022 because of uncertainty about the economy, and the stock price of social media companies was plummeting. Facebook had fallen 40 percent so far that year, and Snap 70 percent. Twitter was now trading at 30 percent below the $54.20 that Musk had offered, a sign that Wall Street was not certain the deal would actually close. As his father had taught him when they visited amusement parks in Florida, a Coke that costs too much does not taste as good. So in the back of his mind when he went to his meeting at Twitter was a desire to lay the ground for either getting out of the deal or repricing it.
+
+“There’s no way to move forward after what they said,” he told me right after his meeting at Twitter headquarters. “The forty-four-billion-dollar price requires taking on a lot of debt, both the company and me personally. I think Twitter may be headed off the rails. It might work out, at a much lower price, I mean literally half or something.”
+
+He also was having broader doubts about taking on such a messy challenge. “I’ve got a bad habit of biting off more than I can chew,” he admitted. “I think I just need to think about Twitter less. Even this conversation right now is not time well spent.”
+
+The following week, at around 4 a.m. Central Time on May 13, he unleashed a tweet: “Twitter deal temporarily on hold pending details supporting calculation that spam/fake accounts do indeed represent less than 5% of users.” Twitter shares fell 20 percent in pre-market trading. Jared Birchall, his business manager, and Alex Spiro, his lawyer, desperately urged him to walk back the declaration. It might be possible to wriggle out of the deal, they told him, but it was legally perilous for him to be announcing his desire to do so. Two hours later, Musk posted a four-word addendum: “Still committed to acquisition.”
+
+It was one of the few times I witnessed Musk being unsure of himself. Over the next five months, through the close of the deal in October, he would at times express great excitement about the chance to turn Twitter into an “everything app,” featuring financial services and great content, while helping to save democracy in the process. At other times, he would get coldly angry, threaten to sue the Twitter board and management, and insist that he wanted to call the whole deal off.
+
+
+
+
+
+Town hall
+
+
+Without consulting his lawyers, Musk agreed to attend a virtual town hall meeting with Twitter employees on June 16. “It was one of those examples of Elon just being Elon and accepting an invitation without talking to any of us or getting prepped,” Birchall says. He did it sitting in his Austin living room and initially had trouble getting into the virtual conference because it was held on Google Meet, and he didn’t have a Google account on his laptop. He finally got in on his iPhone. While we were waiting, one of the meeting organizers asked, “Does anyone know who Jared Birchall is?” He was denied entry.
+
+I wondered whether Musk had some scheme in mind. Perhaps he was going to throw a little bomb into the works by provoking a revolt of the Twitter staff. Maybe he would tell them, either out of calculation or his compulsion to be brutally honest, what he really thought: that they were wrong to kick off Trump, that their content moderation policies crossed the line into unjustifiable censorship, that the staff had been infected by the woke-mind virus, that people should show up to work in person, and that the company was way overstaffed. The ensuing explosion might not scuttle the deal, but it could shake up the chessboard.
+
+Musk didn’t do that. Instead, he was rather conciliatory on these hot-button issues. Leslie Berland, the chief marketing officer of Twitter, began with the issue of content moderation. Instead of simply invoking his mantra about the goodness of free speech, Musk went deeper and made a distinction between what people should be allowed to post and what Twitter should cause to be amplified and spread. “I think there’s a distinction between freedom of speech and freedom of reach,” he said. “Anyone can just go into the middle of Times Square and say anything, even deny the Holocaust. But that doesn’t mean that needs to be promoted to millions of people.”
+
+He also explained why some limits on hate speech were important. “You want as many people as possible on Twitter,” he said. “For that to happen, people must enjoy being on Twitter. If they’re being harassed or made uncomfortable, they’re not going to use Twitter. We have to strike this balance of allowing people to say what they want to say, but also making people comfortable.”
+
+When asked about diversity, equity, and inclusion, Musk pushed back a bit. “I believe in a strict meritocracy,” he said. “Whoever is doing great work, they get more responsibility. And that’s that.” But he also insisted he had not become an ideological conservative. “My political views, I think, are moderate, close to the center.” He did not please most people on the call, but he did avoid causing any explosions.
+
+
+
+
+

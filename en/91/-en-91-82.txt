@@ -1,0 +1,58 @@
+82：The Takeover：Twitter, Thursday, October 27, 2022
+
+
+
+
+Antonio Gracias, Kyle Corcoran, Kate Claassen, and Musk with Pappy Van Winkle bourbon
+
+
+
+David Sacks and Gracias standing in the war room
+
+
+
+
+
+The closing bell
+
+
+The closing of the Twitter deal had been scheduled for Friday, October 28. That’s what Twitter’s management thought, and that’s what the public and Wall Street thought. An orderly transition had been carefully scripted for the opening of the stock market that morning. The money would transfer, the documents would be signed, the stock would be delisted, and Musk would be in control. That would provide a dual trigger—delisting of the stock and change of control—permitting Parag Agrawal and his top Twitter deputies to collect severance and have their stock options vest.
+
+But Musk did not want that, and he secretly hatched a plan with his team that would disrupt things. Throughout Thursday afternoon, he wandered in and out of a cramped conference room where Antonio Gracias, Alex Spiro, Jared Birchall, and a few others methodically planned a jiu-jitsu maneuver: they would force a fast close on Thursday night. If they timed everything right, Musk could fire Agrawal and other top Twitter executives “for cause” before their stock options could vest.
+
+It was somewhat audacious, even ruthless. But it was justified in Musk’s mind because of the price he was paying and his conviction that Twitter’s management had misled him. “There’s two-hundred-million differential in the cookie jar between closing tonight and doing it tomorrow morning,” he told me late Thursday afternoon in the war room as the plan unfolded.
+
+In addition to extracting vengeance and saving some money, there was a gamesmanship that was driving Musk. The surprise finale would be dramatic, like a well-timed strike in Polytopia.
+
+The field marshal for the Thursday-night surprise closing was Musk’s longtime lawyer, Alex Spiro. An edgy and funny legal gunslinger, he was always eager for battle. He had become Musk’s trusted advisor during the storms of 2018, when he helped him fend off the legal blowback from his “pedo guy” and “take private” tweets. Musk made it a rule to be wary of anyone whose confidence was greater than their competence. Spiro was extremely high in both categories, which made Musk value him, albeit sometimes watchfully.
+
+“We can’t fire Parag until he signs the certificate, right?” Musk asked at one point.
+
+“I would rather fire them before the thing is consummated,” Spiro replied. He checked with his colleagues and worked out options as they waited for the Federal Reserve reference numbers showing that funds had been transferred.
+
+At 4:12 p.m. Pacific Time, once they had confirmation that the money had transferred and the necessary documents had in fact been signed, Musk and his team pulled the trigger to close the deal. Jehn Balajadia, a longtime Musk assistant who had been reenlisted to help with the Twitter takeover, delivered at precisely that moment letters of dismissal to Agrawal, Ned Segal, Vijaya Gadde, and general counsel Sean Edgett. Six minutes later, Musk’s top security officer came in to say that all had been “exited” from the building and their access to email cut off.
+
+The instant email cutoff was part of the plan. Agrawal had his letter of resignation, citing the change of control, ready to send. But when his Twitter email was cut off, it took him a few minutes to get the document into a Gmail message. By that point, he had already been fired by Musk.
+
+“He tried to resign,” Musk said.
+
+“But we beat him,” Spiro replied.
+
+
+
+* * *
+
+
+
+In an adjoining part of Twitter headquarters, the company was throwing a Halloween party, filled with farewell hugs, called “Trick or Tweet.” Birchall joked to the others in the war room, “Ned Segal came costumed as a CFO.” In the nearby conference rooms, some of the SpaceX engineers were glued to a video stream on their computers. Just after 6 p.m., a Falcon 9 rocket lifted off from Vandenberg carrying fifty-two Starlink satellites.
+
+Michael Grimes, the lead banker at Morgan Stanley, flew up from Los Angeles and arrived in the war room bearing gifts. The first was a montage showing historical defenses of free speech, beginning with John Milton in 1644 and culminating with Musk walking into Twitter headquarters and saying, “Let that sink in!” He also brought a bottle of Pappy Van Winkle, the world’s best bourbon, which his wife had received on her birthday. Small tastes were passed around, and then Musk signed the half-empty bottle for her.
+
+A few minutes later, he made his first product tweak. Until then, when people went to the Twitter.com site on the web, the first screen they saw was one instructing them to log in. Musk felt they should instead land on the “Explore” page, which showed what was hot and trending at that moment. A message was sent to the person in charge of the Explore page, a young engineer named Tejas Dharamsi, who happened to be flying back from a family visit to India. He sent back a message saying he would make the fix when he got to the office on Monday. Do it right now, he was told. So using the Wi-Fi on the United flight, he got the change made that night. “We had worked on many possible new features for years, but no one ever made decisions about them,” he said later. “Suddenly, we had this guy making rapid decisions.”
+
+Musk was staying at the home of David Sacks. When he got back around 9 p.m., Ro Khanna, the local Democratic congressman, was there. Khanna is a techno-savvy advocate of free speech, but the conversation was not about Twitter. Instead, they discussed Tesla’s role in bringing manufacturing back to America and the danger of not finding a diplomatic resolution to the war in Ukraine. It was an animated conversation lasting almost two hours. “He had just come from closing the Twitter deal, and I was surprised that we didn’t talk about it,” Khanna says. “He seemed to want to talk about other things.”
+
+
+
+
+

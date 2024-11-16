@@ -1,0 +1,413 @@
+The Fatal Conceit：The Errors of Socialism by F. A. Hayek
+
+
+
+
+
+The University of Chicago Press, Chicago 60637
+
+Routledge, London
+
+© 1988 by F. A. Hayek
+
+All rights reserved. Originally published 1988.
+
+University of Chicago Press edition 1989
+
+Paperback edition 1991
+
+Printed in the United States of America
+
+20 19 18 17 16 15 14 13 12 14 15 16 17
+
+ISBN-13：978-0-226-32068-7 (cloth)
+
+ISBN-13：978-0-226-32066-3 (paper)
+
+ISBN-10：0-226-32068-5 (cloth)
+
+ISBN-10：0-226-32066-9 (paper)
+
+ISBN 978-0-226-32115-8 (e-book)
+
+Library of Congress Cataloging-in-Publication Data
+
+Hayek, Friedrich A. von (Friedrich August), 1899–
+
+The collected works of F. A. Hayek.
+
+Bibliography, v. 1, p.
+
+Includes indexes.
+
+Contents：v. 1. The fatal conceit.
+
+1. Economics. 2. Free enterprise. 3. Liberalism. 4. Social sciences. I. Bartley, William Warren, 1934– II. Title.
+
+HB171.H426 1989 330.1 88-26763
+
+ISBN 0-226-32068-5 (cloth)
+
+ISBN 0-226-32066-9 (paperback)
+
+The paper used in this publication meets the minimum requirements of the American National Standard for Information Sciences—Permanence of Paper for Printed Library Materials, ANSI Z39.48-1992.
+
+
+
+
+
+THE COLLECTED WORKS OF
+
+F. A. Hayek
+
+VOLUME I
+
+THE FATAL CONCEIT
+
+The Errors of Socialism
+
+EDITED BY
+
+W. W. BARTLEY III
+
+
+
+
+
+The University of Chicago Press
+
+
+
+
+
+PLAN OF THE COLLECTED WORKS
+
+Edited by W. W. Bartley III
+
+Volume I
+
+The Fatal Conceit：The Errors of Socialism
+
+
+
+Volume II
+
+The Uses and Abuses of Reason：The Counter-Revolution of Science, and Other Essays
+
+
+
+Volume III
+
+The Trend of Economic Thinking：From Bacon to Cannan
+
+
+
+Volume IV
+
+The Austrian School and the Fortunes of Liberalism
+
+
+
+Volume V
+
+Nations and Gold
+
+
+
+Volume VI
+
+Money and Nations
+
+
+
+Volume VII
+
+Investigations in Economics
+
+
+
+Volume VIII
+
+Monetary Theory and Industrial Fluctuations
+
+
+
+Volume IX
+
+The Battle with Keynes and Cambridge：Essays, Correspondence and Documents
+
+
+
+Volume X
+
+The Battle with Socialism：Essays, Correspondence and Documents
+
+
+
+Volume XI
+
+The Correspondence between Karl Popper and F. A. Hayek, 1937-
+
+
+
+Volume XII
+
+Essays on Liberty
+
+
+
+Volume XIII
+
+Essays, Debates and Reviews
+
+
+
+Volume XIV
+
+Conversations with Hayek
+
+
+
+Volume XV
+
+The Pure Theory of Capital
+
+
+
+Volume XVI
+
+The Road to Serfdom
+
+
+
+Volume XVII
+
+Individualism and Economic Order
+
+
+
+Volume XVIII
+
+The Constitution of Liberty
+
+
+
+Volume XVIX
+
+Philosophy, Politics and Economics
+
+
+
+Volume XX
+
+Law, Legislation and Liberty
+
+
+
+Volume XXI
+
+The Sensory Order and other Essays in Psychology
+
+
+
+Volume XXII
+
+John Stuart Mill and Harriet Taylor：Their Friendship and Subsequent Marriage
+
+
+
+The plan is provisional. Minor alterations may occur in titles of individual books, and several additional volumes may be added.
+
+
+
+
+
+THE COLLECTED WORKS OF F. A. HAYEK
+
+General Editor：W. W. Bartley, III
+
+The Hoover Institution on War, Revolution and Peace, Stanford University
+
+Editors of the German edition：Alfred Bosch and Reinhold Veit
+
+The Walter Eucken Institute, Freiburg im Breisgau
+
+Editor of the Japanese edition：Chiaki Nishiyama
+
+The Hoover Institution on War, Revolution and Peace,
+
+Stanford University
+
+Assistant Editors：Hannes Gissurarson, Gene Opton
+
+Published with the support of
+
+The Hoover Institution on War, Revolution and Peace,
+
+Stanford University
+
+Cato Institute, Washington DC
+
+The Centre for Independent Studies, Sydney
+
+Earhart Foundation, Ann Arbor
+
+Engenharia Comércio e Industria SA, Rio de Janeiro
+
+Escuela Superior de Economia y Administración de Empresas
+
+(ESEADE), Buenos Aires
+
+The Heritage Foundation, Washington DC
+
+The Institute for Humane Studies, George Mason University
+
+Institute of Economic Affairs, London
+
+Instituto Liberal, Rio de Janeiro
+
+Charles G. Koch Charitable Foundation, Wichita
+
+The Vera and Walter Morris Foundation, Little Rock
+
+Swedish Free Enterprise Foundation, Stockholm
+
+Timbro/Ratio Publishing House, Stockholm
+
+The Wincott Foundation, London
+
+
+
+
+
+CONTENTS
+
+Editorial Foreword
+
+Preface
+
+Introduction Was Socialism a Mistake?
+
+
+
+
+
+
+EDITORIAL FOREWORD
+
+I
+
+The Fatal Conceit, a new work by Hayek, is the first volume to appear in The Collected Works of F. A. Hayek, a new standard edition of his writings.
+
+The reader who is struck by the pace and freshness of the argument of this new book, its vigorous application to specific cases, and its occasionally polemical thrust will want to know something of its background. In 1978, at the age of nearly eighty, and after a lifetime of doing battle with socialism in its many manifestations, Hayek wanted to have a showdown. He conceived of a grand formal debate, probably to be held in Paris, in which the leading theorists of socialism would face the leading intellectual advocates of the market order. They would address the question：‘Was Socialism a Mistake?’. The advocates of the market order would argue that socialism was – and always had been – thoroughly mistaken on scientific and factual, even logical grounds, and that its repeated failures, in the many different practical applications of socialist ideas that this century has witnessed, were, on the whole, the direct outcome of these scientific errors.
+
+The idea of a grand formal debate had to be set aside for practical reasons. How, for instance, would the representatives of socialism be chosen? Would socialists themselves not refuse to agree on who might represent them? And even in the unlikely event that they did agree, could they be expected to acknowledge the real outcome of any such debate? Public confessions of error do not come easily.
+
+Yet those of his colleagues who had met with Hayek to discuss the idea were reluctant to abandon it, and encouraged him to set down, in a manifesto, the main arguments in the free-market case. What was intended as a brief manifesto first grew into a large work in three parts; then the whole was compressed into the short book – or longer manifesto – presented here. Some fragments of the larger work have been preserved, and will be published separately in Volume X.
+
+Adopting an economic and evolutionary approach throughout, Hayek examines the nature, origin, selection and development of the differing moralities of socialism and the market order; he recounts the extraordinary powers that ‘the extended order’ of the market, as he calls it, bestows on mankind, constituting and enabling the development of civilisation. Hayek also weighs – in a manner occasionally reminiscent of Freud’s Civilisation and Its Discontents, yet reaching very different conclusions – both the benefits and costs of this civilisation, and also the consequences that would ensue from the destruction of the market order. He concludes：‘While facts alone can never determine what is right, ill-considered notions of what is reasonable, right and good may change the facts and the circumstances in which we live; they may destroy, perhaps forever, not only developed individuals and buildings and art and cities (which we have long known to be vulnerable to the destructive powers of moralities and ideologies of various sorts), but also traditions, institutions, and interrelations without which such creations could hardly have come into being or ever be recreated.’
+
+II
+
+The Collected Works of F. A. Hayek attempts to make virtually the entire Hayek corpus available to the reader for the first time. The chief organisation is thematic, but within this structure a chronological order is followed where possible.
+
+The series opens with two closely-related books on the limits of reason and planning in the social sciences – The Fatal Conceit, a new work, and The Uses and Abuses of Reason：The Counter-Revolution of Science, and Other Essays, a work never previously published in Britain. The series continues with two collections of historical and biographical essays (The Trend of Economic Thinking：From Bacon to Cannan and The Austrian School and the Fortunes of Liberalism). The essays in these two volumes have never before been collected; over half of them have previously been available only in German; and approximately one-quarter of the first of these volumes is drawn from important manuscripts never previously published.
+
+The series continues with four volumes encompassing the bulk of Hayek’s contributions to economics：Nations and Gold; Money and Nations; Investigations in Economics; and Monetary Theory and Industrial Fluctuations.
+
+These volumes are followed by three volumes of documentation, historical record and debate：The Battle with Keynes and Cambridge; The Battle with Socialism; and the remarkable Correspondence Between Karl Popper and F. A. Hayek, extending over fifty years, in which these close friends and intellectual collaborators intensely debate the main problems of philosophy and methodology, and many of the principal issues of our time.
+
+These documentary volumes are followed by two new collections of essays by Hayek, and by a volume of his interviews and informal conversations about both theoretical issues and practical affairs – Conversations with Hayek – a volume intended to make his ideas available to a wider readership.
+
+These first fourteen volumes will draw on, and be in large part created from, the resources of the large Hayek Archive at the Hoover Institution on War, Revolution and Peace, Stanford University, as well as its closely-related Machlup Archive and Popper Archive. Numerous other rich archival resources throughout the world will also be used. The first volume in the series, The Fatal Conceit, which is fresh from Hayek’s hand, is of course unburdened by critical apparatus. The texts of subsequent volumes will be published in corrected, revised and annotated form, with introductions by distinguished scholars intended to place them in their historial and theoretical context.
+
+The series will conclude with eight of Hayek’s classic works – including The Road to Serfdom, Individualism and Economic Order, The Constitution of Liberty, and Law, Legislation and Liberty – books that are at the moment still readily available in other editions. It is assumed that the publication of the entire series will take ten to twelve years.
+
+It is the intention of the editors that the series of volumes be complete in so far as that is reasonable and responsible. Thus essays which exist in slightly variant forms, or in several different languages, will be published always in English or in English translation, and only in their most complete and finished form unless some variation, or the timing thereof, is of theoretical or historical significance. Some items of ephemeral value, such as short newspaper articles and book notices of a few lines written when Hayek was editing Economica, will be omitted. And of course the correspondence to be published will be mainly that which bears significantly on Hayek’s literary and theoretical work in economics, psychology, biography and history, political theory, and philosophy. All materials used in the creation of these volumes, as well as those comparatively few items omitted, will be available to scholars in the Hoover Institution Archives.
+
+III
+
+The preparation of a standard edition of this type is a large and also expensive undertaking. First and foremost among those who are to be thanked for their very great assistance are W. Glenn Campbell, Director of the Hoover Institution on War, Revolution and Peace, Stanford University, for the generous decision to provide the principal underlying support for this project, and also for the editor’s biography of Hayek. The presiding genius behind the larger project, without whose advice and support it never could have been organised or launched, is Walter S. Morris, of the Vera and Walter Morris Foundation. Two other institutions whose directors watched carefully over the inception of the project, and whose advice has been invaluable, are the Institute for Humane Studies, George Mason University, and the Institute of Economic Affairs, in London. The editor is particularly indebted to Leonard P. Liggio, Walter Grinder, and John Blundell, of the Institute for Humane Studies; and to Lord Harris of High Cross and John B. Wood, of the Institute of Economic Affairs. Equally important has been the unflagging support and advice of Norman Franklin of Routledge & Kegan Paul, Ltd., London, who has been Hayek’s publisher for many years. Finally, the project could not have been carried through successfully without the generous financial support of the supporting organisations, whose names are listed prominently at the beginning of this volume, and to which all associated with the volume are deeply grateful. The support of these sponsors – institutions and foundations from four continents – not only acknowledges the international appreciation of Hayek’s work, but also provides very tangible evidence of the ‘extended order of human cooperation’ of which Hayek writes. The Editor also wishes to acknowledge grants in aid of the project from the Werner Erhard Foundation, Sausalito, California, and from the Thyssen Foundation, Cologne, West Germany.
+
+W. W. Bartley, III
+
+
+
+
+
+F. A. HAYEK
+
+THE FATAL CONCEIT
+
+The Errors of Socialism
+
+Liberty or Freedom is not, as the origin of the name may seem to imply, an exemption from all restraints, but rather the most effectual applications of every just restraint to all members of a free society whether they be magistrates or subjects.
+
+Adam Ferguson
+
+The rules of morality are not the conclusions of our reason.
+
+David Hume
+
+How can it be that institutions that serve the common welfare and are extremely significant for its development come into being without a common will directed towards establishing them?
+
+Carl Menger
+
+
+
+
+
+PREFACE
+
+For this book I adopted two rules. There were to be no footnotes and all arguments not essential to its chief conclusions but of interest or even essential to the specialist were either to be put into smaller print to tell the general reader that he might pass over them without missing points on which the conclusions depended, or else were to be assembled in appendices.
+
+References to works cited or quoted are therefore usually indicated simply by brief statements in brackets of the name of the author (where not clear from the context) and the date of the work, followed after a colon by page numbers where needed. These refer to the list of authorities quoted at the end of the volume. Where a later edition of a work has been used, this is indicated by the latter of the dates given in the form 1786/1973, where the former date refers to the original edition.
+
+It would be impossible to name the obligations one has incurred in the course of a long life of study even if one were to list all the works from which one has acquired one’s knowledge and opinions, and still more impossible to list in a bibliography all the works one knows one ought to have studied in order to claim competence in a field as wide as that with which the present work deals. Nor can I hope to list all the personal obligations I have incurred during the many years my efforts were directed towards what was fundamentally the same goal. I wish, however, to express my deep gratitude to Miss Charlotte Cubitt, who has served as my assistant throughout the period that this work was in preparation and without whose dedicated help it never could have been completed; and also to Professor W. W. Bartley, III, of the Hoover Institution, Stanford University, who – when I fell ill for a time, just prior to the completion of the final draft – took this volume in hand and prepared it for the publishers.
+
+F. A. Hayek
+
+Freiburg im Breisgau
+
+April 1988
+
+
+
+
+
+INTRODUCTION WAS SOCIALISM A MISTAKE?
+
+The idea of Socialism is at once grandiose and simple. . . . We may say, in fact, that it is one of the most ambitious creations of the human spirit, . . . so magnificent, so daring, that it has rightly aroused the greatest admiration. If we wish to save the world from barbarism we have to refute Socialism, but we cannot thrust it carelessly aside.
+
+Ludwig von Mises
+
+This book argues that our civilisation depends, not only for its origin but also for its preservation, on what can be precisely described only as the extended order of human cooperation, an order more commonly, if somewhat misleadingly, known as capitalism. To understand our civilisation, one must appreciate that the extended order resulted not from human design or intention but spontaneously：it arose from unintentionally conforming to certain traditional and largely moral practices, many of which men tend to dislike, whose significance they usually fail to understand, whose validity they cannot prove, and which have nonetheless fairly rapidly spread by means of an evolutionary selection – the comparative increase of population and wealth – of those groups that happened to follow them. The unwitting, reluctant, even painful adoption of these practices kept these groups together, increased their access to valuable information of all sorts, and enabled them to be ‘fruitful, and multiply, and replenish the earth, and subdue it’ (Genesis 1:28). This process is perhaps the least appreciated facet of human evolution.
+
+Socialists take a different view of these matters. They not only differ in their conclusions, they see the facts differently. That socialists are wrong about the facts is crucial to my argument, as it will unfold in the pages that follow. I am prepared to admit that if socialist analyses of the operation of the existing economic order, and of possible alternatives, were factually correct, we might be obliged to ensure that the distribution of incomes conform to certain moral principles, and that this distribution might be possible only by giving a central authority the power to direct the use of available resources, and might presuppose the abolition of individual ownership of means of production. If it were for instance true that central direction of the means of production could effect a collective product of at least the same magnitude as that which we now produce, it would indeed prove a grave moral problem how this could be done justly. This, however, is not the position in which we find ourselves. For there is no known way, other than by the distribution of products in a competitive market, to inform individuals in what direction their several efforts must aim so as to contribute as much as possible to the total product.
+
+The main point of my argument is, then, that the conflict between, on one hand, advocates of the spontaneous extended human order created by a competitive market, and on the other hand those who demand a deliberate arrangement of human interaction by central authority based on collective command over available resources is due to a factual error by the latter about how knowledge of these resources is and can be generated and utilised. As a question of fact, this conflict must be settled by scientific study. Such study shows that, by following the spontaneously generated moral traditions underlying the competitive market order (traditions which do not satisfy the canons or norms of rationality embraced by most socialists), we generate and garner greater knowledge and wealth than could ever be obtained or utilised in a centrally-directed economy whose adherents claim to proceed strictly in accordance with ‘reason’. Thus socialist aims and programmes are factually impossible to achieve or execute; and they also happen, into the bargain as it were, to be logically impossible.
+
+This is why, contrary to what is often maintained, these matters are not merely ones of differing interests or value judgements. Indeed, the question of how men came to adopt certain values or norms, and what effect these had on the evolution of their civilisation, is itself above all a factual one, one that lies at the heart of the present book, and whose answer is sketched in its first three chapters. The demands of socialism are not moral conclusions derived from the traditions that formed the extended order that made civilisation possible. Rather, they endeavour to overthrow these traditions by a rationally designed moral system whose appeal depends on the instinctual appeal of its promised consequences. They assume that, since people had been able to generate some system of rules coordinating their efforts, they must also be able to design an even better and more gratifying system. But if humankind owes its very existence to one particular rule-guided form of conduct of proven effectiveness, it simply does not have the option of choosing another merely for the sake of the apparent pleasantness of its immediately visible effects. The dispute between the market order and socialism is no less than a matter of survival. To follow socialist morality would destroy much of present humankind and impoverish much of the rest.
+
+All of this raises an important point about which I wish to be explicit from the outset. Although I attack the presumption of reason on the part of socialists, my argument is in no way directed against reason properly used. By ‘reason properly used’ I mean reason that recognises its own limitations and, itself taught by reason, faces the implications of the astonishing fact, revealed by economics and biology, that order generated without design can far outstrip plans men consciously contrive. How, after all, could I be attacking reason in a book arguing that socialism is factually and even logically untenable? Nor do I dispute that reason may, although with caution and in humility, and in a piecemeal way, be directed to the examination, criticism and rejection of traditional institutions and moral principles. This book, like some of my earlier studies, is directed against the traditional norms of reason that guide socialism：norms that I believe embody a naive and uncritical theory of rationality, an obsolete and unscientific methodology that I have elsewhere called ‘constructivist rationalism’ (1973).
+
+Thus I wish neither to deny reason the power to improve norms and institutions nor even to insist that it is incapable of recasting the whole of our moral system in the direction now commonly conceived as ‘social justice’. We can do so, however, only by probing every part of a system of morals. If such a morality pretends to be able to do something that it cannot possibly do, e.g., to fulfill a knowledge-generating and organisational function that is impossible under its own rules and norms, then this impossibility itself provides a decisive rational criticism of that moral system. It is important to confront these consequences, for the notion that, in the last resort, the whole debate is a matter of value judgements and not of facts has prevented professional students of the market order from stressing forcibly enough that socialism cannot possibly do what it promises.
+
+Nor should my argument suggest that I do not share some values widely held by socialists; but I do not believe, as I shall argue later, that the widely held conception of ‘social justice’ either describes a possible state of affairs or is even meaningful. Neither do I believe, as some proponents of hedonistic ethics recommend, that we can make moral decisions simply by considering the greatest foreseeable gratification.
+
+The starting point for my endeavour might well be David Hume’s insight that ‘the rules of morality . . . are not conclusions of our reason’ (Treatise, 1739/1886:11:235). This insight will play a central role in this volume since it frames the basic question it tries to answer – which is how does our morality emerge, and what implications may its mode of coming into being have for our economic and political life?
+
+The contention that we are constrained to preserve capitalism because of its superior capacity to utilise dispersed knowledge raises the question of how we came to acquire such an irreplaceable economic order – especially in view of my claim that powerful instinctual and rationalistic impulses rebel against the morals and institutions that capitalism requires.
+
+The answer to this question, sketched in the first three chapters, is built upon the old insight, well known to economics, that our values and institutions are determined not simply by preceding causes but as part of a process of unconscious self-organisation of a structure or pattern. This is true not only of economics, but in a wide area, and is well known today in the biological sciences. This insight was only the first of a growing family of theories that account for the formation of complex structures in terms of processes transcending our capacity to observe all the several circumstances operating in the determination of their particular manifestations. When I began my work I felt that I was nearly alone in working on the evolutionary formation of such highly complex self-maintaining orders. Meanwhile, researches on this kind of problem – under various names, such as autopoiesis, cybernetics, homeostasis, spontaneous order, self-organisation, synergetics, systems theory, and so on – have become so numerous that I have been able to study closely no more than a few of them. This book thus becomes a tributary of a growing stream apparently leading to the gradual development of an evolutionary (but certainly not simply Neo-Darwinian) ethics parallel and supplementary to, yet quite distinct from, the already well-advanced development of evolutionary epistemology.
+
+Though the book raises in this way some difficult scientific and philosophical questions, its chief task remains to demonstrate that one of the most influential political movements of our time, socialism, is based on demonstrably false premises, and despite being inspired by good intentions and led by some of the most intelligent representatives of our time, endangers the standard of living and the life itself of a large proportion of our existing population. This is argued in the fourth through sixth chapters, wherein I examine and refute the socialist challenge to the account of the development and maintenance of our civilisation that I offer in the first three chapters. In the seventh chapter, I turn to our language, to show how it has been debased under socialist influence and how careful we must be to keep ourselves from being seduced by it into socialist ways of thinking. In the eighth chapter, I consider an objection that might be raised not only by socialists, but by others as well：namely, that the population explosion undercuts my argument. Finally, in the ninth chapter, I present briefly a few remarks about the role of religion in the development of our moral traditions.
+
+Since evolutionary theory plays so essential a part in this volume, I should note that one of the promising developments of recent years, leading to a better understanding of the growth and function of knowledge (Popper, 1934/1959), and of complex and spontaneous orders (Hayek, 1964, 1973, 1976, 1979) of various kinds, has been the development of an evolutionary epistemology (Campbell, 1977, 1987; Radnitzky & Bartley, 1987), a theory of knowledge that understands reason and its products as evolutionary developments. In this volume I turn to a set of related problems that, although of great importance, remain largely neglected.
+
+That is, I suggest that we need not only an evolutionary epistemology but also an evolutionary account of moral traditions, and one of a character rather different than hitherto available. Of course the traditional rules of human intercourse, after language, law, markets and money, were the fields in which evolutionary thinking originated. Ethics is the last fortress in which human pride must now bow in recognition of its origins. Such an evolutionary theory of morality is indeed emerging, and its essential insight is that our morals are neither instinctual nor a creation of reason, but constitute a separate tradition – ‘between instinct and reason’, as the title of the first chapter indicates – a tradition of staggering importance in enabling us to adapt to problems and circumstances far exceeding our rational capacities. Our moral traditions, like many other aspects of our culture, developed concurrently with our reason, not as its product. Surprising and paradoxical as it may seem to some to say this, these moral traditions outstrip the capacities of reason.
+
+
+
+
+

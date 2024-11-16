@@ -1,0 +1,62 @@
+66：Vision Only：Tesla, January 2021
+
+
+
+
+A slide showing the progress being made on autonomous cars
+
+
+
+
+
+Delete radar
+
+
+The question of whether to use radar in its Autopilot system for self-driving cars—rather than relying solely on visual data from cameras—remained a contentious one at Tesla. It also became a case study of Musk’s style of decision-making: oscillating between bold, stubborn, reckless, visionary, guided by the first principles of physics, but at times surprisingly flexible.
+
+He had initially been somewhat open-minded on the issue. When the Tesla Model S was upgraded in 2016, he reluctantly allowed the Autopilot team to use a forward-facing radar in addition to the car’s eight cameras. And he authorized his engineers to have a program to build its own radar system, known as Phoenix.
+
+But by the beginning of 2021, the use of radar was causing problems. The microchip shortages arising from COVID meant that Tesla’s suppliers could not provide enough of them. Plus, the Phoenix system that Tesla was building in-house was not working well. “We have a choice,” Musk declared in a fateful meeting early that January. “We can shut down car production. We can make Phoenix work right away. Or we can remove radar entirely.”
+
+There was no doubt which option he preferred. “We should be able to kick ass on this with a pure vision solution,” he said. “Not requiring radar and vision to identify the same object is a mega game changer.”
+
+Some of his top team, especially automotive president Jerome Guillen, pushed back. Deleting radar, he argued, would be unsafe. Radar could detect objects not easily visible to a camera or the human eye. A meeting was scheduled for the entire team to debate the issue and make a decision. After all the arguments were aired, Musk paused for about forty seconds. “I’m pulling the plug,” he finally said. “Delete radar.” Guillen continued to push back, and Musk got coldly angry. “If you won’t remove it,” he said, “I will get someone else who will.”
+
+On January 22, 2021, he sent out an email. “Going forward, turn off radar,” it said. “It’s a terrible crutch. I’m not kidding. And it’s clear that camera-only driving is working well.” Guillen soon left the company.
+
+
+
+
+
+Controversy
+
+
+Musk’s decision to delete radar sparked a public debate. A deeply reported New York Times investigation by Cade Metz and Neal Boudette revealed that many Tesla engineers had deep misgivings. “Unlike technologists at almost every other company working on self-driving vehicles, Mr. Musk insisted that autonomy could be achieved solely with cameras,” they wrote. “But many Tesla engineers questioned whether it was safe enough to rely on cameras without the benefit of other sensing devices—and whether Mr. Musk was promising drivers too much about Autopilot’s capabilities.”
+
+Edward Niedermeyer, who had written a critical book on Tesla titled Ludicrous, unleashed a thread of tweets. “Improvements to common driver assistance systems is moving the industry toward more radar, and even more novel modalities like LiDAR and thermal imaging,” he wrote. “Tesla, in a marked contrast, is moving backwards.” And Dan O’Dowd, a software security entrepreneur, took out a full-page ad in the New York Times calling Tesla’s self-driving system “the worst software ever sold by a Fortune 500 company.”
+
+Tesla had long been a target of investigations by the National Highway Traffic Safety Administration, and these picked up after the 2021 removal of radar. In a study, it recorded 273 accidents by Tesla drivers using some level of driver-assist systems, five of which resulted in deaths. It also opened an investigation into eleven Tesla crashes with emergency vehicles.
+
+Musk was convinced that bad drivers rather than bad software were the main reason for most of the accidents. At one meeting, he suggested using data collected from the car’s cameras—one of which is inside the car and focused on the driver—to prove when there was driver error. One of the women at the table pushed back. “We went back and forth with the privacy team about that,” she said. “We cannot associate the selfie streams to a specific vehicle, even when there’s a crash, or at least that’s the guidance from our lawyers.”
+
+Musk was not happy. The concept of “privacy teams” did not warm his heart. “I am the decision-maker at this company, not the privacy team,” he said. “I don’t even know who they are. They are so private you never know who they are.” There were some nervous laughs. “Perhaps we can have a pop-up where we tell people that if they use FSD [Full Self-Driving], we will collect data in the event of a crash,” he suggested. “Would that be okay?”
+
+The woman thought about it for a moment, then nodded. “As long as we are communicating it to customers, I think we’re okay with that.”
+
+
+
+
+
+Phoenix rises
+
+
+Although stubborn, Musk can be brought around by evidence. He was adamant about eliminating radar in 2021 because its technical quality at the time did not provide enough resolution to add meaningful information to a vision system. However, he did agree to allow his engineers to continue their Phoenix program to see if they could develop a better radar technology.
+
+Lars Moravy, Musk’s head of vehicle engineering, put a Danish-born engineer named Pete Scheutzow in charge. “Elon’s not against radar,” Moravy says, “he’s just against bad radar.” Scheutzow’s team developed a radar system that focused on cases where a human driver might not be able to see something. “You may be right,” Musk said, and he secretly signed off on trying out the new system in the more expensive Model S and Model Y.
+
+“It’s a much more sophisticated radar than general automotive radar,” Musk says. “It’s what you would see in a weapons system. It creates a picture of what’s going on rather than just getting a ping back.” Did he really plan to put it in Tesla’s high-end cars? “It’s worth experimenting. I’m always open to evidence from physics experiments.”
+
+
+
+
+

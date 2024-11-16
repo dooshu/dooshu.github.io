@@ -1,0 +1,71 @@
+80：Robotaxi：Tesla, 2022
+
+
+
+
+Omead Afshar, Musk, Franz von Holzhausen, Drew Baglino, Lars Moravy, and Zach Kirkhorn
+
+
+
+A Robotaxi concept
+
+
+
+
+
+We are all in on autonomy
+
+
+Self-driving cars, Musk believed, would do more than merely free folks from the drudgery of driving. They would, to a large extent, eliminate the need for people to own cars. The future would belong to the Robotaxi: a driverless vehicle that would appear when you summoned it, take you to your destination, then ride off to the next passenger. Some might be owned by individuals, but most would be owned by fleet companies or Tesla itself.
+
+That November, Musk gathered his top five lieutenants in Austin to brainstorm this future over an informal dinner at the half-furnished house of Omead Afshar, who hired a private chef to cook super-thick aged ribeye steaks. Present were Franz von Holzhausen, Drew Baglino, Lars Moravy, and Zach Kirkhorn. They decided that the Robotaxi would be a smaller, less expensive, less speedy car than the Model 3. “Our main focus has to be volume,” Musk said. “There is no amount that we could possibly build that will be enough. Someday we want to be at twenty million a year.”
+
+A central challenge was figuring out how to design a car with no steering wheel or pedals that could meet government safety standards and handle special situations. Week after week, Musk weighed in on every detail. “What if someone forgets to shut the door of the Robotaxi when they get out?” he asked. “We have to make sure it can shut its own doors.” How would a Robotaxi get into a gated community or parking garage? “Maybe it needs an arm that can punch a button or take a ticket,” he said. But that seemed like a nightmare. “Perhaps we just exclude it from places that you can’t easily drive into,” he decided. At times the conversations were so earnest and detailed they belied how wild the entire concept was.
+
+By the end of the summer of 2022, Musk and his team realized they had to make a final decision on the issue they had wrestled with for a year. Should they play it safe and build in a steering wheel, pedals, side mirrors, and other things that were currently required by regulation? Or should they build it to be truly autonomous?
+
+Most of his engineers were still pushing for the safer alternative. They had a more realistic outlook on how long it would take for Full Self-Driving (FSD) to be ready. At a fateful and dramatic meeting on August 18, they gathered to hash the issue out.
+
+“We want to make sure we are assessing the risk with you,” von Holzhausen told Musk. “If we go down a path of having no steering wheel, and FSD is not ready, we won’t be able to put them on the road.” He suggested that they make a car that had a steering wheel and pedals that could be easily removed. “Basically our proposal is to bake them in right now but remove them when we are allowed to.”
+
+Musk just shook his head. The future would not get here fast enough unless they forced it.
+
+“Small ones,” von Holzhausen persisted, “which we can remove pretty easily and design around.”
+
+“No,” Musk said. “No. NO.” There was a long pause. “No mirrors, no pedals, no steering wheel. This is me taking responsibility for this decision.”
+
+The executives sitting around the table hesitated. “Uh, we will come back to you on that,” one said.
+
+Musk got into one of his very cold moods. “Let me be clear,” he said slowly. “This vehicle must be designed as a clean Robotaxi. We’re going to take that risk. It’s my fault if it fucks up. But we are not going to design some sort of amphibian frog that’s a halfway car. We are all in on autonomy.”
+
+A few weeks later, he was still jazzed about the decision. On his plane flying from dropping Griffin off at college, he joined the weekly Robotaxi meeting by phone. As always, he tried to instill a sense of urgency. “This will be a historically mega-revolutionary product,” he said. “It will transform everything. This is the product that makes Tesla a ten-trillion company. People will be talking about this moment in a hundred years.”
+
+
+
+
+
+The $25,000 car
+
+
+As the Robotaxi discussions showed, Musk could be fiercely stubborn. He had a reality-distorting willfulness and a readiness to run roughshod over naysayers. This steeliness may have been one of the superpowers that produced his successes, along with his flameouts.
+
+But here’s a lesser-known trait: he could change his mind. He could take in arguments that he seemed to be rejecting and recalibrate his risk calculations. And that is what happened with the steering wheels.
+
+At the end of the summer of 2022, after Musk made his pronouncements about being “all in” on a Robotaxi with no steering wheel, von Holzhausen and Moravy set about persuading him to cover his bet. They knew how to do it in a nonchallenging way. “We brought him new information that maybe he wasn’t fully digesting in the summer,” Moravy says. Even if self-driving vehicles were approved by regulators in the U.S., he argued, it would be years before they were approved internationally. So it made sense to build a version of the car with a steering wheel and pedals.
+
+For years they had talked about what should be Tesla’s next-generation offering: a small, inexpensive, mass-market car selling for around $25,000. Musk himself had teased the possibility in 2020, but then he put a hold on those plans, and over the next two years he repeatedly vetoed the idea, saying that the Robotaxi would make the other car unnecessary. Nevertheless, von Holzhausen had quietly kept it alive as a shadow project in his design studio.
+
+Late on a Wednesday evening during his September 2022 trip to launch Optimus, Musk ensconced himself in his longtime haunt, the windowless Jupiter conference room of the Fremont factory. Moravy and von Holzhausen led a few top members of the Tesla team in for a secretive meeting. They presented data showing that in order for Tesla to grow at 50 percent a year, it needed to have an inexpensive small car. The global market for such a car was huge. By 2030, there might be up to 700 million of them, almost twice as many as for the Model 3/Y category. Then they showed that the same vehicle platform and the same assembly lines could be used to make both the $25,000 car and the Robotaxi. “We convinced him that if we build these factories and we have this platform, we could churn out both Robotaxis and a $25,000 car, all on the same vehicle architecture,” von Holzhausen says.
+
+After the meeting, Musk and I sat alone in the conference room, and it was clear that he was unenthusiastic about the $25,000 car. “It’s really not that exciting of a product,” he said. His heart was in transforming transportation through Robotaxis. But over the next few months, he got increasingly more enthusiastic. At a design review session one afternoon in February 2023, von Holzhausen put models of the Robotaxi and the $25,000 car next to each other in the studio. Both had a Cybertruck futuristic feel. Musk loved the designs. “When one of these comes around a corner,” he said, “people will think they are seeing something from the future.”
+
+The new mass-market vehicle, both with a steering wheel and as a Robotaxi, became known as “the next generation platform.” Musk initially decided that Tesla would build a new factory in northern Mexico, four hundred miles south of Austin, designed from the ground up to build such cars. It would use a completely new manufacturing method that was highly automated.
+
+But a problem soon arose in his mind: He had always believed that Tesla’s design engineers needed to be located right next to the assembly line, rather than allowing manufacturing to be done at a remote location. That way, engineers could get instant feedback on how to design innovations that would both improve the car and make it easier to manufacture. This was particularly true for a completely new car and manufacturing process. But he realized he would have trouble getting his top engineers to relocate to the new factory. “Tesla engineering will need to be on the line to make it successful, and getting everyone to move to Mexico is never going to happen,” he told me.
+
+So in May 2023, he decided to change the initial build location for the next-generation cars and Robotaxis to Austin, where his own workspace and that of his top engineers would be right next to the new high-speed ultra-automated assembly line. Throughout the summer of 2023, he spent hours each week working with his team to design each station on the line, finding ways to shave milliseconds off each step and process.
+
+
+
+
+

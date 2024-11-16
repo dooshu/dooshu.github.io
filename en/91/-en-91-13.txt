@@ -1,0 +1,102 @@
+13：The Coup：PayPal, September 2000
+
+
+
+
+The PayPal mafia
+
+
+
+Luke Nosek, Ken Howery, David Sacks, Peter Thiel, Keith Rope, Reid Hoffman, Max Levchin, Roelof Botha; Max Levchin
+
+
+
+Michael Moritz
+
+
+
+
+
+Street fight
+
+
+By late summer of 2000, Levchin found Musk increasingly difficult to deal with. He wrote Musk long memos outlining how fraud was threatening to bankrupt the company (one of them incongruously titled “Fraud Is Love”), but all he got in response were terse dismissals. When Levchin developed the first commercial use of CAPTCHA technology to prevent automated fraud, Musk showed little interest. “It had an extremely depressive effect on me,” Levchin says. He called his girlfriend to say, “I think I’m done.”
+
+Sitting in the lobby of a Palo Alto hotel where he was attending a conference, Levchin told a few colleagues of his plans to leave. They urged him instead to fight back. Others had similar frustrations. His close friends Peter Thiel and Luke Nosek had secretly commissioned a study that showed the PayPal brand was much more valuable than X.com’s. Musk was furious and ordered the PayPal brand to be stripped from most of the company’s website. By early September, all three, along with Reid Hoffman and David Sacks, had decided it was time to dethrone Musk.
+
+Musk had married Justine eight months earlier, but he had not found time to go on a honeymoon. Fatefully, he decided to take one that September, just when his colleagues were plotting against him. He flew to Australia to attend the Olympics, with stops to meet potential investors in London and Singapore.
+
+As soon as he left, Levchin telephoned Thiel and asked if he would come back as CEO, at least on a temporary basis. When Thiel said yes, the rebel group agreed to join hands and confront the board, enlisting other employees to sign a petition supporting their cause.
+
+Thus armed and fortified, Thiel and Levchin and their compatriots caravanned up Sand Hill Road to Sequoia Capital’s office to present their case to Michael Moritz. Moritz thumbed through the folder with the petition, then asked some specific questions about the software and fraud problems. He agreed that a change was necessary, but said he would support Thiel as CEO only if it was temporary; the company needed to begin a process of recruiting a seasoned top executive. The plotters agreed and headed off to a local dive bar, Antonio’s Nut House, to celebrate.
+
+Musk began to sense a problem during some of his phone calls from Australia. As usual, he would issue command decisions, but now his normally cowed lieutenants began pushing back. He figured out why four days into his trip, when he was copied on an email sent to the board by an employee who extolled Musk’s leadership and denounced the plotters. Musk felt blindsided. “This whole thing is making me so sad that words fail me,” he emailed. “I have given every last ounce of effort, almost all my cash from Zip2 and put my marriage on the rocks, and yet I stand accused of bad deeds to which I have not even been given an opportunity to respond.”
+
+Musk called Moritz to try to reverse his decision. “He described the coup as being ‘heinous,’ ” says Moritz, who has a refined literary sensibility. “I remember, because most people don’t use this word. He labeled it a heinous crime.” When Moritz refused to back down, Musk quickly bought plane tickets—the only seats he and Justine could get were in coach—and headed home. When he got back to the X.com office, he huddled with some of his loyalists to figure out ways to fend off the coup. After a session that lasted late into the night, he retreated to the video-game consoles in the office and played round after round of Street Fighter by himself.
+
+Thiel warned executives not to answer Musk’s calls; he could be too persuasive or intimidating. But Reid Hoffman, the chief operating officer, felt he owed Musk a conversation. A bearlike entrepreneur with a jovial personality, Hoffman knew Musk’s wiles. “He has reality-warp powers where people get sucked into his vision,” he says. Nevertheless, he decided to meet Musk for lunch.
+
+The lunch lasted three hours as Musk tried to persuade and cajole Hoffman. “I took all of my money and put it in this company,” he said. “I have the right to run it.” He also argued against the strategy of focusing just on electronic payments. “That should be only an opening act for creating a real digital bank.” He had read Clayton Christensen’s book The Innovator’s Dilemma, and tried to convince Hoffman that the staid banking industry could be disrupted. Hoffman disagreed. “I told him that I believed his vision of a superbank was toxic, because we needed to focus on our payment service on eBay,” he says. Musk then switched tacks: he tried to persuade Hoffman to become the CEO. Eager to end the lunch, Hoffman agreed to think about it, but quickly decided he wasn’t interested. He was a Thiel loyalist.
+
+When the board voted to remove Musk as CEO, he responded with a calm and grace that surprised those who had watched his feverish struggle to prevail. “I’ve decided that the time has come to bring in a seasoned CEO to take X.com to the next level,” he wrote in an email to his fellow workers. “After that search is done, my plan is to take a sabbatical for about three to four months, think through a few ideas, and then start a new company.”
+
+Although a street fighter, Musk had an unexpected ability to be realistic in defeat. When Jeremy Stoppelman, a Musk acolyte who would later be a founder of Yelp, asked whether he and others should resign in protest, Musk said no. “The company was my baby, and like the mother in the Book of Solomon, I was willing to give it up so it could survive,” Musk says. “I decided to work hard at repairing the relationship with Peter and Max.”
+
+The one remaining source of tension was Musk’s desire, as he put it in his email, to “do some PR.” He had been bitten by the celebrity bug, and he wanted to be a public face of the company. “I’m really the best spokesperson for the company,” he told Thiel during a tense meeting in Moritz’s office. When Thiel rejected the idea, Musk erupted. “I don’t want to have my honor impugned,” he shouted. “My honor is worth more than this company to me.” Thiel was baffled about why this was a matter of honor. “He was very dramatic,” Thiel recalls. “People don’t usually talk with such a superheroic, almost Homeric kind of vibe in Silicon Valley.” Musk remained the largest shareholder and a member of the board, but Thiel barred him from speaking for the company.
+
+
+
+
+
+Risk seeker
+
+
+For the second time in three years, Musk had been pushed out of a company. He was a visionary who didn’t play well with others.
+
+What struck his colleagues at PayPal, in addition to his relentless and rough personal style, was his willingness, even desire, to take risks. “Entrepreneurs are actually not risk takers,” says Roelof Botha. “They’re risk mitigators. They don’t thrive on risk, they never seek to amplify it, instead they try to figure out the controllable variables and minimize their risk.” But not Musk. “He was into amplifying risk and burning the boats so we could never retreat from it.” To Botha, Musk’s McLaren crash was like a metaphor: floor it and see how fast it goes.
+
+That made Musk fundamentally different from Thiel, who always focused on limiting risks. He and Hoffman once planned to write a book on their experience at PayPal. The chapter on Musk was going to be titled “The Man Who Didn’t Understand the Meaning of the Word ‘Risk.’ ” Risk addiction can be useful when it comes to driving people to do what seems impossible. “He’s amazingly successful getting people to march across a desert,” Hoffman says. “He has a level of certainty that causes him to put all of his chips on the table.”
+
+That was more than just a metaphor. Many years later, Levchin was at a friend’s bachelor pad hanging out with Musk. Some people were playing a high-stakes game of Texas Hold ’Em. Although Musk was not a card player, he pulled up to the table. “There were all these nerds and sharpsters who were good at memorizing cards and calculating odds,” Levchin says. “Elon just proceeded to go all in on every hand and lose. Then he would buy more chips and double down. Eventually, after losing many hands, he went all in and won. Then he said, ‘Right, fine, I’m done.’ ” It would be a theme in his life: avoid taking chips off the table; keep risking them.
+
+That would turn out to be a good strategy. “Look at the two companies he went on to build, SpaceX and Tesla,” says Thiel. “Silicon Valley wisdom would be that these were both incredibly crazy bets. But if two crazy companies work that everyone thought couldn’t possibly work, then you say to yourself, ‘I think Elon understands something about risk that everybody else doesn’t.’ ”
+
+
+
+* * *
+
+
+
+PayPal went public in early 2002 and was acquired by eBay that July for $1.5 billion. Musk’s payout was around $250 million. Afterward, he called up his nemesis Max Levchin and suggested they get together in the company parking lot. Levchin, a small and wiry guy who had occasionally harbored vague fears that Musk might one day beat him up, replied half-jokingly, “You want to have a fist fight behind the school?” But Musk was sincere. He sat on the curb looking sad and asked Levchin, “Why did you turn on me?”
+
+“I honestly believed it was the right thing to do,” Levchin replied. “You were completely wrong, the company was about to die, and I felt I had no other choice.” Musk nodded. A few months later, they had dinner in Palo Alto. “Life’s too short,” Musk told him. “Let’s move on.” He did the same with Peter Thiel, David Sacks, and some of the other coup leaders.
+
+“I was pretty angry at first,” Musk told me in the summer of 2022. “I had thoughts of assassination running through my head. But eventually I realized that it was good I got couped. Otherwise I’d still be slaving away at PayPal.” Then he paused for a few moments and let out a little laugh. “Of course, if I had stayed, PayPal would be a trillion-dollar company.”
+
+There was a coda. At the time of this conversation, Musk was in the midst of buying Twitter. As we walked in front of a high bay where his Starship rocket was being prepared for a test, he returned to the topic of what his grand vision for X.com had been. “That’s what Twitter could become,” he said. “If you combine a social network with a payments platform, you could create what I wanted X.com to be.”
+
+
+
+
+
+Malaria
+
+
+Musk’s ouster as PayPal CEO allowed him to have a true vacation, the first time that he had a weeklong holiday from work. It would also be the last time. He was not made for vacations.
+
+Along with Justine and Kimbal, he went to Rio to see his cousin Russ Rive, who had moved there after marrying a Brazilian woman. From there they went to South Africa to attend the wedding of another relative. It was Musk’s first time back after leaving the country eleven years earlier at age seventeen.
+
+Justine had a tough time dealing with Elon’s father and grandmother, known as Nana. She had gotten a henna tattoo of a gecko on her leg while in Rio, and it had not yet faded. Nana told Elon that she was a “Jezebel,” referring to the biblical woman whose name became associated with sexually promiscuous or controlling women. “That was the first time I’d ever even heard a woman refer to another woman as a Jezebel,” Justine says. “I guess the tattoo of the gecko didn’t help.” They escaped Pretoria as soon as they could for a safari at a high-end game preserve.
+
+After getting back to Palo Alto in January 2001, Musk started feeling dizzy. His ears were ringing, and he had recurring waves of chills. So he went to the Stanford Hospital emergency room, where he started throwing up. A spinal tap showed he had a high white blood cell count, which led the doctors to diagnose him with viral meningitis. It’s generally not a severe disease, so the doctors rehydrated him and sent him home.
+
+Over the next few days he felt progressively worse and at one point was so weak he could barely stand. So he called a taxi and went to a doctor. When she tried to take his pulse, it was barely perceptible. So she called an ambulance, which took him to Sequoia Hospital in Redwood City. A doctor who was an expert in infectious diseases happened to walk past Musk’s bed and realized that he had malaria, not meningitis. It turned out to be falciparum malaria, the most dangerous form, and they had caught it just in time. After symptoms become severe, as they had in Musk’s case, patients often have only a day or so before the parasite becomes untreatable. He was put into intensive care, where doctors stabbed a needle into his chest for intravenous infusions followed by massive doses of doxycycline.
+
+The head of human resources at X.com went to visit Musk in the hospital and sort out his health insurance. “He was actually only hours from death,” the executive wrote in an email to Thiel and Levchin. “His doctor had treated two cases of falciparum malaria prior to treating Elon—both patients died.” Thiel remembers that he had a morbid conversation with the HR director after learning that Musk had taken out, on behalf of the company, a key-man life insurance policy for $100 million. “If he had died,” Thiel says, “all of our financial problems were going to be solved.” It was typical of Musk’s outsized personality to take out such a large insurance policy. “We’re happy that he survived and that gradually everything tracked for the company, so we didn’t need the hundred million life insurance policy.”
+
+Musk remained in intensive care for ten days, and he did not fully recover for five months. He took two lessons from his near-death experience: “Vacations will kill you. Also, South Africa. That place is still trying to destroy me.”
+
+
+
+
+

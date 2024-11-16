@@ -1,0 +1,62 @@
+MODULE 2 ACADEMIC CONTEXT
+
+KEY POINTS
+
+• Economists try to study the production and distribution of goods in society, often advising governments on how much or how little they should interfere with free markets.*
+
+• Important economists, including Adam Smith, Karl Marx and John Maynard Keynes, all have different ideas on how best an economy can function.
+
+• Hayek was influenced by economist Ludwig von Mises’s 1922 work Socialism: An Economic Analysis.
+
+The Work In Its Context
+
+Friedrich Hayek’s The Road to Serfdom is not a normal economics book, because it draws more on history and philosophy than most major works in the field do. Still, the question it poses—how should the economy be run to maintain democracy and overall well-being?—is at the heart of economic thought. And though much of Hayek’s reasoning is more political than economic, we should still think of The Road to Serfdom as a work of economics.
+
+Economics looks at the production and distribution of goods in society. The economist Lionel Robbins, who helped recruit Hayek to the London School of Economics* in 1931, famously defined economics as “a science which studies human behavior as a relationship between ends and scarce means which have alternative uses.”1 Robbins’s definition is both abstract and narrow. And it mostly limits the field of study to the exchange of goods and services in society—though it does leave room for interpretation as to what those goods and services might be. But even by the terms of this quite limited definition, the study of economics includes a wide range of economic institutions and behaviors: from buying and selling in the market, to the structure of government, to interactions between individuals. Economists study both the small-scale decisions consumers and firms make on a daily basis and the large-scale trends of the economy as a whole.
+
+“The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design.”
+
+Friedrich Hayek, The Fatal Conceit
+
+
+
+While—as Robbins suggests in his definition—economists try to study society as scientifically as possible, many economists also try to make practical contributions to public policy to help with the organization of society. One of the main areas in which economists have influenced policymakers is in advising governments on how they should and can interfere with free markets. The Road to Serfdom is a particularly strong voice in this debate.
+
+Overview of the Field
+
+The father of modern economics is Adam Smith, whose 1776 book The Wealth of Nations was one of the first comprehensive looks at the market system.2 Smith wrote his book as a reaction to the mercantilist* policies of the time. Under mercantilism, it was widely believed that the most effective way for a country to increase its economic power was to grab as many resources—such as gold—as possible, to protect its trade from competitors. Smith’s argument, on the other hand, sowed the seeds of the idea that trade can benefit both parties, whether they are nations or individuals. Smith introduced the idea that individuals who are acting in their own self-interest, can also benefit society through the market, as if they were guided by an “invisible hand.”3
+
+Perhaps the strongest attack on Smith’s argument that markets can naturally be beneficial for society came from the father of communism,* Karl Marx. Marx argued that within the free-market system there were forces that would eventually destabilize and undermine the capitalist* system. Specifically, Marx believed that as wealth in the form of capital became more concentrated in a few hands and wages stagnated, the working class would revolt against this injustice and eventually overturn the capitalistic rich. Marx and his fellow thinker Friedrich Engels developed the idea of communism, the theory of a society built on the idea that the means of production—everything from natural resources to factories—should be owned equally by everyone, not by private individuals or companies. Marx and Engels wrote in the Communist Manifesto that “the history of all hitherto existing society is the history of class struggles,” and argued that under communism class struggle would be abolished by establishing the final and total victory of the proletariat—the working class.4
+
+While Marx developed his version of political economy as a radical attack on free-market capitalism, John Maynard Keynes’s version of economics balanced the need for markets with a significant role for the state. Keynes believed that the kind of pro-market story Smith told in The Wealth of Nations could work in specialized circumstances, but that markets would frequently fail for a variety of political, structural, and emotional reasons—what he called the “animal spirits” of the economy.5 To bring the economy back to its productive best in such situations as the Great Depression,* where a society’s total level of demand—or aggregate demand*—is low, Keynes was in favor of fiscal stimulus. In other words, he believed governments should spend to stimulate growth. This conversation about what constitutes the right economic blend of markets and the state goes on today, with supporters of Smith, Marx, and Keynes all still active in the debate.
+
+Academic Influences
+
+Major economists like Adam Smith, Karl Marx and John Maynard Keynes all had an influence on Hayek, but other people also inspired him. After World War I* Hayek was studying at the University of Vienna when he came across the Austrian School of Economics, set up by Carl Menger.* Menger had an individualistic approach in economics, believing that the focus of all economic research should lie “in the action, decisions, values, and knowledge of individuals.”6 This view, associated with the Austrian School, is different from both the Smithian and the Marxian traditions, but is a specific challenge to Keynes, who tended to analyze the economy not in terms of individuals, but in terms of society as a whole.
+
+Hayek’s contemporary and fellow economist Ludwig von Mises* published a critique of socialism* in 1922 entitled Socialism: An Economic Analysis. This book criticized governments that wanted to manage prices because, von Mises thought, without prices naturally adjusting themselves according to conditions, the market would not be able to allocate resources efficiently. One idea in von Mises’s book that has a clear connection with Hayek’s work concerns the difficulty in maintaining an economy that has some aspects of the free market and some aspects of socialism. As Hayek himself writes concerning the inability of governments to set only some prices and let others adjust freely: “There is no … social system feasible which would be neither market economy nor socialism.”7
+
+Nineteenth-century French philosopher Alexis de Tocqueville* was also an influence on Hayek, who chose the title of his book as a subtle reference to the Frenchman. De Tocqueville had himself warned that when the government abandoned the freedom of its citizens as a primary aim, then it was starting on a road that would lead to slavery for its citizens. For Hayek, this was “the road to serfdom.”8
+
+NOTES
+
+1 Lionel Robbins, An Essay on the Nature and Significance of Economic Science, Ludwig von Mises Institute (2007): 15.
+
+2 Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations (London, 1799).
+
+3 Smith, Wealth of Nations, 181.
+
+4 Karl Marx and Friedrich Engels, The Communist Manifesto (New York: Simon and Schuster, 1964): 55.
+
+5 John Maynard Keynes, The General Theory of Employment, Interest, and Money (London: Macmillan, 1936): 161–2.
+
+6 Alan Ebenstein, Friedrich Hayek: A Biography (New York: Palgrave Macmillan, 2001), 24.
+
+7 Ludwig von Mises, Socialism: An Economic and Sociological Analysis (Alabama: Ludwig von Mises Institute, 2009): 534.
+
+8 Ebenstein, Friedrich Hayek, 116.
+
+
+
+
+

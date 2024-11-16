@@ -1,0 +1,55 @@
+52：Starlink：SpaceX, 2015–2018
+
+
+
+
+An internet in low-Earth orbit
+
+
+When Musk launched SpaceX back in 2002, he conceived it as an endeavor to get humanity to Mars. Every week, amid all the technical meetings on engine and rocket design, he held one very otherworldly meeting called “Mars Colonizer.” There he imagined what a Mars colony would look like and how it should be governed. “We tried to avoid ever skipping Mars Colonizer, because that was the most fun meeting for him and always put him in a good mood,” his former assistant Elissa Butterfield says.
+
+Getting to Mars would cost serious money. So Musk combined, as he often did, an aspirational mission with a practical business plan. There were many revenue opportunities he could pursue, including space tourism (like Bezos and Branson) and satellite launches for the U.S. and other countries and companies. In late 2014, he turned his attention to what was a much bigger pot of gold: providing internet service to paying customers. SpaceX would make and launch its own communications satellites, in effect rebuilding the internet in outer space. “Internet revenue is about one trillion dollars a year,” he says. “If we can serve three percent, that’s $30 billion, which is more than NASA’s budget. That was the inspiration for Starlink, to fund getting to Mars.” He pauses, then adds for emphasis, “The lens of getting to Mars has motivated every SpaceX decision.”
+
+To pursue this mission, Musk announced in January 2015 the creation of a new division of SpaceX, based near Seattle, called Starlink. The plan was to send satellites into low-Earth orbit, about 340 miles high, so that the latency of the signals would not be as bad as systems that depended on geosynchronous satellites, which orbit 22,000 miles above the Earth. From their low altitude, Starlink’s beams cannot cover nearly as much ground, so many more are needed. Starlink’s goal was to eventually create a megaconstellation of forty thousand satellites.
+
+
+
+
+
+Mark Juncosa
+
+
+In the midst of the hellacious summer of 2018, Musk was having a Spidey sense that something was amiss at Starlink. Its satellites were too big, expensive, and difficult to manufacture. In order to reach a profitable scale, they would have to be made at one-tenth the cost and ten times faster. But the Starlink team did not seem to feel much urgency, a cardinal sin for Musk.
+
+So one Sunday night that June, without much warning, he flew to Seattle to fire the entire top Starlink team. He brought with him eight of his most senior SpaceX rocket engineers. None knew much about satellites, but they all knew how to solve engineering problems and apply Musk’s algorithm.
+
+The engineer he tapped to take over was Mark Juncosa, who was already in charge of structural engineering at SpaceX. That had the advantage of integrating the design and manufacture of all SpaceX products, from the boosters to the satellites, under one manager. It also had the advantage of that person being Juncosa, a feverishly brilliant engineer who could mind-meld with Musk.
+
+Juncosa grew up as a lanky surfer dude in Southern California, deeply loving the weather, culture, and vibe, but without falling prey to the laid-back languidness. He uses his iPhone as a fidget spinner, whipping it around his thumb and index finger with the magic of a plate spinner at a circus, and he speaks in a rapid scattershot of exclamations studded with “you know” and “like” and “wow, dude.”
+
+He went to Cornell, where he joined the college’s Formula One racing team. His initial job was fabricating the car bodies, which used his skill at making surfboards, and then he was drawn into the engineering work. “I really, like, fell in love with it, you know, and felt, like, wow, man, this is what I was built to do,” he says.
+
+On a visit to Cornell in 2004, Musk sent a note to some engineering professors inviting them to bring one or two of their favorite students to lunch. “It was like, you know, do you want a free lunch on this rich guy?” Juncosa says. “Hell yeah, I’m into that for sure.” When Musk described what he was doing at SpaceX, Juncosa thought, “Man, this guy is crazy as hell, and I think he’s going to lose all his money, but he seems super smart and motivated and I like his style.” When Musk offered him a job, he accepted immediately.
+
+Juncosa impressed Musk with his risk-taking, rule-breaking attitude. When he was overseeing the development of the Dragon capsule that carries the Falcon 9 payload into orbit, he was repeatedly chided by SpaceX’s quality-assurance manager for not filing the proper paperwork. Juncosa’s team was designing the capsule all day and then spending most of the night building it themselves. “I told the dude that we didn’t have time to paper our work orders and quality checks, we were just going to build it and test it at the very end,” he says. “The quality dude was pretty mad, rightly, so we ended up in Elon’s cubicle arguing it out.” Musk got fired up and started berating the quality-assurance manager. “It was pretty edgy, but he and I were hell-bent on getting this capsule done because we risked running out of money,” says Juncosa.
+
+
+
+
+
+Improved Starlinks
+
+
+When Juncosa took over at Starlink, he threw away the existing design and started back at a first-principles level, questioning every requirement based on fundamental physics. The goal was to make the simplest communications satellite possible, and later add bells and whistles. “We had marathon meetings, and Elon pushed on every little thing,” says Juncosa.
+
+For example, the satellite’s antennas were on a separate structure from the flight computer. The engineers had decreed that they be thermally isolated from one another. Juncosa kept asking why. When told that the antennas might overheat, Juncosa asked to see the test data. “By the time that I asked ‘Why?’ five times,” Juncosa says, “people were like, ‘Shit, maybe we should just make this one integrated component.’ ”
+
+By the end of the design process, Juncosa had turned a rat’s nest into what was now a simple flat satellite. It had the potential to be an order of magnitude cheaper. More than twice as many could be packed into the nose cone of a Falcon 9, doubling the number each flight could deploy. “I was, like, pretty happy with it,” Juncosa says. “I’m sitting there thinking how clever I had been.”
+
+But Musk was still picking over each detail. When they were launched on a Falcon 9, there were connections holding each satellite down so that they could be released one at a time and not bump into each other. “Why not release them all at once?” he asked. That initially struck Juncosa and the other engineers as crazy. They were afraid of collisions. But Musk said the motion of the spaceship would cause them to separate naturally. If they did happen to bump, it would be very slow and harmless. So they got rid of the connectors, saving a little bit of cost, complexity, and mass. “Life got way easier because we culled those parts,” Juncosa says. “I was too chicken to propose that, but Elon made us try it.”
+
+By May 2019, the design of the simplified Starlink was complete and the Falcon 9 rocket began launching them into orbit. When they became operational four months later, Musk was at his south Texas house and went on Twitter. “Sending this tweet through space via Starlink satellite,” he wrote. He was now able to tweet on an internet that he owned.
+
+
+
+

@@ -1,0 +1,103 @@
+32：The Model S：Tesla, 2009
+
+
+
+
+Drew Baglino and Musk with Franz von Holzhausen
+
+
+
+
+
+Henrik Fisker
+
+
+The Christmas 2008 financing round, Daimler investment, and government loan allowed Musk to proceed with a project that, if successful, would turn Tesla into a real automotive company that could lead the way into the electric-vehicle era: a mainstream four-door sedan, costing about $60,000, that would be mass-produced. It became known as the Model S.
+
+Musk had spent a lot of time on the Roadster design, but he had a much harder time when he tried to help shape a four-door sedan. “In a sports car, the lines and proportions are like that of a supermodel, and it’s relatively easy to make that good looking,” he says. “But the proportions of a sedan are harder to make pleasing.”
+
+Tesla had originally contracted with Henrik Fisker, a Danish-born designer in Southern California who had produced the sensuous styling of the BMW Z8 and the Aston Martin DB9. Musk was not impressed with his ideas. The car “looks like a fucking egg on wheels,” he said of one of Fisker’s sketches. “Lower the roof.”
+
+Fisker tried to explain the problem to Musk. Because the battery pack would raise the floor of the car, the roof needed to bulge in order to provide enough headroom. Fisker went to a whiteboard and sketched the Aston Martin design that Musk liked. It was low and wide. But the Model S could not have the same sleek proportions because of its battery location. “Imagine you’re at a fashion show with Giorgio Armani,” Fisker explained. “A model who is six feet tall and weighs a hundred pounds comes in wearing a dress. You’re with your wife and she is five feet tall and weighs a hundred fifty pounds, and you say to Armani, ‘Make that dress for my wife.’ It won’t look the same.”
+
+Musk ordered dozens of changes, including to the shape of the headlights and the lines of the hood. Fisker, who considered himself an artist, told Musk why he didn’t want to make some of them. “I don’t care what you want,” Musk replied at one point. “I’m ordering you to do these things.” Fisker recalls Musk’s chaotic intensity with a tone of weary amusement. “I’m not really a Musk type of guy,” he says. “I’m pretty laid back.” After nine months, Musk canceled his contract.
+
+
+
+
+
+Franz von Holzhausen
+
+
+Franz von Holzhausen was born in Connecticut and lived in Southern California but, true to his name, has a Euro-cool aura. He dresses in animal-free Technik-Leather jackets and tight jeans, and he has an ever-present half-smile that hints at both self-confidence and polite humility. After graduating from design school, he became a journeyman working stints at Volkswagen, GM, and then Mazda in California, where he found himself stuck in what he calls “a rinse-and-repeat cycle” of doing uninspired projects.
+
+One of his passions was go-karting, and a fellow rider, who was working on opening Tesla’s first showroom on Santa Monica Boulevard, gave his name to Musk during the brutal summer of 2008. Having canceled Fisker’s contract, Musk was looking for someone to set up an in-house design studio at Tesla. When Musk called von Holzhausen, he agreed to come by that afternoon. Musk gave him a tour of SpaceX, which blew his mind. “Shit, he’s launching rockets into space,” von Holzhausen marveled. “Cars are easy compared to this.”
+
+They continued the conversation at the opening party that evening for the Santa Monica showroom. In a conference room away from the other partygoers, Musk showed him pictures of the work that Fisker had done on the Model S. “That is really no good,” von Holzhausen declared. “I can make you something great.” Musk started laughing. “Yes, let’s do it,” he said, hiring von Holzhausen on the spot. They would end up becoming a team, like Steve Jobs and Jony Ive, one of the few calming and nondramatic relationships Musk would have, professionally and personally.
+
+Musk wanted the design studio to be near his cubicle at the SpaceX factory in Los Angeles, rather than at Tesla’s office in Silicon Valley, but he did not have the money to build it. So he gave von Holzhausen a corner in the rear of the rocket factory, near where the nose cones were being assembled, and erected a tent to give his team some privacy.
+
+The day after he arrived, von Holzhausen stood next to Gwynne Shotwell near the canteen of the SpaceX factory and watched on the monitors as the company made its August 2008 third launch attempt from Kwaj. That was the launch that failed when the booster, just after separation, lurched slightly and bumped the second stage. It dawned on him that he had left a cushy job at Mazda to work for a manic genius addicted to risk and drama. Both SpaceX and Tesla seemed to be spiraling into bankruptcy. “Armageddon was hitting,” he says, “and there were days when I thought, man, we may not survive to even be able to show this cool car we’re dreaming about.”
+
+Von Holzhausen wanted a sidekick, so he reached out to an auto-industry pal he had known for years, Dave Morris, a clay-modeler and engineer with a jolly fish-and-chips accent from his north London childhood. “Dave, you don’t realize how bootstrap this organization is,” von Holzhausen told him. “This is like a garage band. We may be going bankrupt.” But when von Holzhausen took him through the rocket factory to the design studio area, Morris was hooked. “If he’s this hardcore about rockets and he wants to do cars,” Morris thought, “then I want to do this.”
+
+Musk eventually bought an old aircraft hangar next to the SpaceX factory to house von Holzhausen and his studio. He would drop by to talk almost every day, and he would spend an hour or two every Friday in an intensive design review session. Gradually a new version of the Model S took shape. After a few months of showing sketches and specification sheets, von Holzhausen realized that Musk was most comfortable responding to 3D models. So he and Morris worked with a couple of sculptors to make a full-scale model, which they continually updated. On Friday afternoons, when Musk came for his visits, they would push the model out of the studio and into a sunlit outside parking patio to get his reactions.
+
+
+
+
+
+The battery pack
+
+
+In order to keep the Model S from looking bulbous, Musk had to make its battery pack as thin as possible. That is because he wanted it to be underneath the floor of the car, unlike the Roadster, which had a boxy battery pack behind its two seats. Putting the battery low made the car easier to handle and almost impossible to tip over. “We spent a lot of time shaving millimeters from the battery pack so that we could ensure that you had enough headroom without making it a bubble car,” Musk says.
+
+The person he put in charge of the battery was a recent Stanford graduate named Drew Baglino. More personable than the average engineer, with an easy laugh, Baglino would rise to the top ranks of Tesla over the years, but his career almost ended at his first meeting with Musk. “How many battery cells do we need to get to our range target?” Musk asked him. Baglino and the rest of the powertrain team had been analyzing that question for weeks. “We had run dozens of models, looking at how good the aerodynamics could be, how efficient we could get the drivetrain, and how energy dense we could make each of the cells,” he says. And the answer they came up with was that the battery pack would need about 8,400 cells.
+
+“No,” Musk replied. “Do it with 7,200 cells.”
+
+Baglino thought that was impossible, but he caught himself before blurting that out. He had heard the tales of Musk’s anger when challenged. Nevertheless, he found himself several times after that on the receiving end of Musk’s blowtorch. “He was really harsh,” Baglino recalls. “He likes to challenge the messenger, which isn’t always the best approach. He began attacking me.”
+
+Baglino told his boss, Tesla’s cofounder JB Straubel, how shaken he was: “I never want to be in another meeting with Elon.” Straubel, who had been through many such sessions, surprised him by declaring it had been a “great” meeting. “That’s the kind of feedback we need,” Straubel said. “You just have to learn how to deal with his demands. Figure out what his goal is, and keep giving him information. That’s how he gets the best outcomes.”
+
+In the case of the battery cells, Baglino ended up being surprised. “The crazy thing about his 7,200 target was we indeed ended up with 7,200 cells,” he says. “It was a gut calculus, but he nailed it.”
+
+
+
+* * *
+
+
+
+Once he got the cell number reduced, Musk focused on how low the battery pack could be positioned. Putting it in the floor pan meant that it needed to be protected from being pierced by rocks or debris. That led to many showdowns with the more cautious members of his team, who wanted a thick plate under the battery. Sometimes the meetings erupted into shouting matches. “Elon would get personal and the engineers would freak out,” Straubel says. “They’d feel that they were being asked to do something unsafe.” When they dug in their heels, it was like waving a red cape in front of a bull. “Elon is a hypercompetitive guy, and challenging him means that a meeting can go to hell.”
+
+To be the chief engineer for the Model S, Musk hired Peter Rawlinson, a genteel Englishman who had worked on car bodies for Lotus and Land Rover. Together they came up with a way to do more than merely place the battery pack under the floor of the car. They engineered it so that the pack became an element of the car’s structure.
+
+It was an example of Musk’s policy that the designers sketching the shape of the car should work hand in glove with the engineers who were determining how the car would be built. “At other places I worked,” von Holzhausen says, “there was this throw-it-over-the-fence mentality, where a designer would have an idea and then send it to an engineer, who sat in a different building or in a different country.” Musk put the engineers and designers in the same room. “The vision was that we would create designers who thought like engineers and engineers who thought like designers,” von Holzhausen says.
+
+This followed the principle that Steve Jobs and Jony Ive had instilled at Apple: design is not just about aesthetics; true industrial design must connect the looks of a product to its engineering. “In most people’s vocabularies, design means veneer,” Jobs once explained. “Nothing could be further from the meaning of design. Design is the fundamental soul of a man-made creation that ends up expressing itself in successive outer layers.”
+
+
+
+
+
+Friendly design
+
+
+There was another principle that came out of Apple’s design studio. When Jony Ive conceived the candy-colored, friendly iMac in 1998, he included a recessed handle. It was not very functional, because the iMac was a desktop computer that was not meant to be carried around. But it sent a signal of friendliness. “If there’s this handle on it, it makes a relationship possible,” Ive explained. “It’s approachable. It gives you permission to touch.”
+
+Likewise, von Holzhausen sketched a way to do door handles that were flush to the car and popped out and lit up like a happy handshake when the driver approached with a key. It did not add any great functionality. A regular extruding door handle would work just as well. But Musk immediately embraced the idea. It would send a chirpy signal of friendliness. “The handle senses your approach, lights up, pops out to greet you, and it’s magical,” he says.
+
+The engineers and production teams fought the idea. There was little space inside the door for the mechanisms, which would have to work thousands of times in various weather conditions. One of the engineers flung back at Musk one of his favorite words: “stupid.” But Musk persisted. “Stop fighting me on this,” he ordered. It ended up being a signature feature of the cars, one that sealed an emotional bond with the owner.
+
+Musk had a resistance to regulations. He did not like to play by other people’s rules. As the Model S neared completion, he got in the car one day and pulled down the passenger-side visor. “What the fuck is this?” he asked, pointing to the government-mandated warning label about air bags and how to disable them when a child is in the passenger seat. Dave Morris explained that the government required them. “Get rid of them,” Musk ordered. “People aren’t stupid. These stickers are stupid.”
+
+In order to get around the requirements, Tesla designed a system to suppress airbag deployments when it detected that a child was in the passenger seat. But that did not satisfy the government, and Musk didn’t back down. Over the years, Tesla would engage in a back-and-forth with the National Highway Traffic Safety Administration, which sporadically issued recall notices for Tesla cars without the warning sticker.
+
+Musk wanted the Model S to have a large touchscreen at the driver’s fingertips. He and von Holzhausen spent hours kicking around ideas for the size, shape, and positioning of the screen. It turned out to be a game-changer for the auto industry. It gave the driver easier control over the lights, temperature, seat positions, suspension levels, and almost everything in the car except opening the glove compartment (which, for some reason, government regulations required have a physical button). It also allowed more fun, including video games, fart sounds for the passenger seat, different horn sounds, and Easter egg jokes hidden in the interfaces.
+
+Most importantly, regarding the car as a piece of software rather than just hardware allowed it to be continuously upgraded. New features could be delivered over the air. “We were amazed at how we could add tons of functionality over the years, including more acceleration,” Musk says. “It allowed the car to get better than when you originally bought it.”
+
+
+
+
+

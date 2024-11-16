@@ -1,0 +1,109 @@
+91：Rabbit Holes：Twitter, December 2022
+
+
+
+
+@elonjet
+
+
+Nothing would more surely make Musk go ballistic than a threat to his two-year-old son X, his constant companion and cheerful energizer. One Tuesday night in December, as the Twitter Files were unspooling, Musk perceived that such a threat had occurred, and the reverberations rattled the foundations of his proclaimed battle for free speech.
+
+A longtime stalker of Grimes had been lurking for a day on the road around the house where she and Musk were staying in the Los Angeles area, and at one point, they say, he followed a car driven by one of Musk’s security detail that was taking X and his nanny to a nearby hotel. The security person pulled into a gas station and confronted the driver, taking a video of him dressed like a ninja with gloves and mask. The guy either jumped on the car hood or tried to climb over it when the car cornered him—the details were disputed—and when the police arrived they made no arrests. Using the video that Musk posted, the Washington Post tracked down the guy, who told the paper that he believed Grimes was sending him coded messages through her Instagram posts. Musk tweeted, “Last night, car carrying lil X in LA was followed by crazy stalker (thinking it was me), who later blocked car from moving & climbed onto hood.”
+
+Musk believed that the stalker had been able to find where he and Grimes were staying because of a Twitter account called @elonjet, run by a student named Jack Sweeney, that posted the real-time takeoffs and landings of Musk’s jet based on public flight information. The connection was murky: Musk had landed in Los Angeles a day before, but Grimes said that is when she started noticing the stalker’s car lurking outside.
+
+Musk had long been infuriated by the @elonjet account, which he thought was doxing and endangering him. In April, when he was first thinking of buying Twitter, he discussed it at a dinner of friends and family in Austin, and both Grimes and his mother argued strongly that he should ban it. He agreed, but once he took over Twitter he decided not to. “My commitment to free speech extends even to not banning the account following my plane, even though that is a direct personal safety risk,” he tweeted in early November.
+
+That impressed Bari Weiss, but when she was putting together her first Twitter File thread, she discovered that Musk had done to @elonjet what the previous Twitter regime had done to some on the far right: @elonjet was being severely “visibility filtered” so that it did not show up in searches. She was disappointed; it seemed hypocritical. Then, after the incident involving X, Musk made the unilateral decision to suspend @elonjet altogether. He justified it by saying that Twitter now had a policy against doxing people’s location.
+
+Worse yet, especially from the vantage of making the site a haven for free speech, Musk arbitrarily suspended a handful of journalists who wrote about what he had done to @elonjet. His ostensible reason was that their stories had linked to the @elonjet account and were thus also doxing him, but in fact @elonjet was no longer available and the links simply led to a page that said “Account suspended.” It thus seemed that Musk had acted partly out of pique, retaliating against journalists whose stories had been critical of him. These included Ryan Mac of the New York Times, Drew Harwell and Taylor Lorenz of the Washington Post, and at least eight others.
+
+Weiss, who was still toiling in the hot box to produce more installments of the Twitter Files, found herself in a difficult situation. “He was doing the very things that he claimed to disdain about the previous overlords at Twitter,” she says. “Some of the people he was kicking off were my biggest bullies on Twitter. I don’t like some of these people at all. But I felt like he was betraying the things he was claiming to want Twitter to be about—a public square that wasn’t rigged in favor of one side or the other. And just from a purely strategic perspective, he was martyring a lot of assholes.”
+
+Weiss wrote Musk a private message on Signal, an encrypted messaging service: “Hey, what’s going on here?”
+
+“They doxed my plane,” he answered. “They attacked my son.”
+
+Weiss discussed the matter with some of the other journalists in the hot box, but ultimately she was the only one willing to speak up. “You can’t be a journalist and watch journalists get kicked off Twitter and say nothing,” she says. “Principles still matter to me.” She knew it might mean that she would lose her access to report on the Twitter Files. And, as she joked to Nellie Bowles, “I guess Elon won’t ever be our sperm donor now.”
+
+“The old regime at Twitter governed by its own whims and biases, and it sure looks like the new regime has the same problem,” Weiss tweeted on the morning of December 16, the day after the journalists had been kicked off. “I oppose it in both cases.”
+
+“Rather than rigorously pursuing truth,” Musk responded on Twitter, “you are virtue-signaling to show that you are ‘good’ in the eyes of media elite to keep one foot in both worlds.” He then restricted her access to the Twitter Files.
+
+
+
+
+
+Twitter Spaces
+
+
+“This is crazy,” Jason Calacanis texted David Sacks about Musk’s decision to suspend journalists. “This is going to ruin attention to the Twitter Files. We’ve got to reverse it.” So they jointly texted Musk, “You got to let these people come back.” Musk was noncommittal.
+
+In the middle of their text exchanges, Calacanis noticed that on Twitter Spaces, where users can organize audio discussions, a large group was chatting about the issue. Two of the suspended journalists, Drew Harwell of the Post and Matt Binder of Mashable, were participating. Although they were banned from posting, Twitter’s software had not blocked them from the audio conversations. Calacanis told Musk, who surprised the participants by going to Spaces and—sounding very defensive and bristly—joining in the conversation. Word quickly spread, and within minutes thirty thousand users were listening.
+
+When the organizer, BuzzFeed News reporter Katie Notopoulos, asked Musk to explain the suspensions, he said it was because they had linked to places that were doxing him. “You’re suggesting that we’re sharing your address, which is not true,” Harwell said. “I never posted your address.”
+
+“You posted a link to the address,” Musk retorted.
+
+“We posted links to elonjet, which is now not online,” Harwell replied. He accused Musk of “using the same exact link-blocking technique that you have criticized as part of the Hunter Biden New York Post story.”
+
+Musk got angry and then disappeared from the session. A few minutes later, Twitter abruptly shut it down. In fact, it shut down all of Spaces for a day in order to make it impossible for suspended users to join conversations. “We’re fixing a legacy bug,” Musk tweeted about the shutdown of Spaces. “Should be working tomorrow.”
+
+Musk soon realized he had gone too far and looked for some way to reverse himself. He posted a poll asking users whether the barred journalists should have their accounts restored. More than 58 percent of the 3.6 million voters said yes. The accounts were restored.
+
+
+
+
+
+Prosecute/Fauci
+
+
+As the controversy swirled, Musk alternated between being angry and jokey. Sitting in the hot box conference room one evening with Weiss, some of her colleagues, and James, he started poking fun at the practice of people posting their preferred pronouns. Someone made a joke that Musk’s should be “prosecute/Fauci.” There were a few nervous laughs—Weiss admits not wanting to challenge Musk at that moment—and Musk started cackling. He repeated the joke three times. Then, at around 3 a.m., he impulsively tweeted it out: “My pronouns are Prosecute/Fauci.” It made little sense, wasn’t funny, and managed, in just five words, to mock transgender people, conjure up conspiracies about the eighty-one-year-old public health official Anthony Fauci, scare off more advertisers, and create a new handful of enemies who would now never buy Teslas.
+
+His brother was among those who were outraged. “What the heck, man, this is an old guy who was just trying to figure things out during COVID,” Kimbal told him. “This is not okay.” Even Jay Bhattacharya, the Stanford professor whose criticism of Fauci’s policies caused him to be filtered on Twitter, criticized the tweet. “I think that Fauci made tremendous mistakes,” he said. “But I think the right redress is not to prosecute him, but for history to remember him having made those mistakes.”
+
+The Fauci tweet was not merely an example of Musk expressing anti-woke or right-wing sentiments. He was skittering at times on the edges of the rabbit holes of conspiracy theories about sinister global elite forces. It was a flip side to his impish speculations that we might actually live in a simulation. In his darker moods, he brooded that behind our reality were dark conspiratorial forces, like in The Matrix. For example, he retweeted comments by Robert Kennedy Jr., a fervent antivaxxer who alleged that the CIA had killed his uncle the president. After Musk’s Fauci tweet, Kennedy posted, “Fauci purchased omertà among virologists globally with a total of $37 billion in annual payoffs in research grants. With the paymaster gone, the orthodoxies will unravel.”
+
+“Precisely,” Musk replied. He would later host a Twitter Spaces with Kennedy when he decided to run for president against Biden.
+
+
+
+* * *
+
+
+
+As often, there were unnerving echoes of his father. Errol had been spouting conspiracy theories about COVID for more than two years. “This man should be fired!” he said of Fauci on Facebook in April 2020. Later that year, he alleged that Bill Gates knew about COVID six months before it spread and had negotiated a $100 billion contract to trace it. By 2021, he was a full-throated denier of COVID vaccines, Trump’s election loss, and the 9/11 terrorist attacks. “From all the info coming out, it appears the 9/11 attacks were a setup and the evidence is overwhelming,” he said. And just a few weeks before Elon launched the Twitter Files, Errol posted a rant on Facebook about how COVID was “a lie.” He said of the vaccines, “If you were stupid enough to have the injection, and especially ‘boosters,’ you are going to die soon.”
+
+After the Twitter Files were published, Errol sent his son another unsolicited message. “The Left (or gangsters) have got to be stopped,” he wrote. “Civilization is at stake.” The election had been stolen from Trump, and it was “essential” to let him back on Twitter. “He is our only ray of light.” He then advised his son to remember the lesson he learned as a child on the playgrounds of South Africa: “Trying to placate the gangsters is futile. The more you try, the less they fear or respect you. Hit them hard, or hit anyone hard, and they will respect you.”
+
+Elon never saw these messages. In an attempt to purge his father’s demons, he had changed his email address and not given Errol the new one.
+
+
+
+
+
+Fallout
+
+
+When Yoel Roth resigned from Twitter in November, his major worry was that Musk would unleash a Twitter mob on him that would threaten his safety. At first, it seemed he had been spared. But then, when his emails and Slack messages were released in the Twitter Files in December, Musk trained his flamethrower on him.
+
+The Twitter Files showed Roth discussing how to handle such issues as the Hunter Biden laptop story. Most of his comments were thoughtful, but they still elicited angry reactions on Twitter. At one point a user posted a tweet saying, “I think I may have found the problem.” It pointed to a post Roth had made in 2010 that linked, without comment, to a journal article asking whether it was wrong for a teacher to have sex with an eighteen-year-old student. “That explains a lot,” Musk replied. Musk then took up the bludgeon on his own. He tweeted out a screenshot of a paragraph of Roth’s University of Pennsylvania doctoral dissertation, titled “Gay Data,” which noted discussed ways that gay hookup sites such as Grindr could deal with users under the age of eighteen. Musk commented, “Looks like Yoel is arguing in favor of children being able to access adult Internet services.”
+
+Roth had nothing to do with pedophilia, but Musk’s insinuations stirred up Pizzagate-style conspiracists lurking in the dark recesses of Twitter who unleashed a barrage of homophobic and anti-Semitic attacks. A tabloid then published Roth’s address, forcing him to go into hiding. “Musk made the decision to share a defamatory allegation that I support or condone pedophilia,” Roth later said. “I had to leave my home and sell it. Those are the consequences for this type of online harassment and speech.”
+
+
+
+* * *
+
+
+
+On the Sunday that he stirred up outrage with his Fauci tweet, Musk dropped in on the hot box at Twitter and offered the musketeers and others tickets for a Dave Chappelle comedy event that evening. Even at a show by the famously anti-woke comedian, it became evident that Musk’s tweets had added a new layer of damage to his reputation. “Ladies and gentlemen, make some noise for the richest man in the world,” Chappelle proclaimed as he invited Musk onstage. There was some applause, but also a long chorus of boos. “It sounds like some of those people you fired are in the audience,” Chappelle said. He jokingly reassured Musk that the booing was mainly from people in the “terrible seats.”
+
+Musk’s erratic tweets further hurt Twitter with advertisers. He asked for a call with David Zaslav, the CEO of Warner Bros. Discovery, and they spoke for more than an hour. Zaslav told him that he was doing self-destructive things that made it harder to attract brands that were aspirational. He should focus on improving the product by adding longer video offerings and making ads more effective.
+
+The damage even spilled over to Tesla. Its stock had dropped to $156 a share, down from $340 when he first announced his interest in Twitter. At its meeting in Austin on December 14, the Tesla board, usually very compliant, told Musk that the Twitter controversies were hurting the Tesla brand. Musk pushed back, saying that sales numbers were bad around the world, even where people were not paying attention to the controversies, and it was due mainly to macroeconomic factors. But both Kimbal and board chair Robyn Denholm kept pressing him, saying that his behavior was a factor. “The giant elephant in the room was that he was acting like a fucking idiot,” Kimbal says.
+
+
+
+
+

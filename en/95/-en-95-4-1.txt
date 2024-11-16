@@ -1,0 +1,65 @@
+A. THE ECONOMISTS’ THEORY OF THE STATE
+
+Most economists accept a theory which implies that the basic services of government can be provided, as the last chapter argued, only through compulsion. This is the theory of "public goods." Most economists have accordingly also accepted the basic premise of this study-that organizations work for a common good or benefit-in the case of one special type of organization, the state. The idea that the state provides a common benefit, or works for the general welfare, goes back more than a century.
+
+But simple and basic as this idea appears to be, more than a generation of discussion and disagreement passed before it was clearly understood, even for the special case of the state. The discussion of this question had begun in the early part of the nineteenth century if not before. Heinrich von Storch, in a work written for the instruction of the Czar's family, appeared to have some vague conception of the distinction between a collective good and an individual benefit, for he argued that individual enterprise could not secure life and property from attack, though it could best supply all other needs.1 J.-B. Say later endorsed and elaborated Starch's argument.2 Later Friederich von Wieser asked why there was an
+
+1. Henri (Heinrich Friedrich von) Storch, Cours d'economii: politiqui: (St. Petersburg: A. Pluchart, 18I 5), I, 3-7. I learned of Storch's writing on this subject from William J. Baumol's Welfare Economics and the Theory of the Statt: (Cambridge,
+Mass.: Harvard University Press, 1952), chap. xii, pp. 140-157. In that chapter Professor Baumol has a fuller discussion of the history of the theory of public goods than will be found here. His discussion has, however, a different focus. More recent elaborations of the theory of public goods, as they relate to welfare economics, are discussed in the second edition of Baumol's book, which is now in press.
+ 2. Independamment des besoins que ressencent Jes individus et Jes families, et qui donnent lieu aux consommations privccs, !es hommes en socictc ont des besoins qui
+!cur sont communs, ct qui ne pcuvcnt etre satisfaits qu"au moyen d'un concours
+d'individus ct memc quclqucfois de tous !cs individus qui la composcnt. Or, cc concours ne pcut ctrc obtenu quc d'unc institution qui dispose de l"obcissance de tous, clans
+
+equality in the consumption of those goods and services provided by the state while there was such a remarkable inequality in the distribution of the products of the private sector. Wieser also noticed a similarity between the state and private associations in this respect. But Wieser also showed that he did not fully understand the question by saying that "the public economy does not in itself create productive income." 3
+
+Emil Sax distinguished publicly owned enterprises from state activities that benefit the whole citizenry. He also remarked parenthetically that there was a similarity between the state and private associations. But the fact that the theory of public goods was not yet properly understood is evident, for Sax wrongly ascribed the support of the state and other associations to "a kind of altruism created by the need for joint action towards a common end, and designed for mutual assistance to the exclusion of self interest if necessary." 4 If this were true, governments would not need to make taxes compulsory.5
+
+The Italian economist Ugo Mazzola came nearer to analyzing the state's collective services correctly. He rightly emphasized the "indivisibility" of what he called "public goods," and realized that the basic state services benefited everyone. His error came in contending there was a "complementarity" between public and private goods which implied that the amount of public goods consumed depended on the amount of private goods consumed. Somehow Mazzola concluded from this that each citizen got at the margin exactly as much utility from the public goods as from private goods, and was ac-
+
+les limites qu'admet la forme du gouvernement." Jean-Baptiste Say, .Cours comp/et d'economie politique pratique (Paris: Guillaumin Libraire, 1840), II, 261. This reference was discovered in Baumol, just cited, pp. 146-149.
+
+3. Friederich von Wieser, "The Theory of Public Economy," in Classics in the Theory of Public Finance, ed. Richard A. Musgrave and Alan T. Peacock (London: Macmillan, 1958), pp. 190-20 l. Most of the following references will be to this anthology of classics. The following account is not an original, much less a thorough, history of economic thought on this question. A full account would be an unnecessary digression here.
+4. Emil Sax, "The Valuation Theory of Taxation," in Clauics, p. 181 and pp.
+177-179.
+
+5. Adolph Wagner's approach was better than Sax's in that it recognized that the state must be coercive. Wagner seemed, however, to give more emphasis to the historical circumstances affecting the size of the government than to any abstract conceptions of public goods. See his "Three Extracts on Public Finance," Classics,
+pp. 1-16.
+
+cordingly in an equilibrium position,6 that is, one that he would not voluntarily change unless the basic situation changed.
+But, as Wicksell later pointed out, the individual taxpayer could hardly be in an equilibrium position, for, "if the individual is to spend his money for private and public uses so that his satisfaction is maximized, he will obviously pay nothing whatsoever for public purposes." Whether the taxpayer pays much or little to the treasury he "will affect the scope of public services so slightly that for all practical purposes he himself will not notice at all." 7 Taxes therefore are compulsory exactions which keep the taxpayer in what might better be called a disequilibrium position.
+
+Thus these continental writers on public finance had learned from each other's errors and progressively improved the analysis, which after many decades culminated in Wicksell's conception of the problem in the essay in which he propounded his "unanimous consent" theory of taxation. Wicksell had a correct conception of the problem of financing the collective services provided by government, whatever may be thought of his practical proposal for taxation. Wicksell confined his discussion to the special case of the government, however, and did not consider the general problem faced by all economic organizations. Nor did he consider how small a "public" must be before the theory no longer applies.
+
+Generally speaking, economists writing after Wicksell have accepted his analysis of the basic problem of the theory of public expenditure.8 Hans Ritschl has been perhaps the most forceful among those few economists9 who have not accepted the "individualistic" or Wicksellian approach. Ritschl argued that:
+
+The fatherland and mother tongue make us all brethren together. Anyone is welcome to the exchange society who obeys its regulations.
+
+6. Ugo Mazzola, "The Formation of the Prices of Public Goods," Clauics, pp. 159-193. See also Maffeo Pantalconi, "Contributions to the Theory of the Distribution of Public Expenditure," Classics, pp. 16-27.
+7. Knut Wickscll, "A New Principle of Just Taxation," Classics, pp. 81-82.
+
+8. For example, sec Richard Musgrave, Tht: Theory gf Public Finance (New York: McGraw-Hill, 1959), esp. chaps. iv and vi; Paul A. Samuelson, "The Pure Theory of Public Expenditure," Ret1it:w of Eonomics and Statistics, XXXVI (November 1954), 387-390; Erik Lindahl, "Just Taxation-A Positive Solution," Classics, pp. 168-177 and 214-233.
+
+9. Others arc Gerhard Colm, "Theory of Public Expenditures," Annals of the American Academy of Political and Social Science, CLXXXIII (January 1936), 1-11; and Julius Margolis, "A Comment on the Pure Theory of Public Expenditure," Rt:t1it:w of Economics and Statistics, XXXVII (November 1955), 347-349.
+
+But to the national community belong only the men and women of the same speech, of the same ilk, the same mind ... Through the veins of society streams the one, same money; through those of the community the same blood ...
+
+Any individualistic conception of "the State'' is a gross aberration ... [and] nothing but a blind ideology of shopkeepers and hawkers.
+
+The State economy serves the satisfaction of communal needs ... If the State satisfies needs which are purely individual, or groups of individual needs which can technically not be met otherwise than jointly, it does so for the sake of revenue only.
+
+In the free market economy the economic self-interest of the individual reigns supreme and the almost sole factor governing relations is the profit motive, in which the classical theory of the free market economy was appropriately and securely anchored. This is not changed by the fact that more economic units, such as those of associations, cooperatives or charities, may have inner structures where we find motivations other than self-interest. Internally, love or sacrifice, solidarity or generosity may be determining: but irrespective of their inner structures and the motives embodied therein, the market relations of economic units with each other are always governed by self-iTlterest [italics mine].
+
+In the exchange society, then, self-interest alone regulates the relations of the members; by contrast, the state economy is characterized by communal spirit within the community. Egotism is replaced by the spirit of sacrifice, loyalty and communal spirit . . . This understanding of the fundamental power of the communal spirit leads to a meaningful explanation of coercion in the state economy. Coercion is a means of assuring the full effectiveness of the communal spirit, which is not equally developed in all members of the community.
+
+The objective collective needs tend to prevail. Even the party stalwart who moves into responsible government office undergoes factual compulsion and spiritual change which makes a statesman out of a party leader ... There is not a single German statesman of the last twelve years ... who escaped compliance with this law.10
+
+Ritschl's argument is exactly the opposite of the approach in this book. He assumes a curious dichotomy in the human psyche such that self-interest rules supreme in all transactions among individuals, whereas self-sacrifice knows no bounds in the individual's relationship to the state and to the many types of private associations. The organizations supported by this self-sacrifice are nonetheless selfish in all dealings with other organizations. The state and the race (and
+10. Hans Ritschl, "Communal Economy and Market Economy," Classics, pp.
+233-241.
+
+with Marxian writers, the class) become metaphysical entities, with "objective" needs and purposes beyond those of the individuals who compose them.
+The most notable tradition in nineteenth-century economics-the
+British laissez-faire tradition-largely ignored the theory of public goods. Admittedly, many of the best-known British economists enumerated the functions they thought the state should perform. The lists were generally very brief, though they included at least provision for national defense, for police forces, and for law and order generally. But these economists did not point out what the various activities appropriate to the state had in common.11 They had a comprehensive theory which explained why most economic needs should be met by private enterprise; so it is natural to ask for a systematic explanation of the exceptional class of functions they thought should be fulfilled by the state. Except for a few imprecise comments by John Stuart Mill and Henry Sidgwick,12 it appears that the leading British economists largely ignored the problem of collective goods. Even in this century, Pigou, in his classic treatise on public finance, gave collective goods for the most part only implicit treatment.13
+
+
+

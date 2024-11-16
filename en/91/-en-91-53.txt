@@ -1,0 +1,92 @@
+53：Starship：SpaceX, 2018–2019
+
+
+
+
+Musk’s living room and backyard in Boca Chica; Bill Riley and Mark Juncosa
+
+
+
+
+
+Big F Rocket
+
+
+If Musk’s goal had been to create a profitable rocket company, he could have allowed himself to collect his winnings and relax after surviving 2018. His reusable workhorse Falcon 9 had become the world’s most efficient and reliable rocket, and he had developed his own communications satellites that would eventually produce a gusher of revenue.
+
+But his goal was not merely to be a space entrepreneur. It was to get humanity to Mars. And that could not be done on a Falcon 9 or its beefed-up sibling, the Falcon Heavy. Falcons can fly only so high. “I could have made a lot of money, but I could not have made life multiplanetary,” he says.
+
+That is why he announced in September 2017 that SpaceX would develop a much bigger reusable rocket, the tallest and most powerful ever built. He code-named the big rocket the BFR. A year later, he sent out a tweet: “Renaming BFR to Starship.”
+
+The Starship system would have a first-stage booster and a second-stage spacecraft that together stacked to be 390 feet high, 50 percent taller than the Falcon 9 and thirty feet taller than the Saturn V rocket that was used in NASA’s Apollo program in the 1970s. Outfitted with thirty-three booster engines, it would be capable of launching more than a hundred tons of payload into orbit, four times more than the Falcon 9. And someday it would be able to carry a hundred passengers to Mars. Even as he was wrestling with the Nevada and Fremont Tesla factories, Musk found time each week to look at the renderings of the type of amenities and accommodations that Starship would have for passengers on a nine-month trip to Mars.
+
+
+
+
+
+Stainless steel, again
+
+
+From his childhood days hanging around his father’s engineering office in Pretoria, Musk had a feel for the properties of building materials. In Tesla and SpaceX meetings, he would focus on the various options for battery cathodes and anodes, engine valves, vehicle frames, rocket structures, and the body of a pickup truck. He could (and very often did) discourse at length on lithium, iron, cobalt, Inconel and other nickel-and-chromium alloys, plastic composites, grades of aluminum, and alloys of steel. By 2018, he was falling in love with one very common alloy that, he realized, would work equally well for a rocket as it would for the Cybertruck: stainless steel. “Stainless steel and I should go get a room somewhere,” he joked to his team.
+
+Working with him on Starship was a cheerfully humble engineer named Bill Riley. He had been a member of the fabled Cornell car racing team and helped coach Mark Juncosa, who later lured him to SpaceX. Riley and Musk bonded over a love of military history—especially air warfare in World Wars I and II—and material science.
+
+One day in late 2018, they were visiting the Starship production facility, which was then located near the Port of Los Angeles about fifteen miles south of the SpaceX factory and headquarters. Riley explained that they were having problems with the carbon fiber material they were using. The sheets were developing wrinkles. Also, the process was slow and expensive. “If we keep going with carbon fiber, we’re doomed,” Musk said. “This extrapolates to death. I’ll never be able to get to Mars.” Cost-plus contractors don’t think that way.
+
+Musk knew that the early Atlas rockets, which in the early 1960s boosted the first four Americans into orbit, had been made of stainless steel, and he had decided to use that material for the body of the Cybertruck. At the end of his walk around the facility, he got very quiet and stared at the ships coming into the port. “Guys, we’ve got to change course,” he said. “We are never going to build rockets fast enough with this process. What about going with stainless steel?”
+
+Initially there was resistance, even a bit of incredulity. When he met with his executive team in the conference room at SpaceX a few days later, they argued that a rocket of stainless steel would likely be heavier than one built of carbon fiber or the aluminum-lithium alloy used for the Falcon 9. Musk’s instincts said otherwise. “Run the numbers,” he told the team. “Run the numbers.” When they did so, they determined that steel could, in fact, turn out to be lighter in the conditions that Starship would face. At very cold temperatures, the strength of stainless steel increases by 50 percent, which meant it would be stronger when holding the supercooled liquid oxygen and nitrogen fuel.
+
+In addition, the high melting point of stainless steel would eliminate the need for a heat shield on Starship’s space-facing side, reducing the overall weight of the rocket. A final advantage was that it was simple to weld together pieces of stainless steel. The aluminum-lithium of the Falcon 9 required a process called stir welding that needed to be done in a pristine environment. But stainless steel could be welded in big tents or even outdoors, making it easier to do in Texas or Florida, near the launch sites. “With stainless steel, you can smoke a cigar next to it as you weld it,” Musk says.
+
+
+
+* * *
+
+
+
+The switch to stainless steel allowed SpaceX to hire builders without the specialized expertise needed for fabricating carbon fiber. At its engine test site in McGregor, Texas, it contracted with a company that erected stainless steel water towers. Musk told Riley to reach out to them for help. One question was how thick the Starship’s walls should be. Musk talked to some of the workers—those actually doing the welding rather than the company’s executives—and asked what they thought was safe. “One of Elon’s rules is ‘Go as close to the source as possible for information,’ ” Riley says. The line workers said they thought the tank walls could get as thin as 4.8 millimeters. “What about four?” Musk asked.
+
+“That would make us pretty nervous,” one of the workers replied.
+
+“Okay,” Musk said, “let’s do four millimeters. Let’s give it a try.”
+
+It worked.
+
+Within just a few months, they had a prototype, known as Starhopper, ready to test with low-altitude hops. It had three retractable legs designed to test how Starship might be able to land safely after a flight and be reused. By July 2019, it was doing eighty-foot-high test hops.
+
+Musk was so pleased with the concept of Starship that one afternoon, during a meeting in the SpaceX conference room, he impulsively decided to deploy his burn-the-boats strategy. Cancel the Falcon Heavy, he ordered. The executives in the room texted Gwynne Shotwell what was happening. She rushed from her cubicle, plopped in a chair, and told Musk he could not do that. The Falcon Heavy, with three booster cores, was key to fulfilling its contracts with the military to launch large intelligence satellites. She had the standing to get away with such a challenge. “Once I gave Elon the context, he agreed we couldn’t do what he wanted,” she says. One problem Musk had was that most people around him were afraid to do that.
+
+
+
+
+
+Starbase
+
+
+Boca Chica, at the southernmost tip of Texas, is a scrubby version of paradise. Its sand dunes and beach lack the sparkle of those on Padre Island, a destination resort area just up the coast, but the wildlife preserves that surround it make it a safe place for launching rockets. In 2014, SpaceX built a rudimentary launchpad there as a backup to Cape Canaveral and Vandenberg, but it mainly gathered dust until 2018, when Musk decided to make it a dedicated base for Starship.
+
+Because Starship was so big, it did not make sense to build it in Los Angeles and transport it to Boca Chica. So Musk decided they should build a rocket manufacturing area about two miles from the launchpad amid Boca Chica’s sun-parched scrubland and mosquito-infested wetlands. The SpaceX team erected three massive hangar-like tents for the assembly lines and three “high bays” made of corrugated metal that could accommodate the Starships vertically. An old building on the property was retrofitted with office cubicles, a conference room, and a canteen with passable food and excellent coffee. By early 2020, there were five hundred engineers and construction workers, about half of them from the local area, working in shifts around the clock.
+
+“You need to come down to Boca Chica and do whatever you can to make this place great,” he told Elissa Butterfield, who was then his assistant. “The future of humanity’s progress in space depends on it.” The nearest motels were in Brownsville, twenty-three miles inland, so Butterfield created a park of Airstream trailers as living quarters, with palm trees from Home Depot, a tiki bar, and a deck with a fire pit. Sam Patel, the eager young facilities chief, leased drones and crop dusters to try to control the mosquitoes. “Can’t get to Mars if the bugs eat us first,” Musk said.
+
+Musk focused on the layout and workings of the factory tents, brainstorming how the assembly lines should be arranged. On one visit in late 2019, he became frustrated at the slow pace. The crew had still not made even one dome that would fit perfectly on Starship. Standing in front of one of the tents, he issued a challenge: build a dome by dawn. That was not feasible, he was told, because they didn’t have the equipment to calibrate the precise size. “We are going to make a dome by dawn if it fucking kills us,” he insisted. Slice off the end of the rocket barrel, he ordered, and use that as your fitting tool. They did so, and he stayed up with the team of four engineers and welders until the dome was finished. “We didn’t actually have a dome by dawn,” admits one of the team, Jim Vo. “It took us until about nine a.m.”
+
+
+
+* * *
+
+
+
+About a mile from the SpaceX facility was a fraying 1960s tract-house development of thirty-one homes, some of them pre-fabs, on two sparse streets. SpaceX had been able to buy most of them, offering up to three times assessed value, although a handful of owners resisted selling, either out of stubbornness or because of the excitement of living next to a launchpad.
+
+Musk picked a two-bedroom for himself. It has an open-space main room, with white walls and lightly stained wood floor, that is a combined living room, dining area, and kitchen. A small wooden table serves as his desk. Underneath is a Wi-Fi box connected to a Starlink dish. The kitchen counters are white Formica, and the only thing that stands out is the industrial-size refrigerator, stocked with caffeine-free Diet Cokes. The art is early dorm room, including posters of Amazing Stories magazine covers. On the coffee table is volume three of Winston Churchill’s history of World War II, the Onion’s Our Dumb Century, Isaac Asimov’s Foundation series, and a photo album prepared by Saturday Night Live of his May 2021 appearance. A small adjoining room has a treadmill, which he doesn’t use much.
+
+The backyard has scrubby grass and a couple of palm trees that, despite being palm trees, wither in the August heat. The white brick wall in back is covered with squiggly graffiti art painted by Grimes, featuring red hearts and clouds with blue emoji-like bubbles. The solar-tiled roof is connected to two big Tesla Powerwalls. A shed in the backyard is sometimes used by Grimes as a studio or by Maye Musk as a bedroom.
+
+Humble does not begin to describe its status as the primary residence of a billionaire. But Musk found it to be a haven. After long meetings at Starbase or tense inspection tours of the rocket assembly lines, he would drive himself back there and his body would relax as he puttered around the house, whistling like a suburban dad.
+
+
+
+
+

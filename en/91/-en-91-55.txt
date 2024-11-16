@@ -1,0 +1,53 @@
+55：Giga Texas：Tesla, 2020–2021
+
+
+
+
+Omead Afshar
+
+
+
+
+
+Austin
+
+
+What are your favorite cities? It was a game that Musk and others at Tesla started playing in early 2020, often pulling out their phones, firing up their maps app, and calling out names. Chicago and New York? Yeah, but they wouldn’t work for this purpose. The Los Angeles or San Francisco area? No, that’s what they were trying to escape. California had become too fraught with NIMBYism, clogged with regulations, plagued by meddlesome commissions, and too skittish about COVID. What about Tulsa? No one had thought of Oklahoma, but its local leadership mounted a spirited campaign to be considered. Nashville? It was, Omead Afshar said, a place you’d want to visit but never live. Dallas? Texas was alluring, but Dallas, they agreed, was too Texas. How about the university town of Austin, which had better music and took pride in protecting its pockets of weirdness?
+
+The issue was where to build a new Tesla factory, one big enough to merit the label Gigafactory. The Fremont, California, plant was about to become the most productive car-making facility in America, churning out more than eight thousand cars a week, but it was running at capacity, and expanding it would be difficult.
+
+Unlike the way Jeff Bezos conducted a public bakeoff of cities eager for Amazon’s HQ2, Musk decided to make the decision as he often did, from the gut, trusting his intuition and those of his executives. He hated the idea of squandering months being subjected to political pitches and the PowerPoint presentations of consultants.
+
+At the end of May 2020, a consensus emerged. As he was sitting in the command center at Cape Canaveral fifteen minutes before SpaceX’s first launch of human astronauts, Musk sent Afshar a text. “Would you rather live in Tulsa or Austin?” When Afshar, with all due respect to Tulsa, gave the answer Musk expected, he texted back, “Okay, great. We’ll do it in Austin and you should run it.”
+
+A similar process led to the choice of Berlin for a European Gigafactory. It and Austin would get built in less than two years and join Fremont and Shanghai as the pillars of Tesla’s car production.
+
+By July 2021, a year after construction began, the basic structure of the Austin Gigafactory was complete. Musk and Afshar stood in front of a wall in a temporary construction office and studied photos of the site at various stages. “We’re building twice as fast as Shanghai per square foot, despite the regulations we face,” Afshar said.
+
+With ten million square feet of factory floor, Giga Texas, as it was dubbed, would have twice as much floor space as Fremont and 50 percent more than the Pentagon. By some measures, Afshar said, it could be the biggest factory in the world by floor area, once some planned mezzanines were added. There was a shopping mall in China with more square feet, and Boeing with its various huge hangar facilities may have more volume. “How much bigger would we need to make this place to be able to say it’s the biggest building in the world?” Musk asked. Even with the 500,000-square-foot future expansion that they were contemplating, Afshar answered, “We won’t get there.” Musk nodded. There was a very long pause. Then he let the idea go.
+
+The builders showed Afshar plans for large windows that went from a few feet above each floor to the ceiling. “Don’t we want it to be completely floor to ceiling?” he asked. A proposal came back for specially produced glass panes that were thirty-two feet tall, and Afshar showed Musk photos. Steve Jobs, who was obsessive about glass, would spare no expense to get huge panes for showcase venues like Apple’s Fifth Avenue store in New York. Musk was more cautious. He questioned whether the glass needed to be as thick as suggested and asked how it would affect the way the sun heated the building. “We can’t do things that are silly from a cost perspective,” he said.
+
+As he wandered through the nearly completed factory, Musk stopped at each station along the manufacturing line. At one point he grilled the technician at a station where steel would be cooled. “Can you have the coolant flow at a faster rate?” The guy explained the limits to how fast the cooling process could go. Musk pushed back. Are those limits actually based on the physics of steel? Can steel be like a cookie, baked hard on the outside and gooey in the middle? The technician stood his ground. Musk quit grilling him, but his intuition made him conclude that the process should take less than a minute. He left it to the technician to find a way to meet that goal. “I want to be clear,” Musk says. “No more than fifty-nine seconds of cycling time, or I’m going to come here and cut it off personally.”
+
+
+
+
+
+Gigapress
+
+
+One day in late 2018, Musk was sitting at his desk at Tesla headquarters in Palo Alto playing with a small toy version of the Model S. It looked like a miniaturized copy of the real car, and when he took it apart he saw that it even had a suspension inside. But the entire underbody of the car had been die cast as one piece of metal. At a meeting of his team that day, Musk pulled out the toy and put it on the white conference room table. “Why can’t we do that?” he asked.
+
+One of the engineers pointed out the obvious, that an actual car underbody is much bigger. There were no casting machines to handle something that size. That answer didn’t satisfy Musk. “Go figure out how to do it,” he said. “Ask for a bigger casting machine. It’s not as if that would break the laws of physics.”
+
+Both he and his executives called the six major casting companies, five of whom dismissed the concept. But a company called Idra Presse in Italy, which specialized in high-pressure die-casting machines, agreed to take on the challenge of building very large machines that would be able to churn out the entire rear and front underbodies for the Model Y. “We did the world’s largest casting machine,” Afshar says. “It’s a six-thousand-ton one for the Model Y, and we will also use a nine-thousand-ton one for Cybertruck.”
+
+The machines inject bursts of molten aluminum into a cold casting mold, which can spit out in just eighty seconds an entire chassis that used to contain more than a hundred parts that had to be welded, riveted, or bonded together. The old process produced gaps, rattles, and leaks. “So it went from a horrible nightmare to something that is crazy cheap and easy and fast,” Musk says.
+
+The process reinforced Musk’s appreciation for the toy industry. “They have to produce things very quickly and cheaply without flaws, and manufacture them all by Christmas, or there will be sad faces.” He repeatedly pushed his teams to get ideas from toys, such as robots and Legos. As he walked the floor of the factory, he spoke to a group of machinists about the high-precision molding of Lego pieces. They are accurate and identical to within ten microns, which means any part can easily be replaced by another. Car components needed to be that way. “Precision is not expensive,” he says. “It’s mostly about caring. Do you care to make it precise? Then you can make it precise.”
+
+
+
+
+

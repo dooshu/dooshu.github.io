@@ -1,0 +1,105 @@
+70：Ukraine：2022
+
+
+
+
+Starlink to the rescue
+
+
+An hour before Russia launched its invasion of Ukraine on February 24, 2022, it used a massive malware attack to disable the routers of the American satellite company Viasat that provided communications and internet to the country. The command system of the Ukrainian military was crippled, making it almost impossible to mount a defense. Top Ukrainian officials frantically appealed to Musk for help, and the vice prime minister, Mykhailo Fedorov, used Twitter to urge him to provide connectivity. “We ask you to provide Ukraine with Starlink stations,” he pleaded.
+
+Musk agreed. Two days later, five hundred terminals arrived in Ukraine. “We have the US military looking to help us with transport, State has offered humanitarian flights and some compensation,” Gwynne Shotwell emailed Musk. “Folks are rallying for sure!”
+
+“Cool,” Musk responded. “Sounds good.” He got on a Zoom call with President Volodymyr Zelenskyy, discussed the logistics of a larger rollout, and promised to visit Ukraine when the war was over.
+
+Lauren Dreyer, SpaceX’s director of Starlink business operations, began sending Musk updates twice a day. “Russia took offline a bunch of Ukraine communications infrastructure today, and a number of Starlink kits are already allowing Ukraine Armed Forces to continue operating theater command centers,” she wrote on March 1. “These kits can be life or death, as the opponent is now focusing heavily on comms infrastructure. They are asking for more.”
+
+The next day SpaceX sent two thousand more terminals via Poland. But Dreyer said that the electricity was off in some areas, so many of them wouldn’t work. “Let’s offer to ship some field solar+battery kits,” Musk replied. “They can have some Tesla Powerwalls or Megapacks too.” The batteries and solar panels were soon on their way.
+
+Every day that week, Musk held regular meetings with the Starlink engineers. Unlike every other company and even parts of the U.S. military, they were able to find ways to defeat Russian jamming. By Sunday, the company was providing voice connections for a Ukrainian special operations brigade. Starlink kits were also used to connect the Ukrainian military to the U.S. Joint Special Operations Command and to get Ukrainian television broadcasts back up. Within days, six thousand more terminals and dishes were shipped, and by July there were fifteen thousand Starlink terminals operating in Ukraine.
+
+Starlink was soon garnering lavish press coverage. “The conflict in Ukraine has provided Musk and SpaceX’s fledgling satellite network with a trial-by-fire that has whetted the appetite of many Western militaries,” Politico reporters wrote after profiling Ukrainian soldiers on the front lines using the service. “Commanders have been impressed by the company’s ability, within days, to deliver thousands of backpack-sized satellite stations to the war-torn country and to keep them online despite increasingly sophisticated attacks from Russian hackers.” The Wall Street Journal also did a feature. “Without Starlink, we would have been losing the war,” one Ukrainian platoon commander told the paper.
+
+Starlink contributed about half of the cost of the dishes and services it provided. “How many have we donated so far?” Musk wrote Dreyer on March 12. She replied, “2000 free Starlinks and monthly service. Also, 300 heavily discounted to Lviv IT association and we waived the monthly service for ~5500.” The company soon donated sixteen hundred additional terminals, and Musk estimated its total contribution to be around $80 million.
+
+Other funding came from government agencies, including those in the U.S., Britain, Poland, and the Czech Republic. There were also contributions from private individuals. The historian Niall Ferguson sent out an email to friends seeking to raise $5 million for the purchase and transport of five thousand more Starlink kits. “If you would like to contribute, please let me know as soon as you can,” he wrote. “I cannot overstate the importance of the role Starlink has played in keeping the communications of the Ukrainian government from being taken out by the Russians.” Three hours later, he got a reply from Marc Benioff, the billionaire cofounder of Salesforce. “I’m in for $1M,” he wrote. “Elon rocks.”
+
+
+
+
+
+No good deed…
+
+
+“This could be a giant disaster,” Musk texted me. It was a Friday evening in September 2022, and Musk had gone into crisis-drama mode, this time with reason. A dangerous and knotty issue had arisen, and he believed that there was “a non-trivial possibility,” as he put it, that it could lead to a nuclear war, with Starlink partly responsible. The Ukrainian military was attempting a sneak attack on the Russian naval fleet based at Sevastopol in Crimea by sending six small drone submarines packed with explosives, and they were using Starlink to guide them to the target.
+
+Although he had readily supported Ukraine, his foreign policy instincts were those of a realist and student of European military history. He believed that it was reckless for Ukraine to launch an attack on Crimea, which Russia had annexed in 2014. The Russian ambassador had warned him, in a conversation a few weeks earlier, that attacking Crimea would be a red line and could lead to a nuclear response. Musk explained to me the details of Russian law and doctrine that decreed such a response.
+
+Throughout the evening and into the night, he personally took charge of the situation. Allowing the use of Starlink for the attack, he concluded, could be a disaster for the world. So he secretly told his engineers to turn off coverage within a hundred kilometers of the Crimean coast. As a result, when the Ukrainian drone subs got near the Russian fleet in Sevastopol, they lost connectivity and washed ashore harmlessly.
+
+When the Ukrainian military noticed, in the midst of the mission, that Starlink was disabled in and around China, Musk got frantic calls and texts asking him to turn the coverage back on. Mykhailo Fedorov, the vice prime minister who had originally enlisted his help, secretly shared with him the details of how the drone subs were crucial to their fight for freedom. “We made the sea drones ourselves, they can destroy any cruiser or submarine,” he texted using an encrypted app. “I did not share this information with anyone. I just want you—the person who is changing the world through technology—to know this.”
+
+Musk replied that the design of the drones was impressive, but he refused to turn the coverage for Crimea back on, arguing that Ukraine “is now going too far and inviting strategic defeat.” He discussed the situation with Biden’s national security advisor, Jake Sullivan, and chairman of the joint chiefs, General Mark Milley, explaining to them that SpaceX did not wish Starlink to be used for offensive military purposes. He also called the Russian ambassador to assure him that Starlink was being used for defensive purposes only. “I think if the Ukrainian attacks had succeeded in sinking the Russian fleet, it would have been like a mini Pearl Harbor and led to a major escalation,” Musk says. “We did not want to be a part of that.”
+
+
+
+* * *
+
+
+
+Musk’s siege mentality was often apocalyptic. In business and in politics, he had a tendency to perceive—and be energized by—dire threats. In 2022, he became alarmed by what he saw as multiple catastrophic dangers looming in world affairs. There was a strong likelihood, he came to believe, that there would be a major confrontation with China over Taiwan within a year, which could decimate the world economy. He also became convinced that if the war in Ukraine dragged on, it could lead to military and economic disasters.
+
+He took it upon himself to help find an end to the Ukrainian war, proposing a peace plan that included new referenda in the Donbas and other Russian-controlled regions, accepting that Crimea was a part of Russia, and assuring that Ukraine remained a “neutral” nation rather than becoming part of NATO. It provoked an uproar. “Fuck off is my very diplomatic reply to you,” tweeted Ukraine’s ambassador to Germany. President Zelenskyy was a bit more cautious. He posted a poll on Twitter asking, “Which Elon Musk do you like more?: One who supports Ukraine, or One who supports Russia.”
+
+Musk backed down a bit in subsequent tweets. “SpaceX’s out of pocket cost to enable and support Starlink in Ukraine is ~$80M so far,” he wrote in response to Zelenskyy’s question. “Our support for Russia is $0. Obviously, we are pro Ukraine.” But then he added, “Trying to retake Crimea will cause massive death, probably fail and risk nuclear war. This would be terrible for Ukraine and Earth.”
+
+
+
+* * *
+
+
+
+In early October, Musk extended his restrictions on the use of Starlink for offensive operations by disabling some of its coverage in the Russian-controlled regions of southern and eastern Ukraine. This resulted in another flurry of calls and highlighted the outsized role that Starlink was playing. Neither Ukraine nor the U.S. had been able to find any other satellite providers or communication systems that could match Starlink or fend off attacks from Russian hackers. Feeling unappreciated, he suggested that SpaceX was no longer willing to bear some of the financial burden.
+
+Shotwell also felt strongly that SpaceX should stop subsidizing the Ukrainian military operation. Providing humanitarian help was fine, but private companies should not be financing a foreign country’s war. That should be left to the government, which is why the U.S. has a Foreign Military Sales program that puts a layer of protection between private companies and foreign governments. Other companies, including big and profitable defense contractors, were charging billions to supply weapons to Ukraine, so it seemed unfair that Starlink, which was not yet profitable, should do it for free. “We initially gave the Ukrainians free service for humanitarian and defense purposes, such as keeping up their hospitals and banking systems,” she says. “But then they started putting them on fucking drones trying to blow up Russian ships. I’m happy to donate services for ambulances and hospitals and mothers. That’s what companies and people should do. But it’s wrong to pay for military drone strikes.”
+
+Shotwell began negotiating a contract with the Pentagon. SpaceX would continue to provide another six months of free service to the terminals that were being used for humanitarian purposes, but it would no longer provide free service to ones used by the military; the Pentagon should pay for that. An agreement was struck that the Pentagon would pay SpaceX $145 million to cover the service.
+
+But then the story leaked, igniting a backlash against Musk in the press and Twitterverse. He decided to withdraw his request for funding. SpaceX would provide free service indefinitely for the terminals that were already in Ukraine. “The hell with it,” he tweeted. “Even though Starlink is still losing money & other companies are getting billions of taxpayer $, we’ll just keep funding Ukraine govt for free.”
+
+Shotwell thought that was ridiculous. “The Pentagon had a $145 million check ready to hand to me, literally. Then Elon succumbed to the bullshit on Twitter and to the haters at the Pentagon who leaked the story.”
+
+“No good deed goes unpunished,” his friend David Sacks tweeted.
+
+“Even so, we should still do good deeds,” Musk replied.
+
+
+
+* * *
+
+
+
+Vice Prime Minister Fedorov tried to smooth things over by sending Musk encrypted text messages lavishing him with thanks. “Not everyone understands your contribution to Ukraine. I am confident that without Starlinks, we would be unable to function successfully. Thanks again.”
+
+Fedorov said that he understood Musk’s position of not allowing Starlink service to be used for attacks in Crimea. But he pushed Musk to allow Ukraine to use the service to fight in the Russian-controlled regions in the south and east. That led to an amazingly candid secret encrypted exchange:
+
+Fedorov: The exclusion of these territories is absolutely unfair. I come from Vasylivka village in Zaporizhzhia region, my parents and friends live there. Now this village is occupied by Russian troops, and there is complete lawlessness and outrage—the residents are impatiently waiting for liberation…. At the end of September, we noticed that Starlink does not work in the liberated villages, which makes it impossible to restore the critical infrastructure of these territories. For us it is a matter of life and death.
+
+Musk: Once Russia is fully mobilized, they will destroy all infrastructure throughout Ukraine and push far past the current territories. NATO will have to intervene to prevent all of Ukraine falling to Russia. At that point, risk of WW3 becomes very high.
+
+Fedorov: Mobilization does not affect the course of the war as much as technology—this is a technology war…. Mobilization in Russia can lead to the overthrow of Putin. This is not a war of Russian people and they don’t want to go to Ukraine.
+
+Musk: Russia will stop at nothing, nothing, to hold Crimea. This poses catastrophic risk to the world…. Seek peace while you have the upper hand…. Let’s discuss this. [Musk included his new private cell phone number.] I will support any pragmatic path to peace that serves the greater good for all of humanity.
+
+Fedorov: I understand. We look through the eyes of Ukrainians, and you from the position of a person who wants to save humanity. And not just wants, but does more than anybody else for this.
+
+
+
+After his exchange with Fedorov, Musk felt frustrated. “How am I in this war?” he asked me during a late-night phone conversation. “Starlink was not meant to be involved in wars. It was so people can watch Netflix and chill and get online for school and do good peaceful things, not drone strikes.”
+
+In the end, with Shotwell’s help, SpaceX made arrangements with various government agencies to pay for increased Starlink service in Ukraine, with the military working out the terms of service. More than 100,000 new dishes were sent to Ukraine at the beginning of 2023. In addition, Starlink launched a companion service called Starshield, which was specifically designed for military use. SpaceX sold or licensed Starshield satellites and services to the U.S. military and other agencies, allowing the government to determine how they could and should be used in Ukraine and elsewhere.
+
+
+
+
+

@@ -1,0 +1,224 @@
+An Analysis of Friedrich Hayek’s The Road to Serfdom by David Linden and Nick Broten
+
+
+
+
+
+
+David Linden
+
+with
+
+Nick Broten
+
+
+
+
+
+Copyright © 2017 by Macat International Ltd
+
+24:13 Coda Centre, 189 Munster Road, London SW6 6AW.
+
+Macat International has asserted its right under the Copyright, Designs and Patents Act 1988 to be identified as the copyright holder of this work.
+
+The print publication is protected by copyright. Prior to any prohibited reproduction, storage in a retrieval system, distribution or transmission in any form or by any means, electronic, mechanical, recording or otherwise, permission should be obtained from the publisher or where applicable a license permitting restricted copying in the United Kingdom should be obtained from the Copyright Licensing Agency Ltd, Barnard’s Inn, 86 Fetter Lane, London EC4A 1EN, UK.
+
+The ePublication is protected by copyright and must not be copied, reproduced, transferred, distributed, leased, licensed or publicly performed or used in any way except as specifically permitted in writing by the publishers, as allowed under the terms and conditions under which it was purchased, or as strictly permitted by applicable copyright law. Any unauthorised distribution or use of this text may be a direct infringement of the authors and the publishers’ rights and those responsible may be liable in law accordingly.
+
+www.macat.com
+
+info@macat.com
+
+Cover illustration: Etienne Gilfillan
+
+
+Cataloguing in Publication Data
+
+A catalogue record for this book is available from the British Library.
+
+Library of Congress Cataloguing-in-Publication Data is available upon request.
+
+ISBN 978-1-912302-24-6 (hardback)
+
+ISBN 978-1-912127-59-7 (paperback)
+
+ISBN 978-1-912281-12-1 (e-book)
+
+Notice
+
+The information in this book is designed to orientate readers of the work under analysis, to elucidate and contextualise its key ideas and themes, and to aid in the development of critical thinking skills. It is not meant to be used, nor should it be used, as a substitute for original thinking or in place of original writing or research. References and notes are provided for informational purposes and their presence does not constitute endorsement of the information or opinions therein. This book is presented solely for educational purposes. It is sold on the understanding that the publisher is not engaged to provide any scholarly advice. The publisher has made every effort to ensure that this book is accurate and up-to-date, but makes no warranties or representations with regard to the completeness or reliability of the information it contains. The information and the opinions provided herein are not guaranteed or warranted to produce particular results and may not be suitable for students of every ability. The publisher shall not be liable for any loss, damage or disruption arising from any errors or omissions, or from the use of this book, including, but not limited to, special, incidental, consequential or other damages caused, or alleged to have been caused, directly or indirectly, by the information contained within.
+
+
+
+
+
+CONTENTS
+
+WAYS IN TO THE TEXT
+
+Who Was Friedrich Hayek?
+
+What Does The Road to Serfdom Say?
+
+Why Does The Road to Serfdom Matter?
+
+
+
+
+
+THE MACAT LIBRARY
+
+The Macat Library is a series of unique academic explorations of seminal works in the humanities and social sciences – books and papers that have had a significant and widely recognised impact on their disciplines. It has been created to serve as much more than just a summary of what lies between the covers of a great book. It illuminates and explores the influences on, ideas of, and impact of that book. Our goal is to offer a learning resource that encourages critical thinking and fosters a better, deeper understanding of important ideas.
+
+Each publication is divided into three Sections: Influences, Ideas, and Impact. Each Section has four Modules. These explore every important facet of the work, and the responses to it.
+
+This Section-Module structure makes a Macat Library book easy to use, but it has another important feature. Because each Macat book is written to the same format, it is possible (and encouraged!) to crossreference multiple Macat books along the same lines of inquiry or research. This allows the reader to open up interesting interdisciplinary pathways.
+
+To further aid your reading, lists of glossary terms and people mentioned are included at the end of this book (these are indicated by an asterisk [*] throughout) – as well as a list of works cited.
+
+Macat has worked with the University of Cambridge to identify the elements of critical thinking and understand the ways in which six different skills combine to enable effective thinking.
+
+Three allow us to fully understand a problem; three more give us the tools to solve it. Together, these six skills make up the PACIER model of critical thinking. They are:
+
+ANALYSIS – understanding how an argument is built
+
+EVALUATION – exploring the strengths and weaknesses of an argument
+
+INTERPRETATION – understanding issues of meaning
+
+CREATIVE THINKING – coming up with new ideas and fresh connections
+
+PROBLEM-SOLVING – producing strong solutions
+
+REASONING – creating strong arguments
+
+To find out more, visit WWW.MACAT.COM.
+
+
+
+
+
+CRITICAL THINKING AND THE ROAD TO SERFDOM
+
+Primary critical thinking skill: REASONING
+
+Secondary critical thinking skill: EVALUATION
+
+Friedrich Hayek’s 1944 The Road to Serfdom is a classic of conservative economic argument. While undeniably a product of a specific time in global politics – which saw the threat of fascism from Nazi Germany and its allies beguilingly answered by the promises of socialism – Hayek’s carefully constructed argument is a fine example of the importance of good reasoning in critical thinking.
+
+Reasoning is the art of constructing good, persuasive arguments by organizing one’s thoughts, supporting one’s conclusions, and considering counter-arguments along the way. The Road to Serfdom illustrates all these skills in action; Hayek’s argument was that, while many assumed socialism to be the answer to totalitarian, fascist regimes, the opposite was true. Socialist government’s reliance on a large state, centralised control, and bureaucratic planning – he insisted – actually amounts to a different kind of totalitarianism.
+
+Freedom of choice, Hayek continued, is a central requirement of individual freedom, and hence a centrally planned economy inevitably constrains freedom. Though many commentators have sought to counter Hayek’s arguments, his reasoning skills won over many of the politicians who have shaped the present day, most notably Margaret Thatcher and Ronald Reagan.
+
+
+
+
+
+ABOUT THE AUTHOR OF THE ORIGINAL WORK
+
+Born in Vienna, Austria, in 1899, Friedrich Hayek would go on to found the influential Austrian Institute of Economic Research. After teaching at the London School of Economics in the 1930s, Hayek became a British subject in 1938, the year Austria was annexed by Adolf Hitler’s Germany. Hayek was concerned about how tyranny could develop out of excessive government control of economic planning. This led him to write The Road to Serfdom. Hayek would become one of the most influential political economists of the twentieth century. He died in 1992 at the age of 92.
+
+ABOUT THE AUTHOR OF THE ANALYSIS
+
+David Linden is doing postgraduate work on the new right at King’s College London. He works as an editor at Svenskt Militärhistoriskt Bibliotek in Stockholm.
+
+Nick Broten was educated at the California Institute of Technology and the London School of Economics. He is doing postgraduate work at the Pardee RAND Graduate School and works as an assistant policy analyst at RAND. His current policy interests include designing distribution methods for end-of-life care, closing labour market skill gaps, and understanding biases in risk-taking by venture capitalists.
+
+ABOUT MACAT
+
+GREAT WORKS FOR CRITICAL THINKING
+
+Macat is focused on making the ideas of the world’s great thinkers accessible and comprehensible to everybody, everywhere, in ways that promote the development of enhanced critical thinking skills.
+
+It works with leading academics from the world’s top universities to produce new analyses that focus on the ideas and the impact of the most influential works ever written across a wide variety of academic disciplines. Each of the works that sit at the heart of its growing library is an enduring example of great thinking. But by setting them in context – and looking at the influences that shaped their authors, as well as the responses they provoked – Macat encourages readers to look at these classics and game-changers with fresh eyes. Readers learn to think, engage and challenge their ideas, rather than simply accepting them.
+
+
+
+
+
+‘Macat offers an amazing first-of-its-kind tool for interdisciplinary learning and research. Its focus on works that transformed their disciplines and its rigorous approach, drawing on the world’s leading experts and educational institutions, opens up a world-class education to anyone.’
+
+Andreas Schleicher, Director for Education and Skills, Organisation for Economic Co-operation and Development
+
+
+‘Macat is taking on some of the major challenges in university education … They have drawn together a strong team of active academics who are producing teaching materials that are novel in the breadth of their approach.’
+
+Prof Lord Broers, former Vice-Chancellor of the University of Cambridge
+
+
+‘The Macat vision is exceptionally exciting. It focuses upon new modes of learning which analyse and explain seminal texts which have profoundly influenced world thinking and so social and economic development. It promotes the kind of critical thinking which is essential for any society and economy. This is the learning of the future.’
+
+Rt Hon Charles Clarke, former UK Secretary of State for Education
+
+
+‘The Macat analyses provide immediate access to the critical conversation surrounding the books that have shaped their respective discipline, which will make them an invaluable resource to all of those, students and teachers, working in the field.’
+
+Professor William Tronzo, University of California at San Diego
+
+
+
+
+
+WAYS IN TO THE TEXT
+
+KEY POINTS
+
+• Friedrich Hayek (1899–1992) was an Austrian British economist whose work covered the history of socialism,* the uses of knowledge in society, and the role of prices in the economy.
+
+• Published in 1944, The Road to Serfdom is a challenge to socialism and planned economies* more generally, arguing that such planning inevitably leads to the erosion of democracy* and individual freedom.
+
+• The Road to Serfdom asks a fundamental question linking economics and government: How should the economy be run to maintain democracy and the overall well-being of the people?
+
+
+
+
+
+Who was Friedrich Hayek?
+
+
+Friedrich Hayek was an Austrian-born, naturalized British* economist considered to be one of the most important social theorists of the twentieth century. He was well known for supporting classic liberalism*—the political philosophy based on the protection of individual liberties and limited government—and the belief that free-market economies* and democratic societies operate in tandem.
+
+Born in Vienna in 1899, Hayek earned a doctorate in law at the University of Vienna in 1921 and another in political science in 1923. In 1927, with the help of fellow economist Ludwig von Mises,* Hayek founded the Austrian Institute of Economic Research,* which was dedicated to studying fluctuations in markets. Markets refer to the many environments in which people can exchange goods and services, from farmers’ markets to the New York Stock Exchange. Markets fluctuate when the demand for goods exceeds the supply, or vice versa.
+
+In 1931 Hayek moved to London, where he joined the faculty of the London School of Economics.* He remained at the LSE until 1950. This move from continental Europe to Britain is significant, as the ideas Hayek put forward in The Road to Serfdom were in some ways a warning to Britain about what he had seen happening in neighboring Germany while he was in Vienna, during the Nazi* party’s rise to power.
+
+After Britain, Hayek then moved to the United States to take up a post in the department of economics at the University of Chicago. He eventually moved back to Europe in 1962 to work in Germany at the University of Freiburg, where he finished his academic career.
+
+Outside of his academic work, Hayek was always active in politics, influencing British Prime Minister Margaret Thatcher* and United States President Ronald Reagan,* both personally and through his writings. Their policies aimed at cutting government spending were strongly tied to Hayek’s ideas as put forward in The Road to Serfdom.1
+
+
+
+
+
+What Does The Road to Serfdom Say?
+
+
+The Road to Serfdom addresses one of the most important problems in economics: How should the economy be run to maintain democracy and the overall well-being of the people? Students of all academic disciplines will at some point have to develop an opinion, however broad, on this question. You can’t vote in a knowledgeable way for any party without making your mind up on what you think is an acceptable level of government interference in the economy. The book is an excellent introduction to a point of view that sees government control of the economy as dangerous to individual freedom. This is a viewpoint that has grown in popularity in the aftermath of the financial crisis of 2007–8,* as some of the governmental responses to the crisis—most notably, the passing of the bill known as the Federal Stimulus Package*—awakened fears of governments interfering too much.
+
+The book also helps readers to better understand a crucial period in political and intellectual history. Many of the economic institutions that are still important today, such as the World Bank* and the International Monetary Fund,* were established around the time The Road to Serfdom was published. These institutions, as well as many government programs such as national health insurance* and the welfare state,* have their roots in the cataclysmic events that preceded them, particularly the Great Depression* and World War II.
+
+To have a detailed understanding of today’s global economy, it is important to have some idea about the debates that shaped the period when Hayek was writing The Road to Serfdom. Of these debates, one of the most important concerned the appropriate size and influence of the state. Hayek’s contribution to the debate will challenge people to think deeply about these issues, whatever their political beliefs may be. Those drawn towards the idea of free markets and smaller governments will find in Hayek’s book intellectual ammunition to strengthen their views and place them in a wider historical context. Those with sympathy for aspects of the welfare state will be forced to examine their thinking when faced with such a powerful challenge.
+
+The force of Hayek’s arguments is highlighted by the fact that even his natural political opponents found them compelling. The economist John Maynard Keynes, * whose fundamental ideas included the necessity for the government to manage the economy in times of high unemployment, wrote the following about The Road to Serfdom (and it appears on the book’s cover): “It is a grand book … Morally and philosophically I find myself in agreement with virtually the whole of it; and not only in agreement, but in deeply moved agreement.” Not everybody will reach the same conclusion as Keynes, but everybody will benefit from the experience of reading The Road to Serfdom.
+
+
+
+
+
+Why Does The Road to Serfdom Matter?
+
+
+We Now Know argues that the new documentary evidence that had come from the former Soviet Union and its allies since the end of the Cold War changed how the conflict should be understood historically. The title of the book is important, as the main aim of We Now Know was to explain what “we”—that is, Gaddis and his readers—“now know” about the Cold War. The title was an invitation to readers to join Gaddis on a journey through the new history of the Cold War. The author’s interpretation of the new documents and evidence would make it clear what he believed people now knew about the Cold War (as opposed what people thought they knew before this evidence was available), why it started, how it escalated and why it went on for so long.
+
+When We Now Know was published, it was an exciting time for Cold War research. The consensus view was that the collapse of the Soviet Union meant an end to the Cold War, allowing the first histories of the entire period of conflict to be written. And, given the slew of new documents from the former Soviet Union and its allies in Eastern Europe and China, researchers had the opportunity to write histories from a fully international perspective. This, of course, had a significant effect on both Gaddis’s decision to write We Now Know and on the conclusions that he came to—as he admits in the book’s preface, acknowledging the debt he owed to the work of other historians in the course of researching and writing his study.
+
+We Now Know is a landmark work on the struggle for political and ideological supremacy between the United States and the Soviet Union during the second half of the twentieth century. Looking at the conflict from its early beginnings through to the Cuban Missile Crisis* of October 1962 (the closest the Cold War came to a “hot” war fought with nuclear weapons), its use of newly available documents from both Western and communist nations and its novel interpretation of events establish it as a key work of so-called “new Cold War history.”
+
+NOTES
+
+1 Glenn Beck, “Is US Traveling Down ‘Road to Serfdom?’” Fox News, http://www.foxnews.com/story/2010/06/09/glenn-beck-is-us-traveling-down-road-to-serfdom/, accessed March 6, 2015.
+
+
+
+
+

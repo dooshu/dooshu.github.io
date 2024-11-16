@@ -1,0 +1,149 @@
+86：Blue Checks：Twitter, November 2–10, 2022
+
+
+
+
+A presentation in the conference room
+
+
+
+James Musk, Dhaval Shroff, and Andrew Musk assessing engineers
+
+
+
+
+
+Thermonuclear
+
+
+Yoel Roth and most of the content moderation team had survived round one of the layoffs and firings. Given the battle against racist trolling and the revolt among advertisers, it seemed prudent not to decimate that team right away. “I cut a very small number of roles that I thought were nonessential, but nobody pressured me to fire people,” Roth says. That day he tweeted a reassurance to advertisers that the company’s “core moderation capabilities remain in place.”
+
+He finished crafting the new misgendering policy he had promised Musk. The plan was to put a warning on any offending tweet, lower its visibility, and not let it be retweeted. Musk approved.
+
+Musk then suggested an additional idea for content moderation. Twitter had a little-known feature called “Bird Watch.” It allowed users to put corrections or contextual statements on tweets they found false. Musk loved the idea but hated the name. “From now on we’re calling it Community Notes,” he said. It appealed to him as a way to avoid censoring things and instead, as he put it, “let collective humanity start a conversation and negotiate whether it was true or false.”
+
+Advertisers had been pulling away for a week, but by Friday, November 4, the exodus was flowing faster. Part of the reason was a boycott led by online activists who were urging companies, such as Oreo cookies, to remove their ads. Musk threatened to go after advertisers who succumbed to pressure. “A thermonuclear name & shame is exactly what will happen if this continues,” he tweeted.
+
+That evening, Musk went into demon mode. Most people at Twitter, including Roth, had seen him be arbitrary and insensitive at times, but they had not been exposed to the cold fury of his trance-like darkest persona nor learned how to ride out the storm. He called Roth and ordered him to stop users from urging advertisers to boycott Twitter. This did not, of course, align with his professed fealty to free speech, but Musk’s anger takes on a moral righteousness that can brush away inconsistencies. “Twitter is a good thing,” he told Roth. “It is morally right for it to exist. These people are doing something immoral.” The users who were pressuring advertisers to boycott Twitter were engaged in blackmail, he said, and should be banned.
+
+Roth was appalled. There was no rule on Twitter against advocating boycotts. It was done all the time. Indeed, it was the type of advocacy, Roth felt, that made Twitter important. Plus, there was the Barbra Streisand effect, named after the singer sued a photographer for posting a photo of her home, thus causing the photo to get a thousand times more attention. Banning tweets that called for an advertising boycott would increase awareness of the boycott. “I think tonight is the night I’m going to have to quit,” Roth told his husband.
+
+After exchanging a few text messages, Musk called Roth on the phone. “It’s unfair,” he said. “It’s blackmail.”
+
+“These tweets are not a violation of our rules,” Roth replied. “If you remove them, it’s going to backfire.” The conversation lasted for fifteen minutes and did not go well. After Roth made his case, Musk started talking quickly, and it was clear he wanted no pushback. He didn’t raise his voice, which made his anger feel even more menacing. Musk’s authoritarian side unnerved Roth.
+
+“I’m changing Twitter policy right now,” he declared. “Blackmail is prohibited as of right now. Ban it. Ban them.”
+
+“Let me see what I can find out,” Roth said. He was trying to buy time. “I was like, I need to get the fuck off the phone,” Roth recalls.
+
+Roth called Robin Wheeler, who had quit as Twitter’s head of advertising sales but been lured back by Musk and Jared Birchall. “You know how this shit works,” Roth told her. “If we ban an activist campaign, that is a great way to make it take off even more.”
+
+Wheeler agreed. “Don’t do anything,” she told Roth. “I’ll text Elon too and then he’ll hear it from multiple people.”
+
+The next thing that Roth heard from Musk was a question about a totally different subject: What was happening with the elections in Brazil? “He and I suddenly went back to having normal interactions, where he’s asking questions and I’m giving him answers,” Roth says. Musk had moved on from demon mode. His mind had switched to other things, and he never mentioned the advertising boycott again or followed up on his orders.
+
+Henry Kissinger once quoted an aide saying that the Watergate scandal had happened “because some damn fool went into the Oval Office and did what Nixon told him to do.” Those around Musk knew how to ride out his periods of demon mode. Roth later described the encounter in a conversation with Birchall. “Yeah, yeah, yeah,” Birchall told him. “That happens with Elon. You need to just ignore it and don’t do what he says. Then later on, go back to him after he has processed the inputs.”
+
+
+
+
+
+Twitter Blue check marks
+
+
+Subscriptions were a key part of Musk’s plans for Twitter. He called it Twitter Blue. Already, blue check marks were available to celebrities and officials who went through a process (or pulled strings) to get Twitter to deem them notable enough. Musk’s idea was to create a new authentication badge for anyone willing to pay a monthly fee. Jason Calacanis and others suggested that it would be elitist to have different marks for those who had been knighted as “notables” and those who paid, so Musk decided that both categories would get the same blue check mark.
+
+Twitter Blue would serve many purposes. First, it would cut back on troll farms and bot armies, because only one verified account would be permitted on any one credit card and phone. Second, it would be a new revenue stream. It would also get a user’s credit card information into the system, enabling Twitter someday to become the broader financial-services and payments platform that Musk envisioned. And it could help solve the hate-speech and scam issues.
+
+He asked to have it ready by Monday, November 7. They succeeded in getting the engineering done, but even before the launch they realized they had a human problem: thousands of pranksters, scam artists, and provocateurs would be looking for ways to game the verification system, get a blue check, and then change their profiles to impersonate someone else. Roth presented a seven-page memo describing the dangers. He pushed to delay the new feature at least until after the November 8 midterm elections in the U.S.
+
+Musk understood the issue and agreed to a two-day delay. He gathered product manager Esther Crawford and twenty engineers around his conference table at midday on November 7 to emphasize the importance of preventing people from messing with Twitter Blue. “There will be a massive attack,” he warned. “There’s going to be a swarm of bad actors who will test the defenses. They will try to impersonate me and others and then go to the press, which will want to destroy us. It will be World War Three over the blue check marks. So we have to do everything possible to not have this be a total exploding-egg-on-face situation.” When one of the engineers tried to raise another issue, Musk shut him down. “Don’t even think about it right now,” he said. “There is only one priority: stopping the massive impersonation onslaught that’s going to happen.”
+
+One problem was that this required humans as well as lines of code. Musk had laid off 50 percent of the staff and 80 percent of the outside contractors who worked on vetting users. Antonio Gracias, who was helping to enforce tighter budgets, had ordered Roth to drastically reduce spending on moderators.
+
+When Twitter Blue began rolling out on the morning of Wednesday, November 9, the impersonation problem was as bad as Musk and Roth had feared. There was a tsunami of fake accounts with blue checks pretending to be famous politicians and, worse yet, big advertisers. One purporting to be the drugmaker Eli Lilly tweeted, “We are excited to announce insulin is free now.” The company’s stock price fell more than 4 percent in an hour. A Coca-Cola impersonator said, “If this gets 1000 retweets we will put cocaine back in Coca-Cola.” (It did, but Coke didn’t.) A Nintendo impostor showed Mario flipping the bird. Nor was Tesla spared. “Our cars do not respect school zone speed limits. Fuck them kids,” read one tweet from a blue-checked account purporting to be Tesla. Another tweeted, “BREAKING: A second Tesla has hit the World Trade Center.”
+
+For a few hours Musk kept pushing forward, issuing new rules and making threats about impersonators. But the following day, he decided to suspend the entire Twitter Blue experiment for a few weeks.
+
+
+
+
+
+Return to work
+
+
+While the Twitter Blue rollout was turning into a Hindenburg-level flameout, Musk went into crisis mode. Sometimes crises energize him. They make him happy and excited. Not this time. That Wednesday and Thursday he became dark, angry, resentful, and churlish.
+
+Part of it was Twitter’s increasingly dire financial situation. When he made his buyout offer in April, Twitter was basically cash-neutral. But now, in addition to the drop in advertising revenue, it had to service the interest on more than $12 billion in debt. “This is one of the most terrifying financial pictures I have ever seen,” he said. “I think we may see in excess of a $2 billion shortfall of cash next year.” To be able to tide Twitter over, he sold another $4 billion of his Tesla stock.
+
+That Wednesday night, he sent an email to Twitter staff. “There is no way to sugarcoat the message,” he began. “Frankly, the economic picture ahead is dire.” As he had done before at Tesla and SpaceX and even Neuralink, he threatened to shut down the business, even declare bankruptcy, if they didn’t turn things around. Success would require a complete change in the company’s mellow, easygoing, and nurturing culture. “The road ahead is arduous and will require intense work.”
+
+Most notably, this meant reversing Twitter’s policy, announced by Jack Dorsey early in the pandemic and reaffirmed by Parag Agrawal in 2022, that employees could work at home forever. “Remote work is no longer allowed,” Musk declared. “Starting tomorrow, everyone is required to be in the office for a minimum of 40 hours per week.”
+
+His new policy was partly motivated by his belief that being together in an office facilitated the flow of ideas and energy. “People are way more productive when they’re in person because the communication is much better,” he told a hastily gathered employee meeting in the ninth-floor café. But the policy also arose from his personal work ethic. When one of the employees at the meeting asked why it was necessary to come into the office if most of the people they dealt with were based elsewhere, Musk got angry. “Let me be crystal clear,” he began, slowly and coldly. “If people do not return to the office when they are able to return to the office, they cannot remain at the company. End of story. If you can show up in an office and you do not show up at the office: resignation accepted. End of story.”
+
+
+
+
+
+The Apple issue
+
+
+In addition to the problems with impersonations, Yoel Roth realized there was another problem for Twitter Blue: Apple. Musk’s plan was that users would sign up on their iPhones using the Twitter app. Twitter would get the $8, and it would also get data from Apple verifying the user’s name and other information, including, Musk assumed, their credit card number. “The problem was that nobody bothered to fucking check if Apple would share this information,” Roth says.
+
+Apple had a firm policy regarding apps. It took a 30 percent cut of any payments made for an app or for purchases inside an app. What was even more onerous, Apple would not share user data. Any service that tried to violate these rules would be yanked from Apple’s App Store. It justified the policy on privacy and safety grounds. If you were on your iPhone and made a purchase, Apple would keep private your data and credit card information.
+
+“This is not going to work,” Roth said when he got Elon on the phone. “The fundamental premise of Twitter Blue is flawed when it comes to the iPhone.”
+
+Musk was annoyed. Though he understood Apple’s policies, he assumed that Twitter could work around them. “Have you called somebody at Apple?” he asked. “Just call Apple and tell them to give you the data you need.”
+
+Roth was taken aback. If a midlevel employee like himself called Apple and asked them to change their policies on information privacy, they would, as he put it, “tell me to go fuck myself.”
+
+Musk insisted the problem was fixable. “If I need to call Apple, I’ll call Apple,” he said. “I’ll call Tim Cook, if I have to.”
+
+
+
+
+
+Yoel Roth resigns
+
+
+That conversation was the final straw for Roth. The business model for Twitter Blue was imperiled given the constraints imposed by Apple. The issue of blue-checked impersonators was impossible to control immediately because Musk had laid off most of the human moderators. Musk’s authoritarian outbursts continued to be unnerving. And he was demanding a list of more people to be laid off.
+
+Roth had told himself he would stay through the November 8 midterms, which had now passed peacefully. At the end of his phone call with Musk, he decided it was time to leave. So while Musk was holding an employee town hall in the ninth-floor café, Roth was on the tenth floor drafting his resignation letter.
+
+He had a brief conference call informing some of his team, hit the Send button, and left the office immediately because he didn’t want to get walked out by security. When Musk was given the news, he was genuinely disappointed. “Wow,” he said, “I thought he was going to be doing this with us.”
+
+As he was crossing the Bay Bridge to Berkeley, Roth’s phone started vibrating. The news had leaked out. “I didn’t answer the calls while I was driving, because I’m a very nervous driver at the best of times,” he says. When he got home and looked at his phone, there was a text from Yoni Ramon asking, “Can we talk?” Similar ones came from Alex Spiro and Jared Birchall.
+
+He called Birchall, who told him that Musk was disappointed and hoped he would reconsider. “Is there anything we can do to persuade you to come back?” Birchall asked. They spoke for a half-hour, with Birchall explaining how to ride out Musk’s moments of demon mode. Roth said he had made up his mind, but he would be willing to talk to Musk as a friendly exit interview. He ate a late lunch, made an outline of what he wanted to say, and at 5:30 texted Musk saying, “I’m available to talk.”
+
+Musk phoned right away. Most of the conversation consisted of Roth going through his outline of what he thought were the most pressing challenges for Twitter. Musk then asked directly, “Would you consider coming back?”
+
+“No, that’s not the right decision for me,” Roth replied.
+
+Roth’s feelings toward Musk were complex. Most of their interactions had been good. “He was reasonable, funny, engaging, and would talk about his vision in a way that was a bit bullshit but mainly something you could totally be inspired by,” Roth says. But then there were the times when Musk showed an authoritarian, mean, dark streak. “He was the bad Elon, and that’s the one I couldn’t take.”
+
+“People want me to say I hate him, but it’s much more complicated, which, I suppose, is what makes him interesting. He’s a bit of an idealist, right? He has a set of grand visions, whether it’s multiplanetary humanity or renewable energy and even free speech. And he has constructed for himself a moral and ethical universe that is focused on the delivery of those big goals. I think that makes it hard to villainize him.”
+
+Roth didn’t ask for a severance package. “I just wanted to walk away while my reputation was still intact and I could still be employable,” he says, wistfully. He also wanted his safety. He had been hit by frightening anti-Semitic and anti-gay death threats when the New York Post and other outlets wrote about his earlier tweets supporting Democrats and denouncing Trump. “I was very worried that if Elon and I parted on bad terms, he would tweet bad things about me and call me a libtard, and then his hundred million followers, some of whom may be violent, would come after me and my family.” Roth turned plaintive as he talked about his worries. “What Elon doesn’t understand,” he said at the end of our conversation, “is that the rest of us do not have security people the way he does.”
+
+
+
+
+
+Despair
+
+
+Following Roth’s resignation and the flameout of Twitter Blue, Musk held a late-night video conference with Franz von Holzhausen and the rest of Tesla’s Robotaxi design team. Before they could start showing him the latest renderings of the car, he vented his frustrations about Twitter. “I don’t know why I did it,” he said, looking tired and dejected. “The judge basically said that I have to buy Twitter or else, and now I’m like, okay, shit.”
+
+It was exactly two weeks after Musk had closed the Twitter deal. Since then he had been working around the clock at Twitter headquarters while juggling his work at Tesla, SpaceX, and Neuralink. His reputation was being shredded, and the exhilaration of the Twitter drama had given way to pain. “I’m hoping to be out of Twitter hell at some point,” he said, promising to try to get back down to Los Angeles to do a Robotaxi meeting in person.
+
+Von Holzhausen tried to change the subject back to the very futuristic Robotaxi design they had developed, but Musk returned to the Twitter situation. “However bad you may think the Twitter culture is, multiply that by ten,” he said. “The laziness and entitlement here is insane.”
+
+Afterward, he was interviewed by video for a business summit in Indonesia. The moderator asked what advice he would give to someone who wanted to be the next Elon Musk. “I’d be careful what you wish for,” he replied. “I’m not sure how many people would actually like to be me. The amount that I torture myself is next level, frankly.”
+
+
+
+
+

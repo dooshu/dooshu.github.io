@@ -1,0 +1,76 @@
+63：Raptor Shake-up：SpaceX, 2021
+
+
+
+
+Jake McKenzie atop a high bay
+
+
+
+The construction tents and high bays in Boca Chica
+
+
+
+
+
+Engineering mode
+
+
+“My neural net is getting fired up like it’s the Fourth of July,” Musk exulted. “This is what I like doing most, iterating with kickass engineers!” He was sitting in the Starbase conference room in Boca Chica in early September 2021, sporting a stark fade haircut that looked like it was done by a soon-to-be-executed barber of a North Korean leader. “I cut it myself,” he told the engineers. “I had someone else cut the back.”
+
+Over the previous weeks, Musk had been cycling through periods of despair and fury about the Starship’s Raptor engine. It had become complex, expensive, and difficult to manufacture. “When I see a tube that cost twenty thousand dollars, I want to stab my eye with a fork,” he said. Going forward, he announced, he would hold meetings in his SpaceX conference room with the Raptor team at 8 p.m. every evening, including weekends.
+
+Musk took a special interest in the mass of materials being used. The thickness of the engine cylinder was the same as that of its dome, he pointed out, even though they would be exposed to different pressure. “What the fuck is going on?” he asked. “There is a shit ton of metal there that doesn’t make any damn sense.” Each extra ounce of mass would reduce the amount of payload the rocket could launch.
+
+One major decision—made at a meeting that had been pushed back to midnight because the Inspiration4 astronauts were landing—was to have as much of the engine as possible made out of his favorite material, stainless steel. After being shown a series of slides about ways to minimize the use of expensive alloys, Musk broke in. “Enough said,” he declared. “You’re getting analysis paralysis. We are moving every part possible to low-cost steel.”
+
+At first, the only exceptions he allowed were for parts exposed to hot oxygen-rich gas combustion. Some of the engineers pushed back and suggested that copper, with its better ability to conduct heat, was needed for a face plate. But Musk argued that copper had a worse melt temperature. “I’m convinced you could make a steel faceplate,” he said. “Please do it. I think I’ve been pretty clear: make it out of steel.” He admitted there was a reasonable chance that it would not work, but it was better to try and fail rather than analyze the issue for months. “If you make this thing fast, you can find out fast. And then you can fix it fast.” He eventually succeeded in converting most of the parts into stainless steel.
+
+
+
+
+
+Jake McKenzie
+
+
+As Musk ran the meetings in his conference room each night, he was looking for someone who might be able to oversee Raptor design. “Any leaders emerging?” Shotwell asked him after one of the skip-level sessions.
+
+“My neural net for assessing engineering skill is good, but it’s hard to do when they’re wearing masks,” Musk complained. So he started also having one-on-one sessions, peppering the midlevel engineers with questions.
+
+After a few weeks, a young engineer named Jacob McKenzie began to stand out. The juxtaposition of his cherubic smile with his shoulder-length dreadlocks made him cool in an understated way. There are two types of lieutenants Musk favors: the Red Bulls, such as Mark Juncosa, who are highly caffeinated and voluble as they purge-pulse ideas, and the Spocks, whose measured monotones give them an aura of Vulcan competence. McKenzie was in the latter category.
+
+He had grown up in Jamaica and later moved to Northern California, where he became interested in cars, rockets, and “anything with a lot of heavy engineering.” His family was poor, so he worked in a warehouse to make money while in high school. He saved up to go to Santa Rosa Junior College, where he studied engineering, and did well enough that he was able to transfer to Berkeley and then to graduate school at MIT, where he got a PhD in mechanical engineering.
+
+At SpaceX, which he joined in 2015, he managed the team that delivered the valves to the Raptor engine. It’s a critical role. When a countdown is stopped, it’s often because of a leaky valve. McKenzie had interacted with Musk just a few times, so he was surprised when Musk started talking to him about running the Raptor program. “I didn’t think he knew my name,” McKenzie says. That indeed may have been the case, but Musk knew his work was succeeding. McKenzie’s team had successfully improved Starship’s flap actuators, one of the many projects that Musk dove into personally.
+
+Just after midnight one night in September 2021, Musk texted McKenzie, “Are you still up?” Not surprisingly, McKenzie responded, “Yeah, I’m still up, I’ll be in the office for at least a few more hours.” Musk called and said he was going to promote him. At 4:30 a.m., he sent out the email. “Jake McKenzie is reporting to me directly going forward,” he wrote. Among his goals, Musk said, would be to “remove most of the flanges and Inconel parts in favor of weldable steel alloys, as well as delete any part that is even *potentially* unnecessary. If we don’t end up adding back some parts later, we haven’t deleted enough.”
+
+McKenzie set about applying automotive-style solutions, which in some cases resulted in parts that were 90 percent cheaper. He asked Lars Moravy, one of Musk’s top Tesla executives, to walk with him through the SpaceX manufacturing line and suggest automotive techniques that would simplify things. At times Moravy was so appalled by the unnecessary complexities on the rocket-engine line that he covered his eyes. “Okay, can you stop putting your face in your palm?” McKenzie asked. “Because it’s really, really like hurting my feelings.”
+
+The biggest change Musk wrought was to put the design engineers in charge of production, like he had done for a while at Tesla. “I created separate design and production groups a long time ago, and that was a bullshit mistake,” he said at one of the first meetings that McKenzie led. “You are responsible for the production process. You can’t hand it off to someone else. If the design is expensive to produce, you change the design.” McKenzie and his engineering team moved their seventy-five desks to be next to the assembly lines.
+
+
+
+
+
+The 1337 engine
+
+
+One method Musk used when a problem got hairy was to turn his attention to designing a future version of the product. That’s what he did with Raptor a few weeks after McKenzie took over. He declared that they were going to shift their attention to making a whole new engine. It was going to be different enough that he didn’t even want to name it after a breed of falcon, like Merlin or Kestrel. Instead he decided to use a meme from the world of coding and call it 1337, pronounced “LEET.” (The numerals kind of look like those letters.) The goal was to get an engine that would cost less than $1,000 per ton of thrust and thus be, he said, “the fundamental breakthrough needed to make life multiplanetary.”
+
+The point of leapfrogging to a new engine was to get everyone thinking boldly. “Our goal is the great adventure engine,” he said in a pep talk to the team. “Does it have a chance of success above zero? If so, put it in! If we find that there are changes we made that are too adventurous, then we will back up.” The guiding principle should be to make an engine that was lean. “There are a lot of ways to skin a cat,” he said. “But it’s important to know what the post-skinned cat looks like. The answer is muscly and gnarly.”
+
+Late that night, he sent out a flurry of texts to emphasize how serious he was about this new push. “We are not shooting for the moon,” he wrote. “We are shooting for Mars. A maniacal sense of urgency is our operating principle.” In a text sent directly to McKenzie, he added, “The SpaceX 1337 engine is the last major critical breakthrough needed to get humanity to Mars!!! No words are enough to capture how important this is for the future of civilization.”
+
+He personally suggested some extreme ideas, such as deleting the whole hot fuel gas manifold and merging the fuel turbo pump with the main chamber injector. “It might result in poor fuel gas distribution, might not. Let’s find out.” He reinforced his crusade with emails almost every night. “We are on a deletion *rampage*!!” he wrote in one. “Nothing is sacred. Any remotely questionable tubes, sensors, manifolds, etc. will be deleted tonight. Please go ultra-hardcore on deletion and simplification.”
+
+Over the course of October 2021, the meetings got pushed back later each night, most of them starting around 11 p.m. Nevertheless, there were usually a dozen people in the conference room and more than fifty joining virtually. Each session usually had a new idea for simplification or deletion. One night, for example, he focused on getting rid of the entire skirt of the booster, which is the unpressurized open part at the very bottom. “It doesn’t help contain much of the propellant,” he said. “It’s like peeing in a swimming pool. Doesn’t affect the swimming pool much.”
+
+After a month, just as suddenly as he had forced his team to focus on a futurist 1337 engine, Musk turned their attention back to revising the current Raptor engine into a leaner and meaner Raptor 2. “I’m moving the SpaceX propulsion focus back to Raptor,” he announced in a 2 a.m. text message. “We need engine production rate to be one per day to keep up a decent launch cadence. It is currently at one every three days.” I asked whether that would slow the development of the 1337. “Yes,” he replied. “We can’t make life multiplanetary with Raptor, as it is way too expensive, but Raptor is needed to tide us over until 1337 is ready.”
+
+Was the 1337 surge and retreat a carefully considered strategy by Musk to get his team thinking more boldly, or was it an impulsive act that he later walked back? As usual with him, it was a mix of both. It served a purpose of forcing new ideas, including getting rid of various shrouds and skirts, that would be incorporated into his goals for an improved Raptor. “The exercise helped define what an ideal engine looks like,” McKenzie says. “But it was not moving the needle on stuff that was immediately needed to advance the Starship program.” Over the next year, McKenzie and his team were able to churn out Raptors almost like they were cars on an assembly line. By Thanksgiving 2022, they were making more than one a day, creating a stockpile for future Starship launches.
+
+
+
+
+

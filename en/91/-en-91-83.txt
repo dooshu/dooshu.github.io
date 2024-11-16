@@ -1,0 +1,141 @@
+83：The Three Musketeers：Twitter, October 26–30, 2022
+
+
+
+
+With James Musk, Dhaval Shroff and Andrew Musk judging code
+
+
+
+Ross Nordeen studying Twitter’s software architecture
+
+
+
+James and Andrew Musk
+
+
+
+
+
+James, Andrew, and Ross
+
+
+Mustering the young tech troops in the second-floor conference rooms that Thursday was a twenty-nine-year-old who looked eerily like Musk. James Musk, son of Errol’s younger brother, had the same hair, toothy grin, hand-on-the-neck mannerisms, and flat South African accent as his first cousin. There was a sharpness to his mind and eyes, but it was leavened by a big smile, emotional alertness, and eagerness to please that were not part of Elon’s repertoire. A hard-working software engineer on the Autopilot team at Tesla, James became the nucleus of a small band of loyalist musketeers coordinating the three dozen Tesla and SpaceX engineers who descended like an expeditionary force on Twitter headquarters that week.
+
+Ever since he was twelve, James had been avidly following Elon’s adventures, and he regularly wrote him letters. Like Elon, he left South Africa on his own when he was just turning eighteen, and he spent a year bumming around the Riviera, working on yachts and staying in youth hostels. Afterward, he went to Berkeley and then joined Tesla just in time to be enlisted by Elon into the crazed 2017 surge at the Nevada battery factory. He then became part of the Autopilot team developing the neural network planning path that analyzes video data from human drivers to learn how a self-driving car should behave.
+
+When Elon called in late October and “voluntold” him to come help with the impending Twitter takeover, James was momentarily reluctant. His girlfriend’s birthday was that weekend, and they were traveling to be part of her best friend’s wedding. But she understood that he needed to help his cousin. “You’ve got to be there,” she told him.
+
+Joining him on the mission was his red-haired, shyer younger brother Andrew, a software engineer at Neuralink. As kids in South Africa, they were national-level cricket players as well as star engineering students. A half-generation younger than Elon and Kimbal, they were not part of the youth gang that included the Rive brothers, Elon’s cousins from his mother’s side. Elon took Andrew and James under his wing when they left South Africa, paying for their college tuition and living expenses. Andrew went to UCLA, where he researched blockchain technology with the pioneer of internet packet-switching theory, Len Kleinrock. As if it were a genetic family trait (which it might have been), James and Andrew became addicted to the strategy game Polytopia. “My ex-girlfriend hated me for it,” Andrew says. “Maybe that’s why she’s my ex-girlfriend.”
+
+
+
+* * *
+
+
+
+While on the Riviera, James was staying at a youth hostel in Genoa when another kid spied him eating peanut butter from a jar using two fingers. “Dude, that’s disgusting,” the kid said, laughing. That was how James met Ross Nordeen, a skinny, floppy-haired computer wiz and wanderer from Wisconsin. After graduating from Michigan Tech, Ross became an itinerant code jockey, working remotely and indulging his wanderlust. “I would meet people and say, ‘Where should I go next?,’ which is how I ended up in Genoa.”
+
+In an example of the serendipity that happens to people who travel around, especially in rarefied places, Ross said he was applying for a job at SpaceX. “Oh, that’s my cousin’s company,” James replied. Ross had run out of cash, so James invited him to stay at a house he and a friend had rented near Antibes. Ross slept on a pad outside.
+
+One evening they went to a nightclub in the fashionable village of Juan-les-Pins. James was chatting with a young woman when a man came up and said she was his girlfriend. They went outside, a fight ensued, and James, Ross, and their friend ran away. But they had left their jackets behind, so Ross was delegated to retrieve them. “They sent me back because I was the smallest and meekest-looking one,” he says. On their way home, they were ambushed, threatened with a broken bottle, and chased until they jumped over a fence and hid in some bushes.
+
+This and other escapades bonded Ross and James. At a conference a year later, Ross met an executive who gave him a job at Palantir, the somewhat secretive data analytics and intelligence company cofounded by Peter Thiel, and Ross helped get James an internship there. Ross eventually ended up working on the Autopilot team at Tesla with James.
+
+James, Andrew, and Ross became the three musketeers of Musk’s takeover of Twitter, the kernel of a corps that included three dozen engineers from Tesla and SpaceX who gathered that week in the company’s second-floor conference spaces to execute the transformation. The musketeers’ first mission, which was both audacious and somewhat awkward because they were still in their twenties, was to forman analysis unit that would assess the code-writing skills, productivity, and even the attitudes of more than two thousand Twitter engineers and decide which of them, if any, should survive.
+
+
+
+
+
+Code graders
+
+
+James and Andrew sat with their laptops at a small round table in the open space near the second-floor conference room that Musk had commandeered as his battlefield camp. X was nearby on the floor playing with four large Rubik’s cubes. (No, he could not actually solve the puzzle yet. He was only two and a half.) It was Thursday, October 27, the day Musk was rushing toward the surprise flash-close of his takeover, but he found an hour to break away from his meetings to discuss with his cousins how to cull Twitter’s engineering ranks. Joining them was another young engineer from the Autopilot team, Dhaval Shroff, who had been one of the presenters on AI Day 2.
+
+James, Andrew, and Dhaval had access on their laptops to the entire trove of code that had been written at Twitter over the past year. “Do a search to see who’s done a hundred lines of code or more in the last month,” Musk told them. “I want you to go through the directory and see who’s committing code.”
+
+His plan was to lay off most of the engineers while retaining the really good ones. “Let’s figure out who did a nontrivial amount of coding, then within that group who did the best coding,” he said. It was a mammoth task, made more difficult because they did not have the code in a format that made it easy to determine who made each insertion or deletion.
+
+James had an idea. He and Dhaval had met a young Twitter software engineer at a conference in San Francisco a few days earlier. His name was Ben. James called his number, put him on speakerphone, and started peppering him with questions.
+
+“I have the list of everyone’s insertions and deletions,” Ben said.
+
+“Can you send it?” James asked. They spent time figuring out how to use a Python script and pruning techniques to get it to transfer faster.
+
+Then Musk broke in. “Thanks for helping, man,” he said.
+
+There was a long pause. “Elon?” Ben asked. He seemed a little awed that his incoming boss was spending time digging through the source code on the day they were rushing to close the deal.
+
+Hearing his French accent, I realized he was the same Ben—Ben San Souci—who had asked Musk about content moderation at the coffee-bar visit. An engineer by demeanor, he wasn’t a natural networker, but he was suddenly being swept into the inner circle. It was a testament to the value of serendipity—and of showing up in person.
+
+
+
+* * *
+
+
+
+The following morning, with Twitter now officially in Musk’s hands, the musketeers went to the ninth floor, where the café was serving free breakfast. Ben was there and, along with a couple of other Tesla engineers, they went onto the sunny patio overlooking City Hall. There were a dozen tables surrounded by playful furnishings, but no one else from Twitter was around.
+
+When James, Andrew, and Ross described how their layoff lists were progressing, Ben was not afraid to speak his mind. “In my experience, individuals are important, but the teams are also important,” he said. “Instead of just singling out good coders, I think it would be useful to find the teams that work really well together.”
+
+Dhaval processed this information and agreed. “Me and James and the people on our Autopilot team are always sitting together, and the ideas flow real fast, and what we do as a team is better than what any one of us could do,” he said. Andrew noted that was why Musk favored in-person rather than remote work.
+
+Again, Ben was willing to disagree. “I believe in coming in, and I do,” he said. “But I’m a programmer and can’t be good if I get interrupted every hour. So sometimes I don’t come in. Perhaps hybrid is best.”
+
+
+
+
+
+In charge
+
+
+In the halls of Twitter, as well as at Tesla and SpaceX and on Wall Street, there was talk about whether Musk would tap someone to help him run the company. That first day as owner, he secretly met with one possibility, Kayvon Beykpour, the cofounder of the video-streaming app Periscope, which was acquired and then killed by Twitter. Beykpour had become president of product development at Twitter but was fired by Agrawal earlier in 2022 without explanation.
+
+Their conversation in Musk’s conference room, which also included tech-investor Scott Belsky, showed a real mind-meld. “I have an idea on the ads,” Beykpour suggested. “Ask people who subscribe what their interests are and offer to personalize their experience. You could make it a benefit of subscribing.”
+
+“Yeah, and advertisers would love that,” Musk said.
+
+“Also a down-vote button for tweets,” Beykpour said. “You need some negative user signal that can feed into rankings.”
+
+“Only paid and verified users should be allowed to do a down-vote,” Musk said, “because otherwise you could be subject to a bot attack.”
+
+At the end of the conversation, Musk made Beykpour a casual offer. “Why don’t you come back to work here?” he asked. “It seems like you love it.” He then laid out his whole vision of making Twitter a financial and content platform, with all the elements he had envisioned for X.com.
+
+“Well, I’m conflicted,” Beykpour responded. “I look up to you. I’ve purchased every product you ever created. Let me get back to you.”
+
+It was clear, however, that Musk was not going to cede much control, just as he hadn’t at his other companies. A month later, I asked Beykpour what he concluded. “I just don’t see a role for me,” he said. “Elon is passionate about directly driving engineering and product himself.”
+
+Musk was in no hurry to bring in anyone else to run Twitter right away, even after he conducted an online poll that said he should. He even dispensed with having a chief financial officer. He wanted it to be his playground. At SpaceX he had at least fifteen direct reports, and at Tesla there were about twenty. At Twitter, he told his team, he was willing to have more than twenty. And he decreed that they and the most dedicated engineers should all work in a huge open workspace on the tenth floor, where he would deal with them directly each day and night.
+
+
+
+
+
+Round one
+
+
+Musk had tasked his young musketeers to develop a strategy for making deep cuts in the bloated engineering ranks, and they had been scouring the code base to assess who was excellent and all in. At 6 p.m. on Friday, October 28, twenty-four hours after the closing, Musk gathered them and three dozen other trusted mercenaries from Tesla and SpaceX to begin implementing the plan.
+
+“Twitter now has twenty-five hundred software engineers,” Musk told them. “If each wrote only three lines of code per day, a ridiculously low bar, that should make three million lines a year, which is enough for a whole operating system. This is not happening. Something is deeply amiss. I feel like I’m in a comedy show here.”
+
+“Product managers who don’t know anything about coding keep ordering up features they don’t know how to create,” James said. “Like cavalry generals who don’t know how to ride a horse.” It was a line Musk himself often used.
+
+“I’m going to set a rule,” Musk decreed. “We have one hundred fifty engineers doing Autopilot. I want to get down to that number at Twitter.”
+
+Even granting Musk’s view of the low productivity at Twitter, a layoff of more than 90 percent of the engineers made most at the table flinch. Milan Kovac, now less intimidated by Musk than he was in the early Optimus days, explained why more were necessary. Alex Spiro, the lawyer, also urged caution. He felt that some jobs at Twitter did not require genius computer skills. “I don’t understand why every single person that works at a social media company has to have one-sixty IQ and work twenty hours a day,” he argued. Some people need to be good at selling, others need the emotional skills of good managers, and some are merely uploading user videos and don’t have to be superstars. Plus, cutting to the bone risked having the system fail if anyone got sick or fed up.
+
+Musk did not agree. He wanted deep cuts not only for financial reasons but also because he wanted a hardcore, fanatic work culture. He was willing, indeed eager to take risks and fly without a net.
+
+James, Andrew, Ross, and Dhaval began meeting with Twitter’s managers and asking them to meet Musk’s targets of getting rid of up to 90 percent of their employees. “They were pretty unhappy,” Dhaval says. “They argued that the company would just crash.” He and the other musketeers had a standard response: “Elon has asked for this, and this is how he operates, so we have to come up with a plan.”
+
+On Sunday night, October 30, James sent Musk the official list that he and the other musketeers had made of the best engineers who should be retained. The others could be let go. Musk was ready to pull the trigger immediately. If the layoffs were executed before November 1, the company would not have to pay the bonuses and option grants that were due then. But Twitter’s human resources managers pushed back. They wanted to vet the list for diversity. Musk dismissed that suggestion. But he was given pause by another of their warnings. The firings, if done summarily, would trigger fines for breach of contract and violations of California’s employment laws. That would cost millions of dollars more than waiting until after the contracted bonuses.
+
+Musk reluctantly agreed to delay the mass firings until November 3. They were announced that night in an unsigned email: “In an effort to place Twitter on a healthy path, we will go through the difficult process of reducing our global work force.” About half of the company’s employees worldwide, and close to 90 percent of some infrastructure teams, were let go, their access to company computers and email immediately switched off. He also fired most of the human resources managers.
+
+And that was just round one in what would be a three-round bloodbath.
+
+
+
+
+

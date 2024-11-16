@@ -1,0 +1,59 @@
+64：Optimus Is Born：Tesla, August 2021
+
+
+
+
+An actress dressed as the proposed Optimus robot
+
+
+
+
+
+The friendly robot
+
+
+Musk’s interest in creating a humanoid robot stretched back to the fascination and fear he felt about artificial intelligence. The possibility that someone might create, intentionally or inadvertently, AI that could be harmful to humans led him to start OpenAI in 2014. It also led him to push related endeavors, including self-driving cars, a neural network training supercomputer known as Dojo, and Neuralink chips that could be implanted in brains to create a very intimate symbiotic relationship between humans and machines.
+
+An ultimate expression of safe AI, especially for someone who imbibed sci-fi as a kid, would be creating a humanoid robot, one that could process visual inputs and learn to perform tasks without violating Asimov’s law that a robot shall not harm humanity or any human. While OpenAI and Google were focusing on creating text-based chatbots, Musk decided to focus on artificial intelligence systems that operated in the physical world, such as robots and cars. “If you can create a self-driving car, which is a robot on wheels, then you can make a robot on legs as well,” Musk said.
+
+In early 2021, Musk began mentioning at his executive meetings that Tesla should get serious about building a robot, and at one point he played for them a video of the impressive ones that Boston Dynamics were designing. “Humanoid robots are going to happen, like it or not,” he said, “and we should do it so we can guide it in a good direction.” The more he talked about it, the more excited he got. “This has the potential to be the far biggest thing we ever do, even bigger than a self-driving car,” he told his chief designer, Franz von Holzhausen.
+
+“Once we hear a recurring theme from Elon, we start working on it,” von Holzhausen says. They began meeting in the Tesla design studio in Los Angeles, where the Cybertruck and Robotaxi models were on display. Musk gave the specs: the robot should be about five-foot-eight, with an elfish and androgenous look so it “doesn’t feel like it could or would want to hurt you.” Thus was born Optimus, a humanoid robot to be made by the Tesla teams working on self-driving cars. Musk decided that it should be announced at an event called “AI Day,” which he scheduled for Tesla’s Palo Alto headquarters on August 19, 2021.
+
+
+
+
+
+AI Day
+
+
+Two days before AI Day, Musk held a prep meeting with the Tesla team virtually from Boca Chica. That day also included a meeting with the Texas Fish and Wildlife Conservation Office to get support for Starship launches, a Tesla finance meeting, a discussion of solar roof finances, a meeting about future launches of civilians, a contentious walk through the tents where Starship was being assembled, an interview for a Netflix documentary, and his second late-night visit to the tract houses where Brian Dow’s team was installing solar roofs. After midnight, he got on his plane and headed for Palo Alto.
+
+“It’s draining to have to switch between so many issues,” he said when he finally relaxed on the plane. “But there are a lot of problems, and I have to solve them.” So, why was he now leaping into the world of AI and robots? “Because I’m worried about Larry Page,” he said. “I had long conversations with him about AI dangers, but he didn’t get it. Now we barely speak.”
+
+When we landed at 4 a.m., he went to a friend’s house for a few hours of sleep, then to Tesla’s Palo Alto headquarters to meet with the team preparing for the robot announcement. The plan was for an actress to dress up as the robot and come onstage. Musk got excited. “She will do acrobatics!” he declared, as if in a Monty Python sketch. “Can we make her do cool stuff that looks impossible? Like tap dancing with a hat and cane?”
+
+He had a serious point: the robot should seem fun rather than frightening. As if on cue, X started dancing on the conference room table. “The kid has a real good power pack,” his father said. “He gets his software updates by walking around and looking and listening.” That was the goal: a robot that could learn to do tasks by seeing and mimicking humans.
+
+After a few more jokes about hat-and-cane dancing, Musk began drilling down on the final specifications. “Let’s make it go five miles per hour, not four, and give it power to lift a bit more weight,” he said. “We overdid making it look gentle.” When the engineers said that they were planning to have the batteries swapped out when they ran down, Musk vetoed that idea. “Many a fool has gone down the swappable battery path, and it’s usually because they have a lousy battery,” he said. “We went down that path with Tesla originally. No swappable pack. Just make the pack bigger so it can operate sixteen hours.”
+
+After the meeting, he stayed behind in the conference room. His neck was hurting from his old Sumo wrestling accident, and he lay on the floor with an ice pack behind his head. “If we’re able to produce a general-purpose robot that could observe you and learn how to do a task, that would supercharge the economy to a degree that’s insane,” he said. “Then we may want to institute universal basic income. Working could become a choice.” Yes, and some would still be maniacally driven to do it.
+
+
+
+* * *
+
+
+
+Musk was in a foul mood at the next day’s practice session for AI Day presentations, which would feature not only the unveiling of Optimus but also the advances Tesla was making in self-driving cars. “This is boring,” he kept saying as Milan Kovac, a sensitive Belgian engineer who ran the Autopilot and Optimus software teams, presented very technical slides. “There is too much here that is not cool. This is a recruiting event, and no one will want to join after seeing these fucking slides.”
+
+Kovac, who had not yet mastered the art of deflecting Musk’s blasts, walked back to his office and quit, throwing plans for that evening’s presentation into disarray. Lars Moravy and Pete Bannon, his more seasoned and battle-hardened supervisors, stopped him as he was about to leave the building. “Let’s look at your slides and see how we can fix this,” Moravy said. Kovac mentioned he could use a whiskey, and Bannon found someone in the Autopilot workshop who had some. They drank two shots, and Kovac calmed down. “I’m going to get through the event,” he promised them. “I’m not going to let my team down.”
+
+With the help of Moravy and Bannon, Kovac cut in half the number of his slides and rehearsed a new speech. “I sucked up my anger and brought the new slides to Elon,” he says. Musk glanced through them and said, “Yep, sure. Okay.” Kovac got the impression that Musk did not even remember chewing him out.
+
+The disruption caused the presentation that evening to be delayed by an hour. It was not a very polished event. The sixteen presenters were all male. The only woman was the actress who dressed up as the robot, and she didn’t do any fun hat-and-cane dance routines. There were no acrobatics. But in his slightly stuttering monotone, Musk was able to connect Optimus to Tesla’s plans for self-driving cars and the Dojo supercomputer. Optimus, he said, would learn to perform tasks without needing line-by-line instructions. Like a human, it would teach itself by observing. That would transform not only our economy, he said, but the way we live.
+
+
+
+
+

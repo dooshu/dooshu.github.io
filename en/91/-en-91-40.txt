@@ -1,0 +1,63 @@
+40：Artificial Intelligence：OpenAI, 2012–2015
+
+
+
+
+With Sam Altman
+
+
+
+
+
+Peter Thiel, the PayPal cofounder who had invested in SpaceX, holds a conference each year with the leaders of companies financed by his Founders Fund. At the 2012 gathering, Musk met Demis Hassabis, a neuroscientist, video-game designer, and artificial intelligence researcher with a courteous manner that conceals a competitive mind. A chess prodigy at age four, he became the five-time champion of an international Mind Sports Olympiad that includes competition in chess, poker, Mastermind, and backgammon.
+
+In his modern London office is an original edition of Alan Turing’s seminal 1950 paper, “Computing Machinery and Intelligence,” which proposed an “imitation game” that would pit a human against a ChatGPT–like machine. If the responses of the two were indistinguishable, he wrote, then it would be reasonable to say that machines could “think.” Influenced by Turing’s argument, Hassabis cofounded a company called DeepMind that sought to design computer-based neural networks that could achieve artificial general intelligence. In other words, it sought to make machines that could learn how to think like humans.
+
+“Elon and I hit it off right away, and I went to visit him at his rocket factory,” Hassabis says. While sitting in the canteen overlooking the assembly lines, Musk explained that his reason for building rockets that could go to Mars was that it might be a way to preserve human consciousness in the event of a world war, asteroid strike, or civilization collapse. Hassabis added another potential threat to the list: artificial intelligence. Machines could become superintelligent and surpass us mere mortals, perhaps even decide to dispose of us. Musk paused silently for almost a minute as he processed this possibility. During such trancelike periods, he says, he runs visual simulations about the ways that multiple factors may play out over the years. He decided that Hassabis might be right about the danger of AI, and he invested $5 million in DeepMind as a way to monitor what it was doing.
+
+A few weeks after his conversations with Hassabis, Musk described DeepMind to Google’s Larry Page. They had known each other for more than a decade, and Musk often stayed at Page’s Palo Alto house. The potential dangers of artificial intelligence became a topic that Musk would raise, almost obsessively, during their late-night conversations. Page was dismissive.
+
+At Musk’s 2013 birthday party in Napa Valley, they got into a passionate debate in front of the other guests, including Luke Nosek and Reid Hoffman. Musk argued that unless we built in safeguards, artificial intelligence systems might replace humans, making our species irrelevant or even extinct.
+
+Page pushed back. Why would it matter, he asked, if machines someday surpassed humans in intelligence, even consciousness? It would simply be the next stage of evolution.
+
+Human consciousness, Musk retorted, was a precious flicker of light in the universe, and we should not let it be extinguished. Page considered that sentimental nonsense. If consciousness could be replicated in a machine, why would that not be just as valuable? Perhaps we might even be able someday to upload our own consciousness into a machine. He accused Musk of being a “specist,” someone who was biased in favor of their own species. “Well, yes, I am pro-human,” Musk responded. “I fucking like humanity, dude.”
+
+Musk was therefore dismayed when he heard at the end of 2013 that Page and Google were planning to buy DeepMind. Musk and his friend Luke Nosek tried to put together financing to stop the deal. At a party in Los Angeles, they went to an upstairs closet for an hour-long Skype call with Hassabis. “The future of AI should not be controlled by Larry,” Musk told him.
+
+The effort failed, and Google’s acquisition of DeepMind was announced in January 2014. Page initially agreed to create a “safety council,” with Musk as a member. The first and only meeting was held at SpaceX. Page, Hassabis, and Google chair Eric Schmidt attended, along with Reid Hoffman and a few others. “Elon’s takeaway was the council was basically bullshit,” says Sam Teller, then his chief of staff. “These Google guys have no intention of focusing on AI safety or doing anything that would limit their power.”
+
+Musk proceeded to publicly warn of the danger. “Our biggest existential threat,” he told a 2014 symposium at MIT, “is probably artificial intelligence.” When Amazon announced its chatbot digital assistant, Alexa, that year, followed by a similar product from Google, Musk began to warn about what would happen when these systems became smarter than humans. They could surpass us and begin treating us as pets. “I don’t love the idea of being a house cat,” he said. The best way to prevent a problem was to ensure that AI remained tightly aligned and partnered with humans. “The danger comes when artificial intelligence is decoupled from human will.”
+
+So Musk began hosting a series of dinner discussions that included members of his old PayPal mafia, including Thiel and Hoffman, on ways to counter Google and promote AI safety. He even reached out to President Obama, who agreed to a one-on-one meeting in May 2015. Musk explained the risk and suggested that it be regulated. “Obama got it,” Musk says. “But I realized that it was not going to rise to the level of something that he would do anything about.”
+
+Musk then turned to Sam Altman, a tightly bundled software entrepreneur, sports car enthusiast, and survivalist who, behind his polished veneer, had a Musk-like intensity. Altman had met Musk a few years earlier and spent three hours with him in conversation as they toured the SpaceX factory. “It was funny how some of the engineers would scatter or look away when they saw Elon coming,” Altman says. “They were afraid of him. But I was impressed by how much detail he understood about every little piece of the rocket.”
+
+At a small dinner in Palo Alto, Altman and Musk decided to cofound a nonprofit artificial intelligence research lab, which they named OpenAI. It would make its software open-source and try to counter Google’s growing dominance of the field. Thiel and Hoffman joined Musk in putting up the money. “We wanted to have something like a Linux version of AI that was not controlled by any one person or corporation,” Musk says. “The goal was to increase the probability that AI would develop in a safe way that would be beneficial to humanity.”
+
+One question they discussed at dinner was what would be safer: a small number of AI systems that were controlled by big corporations or a large number of independent systems? They concluded that a large number of competing systems, providing checks and balances on each other, was better. Just as humans work collectively to stop evil actors, so too would a large collection of independent AI bots work to stop bad bots. For Musk, this was the reason to make OpenAI truly open, so that lots of people could build systems based on its source code. “I think the best defense against the misuse of AI is to empower as many people as possible to have AI,” he told Wired’s Steven Levy at the time.
+
+One goal that Musk and Altman discussed at length, which would become a hot topic in 2023 after OpenAI launched a chatbot called ChatGPT, was known as “AI alignment.” It aims to make sure that AI systems are aligned with human goals and values, just as Isaac Asimov set forth rules to prevent the robots in his novels from harming humanity. Think of the computer Hal that runs amok and battles its human creators in 2001: A Space Odyssey. What guardrails and kill switches can we humans put on AI systems so that they remain aligned with our interests, and who among us should get to determine what those interests are?
+
+One way to assure AI alignment, Musk felt, was to tie the bots closely to humans. They should be an extension of the will of individuals, rather than systems that could go rogue and develop their own goals and intentions. That would become one of the rationales for Neuralink, the company he would found to create chips that could connect human brains directly to computers.
+
+He also realized that success in the field of artificial intelligence would come from having access to huge amounts of real-world data that the bots could learn from. One such gold mine, he realized at the time, was Tesla, which collected millions of frames of video each day of drivers handling different situations. “Probably Tesla will have more real-world data than any other company in the world,” he said. Another trove of data, he would later come to realize, was Twitter, which by 2023 was processing 500 million posts per day from humans.
+
+
+
+* * *
+
+
+
+Among those at the dinners with Musk and Altman was a research engineer at Google, Ilya Sutskever. They were able to lure him away, with a $1.9 million salary and starting bonus, to be the chief scientist of the new lab. Page was furious. Not only was his erstwhile friend and houseguest starting a rival lab; he was poaching Google’s top scientists. After the launch of OpenAI at the end of 2015, they barely spoke again. “Larry felt betrayed and was really mad at me for personally recruiting Ilya, and he refused to hang out with me anymore,” Musk says. “And I was like, ‘Larry, if you just hadn’t been so cavalier about AI safety then it wouldn’t really be necessary to have some countervailing force.’ ”
+
+Musk’s interest in artificial intelligence would lead him to launch an array of related projects. These include Neuralink, which aims to plant microchips in human brains; Optimus, a humanlike robot; and Dojo, a supercomputer that can use millions of videos to train an artificial neural network to simulate a human brain. It also spurred him to become obsessed with pushing to make Tesla cars self-driving. At first these endeavors were rather independent, but eventually Musk would tie them all together, along with a new chatbot company he founded called X.AI, to pursue the goal of artificial general intelligence.
+
+Musk’s determination to develop artificial intelligence capabilities at his own companies caused a break with OpenAI in 2018. He tried to convince Altman that OpenAI, which he thought was falling behind Google, should be folded into Tesla. The OpenAI team rejected that idea, and Altman stepped in as president of the lab, starting a for-profit arm that was able to raise equity funding.
+
+So Musk decided to forge ahead with building a rival AI team to work on Tesla Autopilot. Even as he was struggling with the production hell surges in Nevada and Fremont, he recruited Andrej Karpathy, a specialist in deep learning and computer vision, away from OpenAI. “We realized that Tesla was going to become an AI company and would be competing for the same talent as OpenAI,” Altman says. “It pissed some of our team off, but I fully understood what was happening.” Altman would turn the tables in 2023 by hiring Karpathy back after he became exhausted working for Musk.
+
+
+
+
+

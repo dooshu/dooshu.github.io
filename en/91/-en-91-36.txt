@@ -1,0 +1,76 @@
+36：Manufacturing：Tesla, 2010–2013
+
+
+
+
+With Griffin, Talulah, and Xavier celebrating ringing the NASDAQ opening bell, June 2010
+
+
+
+With Marques Brownlee at the Tesla Fremont factory
+
+
+
+
+
+Fremont
+
+
+Beginning with the theology of globalization in the 1980s, and relentlessly driven by cost-cutting CEOs and their activist investors, American companies shut down domestic factories and offshored manufacturing. The trend accelerated in the early 2000s, when Tesla was getting started. Between 2000 and 2010, the U.S. lost one-third of its manufacturing jobs. By sending their factories abroad, American companies saved labor costs, but they lost the daily feel for ways to improve their products.
+
+Musk bucked this trend, largely because he wanted to have tight control of the manufacturing process. He believed that designing the factory to build a car—“the machine that builds the machine”—was as important as designing the car itself. Tesla’s design-manufacturing feedback loop gave it a competitive advantage, allowing it to innovate on a daily basis.
+
+Oracle founder Larry Ellison joined only two corporate boards, Apple and Tesla, and he became close friends with Jobs and Musk. He said they both had beneficial cases of obsessive-compulsive disorder. “OCD is one of the reasons for their success, because they obsessed on solving a problem until they did,” he says. What set them apart is that Musk, unlike Jobs, applied that obsession not just to the design of a product but also to the underlying science, engineering, and manufacturing. “Steve just had to get the conception and software right, but the manufacturing was outsourced,” Ellison says. “Elon took on the manufacturing, the materials, the huge factories.” Jobs loved to walk through Apple’s design studio on a daily basis, but he never visited his factories in China. Musk, in contrast, spent more time walking assembly lines than he did walking around the design studio. “The brain strain of designing the car is tiny compared to the brain strain of designing the factory,” he says.
+
+Musk’s approach came together in May 2010, when Toyota was looking to sell a factory that it had once shared with GM in Fremont, California, on the fringe of Silicon Valley, a half-hour drive from Tesla’s headquarters in Palo Alto. Musk invited Toyota’s president, Akio Toyoda, to his Los Angeles home and drove him around in a Roadster. He was able to get the mothballed factory, which at one point had been worth $1 billion, for $42 million. In addition, Toyota agreed to invest $50 million in Tesla.
+
+When redesigning the factory, Musk put the cubicles for the engineers right on the edge of the assembly lines, so they would see the flashing lights and hear the complaints whenever one of their design elements caused a slowdown. Musk often corralled the engineers to walk up and down the lines with him. His own open desk was in the middle of it all, with no walls around him, and it had a pillow underneath so he could spend the night when he wanted.
+
+The month after Tesla bought the factory, Musk was able to take the company public, the first IPO by an American carmaker since Ford’s in 1956. He traveled with Talulah and two of his sons to ring the opening bell at the NASDAQ stock exchange on Times Square. By the end of the day, the stock market had fallen, but Tesla’s stock rose more than 40 percent, providing $266 million in financing for the company. That evening, Musk flew west to the Fremont factory, where he made a pithy toast. “Fuck oil,” he said. Tesla was almost dead at the end of 2008. Now, just eighteen months later, it had become America’s hottest new company.
+
+
+
+
+
+Production quality
+
+
+When the first Model S cars rolled off the Fremont assembly line in June 2012, hundreds of people, including California governor Jerry Brown, showed up for the celebration. Many of the workers waved American flags. Some cried. What had once been a bankrupt factory that had laid off all its workers now had two thousand employees and was leading the way to an electric-vehicle future.
+
+But a few days later, when Musk was delivered his own Model S from the production line, he was not happy. More precisely, he declared that it sucked. He asked von Holzhausen to come to his house, and they spent two hours going over the vehicle. “Jesus Christ, is this the best we can do?” Musk asked. “The panel gap finish is crap. The paint quality is crap. Why aren’t we getting the same production quality as Mercedes and BMW?”
+
+When Musk gets angry, he is quick to pull the trigger. He fired three production quality chiefs in quick succession. One day that August, von Holzhausen was with him on his plane and asked how he could help. He should have been careful about making such an offer. Musk asked him to move to Fremont for a year to be the new production quality chief.
+
+Von Holzhausen and his deputy Dave Morris, who accompanied him to Fremont, would sometimes walk the factory’s assembly lines until two in the morning. It was an interesting experience for a designer. “It taught me how all the things you create on the drawing board have an effect at the other end, on the assembly line,” von Holzhausen says. Musk joined them two or three nights a week. His focus was on root causes. What in the design was to blame for a production-line problem?
+
+One of Musk’s favorite words—and concepts—was “hardcore.” He used it to describe the workplace culture he wanted when he founded Zip2, and he would use it almost thirty years later when he upended the nurturing culture at Twitter. As the Model S production line ramped up, he spelled out his creed in a quintessential email to employees, titled “Ultra hardcore.” It read, “Please prepare yourself for a level of intensity that is greater than anything most of you have experienced before. Revolutionizing industries is not for the faint of heart.”
+
+The validation came at the end of 2012, when Motor Trend Magazine picked its car of the year. The headline: “Tesla Model S, Shocking Winner: Proof Positive That America Can Still Make (Great) Things.” The review itself was so breathtaking that it surprised even Musk. “It drives like a sports car, eager and agile and instantly responsive. But it’s also as smoothly effortless as a Rolls-Royce, can carry almost as much stuff as a Chevy Equinox, and is more efficient than a Toyota Prius. Oh, and it’ll sashay up to the valet at a luxury hotel like a supermodel working a Paris catwalk.” The article ended by mentioning “the astonishing inflection point the Model S represents”: it was the first time that the award had gone to an electric vehicle.
+
+
+
+
+
+The Nevada battery Gigafactory
+
+
+The idea that Musk proposed in 2013 was audacious: build a gigantic battery factory in the U.S., with an output greater than all other battery factories in the world combined. “It was a completely wacky idea,” says JB Straubel, the battery wiz who was one of Tesla’s cofounders. “It seemed like science fiction crazy.”
+
+To Musk, it was a matter of first principles. The Model S was using about 10 percent of the world’s batteries. The new models that Tesla had on the drawing board—an SUV called the Model X and a mass-market sedan that would become the Model 3—would require ten times the number of batteries. “What began as a showstopper problem,” Straubel says, “became a really fun blue-sky wacky brainstorming opportunity to say, ‘Wow, this is actually a chance to do something unique.’ ”
+
+There was one problem, Straubel recalls. “We had no clue how to build a battery factory.”
+
+So Musk and Straubel decided to pursue a partnership with their battery supplier, Panasonic. Together they would build a facility where Panasonic would make the battery cells and then Tesla would turn them into battery packs for cars. The 10-million-square-foot factory would cost $5 billion, and Panasonic would finance $2 billion of it. But Panasonic’s top leaders were hesitant. They had never had that type of partnership, and Musk (understandably) did not strike them as an easy guy to dance with.
+
+To prod Panasonic, Musk and Straubel came up with a charade. At a site near Reno, Nevada, they set up lights and sent in bulldozers to start preparing for construction. Then Straubel invited his counterpart at Panasonic to join him on a viewing platform to watch the work. The message was clear: Tesla was forging ahead with the factory. Did Panasonic want to be left behind?
+
+It worked. Musk and Straubel were invited to Japan by Panasonic’s new young president Kazuhiro Tsuga. “It was a come-to-Jesus session where we had to make him truly commit that we were going to build the insane Gigafactory together,” Straubel says.
+
+The dinner was a formal, multicourse affair at a traditional low-table Japanese restaurant. Straubel was fearful about how Musk would behave. “Elon can be so much hell and brimstone in meetings and just unpredictable as all get out,” he says. “But I’ve also seen him flip a switch and suddenly be this incredibly effective, charismatic, high-emotional-intelligence business person, when he has to do it.” At the Panasonic dinner, the charming Musk appeared. He sketched out his vision for moving the world to electric vehicles and why the two companies should do it together. “I was mildly shocked and impressed, because, whoa, this is not like how Elon usually was on other days,” says Straubel. “He’s a person who’s all over the map, and you don’t know what he’s going to say or do. And then, all of a sudden, he pulls it all together.”
+
+At the dinner, Tsuga agreed to be a 40 percent partner in the Gigafactory. When asked why Panasonic decided to do the deal, he replied, “We are too conservative. We are a ninety-five-year-old company. We have to change. We have to use some of Elon’s thinking.”
+
+
+
+
+

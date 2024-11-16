@@ -1,0 +1,168 @@
+59：Starship Surge：SpaceX, July 2021
+
+
+
+
+Andy Krebs
+
+
+
+Lucas Hughes
+
+
+
+A Starship being stacked by the Mechazilla arms
+
+
+
+
+
+Mechazilla
+
+
+X, then fifteen months old, toddled on top of the white Starbase conference table in Boca Chica, opening and shutting his outstretched arms. He was mimicking the animation on the screen showing the arms of the Boca Chica launchpad tower. The first three words he had learned to speak were “rocket,” “car,” and “daddy.” Now he was practicing a new one: “chopsticks.” His father paid little attention, and the other five engineers in the room that night were practiced in pretending not to be distracted by him.
+
+The story of the chopsticks had begun eight months earlier, at the end of 2020, when the SpaceX team was discussing the landing legs being planned for Starship. Musk’s guiding principle was rapid reusability, which he often declared was “the holy grail for making humans a space-faring civilization.” In other words, rockets should be like airplanes. They should take off, land, and then take off again as soon as possible.
+
+The Falcon 9 had become the world’s only rapidly reusable rocket. During 2020, Falcon boosters had landed safely twenty-three times, coming down upright on landing legs. The video feeds of the fiery yet gentle landings still made Musk leap from his chair. Nevertheless, he was not enamored with the landing legs being planned for Starship’s booster. They added weight, thus cutting the size of the payloads the booster could lift.
+
+“Why don’t we try to use the tower to catch it?” he asked. He was referring to the tower that holds the rocket on the launchpad. Musk had already come up with the idea of using that tower to stack the rocket; it had a set of arms that could pick up the first-stage booster, place it on the launch mount, then pick up the second-stage spacecraft, and place it atop the booster. Now he was suggesting that these arms could also be used to catch the booster when it returned to Earth.
+
+It was a wild idea, and there was a lot of consternation in the room. “If the booster comes back down to the tower and crashes into it, you can’t launch the next rocket for a long time,” Bill Riley says. “But we agreed to study different ways to do it.”
+
+A few weeks later, just after Christmas 2020, the team gathered to brainstorm. Most engineers argued against trying to use the tower to catch the booster. The stacking arms were already dangerously complex. After more than an hour of argument, a consensus was forming to stick with the old idea of putting landing legs on the booster. But Stephen Harlow, the vehicle engineering director, kept arguing for the more audacious approach. “We have this tower, so why not try to use it?”
+
+After another hour of debate, Musk stepped in. “Harlow, you’re on board with this plan,” he said. “So why don’t you be in charge of it?”
+
+As soon as he made the decision, Musk switched into silly-humor mode. He began laughing about the scene in The Karate Kid where the karate master, Mr. Miyagi, uses a pair of chopsticks to catch a fly. The tower arms, Musk said, would be called the chopsticks, and he dubbed the whole tower “Mechazilla.” He celebrated with a tweet: “We’re going to try to catch the booster with the launch tower arm!” When asked by a follower why he didn’t just use landing legs, Musk responded, “Legs would certainly work, but the best part is no part.”
+
+On a hot Wednesday afternoon in late July 2021, the final segment of Mechazilla with the movable chopstick arms was put in place at the Boca Chica launch site. When his team showed him an animation of the device, Musk got excited. “Kick ass!” he shouted. “The viewership on this one is going to be huge.” He found a two-minute clip from The Karate Kid and tweeted it out from his iPhone. “SpaceX will try to catch largest ever flying object with robot chopsticks,” he said. “Success is not guaranteed, but excitement is!”
+
+
+
+
+
+The surge
+
+
+“We need to stack the ship on the booster,” Musk told the impromptu meeting of a hundred workers gathered in a semicircle in one of the three hangar-like tents in Boca Chica. It was a brutally sunny day in July 2021, and he was focused on getting FAA approval for Starship to fly. The best way, he decided, was to stack the booster and the second-stage ship on the launchpad to show that they were ready. “That will force the regulators to get off their butts,” he said. “There will be public pressure getting them to move to approval.”
+
+It was a somewhat pointless but typical Musk move. Starship, as it turned out, would not be ready to fly until April 2023, another twenty-one months away. But creating a maniacal sense of urgency would, he hoped, light a fire under everyone, including the regulators, the workers, and even himself.
+
+For the next few hours, he lumbered along the assembly lines, his hairless arms swinging, his neck slightly bent, pausing occasionally to stare at something in silence. Increasingly, his face got darker, and his pauses took on an ominous feel. By 9 p.m., a full moon had arisen out of the ocean, and it seemed to be transforming him into a man possessed.
+
+I had seen Musk get into this demon-mode temperament before, so I sensed what it portended. As often happens—at least two or three times a year in a major way—a compulsion was swelling inside him to order up a surge, an all-in burst of round-the-clock activity, like he had done at the Nevada battery factory, the Fremont car-assembly plant, and the autonomous-driving team offices, and would later do in the crazed month after he bought Twitter. The goal was to shake things up and “extrude shit out of the system,” as he put it.
+
+The storm clouds building in his head burst when he and a group of his top managers went down the road to the launchpad site and didn’t see anybody working. This might not have seemed unusual to most people on a late Friday night, but Musk erupted. His immediate target was a tall, mild-mannered civil engineer named Andy Krebs, who was in charge of building the infrastructure at Starbase. “Why is no one working?” Musk demanded.
+
+Unfortunately for Krebs, it was the first time in three weeks he didn’t have a full night shift working on the tower and launchpad. Soft-spoken with a hint of a stutter, he was tentative in his answers, which didn’t help. “What is the fucking problem?” Musk demanded. “I want to see activity.”
+
+That’s when he ordered the surge. Starship’s booster and second stage, he said, should be rolled out of the manufacturing bays and stacked on the launchpad within ten days. He wanted five hundred workers from around SpaceX—Cape Canaveral, Los Angeles, Seattle—to be flown immediately to Boca Chica and thrown into the breach. “This is not a volunteer organization,” he said. “We are not selling Girl Scout cookies. Get them here now.” When he called Gwynne Shotwell, who was in bed in Los Angeles, to figure out what workers and supervisors would come to Boca Chica, she protested that the engineers at the Cape still had Falcon 9 launches to prepare for. Musk ordered them delayed. The surge was his priority.
+
+Shortly after 1 a.m., Musk sent out an email titled “Starship Surge” to all SpaceX employees. “Anyone who is not working on other obviously critical path projects at SpaceX should shift immediately to work on the first Starship orbit,” he wrote. “Please fly, drive, or get here by any means possible.”
+
+At Cape Canaveral, Kiko Dontchev, who won his spurs when Musk ignited a similar frenzy after seeing almost no one working on Pad 39A one night, began rousing his best workers to fly to Texas. Musk’s assistant Jehn Balajadia tried to get hotel rooms in nearby Brownsville, but most were booked for a border-control convention, so she scrambled to make arrangements for workers to sleep on air mattresses. Sam Patel worked through the night figuring out the reporting and supervising structures they would put in place—and also how to get enough food to Boca Chica to feed everyone.
+
+By the time Musk got back from the launchpad to the Starbase main building, the video monitor by the front door had been reprogrammed. It read, “Ship+Rocket Stacked T –196h 44m 23s,” and was counting down the seconds. Balajadia explained that Musk does not let them round off into days or even hours. Every second counted. “We need to get to Mars before I die,” he said. “There’s no forcing function for getting us to Mars other than us, and sometimes that means me.”
+
+The surge was successful. In just over ten days, the booster and spacecraft of Starship were stacked on the launchpad. It was also a bit pointless. The rocket was not yet capable of flying, and stacking it did not force the FAA to rush its approval. But the ginned-up crisis pushed the team to remain hardcore, and it provided Musk with a bit of the drama that his headspace craves. “I feel renewed faith in the future of humanity,” he said that evening. Another storm had passed.
+
+
+
+
+
+Raptor costs
+
+
+A few weeks after the surge, Musk turned his attention to Raptor, the engine that would power Starship. Fueled by supercooled liquid methane and liquid oxygen, it had more than twice the thrust of the Falcon 9’s Merlin engine. This meant that Starship would have more thrust than any other rocket in history.
+
+But the Raptor engine would not get humanity to Mars simply by being powerful. It would also have to be manufactured by the hundreds at a reasonable cost. Each Starship would need about forty of them, and Musk envisioned a fleet of scores of Starships. Raptor was too complex to be mass-manufactured. It looked like a spaghetti bush. So in August 2021, Musk fired the person in charge of its design and personally took on the title of vice president for propulsion. His goal was to get the cost of each engine to around $200,000, a tenth of what it then cost.
+
+Gwynne Shotwell and the SpaceX CFO, Bret Johnsen, arranged a small meeting one afternoon with the person in the finance department in charge of overseeing Raptor costs. In walked a studious-looking young financial analyst named Lucas Hughes, whose slightly preppy appearance was mitigated by his hair being scrunched into a ponytail. He had never directly interacted with Musk and wasn’t even sure Musk knew his name. So he was nervous.
+
+Musk began with his lecture on collegiality. “I want to be super clear,” he began. “You are not the friend of the engineers. You are the judge. If you’re popular among the engineers, this is bad. If you don’t step on toes, I will fire you. Is that clear?” Hughes stuttered a bit as he assented.
+
+Ever since he flew back from Russia and calculated the costs of building his own rockets, Musk had deployed what he called the “idiot index.” That was the ratio of the total cost of a component to the cost of its raw materials. Something with a high idiot index—say, a component that cost $1,000 when the aluminum that composed it cost only $100—was likely to have a design that was too complex or a manufacturing process that was too inefficient. As Musk put it, “If the ratio is high, you’re an idiot.”
+
+“What are the best parts in Raptor as judged by the idiot index?” Musk asked.
+
+“I’m not sure,” Hughes responded. “I will find out.” This was not good. Musk’s face hardened, and Shotwell shot me a worried glance.
+
+“You better be fucking sure in the future you know these things off the top of your head,” Musk said. “If you ever come into a meeting and do not know what are the idiot parts, then your resignation will be accepted immediately.” He spoke in a monotone and showed no emotion. “How can you fucking not know what the best and worst parts are?”
+
+“I know the cost chart down to the smallest part,” Hughes said quietly. “I just don’t know the cost of the raw materials of those parts.”
+
+“What are the worst five parts?” Musk demanded. Hughes looked at his computer to see if he could calculate an answer. “NO! Don’t look at your screen,” Musk said. “Just name one. You should know the problematic parts.”
+
+“There’s the half nozzle jacket,” Hughes offered tentatively. “I think it costs thirteen thousand dollars.”
+
+“It’s made of a single piece of steel,” Musk said, now quizzing him. “How much does that material cost?”
+
+“I think a few thousand dollars?” replied Hughes.
+
+Musk knew the answer. “No. It’s just steel. It’s about two hundred bucks. You have very badly failed. If you don’t improve, your resignation will be accepted. This meeting is over. Done.”
+
+
+
+* * *
+
+
+
+When Hughes came into the conference room the next day for a follow-up presentation, Musk showed no sign that he remembered reaming him out. “We are looking at the twenty worst ‘idiot index’ parts,” Hughes began as he pulled up a slide. “There’s definitely some themes.” Other than wringing a pencil, he was able to hide his nervousness. Musk listened quietly and nodded. “It’s mainly the parts that require a lot of high-precision machining, like pumps and fairings,” Hughes continued. “We need to cut out as much of the machining as possible.” Musk started smiling. This had been one of his themes. He asked a few specific questions about the use of copper and the best way to do stamping and hole-punching. It was no longer a quiz or a confrontation. Musk was interested in figuring out the answers.
+
+“We are looking at some of the techniques that automakers use to keep these costs down,” Hughes continued. He also had a slide that showed how they were applying Musk’s algorithm to each of the parts. There were columns that showed what requirements had been questioned, what parts had been deleted, and the name of the specific person in charge of each component.
+
+“We should ask each of them to see if they can get the cost of their part down by eighty percent,” Musk suggested, “and if they can’t, we should consider asking them to step aside if someone else might be able to do so.”
+
+By the end of the meeting, they had a roadmap to get the cost of each engine down from $2 million to $200,000 in twelve months.
+
+After these meetings, I pulled Shotwell aside and asked for her assessment of how Musk had treated Hughes. She cares about the human dimension that Musk ignores. She lowered her voice. “I heard that Lucas lost his first child about seven weeks ago,” she said. “He and his wife had a baby with birth problems who was never able to leave the hospital.” That was why, she felt, Hughes had been flustered and less prepared than usual. Given that Musk had a similar experience when his first baby died, sending him into months of grief, I suggested to Shotwell he should be able to relate. “I still need to tell Elon,” she said.
+
+I didn’t mention this to Musk when I talked to him later that day, because Shotwell told me it was confidential, but I did ask him whether he thought he was too harsh with Hughes. Musk stared a bit blankly, as if he wasn’t sure what I was referring to. After some silence, he answered in the abstract. “I give people hardcore feedback, mostly accurate, and I try not to do it in a way that’s ad hominem,” he says. “I try to criticize the action, not the person. We all make mistakes. What matters is whether a person has a good feedback loop, can seek criticism from others, and can improve. Physics does not care about hurt feelings. It cares about whether you got the rocket right.”
+
+
+
+
+
+The lesson of Lucas
+
+
+A year later, I decided to see what had happened to the two people Musk chewed out in the summer of 2021, Lucas Hughes and Andy Krebs.
+
+Hughes remembered every moment vividly. “He kept coming back at me on the costs of the Raptor’s half nozzle jacket,” he says. “He was correct about what the materials cost, and I couldn’t figure out a way in the moment to explain the other costs in a way that was successful.” When Musk kept interrupting him, Hughes reached back to his training as a gymnast.
+
+He had grown up in Golden, Colorado, with a passion for gymnastics. Starting when he was eight, he began training thirty hours a week. Gymnastics helped him excel academically. “I was very detail oriented, very Type A, very dedicated and disciplined,” he says. At Stanford, he competed in all six of the men’s gymnastic routines, which required training year-round, while majoring in engineering and finance. His favorite course was one called Building the Future with Engineering Materials. When he graduated in 2010, he went to work at Goldman Sachs, but yearned to do something that was closer to real engineering. “I was a space nerd as a kid,” he says, so he sent in an application when he saw that SpaceX had posted a job for a financial analyst. He went to work there in December 2013.
+
+“When Elon was really chewing me out, I focused hard on trying to keep my composure,” he says. “Gymnastics teaches you to stay calm in a high-pressure situation. I was just trying to hold it together and not collapse.”
+
+After the second meeting, when he had all of the “idiot index” data at his fingertips, he never had a problem with Musk. When cost questions came up at subsequent Raptor meetings, Musk would often ask Hughes his thoughts, calling on him by name. Did Musk ever acknowledge that he had reamed him out? “That’s a good question,” Hughes says. “I have no idea. I don’t know if he internalizes those meetings or remembers them. All I know is that, afterwards, he at least knew my name.”
+
+Was he distracted at the first meeting, I asked, because of the death of his infant daughter? He paused for a while, perhaps surprised that I knew about this, then asked me not to mention it in the book. But a week later he emailed, “After talking with my wife, we are comfortable with you sharing the story.” Despite Musk’s belief that all feedback should be impersonal, sometimes things are, in fact, personal. Shotwell understands that. “Gwynne definitely cares a lot about people, which I think at the company is an important role for her to fill,” Hughes says. “Elon cares a lot about humanity, but humanity in more of a very macro sense.”
+
+As someone who spent a dozen years focused on gymnastic training, Hughes appreciated Musk’s all-in mindset. “He’s willing to just throw his entire being at his mission, and that’s what he expects in return,” he says. “That has a good and bad side. You definitely realize that you’re a tool being used to achieve this larger objective, and that’s great. But sometimes, tools get worn down and he feels he can just replace that tool.” Indeed, as he showed when he bought Twitter, Musk does feel that way. He thinks that when people want to prioritize their comfort and leisure they should leave.
+
+That’s what Hughes did in May 2022. “Working for Elon is one of the most exciting things you can do, but it doesn’t allow time for a lot else in your life,” he says. “Sometimes that’s a great trade. If Raptor becomes the most affordable engine ever created and gets us to Mars, then it may be worth the collateral damage. That’s what I believed for more than eight years. But now, especially after the death of our baby, it’s time for me to focus on other things in life.”
+
+
+
+
+
+The lesson of Andy
+
+
+Andy Krebs took the other pill, at least initially. Like Hughes, he is soft-spoken and gentle-natured, with a dimpled chin and big smile, and he’s not as comfortable as Mark Juncosa and Kiko Dontchev at being in the target zone of one of Musk’s exchanges. At one pre-meeting when the team was discussing who would present some unpleasant data about methane leaks, Krebs said that he would be away, at which point Juncosa started flapping his elbows and making chicken sounds. But he is popular with Juncosa and others at Starbase, who thought he handled himself well when Musk trained his fire on him at the launchpad incident that precipitated the surge.
+
+Musk often repeats himself in meetings. Partly it’s for emphasis, partly it’s just a trancelike invocation of a mantra. Krebs learned that one way to reassure him was to parrot back what he said. “He wants to know you’ve listened,” he says. “So I learned to repeat his feedback. If he says the walls should be yellow, I will say, ‘I hear you, this is not successful, we’re going to paint the walls yellow.’ ”
+
+The method worked that night on the launchpad. Even though Musk sometimes seems not to notice how people are reacting, he can be good at determining who can handle tough situations. “I actually thought Krebs was quite self-aware when he messed up,” Musk says. “His feedback loop was good. I can work with people if they have a good critical feedback loop.”
+
+As a result, around midnight on a Friday a few weeks after the surge, Musk called Krebs and gave him additional duties in Boca Chica, including the critical task of getting the propellants into the engines. “He will report to me,” Musk emailed the team. “Please give him your full support.”
+
+One Sunday a few months later, when Starship was again being stacked on the pad, the winds picked up and some of the workers resisted climbing to the top of the tower, where there was still work to be done scraping off coating and securing the proper connections. So Krebs himself climbed up and began doing the work. “I had to make sure all the workers stayed motivated,” he says. Had he done so, I asked, because he was inspired by Musk, who liked being a battlefield general on the front lines, or was it out of fear? “It’s like Machiavelli taught,” Krebs replied. “You have to have fear and love for the leader. Both.”
+
+That attitude would sustain Krebs for another two years. But by Spring 2023, he would become another refugee from Musk’s hardcore all-in approach. After getting married and having a child, he decided it was time to move on and find a better work-life balance.
+
+
+
+
+

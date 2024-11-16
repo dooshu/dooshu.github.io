@@ -1,0 +1,181 @@
+The Logic of Collective Action：Public Goods and the Theory of Groups - Mancur Olson
+
+
+
+
+
+Second printing with new preface and appendix (Mancur Olson) (Z-Library)
+
+
+
+
+
+
+
+
+
+
+PUBLIC GOODS AND THE THEORY Of GROUPS
+
+MANCUR OlSON
+
+
+
+
+
+
+Harvard Economic Studies
+
+Volume CXXIV
+
+
+
+
+
+
+
+
+
+
+
+
+
+The studies in this series are published
+by the Department of Economics of Harvard University. The Department does not assume responsibility for the views expressed.
+
+
+
+
+THE LOGIC OF COLLECTIVE ACTION
+Public Goods and the
+Theory of Groups
+
+
+
+MANCUR OLSON
+
+
+
+
+
+
+
+Harvard University Press Cambridge Massachusetts London England
+
+
+
+
+
+
+
+
+C Copyright 1965 and 1971 by the President and Fellows of Harvard College
+
+
+All rights reserved
+
+
+Twentieth printing, 2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Library of Congress Catalog Card Number 65-19826
+ISBN 0-674-53751-3
+
+Printed in the United States of America
+
+
+
+
+
+
+
+
+
+
+
+
+FOR ALISON
+
+
+
+
+
+
+
+Preface, 1971
+
+
+Since both the hardcover and paperback editions of this book are being reprinted at about the same time, this is a good occasion to consider making changes. It would be possible to amend the argument of the book, to add several ideas that have occurred to me since it was written, and to consider related work others have recently done. But I have decided against any such major revision. There has been no change in my views to justify rewriting the present text. Some of the ideas I would add to any new edition have already appeared in articles. It would take too long to deal adequately with what others have written. Accordingly, what I have done instead is to prepare a short Appendix. It provides any interested reader a guide to the articles I have done on the subject of this book and discusses an intriguing idea for further work that commentators on the book have proposed. This Appendix begins on page 169.
+Though the memory of most favors fades in a short time, that
+has not been the case with my gratitude to the critics who helped me when the book was being written. I often have occasion to see that the reaction to the book would have been less generous (or more reserved) had early drafts not been criticized so well. The critic who was most helpful of all was Thomas Schelling of Harvard University. Though neither he nor my other critics are responsible for the faults of the book, much of whatever use it has had is due particularly to his criticisms. Edward C. Banfield and Otto Eekstein also criticized this study most helpfully when it was a draft of a Ph.D. thesis at Harvard. When the undertaking was in the prospectus stage, I benefited greatly from the criticisms of Samuel Beer, John Kenneth Galbraith, Carl Kaysen, and Talcott Parsons. As I began to revise the thesis for publication, I received uncommonly helpful comments from Alan Holmans, Dale Jorgenson, John Kain, Douglas Keare, Richard Lester, and George von Furstenberg. Also,
+
+viii	Preface
+at various stages in the process of making this book, William Baumol, David Bayley, Arthur Benavie, James Buchanan, Edward Claiborn, Aldrich Finegan, Louis Fourt, Gerald Garvey, Mohammed Guessous, W. E. Hamilton, Wolfram Hanrieder, Stanley Kelley, Roland McKean, Richard Musgrave, Robert Reichardt, Jerome Rothenberg, Craig Stubblebine, Gordon Tullock, Alan Williams, and Richard Zeckhauser made notable and constructive criticisms. Finally, I hope the dedication to my wife indicates how much I appreciate her help and encouragement. In addition to all of the other things she has done for me and for our three children, she helped with both the style and substance of this book.
+I am also thankful that Professor F. A. von Hayek took the initiative in arranging for the translation of this book into German and in contributing a foreword to the German translation.
+
+My work on this book was generously supported by the Social Science Research Council, the Shinner Foundation, and the Center for International Studies at Princeton University. I am also thankful to the Brookings Institution, whose hospitality greatly furthered my work on this and on a previous book.
+Mancur Olson
+Department of Economics University of Maryland College Park, Maryland
+
+
+
+
+
+
+
+
+
+
+
+
+THE	LOGIC	OF COLLECTIVE	ACTION
+
+
+
+
+Introduction
+
+It is often taken for granted, at least where economic objectives are involved, that groups of individual$ with common interests usually attempt to further those common interests. Groups of individuals with common interests are expected to act on behalf of their common interests much as single individuals are often expected to act on behalf of their personal interests. This opinion about group behavior is frequently found not only in popular discussions but also in scholarly writings. Many economists of diverse methodological and ideological traditions have implicitly or explicitly accepted it. This view has, for example, been important in many theories of labor unions, in Marxian theories of class action, in concepts of "countervailing power," and in various discussions of economic institutions. It has, in ad'dition, occupied a prominent place in political science, at least in the United States, where the study of pressure groups has been dominated by a celebrated "group theory" based on the idea that groups will act when necessary to further their common or group goals. Finally, it has played a significant role in many wellknown sociological studies.
+
+The view that groups act to serve their interests presumably is based upon the assumption that the individuals in groups act out of self-interest. If the individuals in a group altruistically disregarded their personal welfare, it would not be very likely that collectively they would seek some selfish common or group objective. Such altruism, is, however, considered exceptional, and self-interested behavior is usually thought to be the rule, at least when economic issues are at stake; no one is surprised when individual businessmen seek higher profits, when individual workers seek higher wages, or when individual consumers seek lower prices. The idea that groups tend to act in support of their group interests is supposed to follow logically from this widely accepted premise of rational, self-interested behavior. In other words, if the members of some group have a common interest or objective, and if they would all be better off if tnat objective were achieved, it has been thought to follow logically that the individuals in that group would, if they were rational and self-interested, act to achieve that objective.
+But it is not in fact true that the idea that groups will act in their
+
+2	The Logic of Collective Action
+self-interest follows logically from the premise of rational and selfinterested behavior. It does not follow, because all of the individuals in a group would gain if they achieved their group objective, that they would act to achieve that objective, even if they were all rational and self-interested. Indeed, unless the number of individuals in a group is quite small, or unless there is coercion or some other special device to make individuals act in their common interest, rational, self-interested individuals will not act to achieve their common or group interests. In other words, even if all of the individuals in a large group are rational and self-interested, and would gain if, as a group, they acted to achieve their common interest or objective, they will still not voluntarily act to achieve that common or group interest. The notion that groups of individuals will act to achieve their common or group interests, far from being a logical implication of the assumption that the individuals in a group will rationally further their individual interests, is in fact inconsistent with that assumption. This inconsistency will be explained in the following chapter.
+If the members of a large group rationally seek to maximize their
+personal welfare, they will not act to advance their common or group objectives unless there is coercion to force them to do so, or unless some separate incentive, distinct from the achievement of the common or group interest, is offered to the members of the group individually on the condition that they help bear the costs or burdens involved in the achievement of the group objectives. Nor will such large groups form organizations to further their common goals in the absence of the coercion or the separate incentives just mentioned. These points hold true even when there is unanimous agreement in a group about the common good and the methods of achieving it.
+
+The widespread view, common throughout the social sciences, that groups tend to further their interests, is accordingly unjustified, at least when it is based, as it usually is, on the (sometimes implicit) assumption that groups act in their self-interest because individuals do. There is paradoxically the logical possibility that groups composed of either altruistic individuals or irrational individuals may sometimes act in their common or group interests. But, as later, empirical parts of this study will attempt to show, this logical possibility is usually of no practical importance. Thus the customary view that groups of individuals with common interests tend to further those common interests appears to have little if any merit.
+
+Introduction	3
+
+None of the statements made above fully applies to small groups, for the situation in small groups is much more complicated. In small groups there may very well be some voluntary action in support of the common purposes of the individuals in the group, but in most cases this action will cease before it reaches the optimal level for the members of the group as a whole. In the sharing of the costs of efforts to achieve a common goal in small groups, there is however a surprising tendency for the "exploitation" of the great by the small.
+
+The proofs of all of the logical statements that have been made above are contained in Chapter I, which develops a logical or theoretical explanation of certain aspects of group and organizational behavior. Chapter II examines the implications of this analysis for groups of different size, and illustrates the conclusion that in many cases small groups are more efficient and viable than large ones. Chapter III considers the implications of the argument for labor U[lions, and draws the conclusion that some form of compulsory membership is, in most circumstances, indispensable to union survival. The fourth chapter uses the approach developed in this study to examine Marx's theory of social classes and to analyze the theories of the state developed by some other economists. The fifth analyzes the "group theory" used by many political scientists in the light of the logic elaborated in this study, and argues that that theory as usually understood is logically inconsistent. The final chapter develops a new theory of pressure groups which is consistent with the logical relationships outlined in the first chapter, and which suggests that the membership and power of large pressure-group organizations does not derive from their lobbying achievements, but is rather a byproduct of their other activities.
+
+Though I am an economist, and the tools of analysis used in this book are drawn from economic theory, the conclusions of the study are as relevant to the sociologist and the political scientist as they are to the economist. I have, therefore, avoided using the diagrammaticmathematical language of economics whenever feasible. Unfortunately, many noneconomists will find one or two brief parts of the first chapter expressed in an obscure and uncongenial way, but all of the rest of the book should be perfectly clear. whatever the reader's disciplinary background.
+
+
+
+
+

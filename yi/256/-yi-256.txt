@@ -1,0 +1,243 @@
+随机生存的智慧 - 严冬冬译
+
+
+
+
+
+[美] 纳西姆·尼古拉斯·塔勒布 著
+
+
+
+
+
+严冬冬 译
+
+
+
+
+
+中信出版社
+
+
+
+
+
+版权页
+
+
+
+
+图书在版编目（CIP）数据
+
+随机生存的智慧 /（美）塔勒布（Taleb, N. N.）著；严冬冬译. ——北京：中信出版社，2012.7
+
+书名原文：The Bed of Procrustes
+
+ISBN 978–7–5086–3316–9
+
+I. 随… II. ① 塔… ② 严… III. 企业管理：风险管理 IV. F270
+
+中国版本图书馆CIP数据核字（2012）第065875号
+
+The Bed of Procrustes: Philosophical and Practical Aphorisms by Nassim Nicholas Taleb
+
+Copyright 2010 by Nassim Nicholas Taleb
+
+Simplified Chinese translation edition 2012 by China CITIC Press
+
+ALL RIGHTS RESERVED
+
+
+
+
+
+随机生存的智慧
+
+
+
+SUIJI SHENGCUN DE ZHIHUI
+
+著 者：[美] 纳西姆·尼古拉斯·塔勒布
+
+译 者：严冬冬
+
+策划推广：中信出版社（China CITIC Press）
+
+出版发行： 中信出版集团股份有限公司（北京市朝阳区惠新东街甲4号富盛大厦2座 邮编 100029）（CITIC Publishing Group）
+
+字 数：100千字
+
+版 次：2012年7月第1版
+
+京权图字：01–2011–1721 广告经营许可证：京朝工商广字第8087号
+
+书 号：ISBN 978–7–5086–3316–9/ F·2614
+
+定 价：35.00元
+
+
+
+
+
+版权所有·侵权必究
+
+
+
+
+
+普罗克拉斯提斯
+
+
+
+
+在希腊神话中，雅典和执行秘仪的厄琉西斯之间有一个叫做阿第卡的克雷达勒斯的地方，普罗克拉斯提斯是这里一片小庄园的主人。他招待客人的方式非常独特：他会把旅人拐骗到自己的庄园里来，给他们吃一顿丰盛的大餐，然后邀请他们在一张非常特别的床上过夜。他非要让这张床刚好一丝不差地符合客人的身材。如果客人个子太高，他就用锋利的斧子把他们的腿砍断一截；如果客人个子太矮，他就把他们的身体拉长（他的原名应该是达玛斯忒斯，或者普罗珀蒙。“普罗克拉斯提斯”是他的绰号，意思是“拉伸者”）。
+
+
+
+普罗克拉斯提斯最后的下场，可以说是自食其果。英雄忒修斯碰巧路过了这里，他后来会创下在克里特迷宫斩杀牛头怪米诺陶洛斯的伟绩。在吃过例行的丰盛大餐之后，忒修斯迫使普罗克拉斯提斯躺在他自己的床上，结果发现他的个子比床长出了一截。为了让普罗克拉斯提斯符合他自己的标准，忒修斯斩下了他的头颅，就像传奇英雄赫拉克勒斯“以其之道还治其身”的行事方式一样。
+
+在更加邪恶的版本（例如伪阿波罗多洛斯的《神话文库》）中，普罗克拉斯提斯拥有两张床，一张很大，另一张很小。他让矮个子的受害者躺在大床上，高个子的受害者躺在小床上。
+
+这本书中的所有格言在某种意义上都跟“普罗克拉斯提斯之床”有关——遇到我们不了解、不清楚的东西时，我们的解决办法是对我们自己的人生观和世界观进行“拉伸”或者“压缩”，强迫它们符合世俗的、预设的、人为制定的观念、门类和套路。我们自己似乎意识不到这种颠倒了前因后果的做法，就好像裁缝为了让自己做的衣服刚好符合顾客的身材，而拉伸或者截短他们的手脚。例如，很少有人会意识到，我们宁可用药物改变孩子的大脑来让他们跟上学校课程，也不愿调整课程安排来符合孩子的天性。
+
+因为格言一旦解释清楚就失去了魅力，所以我只在这里暗示一下本书的主旨——更进一步的讨论就留到后记中进行吧。这些格言每一条都是独立的，但其内容都围绕着同一个中心思想：面对我们不了解的东西，我们是怎样应对，应该怎样应对。在我的另两本书《黑天鹅》和《随机致富的傻瓜》里，我更加深入地探讨了这一主题。[1]
+
+
+
+
+
+[1]注：我借用“普罗克拉斯提斯之床”这个典故，主要不是为了描述对事物的错误分类，而是选择错误的变量加以更改的行为——就像更改人的身材而不是床的尺寸。注意，我们所谓的“智慧”（伴以技术层面的娴熟）每一次的失败，都可以归结于“普罗克拉斯提斯之床”式的情况。
+
+
+
+
+
+
+前言
+
+
+你最害怕违拗的人乃是你自己。
+
+当你害怕由一个念头引出符合逻辑的结论时，这念头就开始变得有意思了。
+
+制药公司更擅长发明出疾病来接受已有的药物治疗，而不是发明出药物来治疗已有的疾病。
+
+要理解禁欲主义给予人的自由，只要想想看：失去全部财富的痛苦远比失去一半财富要轻。
+
+要让傻瓜破产，给他信息。
+
+学术跟知识的关系，就像卖淫跟爱情的关系一样：表面上看来似乎很接近，但在旁观者看来，其实并不是同一回事。[1]
+
+科学需要你了解世界；商业需要你让别人误解世界。
+
+
+
+我怀疑，之所以他们处死苏格拉底，是因为太过清晰的思考是一件非常不讨人喜欢、非常令人陌生、非常违背人性的事。
+
+教育会让聪明人变得稍微更聪明一些，但却会让傻瓜变得危险很多。
+
+一个创意独特性的最好证据，不是过去没有跟它类似的创意，而是现在有很多跟它相左的创意。
+
+现代社会给我们的双重惩罚是，既让我们衰老得更早，又让我们活得更长。
+
+博学多才的人知道得多，表现出来的少；记者和咨询人士正好相反；绝大多数人都处于这两种情况中间。
+
+你的脑子最聪明的时候，是你不告诉它该做什么的时候——人们偶尔会在洗澡时发现这一点。
+
+如果你的愤怒随着时间逐渐消散，说明你对别人做了不公平的事；如果它随着时间逐渐增加，说明别人对你做了不公平的事。
+
+我不知道，究竟是那些主张“慷慨带来回报”的人意识不到这话的自相矛盾之处，还是他们所谓的“慷慨”只不过是一种巧妙的投机方式。[2]
+
+那些认为宗教是一种“信仰”的人既不了解宗教，也不了解信仰。
+
+
+
+工作会摧毁你的灵魂，方法是在你“不工作”的时候偷偷侵入你的脑海；所以一定要慎重选择职业。
+
+在自然状态下，我们永远不会重复同样的事情。在受到禁锢的状态下（办公室，健身房，上下班路上，体育运动），生活只不过是重复性的疲劳损伤而已，没有任何随机性可言。
+
+把别人的缺乏常识当作借口，这本身就是缺乏常识的表现。
+
+用狭隘的（亚里斯多德式的）逻辑约束自己，跟避免致命的逻辑矛盾，这两者并不是同一回事。
+
+经济学弄不清楚的是，群体（或者说集体）行为远比个体行为难以预料。
+
+不要用长寿、安全和舒适水平的提高来衡量社会的进步；动物园里的动物相比野生动物而言也是这样的。
+
+要是你早晨起床时，就能预测这一天会是什么样子，那你就已经开始靠近死亡了——预测得越准确，你离死亡就越近。
+
+冰与水之间并没有中间状态，但是生与死之间确实有中间状态：雇佣状态。
+
+当你害怕的东西绝大多数都带有令人心痒的冒险性时，你所过的一定是所谓的精准生活。
+
+没人愿意被一眼看透，无论是被别人，还是被自己。
+
+
+
+
+
+PRELUDES
+
+
+The person you are the most afraid to contradict is yourself.
+
+An idea starts to be interesting when you get scared of taking it to its logical conclusion.
+
+Pharmaceutical companies are better at inventing diseases that match existing drugs, rather than inventing drugs to match existing diseases.
+
+To understand the liberating effect of asceticism, consider that losing all your fortune is much less painful than losing only half of it.
+
+To bankrupt a fool, give him information
+
+Academia is to knowledge what prostitution is to love; close enough on the surface but, to the nonsucker, not exactly the same thing.
+
+In science you need to understand the world; in business you need others to misunderstand it.
+
+I suspect that they put Socrates to death because there is something terribly unattractive, alienating, and nonhuman in thinking with too much clarity.
+
+Education makes the wise slightly wiser, but it makes the fool vastly more dangerous.
+
+The test of originality for an idea is not the absence of one single predecessor, but the presence of multiple but incompatible ones.
+
+Modernity's double punishment is to make us both age prematurely and live longer.
+
+An erudite is someone who displays less than he knows; a journalist or consultant, the opposite.
+
+Your brain is most intelligent when you don't instruct it on what to do—— something people who take showers discover on occasion.
+
+If your anger decreases with time, you did injustice; if it increases, you suffered injustice.
+
+I wonder if those who advocate generosity for its rewards notice the inconsistency, or if what they call generosity is an attractive investment strategy.
+
+Those who think religion is about "belief" don't understand religion, and don't understand belief.
+
+Work destroys your soul by stealthily invading your brain during the hours not officially spent working; be selective about professions.
+
+In nature we never repeat the same motion; in captivity (office, gym, commute, sports), life is just repetitive stress injury. No randomness.
+
+Using, as an excuse, others' failure of common sense is in itself a failure of common sense.
+
+Compliance with the straitjacket of narrow (Aristotelian) logic and avoidance of fatal inconsistencies are not the same thing.
+
+Economics cannot digest the idea that the collective (and the aggregate) are disproportionately less predictable than individuals.
+
+Don't talk about "progress" in terms of longevity, safety, or comfort before comparing zoo animals to those in the wilderness.
+
+If you know, in the morning, what your day looks like with any precision, you are a little bit dead——the more precision, the more dead you are.
+
+There is no intermediate state between ice and water but there is one between life and death: employment.
+
+You have a calibrated life when most of what you fear has the titillating prospect of adventure.
+
+Procrastination is the soul rebelling against entrapment.
+
+Nobody wants to be perfectly transparent; not to others, certainly not to himself.
+
+[1]我需要澄清的是，这方面有时也有例外，就好像妓女有时也会爱上嫖客一样。
+
+[2]慷慨之举应该是不追求任何回报的，无论是在经济上、社会上还是感情上。这样的举动应该是义务性的（无条件地履行责任），不是功利性的（追求集体的——甚至是个人的——收获与回报）。“慷慨”的施予会让施予者感到内心温暖，甚至得到了救赎，这并没有问题；然而，这样的举动不应该跟纯粹发自责任感的义务性举动相混淆。
+
+
+
+
+

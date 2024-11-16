@@ -1,0 +1,138 @@
+不应该这样翻译马克思的著作
+
+[272]
+
+
+
+“资本论”第一卷，就问题涉及把它译成外文而论，是公共财产。因此，虽然在英国的社会主义者当中都很清楚地知道，这本书的翻译工作正在进行，并将由马克思遗著受托人负责出版，但是，在这个译本出版以前，如果出现另一个准确的好译本，谁也没有理由反对。
+
+约翰·布罗德豪斯翻译的本卷开头几页的译文刊登在10月份的“今日”杂志上。我肯定地讲：译文远远没有忠实地表达原文，这是因为布罗德豪斯先生完全没有具备一个马克思著作的翻译者应该具备的才能。
+
+翻译这样的著作，只是通晓标准德语是不够的。马克思精于使用日常生活用语和各地方言中的成语；他创造新词，他举例时涉及一切科学部门，他援引十几种文字的书刊；要理解他的著作，必须彻底精通德语——口头语和标准语，另外还要知道一些德国人的生活。
+
+举个例子来说。有一次，几个牛津大学毕业班的学生划着一只四桨小船横渡多维尔海峡。报纸报道说：其中有一个人《catch a crab》 ［注：直译是：“捉住了一只螃蟹”；转意是：“桨入水过深而难举”。——编者注］。“科伦日报”驻伦敦记者照字面上理解了这句话，并且老老实实地向自己的报纸报道说，“螃蟹夹住了一个划船人的桨”。如果说，一个在伦敦住过多年的人，遇到他不熟悉的部门的术语，都会犯这样荒唐的粗暴的错误，那末一个只是马马虎虎懂得一点书面德语的人，着手翻译一个最难翻译的德国作家的作品，又会弄出什么结果来呢？而我们的确也将看到，布罗德豪斯先生是一个“捉螃蟹”的头等能手。
+
+但是，在这里，对翻译者还有更多的要求。马克思是当代具有最简洁最有力的风格的作家之一。为了确切地表达这种风格，不仅要精通德语，而且要精通英语。布罗德豪斯先生看来虽然是个相当有才能的新闻工作者，但他所掌握的英语只限于满足一般的写作要求。对于这种目的，他的英语知识足够了，但是，这种英语却不能用来翻译“资本论”。富有表现力的德语应该用富有表现力的英语来表达，必须使用最好的词汇，新创造的德文名词要求创造相应的新的英文名词。但是，布罗德豪斯先生一碰到这些问题，他不仅缺乏词汇，而且缺乏勇气。稍微增加一点他的有限的惯用的词汇，稍微有一点超出英文日常书刊惯用语的新东西，都使他感到可怕。于是他不敢去冒这种异端的危险，而宁愿用他以为不刺耳、但是模糊了作者原意的比较含混的用语来表达难译的德文词，或者，更坏的是，当这样的词一再出现时，他却用许多不同的词来翻译，忘记了一个术语始终都应该用一个意思相同的词来表达。例如，就在第一章的一个标题中，他把Wertgrösse〔 价值量〕译成了《extent of value》，忽略了Grösse〔 量〕是固定的数学名词，意思和《magnitude》这个名词一样，或者是一定的数量，而《extent》除此以外还有很多别的含意。又如，甚至像Arbeitszeit即“劳动时间”［《labourtime》］这样一个简单的新词，他都感到太难办了，他把这个词译成：（1）《time-labour》，这个词的意思是——如果说它有什么意思的话——按照时间付酬的劳动或是“服”一定 期限［time］苦 役［hard labour］的人所付出的劳动；（2）《time of labour》［“劳动的时间”］；（3）《labour-time》［“劳动时间”］；（4）《period of labour》［“劳动期间”］（Arbeitsperiode）——这个名词，马克思在第二卷中指的完全是另外的东西。同时，我们都清楚地知道，劳动时间这个“范畴”是整本书中最基本的“范畴”之一，在不到十页的译文中就把它译成了四种不同的名词，这是决不能宽恕的。
+
+马克思是从分析商品开始的。商品首先是有用的物品；作为有用物的商品既可以从质的方面也可以从量的方面来考察。“每一种这样的物都是许多属性的总和，因此可以在不同的方面有用。发现这些不同的方面，从而发现物的多种使用方式，是 历史的事业。为有用物的量找到 社会尺度，也是这样。商品尺度之所以不同，一部分是由于被计量的物的性质不同，一部分是约定俗成的。” ［注：“资本论”1883年第三版第一卷中这一段话的德文原文如下：《Jedes solches Ding ist ein Ganzes vieler Eigenschaften und kann daher nach verschiedenen Seiten nützlich sein．Diese verschiedenen Seiten und daher die mannigfachen Gebrauchsweisen der Dinge zu entdecken ist geschichtliche Tat．So ist die Findung gesellschaftlicher Masse für die Quantitat der nützlichen Dinge．Die Verschiedenheit der Warenmasse entspringt teils aus der verschiedenen Natur der zu messenden Gegenstände，teils aus Konvention》。
+
+在恩格斯的文章中这段话的英文译文如下：《Any such thing is a whole in itself，the sum of many qualities or properties，and may therefore be useful in different ways．To discover these different ways and therefore the various uses to which a thing may be put，is the act of history．So，too，is the finding and fixing of socially recognised standards of measure for the quantity of useful things．The diversity of the modes of measuring commodities arises partly from the diversity of the nature of the objects to be measured，partly from conven-tion》。——编者注］
+
+布罗德豪斯先生把这段话译成下面这样：
+
+“发现这些不同的方面，从而发现物的多种有用形式，是时间的事情。因此为有用物的量找到社会尺度，也是这样。商品容量之所以不同，一部分是由于不同的性质”［注：布罗德豪斯的译文如下：《To discover these various ways，and consequently the multifarious modes in which an object may be of use，is a work of time．So，consequently，is the finding of the social measure for the quantity of useful things．The diversity in the bulk of commodities arises partly from the different nature》，etc。——编者注］等等。
+
+
+
+按照马克思的说法，找到物的各种有用方面构成历史进步的实质部分，按照布罗德豪斯先生的说法，这只是时间问题。按照马克思的说法，社会尺度的确定也是这样。按照布罗德豪斯先生的说法，“为有用物的量找到社会尺度”还是“时间的事情”；当然，马克思从来没有为这种尺度费过心思。最后，布罗德豪斯错误地把Ｍａβｅ（ 尺度）和Ｍａｓｓｅ（ 容量）混为一谈，从而把不知什么时候捉住的一只头号“螃蟹”送给了马克思。
+
+往下马克思说道：“ 不论财富的社会形式〈实现占有和分配的特殊占有制形式〉 如何，使用价值总是构成财富的物质内容。” ［注：这句话的德文原文如下：《Gebrauchswerte bilden den stofflichen Inhalt des Reichtums，welches immer seine gesellschaftliche Form sei》．
+
+在恩格斯的文章中这句话的英文译文如下：《Use-values form the material out of which wealth is made up，whatever may be the social form of that wealth》。——编者注］布罗德豪斯先生译为：
+
+“使用价值构成财富的真实基础，这种基础始终是使用价值的社会形式。”［注：布罗德豪斯的译文如下：《Use values constitute the actual basis of wealth which is always their social form》。——编者注］
+
+
+
+这不是自恃过高的鄙俗，就是彻头彻尾的荒唐。
+
+商品的第二个方面是它的交换价值。一切商品都可以按照一定的不断改变的比例互相交换，即一切商品都有交换价值，——这个事实说明，这些商品含有种共同的东西。我不谈布罗德豪斯先生在这里翻译马克思这本书的一个最细致的分析时所采取的轻率态度，我径直谈谈该书中下面这个地方，马克思在这个地方说：“这种共同东西不可能是商品的几何的、物理的、化学的或其他的天然属性。商品的物体属性只是在它们使商品有用，从而使商品成为使用价值的时候，才加以考虑。”他接着说：“另一方面，商品交换 关系的 明显特点，正在于 把商品的使用价值抽象掉。在商品 交换关系中，只要比例 适当，一种使用价值就和其他任何一种使用价值完全相等。” ［注：这段话的德文原文如下：《Dies gemeinsame kann nicht eine geometrische，physikalische，chemische oder sonstige natürliche Eigenschaft der Waren sein．Ihre körperlichen Eigenschaften kommen überhaupt nur in Betracht，soweit selbe sie nutzbar machen，also zu Gebrauchswerten．Andrerseits aber ist es gerade die Abstraktion von ihren Gebrauchswerten，was das Austauschverhältnis der Waren augenscheinlich charakterisiert．Innerhalb desselben gilt ein Gebrauchswert grade so viel wie jeder andre，wenn er nur in gehöriger Proportion vorhanden ist》。
+
+在恩格斯的文章中这段话的英文译文如下：《This something common to all commodities cannot be a geometrical，physical，chemical or other natural property．In fact their material properties come into consideration only in so far as they make them useful，that is，in so far as they turn them into use-values．But it is the very act of mak-ing abstraction from their use-values which evidently is the characteristic point of the exchange-relation of commodities．Within this relation，one use-value is equivalent to any other，so long as it is provided in sufficient proportion》。——编者注］
+
+而布罗德豪斯先生译为：
+
+“但是，另一方面，商品交换比例的特点，显然正是这些被抽出的使用价值。只要比例相同，一种使用价值本身就和另一种使用价值完全相等。”［注：布罗德豪斯的译文如下：《But on the other hand，it is precisely these use-values in the abstract which apparently characterise the exchange-ratio of the commodities．In itself，one use-value is worth just as much as another if it exists in the same proportion》。——编者注］
+
+
+
+这样一来，布罗德豪斯先生——我们暂且撇开他的较小的误译不谈——就强迫马克思说出与他实际上讲的恰恰相反的话来。马克思认为，商品交换关系的特点是下面这个事实：把商品的使用价值完全抽象掉，商品被看做是根本没有使用价值的东西。而马克思著作的翻译者则强迫马克思说：交换 比例（这里根本谈不到这个）的特点正是商品的使用价值，只不过是“被抽出的”罢了！而往下隔了几行，他的笔下就出现了马克思的这样一句话：“作为使用价值，商品首先有质的差别；作为交换价值，商品只能有量的差别，因而 不包含任何一个使用价值的原子”，不管它是抽象的使用价值还是具体的使用价值。我们有理由问：“你懂不懂你读的东西？”
+
+对这个问题作肯定的回答是不可能的，因为我们看到，布罗德豪斯先生一再重复这种错误的理解。马克思在刚刚提到的那句话后面继续说道：“如果把商品体的使用价值 撇开〈即抽象掉〉， 商品体就只剩下了一个属性，即劳动产品这个属性。可是劳动产品在我们手里也已经起了变化。如果我们把 劳动产品的使用价值抽象掉，那末也就是把那些使 劳动产品成为使用价值的 物质成分和形式抽象掉。” ［注：这段话的德文原文如下：《Sieht man nun vom Gebrauchswert der Warenkörper ab，so bleibt ihnen nur noch eine Eigenschaft，die von Arbeitsprodukten．Jedoch ist uns auch das Arbeitsprodukt bereits in der Hand verwandelt．Abstrahieren wir von seinem Gebrauchswert，so abstrahieren wir auch von den körperlichen Bestandteilen und Formen，die es zum Gebrauchswert machen》。
+
+在恩格斯的文章中这段话的英文译文如下：《Now，if we leave out of consideration》（that is，make abstraction from）《the use-values of the commodities，there remains to them but one property：that of being the products of labour．But even this product of labour has already undergone a change in our hands．If we make abstraction from its use-value，we also make abstraction from the bodily components and forms which make it into a use-value》。——编者注］
+
+布罗德豪斯先生把这段话译成英文后成了这样：
+
+“如果我们把使用价值和商品的实体分开，那就只剩下了〈在哪里？在使用价值中还是在实体中？〉一个属性，即劳动产品这个属性。可是劳动产品在我们手里就大改旧观。如果我们撇开劳动产品而抽出它的使用价值，那末也就是抽出它的使用价值所由构成的本质和形式。”［注：布罗德豪斯的译文如下：《If we separate use-values from the actual material of the commodities，there remains》（where？with the usevalues or with the actual material？）《one property only，that of the product of labour．But the product of labour is already transmuted in our hands．If we abstract from it its use-value，we abstract also the stamina and form which constitute its use-value》。——编者注］
+
+
+
+马克思又说：“在商品的交换 关系本身中，商品的交换价值表现为同它们的使用价值完全无关的东西。如果真正把劳动产品的 使用价值抽象掉，就得到它们的 上面所确定的价值。” ［注：这段话的德文原文如下：《Im Austauschverhältnis der Waren selbst erschien uns ihr Tauschwert als etwas von ihren Gebrauchswerten durchaus unabhangiges．Abstrahiert man nun wirklich vom Gebrauchswert der Arbeitsprodukte，so erhält man ihren Wert wie er eben bestimmt ward》。
+
+在恩格斯的文章中这段话的英文译文如下：《In the exchange-relation of commodities，their exchange-value presented itself to us as something perfectly independent of their use-values．Now，if we actually make abstraction from the use-value of the products of labour，we arrive at theirvalue，as previously determined by us》。——编者注］布罗德豪斯先生把这段话译成这样：
+
+“在商品的交换比例中，商品的交换价值看起来是同它们的使用价值完全无关的东西。如果现在真正撇开劳动产品而抽出使用价值，就得到它们的那时所确定的价值。”［注：布罗德豪斯的译文如下：《In the exchange-ratio of commodities their exchange-value appears to us as something altogether independent of their use-value．If we now in effect abstract the use-value from the labour-products，we have their value as it is then determined》。——编者注］
+
+
+
+毫无疑问，对于布罗德豪斯先生说来，除了从钱柜或金库中取钱这种物理方式的抽法以外，他再也没有听见过任何别的抽法了。但是一个翻译马克思著作的人，把抽象法和减法［abstraction and substraction］等同起来是决不应当的。
+
+再举一个把德文的意思译成英文后变得毫无意思的例子。马克思最细致的分析之一就是揭示劳动的二重性的分析。作为使用价值的创造者的劳动是与作为价值的创造者的劳动不同的特殊性质的劳动。一种是特定种类的劳动，如纺纱、织布、耕地等；另一种是人的生产活动的共同属性，是纺纱、织布、耕地等等所共有的、可以用一个共同的名词“劳动”把这一切包括进去的属性。一种是具体劳动，另一种是抽象劳动。一种是技术意义上的劳动，另一种是经济意义上的劳动。简言之：英文 有能够表示这两种劳动的名词——一个是不同于labour的work；一个是不同于work的labour。马克思做了这个分析之后，接着说道：“起初我们看到，商品是一种二重的东西，即使用价值和交换价值。后来表明，劳动就它表现为价值而论， 也不再具有它作为使用价值的创造者所具有的 那些特征。” ［注：这段话的德文原文如下：《Ursprünglich erschien uns die Ware als ein Zwieschlachtiges，Gebrauchswert und Tauschwert．Später zeigte sich，dass auch die Arbeit，soweit sie in Wert ausgedrückt ist，nicht mehr dieselben Merkmale besitzt，die ihr als Erzeugerin von Gebrauchs-werten zukommen》。
+
+在恩格斯的文章中这段话的英文译文如下：《Originally a commodity presented itself to us as something duplex：Use-value and Exchange-value．Further on we saw that labour，too，as far as it is expressed in value，does no longer possess the same characteristics which belong to it in its capacity as a creator of use-value》。——编者注］布罗德豪斯先生硬要证明，他丝毫也不懂得马克思的分析，他把上面这句话译成这样：
+
+“首先我们看到，商品是使用价值和交换价值的混合物。后来我们看到，劳动就它表现为价值而论，它具有那种属性只是因为它是使用价值的生产者。”［注：布罗德豪斯的译文如下：《We saw the commodity first as a compound of Use-value and Exchange-value．Then we saw that labour，so far as it is expressed in value，only possesses that character so far as it is a generator of use-value》。——编者注］
+
+
+
+马克思说“白”的时候，布罗德豪斯先生看不出为什么他不能译成“黑”。
+
+这个例子就谈到这里吧。我们再举个更滑稽的例子。马克思说：“在市民社会中，流行着一种fictio juris〔 法律上的虚构〕，认为每个人作为商品购买者都具有百科全书般的商品知识。”[273]虽然“市民社会”［Civil Society］纯粹是个英文词，而弗格森的“市民社会史”[274]也出版一百多年了，但布罗德豪斯先生还是觉得这个名词太难办。他把它译成“在普通人中间”［《amongst ordinary peo-ple》］，于是就把这个意思变成了毫无意思的东西。因为正是“普通人”经常苦于不知道自己需要购买的商品的本性和价值而受到小店主的欺骗等等。
+
+使用价值的 生产（Herstellung）被译成“使用价值的 确定［establishing］”。马克思说：“假如能用不多的劳动把 煤变成金钢石，金钢石的价值会低于砖的价值。”布罗德豪斯先生看来不知道金钢石是碳的同素异形体，因此把 煤变成了 焦炭。同样，他把“巴西金钢石矿的总产量” ［注：这句话的德文原文如下：《Gesamtausbeute der brasilischen Diamantgru-ben》。
+
+在恩格斯的文章中这句话的英文译文如下：《Total yield of the Bra-zilian diamond mines》。——编者注］变成了“总产量的 利润总额”。 ［注：布罗德豪斯的译文如下：《The entire profits of the whole yield》。——编者注］“印度的原始公社”在他的笔下成了“ 可敬的［venerable］公社”。马克思说：“每个商品的使用价值都包含着〈ｓｔｅｃｋｔ，这最好译做“生产商品的使用价值时耗费了”〉 一定的有目的的 生产活动或有用劳动。” ［注：这句话的德文原文如下：《In dem Gebrauchswert jeder Ware steckt eine bestimmte zweckmassig produktive Tätigkeit oder nützliche Arbeit》。
+
+在恩格斯的文章中这句话的英文译文如下：《In the use-value of a commodity is contained》（steckt，which has better be translated：For the production of the use-value of a commodity there had been spent）《a certain productive activity，adapted to the peculiar purpose，or a certain useful labour》。——编者注］布罗德豪斯先生则说：
+
+“商品的使用价值包含着一定量的生产力或有用劳动，”［注：布罗德豪斯的译文如下：《In the use-value of a commodity is contained a certain quantity of productive power or useful labour》。——编者注］
+
+
+
+这样一来，就不仅把质变成了量，而且把已经耗费的生产活动变成了应当耗费的生产力。
+
+够了。我本来可以举出十倍以上的例子来证明，布罗德豪斯先生无论在哪一方面都 不是一个能够翻译马克思著作的人，特别是因为他显然根本不了解什么是真正老老实实的科学工作。 ［注：综上所述，可以看到，“资本论”不是一本可以根据合同来翻译的书。这本书的翻译工作正由卓越的翻译家们进行，但是，由于他们不能把自己的全部时间都投入这项工作，所以，耽误了。现在虽然还不能准确地确定出书日期，但是我们可以有把握地说，读者明年定能读到英文版的“资本论”。］
+
+
+
+
+
+写于1885年10月
+
+载于1885年11月“公益”杂志第10期
+
+署名：弗里德里希·恩格斯
+
+原文是英文
+
+俄文译自“公益”杂志志
+
+
+
+
+
+
+
+[272]本文批判地分析了“资本论”第一卷第一章第一节和第二节的一部分（参看“资本论”1963年人民出版社版第2卷第1章）的英译文，译文载于1885年10月“今日”杂志第4卷第22期第429—436页。译文出自社会民主联盟领导人亨·迈·海德门（笔名约翰·布罗德豪斯）之手。在恩格斯写了这篇文章以后，海德门继续在“今日”杂志上发表自己的译文直到1889年5月为止；总共发表了第一卷中的七章和第八章的大部分。由赛·穆尔翻译并经恩格斯审订的“资本论”第一卷的第一个科学的英译本于1887年出版。
+
+“今日”（《To-day》）是英国的一家社会主义派月刊；1883年4月至1889年6月在伦敦出版；1884年7月至1886年，亨·迈·海德门是该杂志的主编。——第266页。
+
+[273]见“马克思恩格斯全集”俄文第2版第23卷第44页。恩格斯在这里把《in der bürger1ichen Gesellschaft》一语译成“在市民社会中”；在1872—1875年由作者亲自校订的“资本论”第一卷法文版中以及在1887年出版的经恩格斯审订的“资本论”第一卷英文版中，则译成“在资产阶级社会中”。——第274页。
+
+[274]亚·弗格森“市民社会史试论”1767年爱丁堡版（A．Ferguson．《An Essay on the History of Civil Society》．Edinburgh1767）。——第274页
+
+
+
+
+
+
+
+
+
+
+
+弗·恩格斯
+
+关于普鲁士农民的历史
+

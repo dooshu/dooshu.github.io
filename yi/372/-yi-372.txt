@@ -1,0 +1,292 @@
+中国士绅：城乡关系论集(费孝通) - 赵旭东、秦志杰译
+
+
+
+
+
+Copyright © Foreign Language Teaching and Research Press 2011
+
+All rights reserved. No part of this publication may be reproduced or distributed by any means, or stored in a database or retrieval system, without the prior written permission of Foreign Language Teaching and Research Press.
+
+本书版权由外语教学与研究出版社独家所有。如未获得该社书面同意，书中任何部分之文字及图片，不得用任何方式抄袭、节录、翻印或存储利用于任何数据库及检索系统等。
+
+Published by Foreign Language Teaching and Research Press
+
+No. 19 Xisanhuan Beilu
+
+Beijing, China 100089
+
+http://www.fltrp.com
+
+
+
+
+
+ 图书在版编目(CIP)数据
+
+中国士绅：城乡关系论集 = China's Gentry: Essays in Rural-Urban Relations: 英汉对照/ 费孝通著； 赵旭东， 秦志杰译.— 北京：外语教学与研究出版社， 2011.1
+
+ISBN 978-7-5135-0602-1
+
+Ⅰ. (1)中…Ⅱ. (1)费… (2)赵… (3)秦…Ⅲ. (1)绅士—研究—中国—古代—英、 汉Ⅳ. (1)D691.71
+
+中国版本图书馆CIP数据核字 (2011) 第015541号
+
+出版人：于春迟
+
+系列策划：吴浩
+
+责任编辑：易璐
+
+装帧设计：视觉共振设计工作室
+
+出版发行：外语教学与研究出版社
+
+社址：北京市西三环北路19号 (100089)
+
+网址：http://www.fltrp.com
+
+版次：2011年3月第1版 2011年3月第1次印刷
+
+书号：ISBN 978-7-5135-0602-1
+
+* * *
+
+制售盗版必究举报查实奖励
+
+版权保护办公室举报电话：(010) 88817519
+
+
+
+
+
+ “博雅双语名家名作”出版说明
+
+1840年鸦片战争以降，在深重的民族危机面前，中华民族精英“放眼看世界”，向世界寻求古老中国走向现代、走向世界的灵丹妙药，涌现出一大批中国主题的经典著述。我们今天阅读这些中文著述的时候，仍然深为字里行间所蕴藏的缜密的考据、深刻的学理、世界的视野和济世的情怀所感动，但往往会忽略：这些著述最初是用英文写就，我们耳熟能详的中文文本是原初英文文本的译本，这些英文作品在海外学术界和文化界同样享有崇高的声誉。
+
+比如，林语堂的My Country and My People（《吾国与吾民》）以幽默风趣的笔调和睿智流畅的语言，将中国人的道德精神、生活情趣和中国社会文化的方方面面娓娓道来，在美国引起巨大反响——林语堂也以其中国主题系列作品赢得世界文坛的尊重，并获得诺贝尔文学奖的提名。再比如，梁思成在抗战的烽火中写就的英文版《图像中国建筑史》文稿（A Pictorial History of Chinese Architecture），经其挚友费慰梅女士（Wilma C. Fairbank）等人多年的奔走和努力，于1984年由麻省理工学院出版社（MIT Press）出版，并获得美国出版联合会颁发的“专业暨学术书籍金奖”。又比如，1939年，费孝通在伦敦政治经济学院的博士论文以Peasant Life in China—A Field Study of Country Life in the Yangtze Valley为名在英国劳特利奇书局（Routledge）出版，后以《江村经济》作为中译本书名——《江村经济》使得靠桑蚕为生的“开弦弓村”获得了世界性的声誉，成为国际社会学界研究中国农村的首选之地。
+
+此外，一些中国主题的经典人文社科作品经海外汉学家和中国学者的如椽译笔，在英语世界也深受读者喜爱。比如，艾恺（Guy S. Alitto）将他1980年用中文访问梁漱溟的《这个世界会好吗——梁漱溟晚年口述》一书译成英文（Has Man a Future? —Dialogues with the Last Confucian），备受海内外读者关注；此类作品还有徐中约英译的梁启超著作《清代学术概论》（Intellectual Trends in the Ch'ing Period）、狄百瑞（W. T. de Bary）英译的黄宗羲著作《明夷待访录》（Waiting for the Dawn: A Plan for the Prince），等等。
+
+有鉴于此，外研社人文社科出版分社推出“博雅双语名家名作”系列。
+
+博雅，乃是该系列的出版立意。博雅教育（Liberal Education）早在古希腊时代就得以提倡，旨在培养具有广博知识和优雅气质的人，提高人文素质，培养健康人格，中国儒家六艺“礼、乐、射、御、书、数”亦有此功用。
+
+双语，乃是该系列的出版形式。英汉双语对照的形式，既同时满足了英语学习者和汉语学习者通过阅读中国主题博雅读物提高英语和汉语能力的需求，又以中英双语思维、构架和写作的形式予后世学人以启迪——维特根斯坦有云：“语言的边界，乃是世界的边界”，诚哉斯言。
+
+名家，乃是该系列的作者群体。涵盖文学、史学、哲学、政治学、经济学、考古学、人类学、建筑学等领域，皆海内外名家一时之选。
+
+名作，乃是该系列的入选标准。系列中的各部作品都是经过时间的积淀、市场的检验和读者的鉴别而呈现的经典，正如卡尔维诺对“经典”的定义：经典并非你正在读的书，而是你正在重读的书。
+
+胡适在《新思潮的意义》（1919年12月1日，《新青年》第7卷第1号）一文中提出了“研究问题、输入学理、整理国故、再造文明”的范式。秉着“记载人类文明、沟通世界文化”的出版理念，我们推出“博雅双语名家名作”系列，既希望能够在中国人创作的和以中国为主题的博雅英文文献领域“整理国故”，亦希望在和平发展、改革开放的新时代为“再造文明”、为“向世界说明中国”略尽绵薄之力。
+
+外语教学与研究出版社
+
+人文社科出版分社
+
+
+
+
+
+ 编者说明
+
+费孝通的英文著作China's Gentry 1953年由美国芝加哥大学出版社出版。该书由芝加哥大学教授罗伯特·雷德菲尔德（Robert Redfield）撰写导论，其夫人玛格丽特·帕克·雷德菲尔德（Margaret Park Redfield）对费先生的英文口述内容作了整理、修改和编辑。2009年12月，北京三联书店出版了由赵旭东、秦志杰翻译的中文版《中国士绅》。
+
+费孝通以中国士绅为主题，恢宏广阔地勾画了农民、士绅、国家之间的结构型态，深入浅出地展现了中国传统乡村社会的权力结构和秩序维持的实践图景，现在看来仍具有重要的借鉴意义。更重要的是，费先生是希望通过这些英文文章，向西方读者表达一个中国人对中国的看法。这也是英汉对照双语版首次在国内推出的重要价值所在。
+
+本版以英文原本与三联译本为基础——原英文版附录的六篇生活史（Life-Histories）并非费先生所作，为初版编者所加，故本书未收录；文中附图系郭光远（James K. Y. Kuo）为英文初版绘制；经译者惠允，本版对译文作了进一步修订，以期在呈现作品英文原貌的同时，便于读者对照阅读，更好地理解这一经典著作个中要义。
+
+外语教学与研究出版社
+
+人文社科出版分社
+
+2011年2月
+
+
+
+
+
+
+
+INTRODUCTION
+
+
+导 论
+
+
+
+
+● I
+
+To Western readers Hsiao-tung Fei is known as the author of a short, illuminating book on life in a Chinese village,[1] of another and more mature work on agriculture and industry in southwestern China,[2] and of a stimulating article[3] on one of the principal themes of the present book: the gentry in Chinese society. In China he is known also as a brilliant teacher, a leader and pioneer in sociological field research, and a man who has written widely, talked much, and acted fearlessly toward the solution of the immense social problems of China. After his return from London, where he took his doctorate under Bronislaw Malinowski, and during the war with Japan he joined those Chinese students and scholars who assembled to continue Chinese scientific and intellectual life in Yunnan Province. It was there that he carried on the studies that resulted in his second book. After the defeat of Japan he went back to teach in his old university, Tsinghua, in Peiping; and there (where I had come in the autumn of 1948 as a visiting professor to the same university) my wife and I resumed an old association with him.
+
+This book is made from articles contributed by Fei to Chinese newspapers in 1947 and 1948. During that autumn of 1948 he dictated to my wife a rough translation of these articles, stopping as he did so to talk over with her the substance of the dictation and in part rewriting and enlarging the text in the course of these discussions. The work was done hastily, with enthusiasm, and in the tense anticipations of the coming of Communist control. For, while the dictation and the rewriting went on, Peiping was ringed by Communist forces, and the fall of the universities and of the city itself was expected within a very short time. In December, 1948, most of the students and many of the faculty of the university looked forward to the coming of the Communists as a relief from hardship and oppression and as new opportunity to apply intelligence to the improvement of social and political conditions in China. There was apprehension too; but, with the abundant knowledge of corruption and tyranny under the Nationalist government, the hope outweighed the apprehension. Fei, always sanguine and courageous, was then of the opinion that he could work effectively with the Communists, even though he would continue to criticize when he thought criticism was due. Like others in his university, he did not conceive the incoming government of Chinese Communists in the image of Stalinist Russia; he thought of them as Chinese like himself, as his old friends and students, whose voices he heard over the Communist radio promising all good things to the people of Peiping. So Fei spoke to us of his hope of becoming, for the Communist government, a part of "the loyal opposition." He had already fallen into the disfavor of both parties. While in Yunnan he had been threatened with arrest by the Nationalist government and was fired upon in a public meeting where he had spoken unfavorably of Chiang's regime; on the other hand, Communist voices in the North had attacked him bitterly for certain articles he had published. On the whole, however, Fei felt that his views as to developing Chinese industry and agriculture would be congenial to the interests of the new regime and that after the transition he would be able to continue to work and to speak for China. In this hope, almost a confidence, the articles here assembled were dictated.
+
+
+
+ ● 一
+
+许多西方读者都知道，费孝通写过一本关于一个中国乡村生活的书[4]，这本书篇幅虽短，但具有启蒙意义；还有一本有关中国西南部工农业方面的更为成熟的著作[5];再有就是涉及本书主题——中国士绅的那篇引人注目的文章[6]。在中国人看来，费先生还是一位睿智的师者、社会学实地研究领域的先驱和带头人，是著述广泛、善于言辞并为解决中国诸多社会问题而勇敢行动的人。他在伦敦获得博士学位，师从马林诺夫斯基。在抗日战争期间，一些中国学生和学者聚集云南，继续从事科学和学术活动，费先生回国后也加入了他们的队伍，他的第二部著作就完成于此地。日本战败后，他回到母校（即位于北平的清华大学）执教，我曾于1948年秋做过清华大学的访问学者，在那里我和夫人与他恢复了旧日的联系。
+
+本书取材于费先生1947年至1948年间发表在中国报纸上的文章。1948年秋，费先生向我夫人翻译并口述了这些文章的大致内容，他不时停下来与我的夫人讨论口述内容的要点，并在讨论中作了某些修改和扩展。在他口述和修改这些文章的时候，共产党军队已经包围了北平。费先生怀着对共产党即将当政的强烈憧憬和满腔热情，仓促完成了这项工作。人们料想共产党将很快占领各所大学和整座城市。1948年12月，清华大学的大部分学生和许多老师都期待着共产党的到来，以求从压抑和痛苦中解脱出来，并认为这是运用聪明才智去改善中国社会和政治条件的新的机会。虽然他们也怀有恐惧，但由于已充分了解国民党政府的腐败和暴虐统治，希望还是战胜了恐惧。一向乐观而勇敢的费先生当时所持的观点是：他可以和共产党人一起有效地工作，不过，当他认为需要进行批评的时候，他会继续批评。但是，像清华大学的其他人一样，他并没有把即将到来的中国共产党的政府想象成斯大林主义俄国式的统治。在他心里，共产党人和自己一样是中国人，是他的老朋友或学生那样的人。他在收音机里听到了共产党向北平市民所作的美好承诺。所以，他告诉我们，他希望成为与共产党政府“忠诚对立”的一部分。他早已不被两党中的任一方所宠爱。在云南的时候，他曾被国民党政府以逮捕相威胁，并在一次公众集会上，因斥责蒋介石的统治而受到攻击。另一方面，北方的共产党也因他出版的某些文章而对他进行猛烈抨击。然而，总的来说，费先生认为他关于发展中国工农业的观点是符合新政权的利益的，在政权更替后，他仍能继续为中国而工作、为中国说话。这里汇集的几篇文章就是他满怀着这一近乎信心的希望口述的。
+
+My wife and I left Peiping in December, 1948, and for more than three years now we have had no word from Fei. From others we have learned of some bare events. At about the time when Peiping fell to the Communists, Mao Tse-tung asked Fei to take charge of a research program with regard to problems of urban reconstruction, and he accepted and began the work. Fei published articles praising the "New Democracy" of China. He accepted membership on governmental boards or committees. Later he went on an expedition to study some of the remote communities of southwestern China—where he had worked during the Japanese war. Later word tells us that he has returned to Tsinghua University.
+
+This book is published without any participation from him in its production since the days when he dictated its substance to my wife. It is evident that he prefers it so. Communication with Westerners would embarrass or endanger him; he does not write to us, and we have ceased to write to him. My wife edited the text she had transcribed, assuming considerable responsibility in changing the order of the parts, in adding references, and even in inserting phrases or whole sentences when she was sure that Fei's meaning would be served by such additions. It is to be emphasized that the book therefore is an expression of Fei's views and judgments as he was about to step over the threshold between revolutionary China and Communist China. It was written when his students (many of whom I knew) moved in an excitement of fresh opportunity to remake their country—and moved without dogma.
+
+我和夫人1948年12月离开北平，至今三年多来我们一直没有费先生的音信。从其他人那里我们仅得到了很有限的消息。听说共产党占领北平后，毛泽东请费先生负责一个有关城市重建问题的研究项目，费先生应允并开始了工作。他发表文章赞扬中国的“新民主”，还加入了政府性质的委员会，成为其中的一员。后来，他奔赴中国西南部——那是他曾在抗日战争期间工作过的地方，在那里从事对某些偏远社区的研究。后来又有消息说，他已重返清华大学了。
+
+自从他向我夫人口述这些文章的主旨后，这本书的形成和出版再也未经他的任何介入。很明显，他是乐于保持这样的状况的。由于与西方人接触会给他带来尴尬和危险，因而我们不再通信。我的夫人对她自己的记录进行了编辑，并且还怀着强烈的责任感对某些部分作了顺序调整，添加了注释，甚至添加了一些短语和句子——因为她相信，这样会使费先生所要表达的意思更明确。需要强调的是，本书表达了费先生将要从革命中国跨进共产主义中国时所持有的观点和看法。当他写这些文章时，他的许多学生（其中很多我都认识）已开始激动不已地并且毫无束缚地投入到重建自己国家的
+
+
+
+ Few of them had read a line of Marx. Most of them saw the Nationalist government as their oppressor, the Communists as their liberaters.
+
+● II
+
+At the time he dictated a translation, Fei wanted the essays to be read by English-speaking people. Like other intelligent people of good will, he wanted China to be understood by Westerners, and he believed that he had something to say about China that was not said in other books. But, when Fei wrote the articles in the first place, he was talking to the Chinese; the present English version does not change that fact. Fei had developed a large audience for his newspaper articles; all sorts of people, mostly people neither peasants nor intellectuals, read and admired what he had to say about the problems of China. These essays, as newspaper articles, had contributed to the extension of a sense of responsibility in the Chinese people themselves to take charge of their own affairs, and to deal with them, for their own good. Thus the book provides for Westerners an unusual and valuable light on China: a Western-educated Chinese, devoted to working to solve problems of China, analyzes some aspects of these problems so as to make them clearer to his countrymen. The essays give a Chinese point of view on China. They are not written to put a good face on things, or a dark face. They are written to help the Chinese to reach understanding of their troubles. Fei is saying to his countrymen: "Look, this is what has happened to us in recent years. This is the real revolution. This is the place where our shoe pinches. Understand; then act." To Americans, accustomed to thinking of China simply as an object of our foreign policy under the assumption that what will happen in China depends on what we do rather than on what the Chinese do, this book gives fresh insight. Problems of China are here looked at by a Chinese as problems for Chinese to solve, and to solve not by taking political sides, not by joining Russia or joining America, but by reform, by Chinese, of Chinese institutions.
+
+Of course only some of the problems of China are considered in this book. Fei examines certain aspects of the traditional social structure and certain changes that have occurred in that structure that make difficulties for China. The changes have taken place chiefly as a result of the influence of the West. The book therefore bears on that social revolution in China which underlies the overthrow of the empire, the revolutionary republican movement led by Sun Yat-sen, and the winning of political control of China by Chinese Communists. The book does help us to understand how Chinese communism won China.
+
+新契机中去了。他们中很少人读过马克思的著作，大多数人把国民党政府看作是压迫者，而把共产党人看作是解放者。
+
+● 二
+
+当费先生口述这些文章的英文译文时，他是希望英语读者去阅读它。像其他具有良好愿望的知识分子一样，他希望中国能被西方读者所理解，并且相信他要讲的是一些其他书中不曾讲到的关于中国的问题。但是，当费先生最初写这些文章时，他是在与中国人对话。这一事实在此英文版本中并没有改变。费先生在报纸上发表的文章有很大的读者群，包括各种各样的人，大多数既非农民也非知识分子。他们都读过费先生讲到的中国社会问题，而且都很欣赏。这些发表在报纸上的文章唤起了中国人的责任感，使他们意识到自己的事情要由自己来解决，从而维护自己的利益。因此，对于西方读者来讲，本书包含有一种关乎中国问题的不同寻常而又价值无比的见解，这是一位受过西方教育的中国人献身于解决中国问题的事业当中，对这些问题的某些方面进行分析，以使他的同胞能够得到更清楚的认识。这些文章表达了一个中国人对中国的看法。这样做并非是在给事物贴上好坏的标签，而是帮助中国人理解他们当下所面临的困境。费先生是在对他的同胞讲：“看，这是近几年来发生在我们身上的事。这是真正的革命。这就是令我们裹足不前的所在，认识它，了解它，然后就可以有所作为。”长期以来，美国人一直认为中国只不过是美国外交政策的一个对象，中国的发展取决于美国人而非中国人怎么做。对于他们来说，这本书无疑体现了一种全新的观点。在本书中，中国人把中国的问题看作是他们自己要解决的问题，而解决这些问题并不能依靠政治上的一边倒——倒向俄罗斯或倒向美国，而要靠改革，要由中国人来改革自己的制度。
+
+当然，本书只涉及了中国的某些问题。费先生研究了传统社会结构的某些方面以及发生在这一结构中的给中国造成困难的某些变化。这些变化的发生主要是西方影响的结果。因此，本书与中国的社会革命有关，它是以君主专制的灭亡、孙中山所领导的民主共和革命运动以及中国共产党夺取政权等历史事件为基础。本书确实可以帮助我们理解中国共产主义运动是如何赢得中国的。
+
+
+
+ ● III
+
+As the essays were written as separate articles, the threads of common idea which hold them together are not so apparent as they might be. There are two interrelated themes: the functions of the scholar and the gentry in the traditional Chinese society and the relations of the country and the city. The first theme is uppermost in the first four essays. The gentry and the scholars must be discussed together, for the scholars were chiefly (but not entirely) derived from the gentry, and the gentry carried on their functions and enjoyed their social position by virtue of the fact that some of them were scholars. The scholars were an elite; the gentry, a social and economic class. The first essay shows how the scholars, by becoming administrative servants of the imperial power, obtained security for themselves and kinsmen. In the second essay we find an account of the history of the development of this adjustment and of how the scholars reflected upon the relationship they had come to have with the centralized authority and how they explained and justified it in their philosophies. The third essay turns on the question why China experienced no important technical development. The scholars, or intellectuals, are now examined from the point of view of the exclusive concern they had with ethical knowledge: the intellectuals had no technical knowledge; they were supported by the labor of others and were unconcerned with productive work. So the governing class lacked the kind of knowledge which would have improved the material condition of the people. In the fourth essay, as in the first two, the point of attention is the function of the scholar-official in mediating the imperial power. But now the attention is directed to that educated member of the gentry who, remaining in the local community, negotiated, in a personal and extralegal way, with the formally recognized functionary who occupied the lowest position in the official bureaucracy. This critical function, exercised by the scholar-gentry, made the imperial power workable, while yet maintaining the traditional social organization of the village. This essay develops into a discussion of the pao-chia system (at that time recently reintroduced by the Kuomintang and later abolished by the Communists) by which it was sought to make the central authority directly influential upon the local community and shows why it was doomed to failure.
+
+● 三
+
+由于这些文章独立成篇，其共同主题并非显而易见。文中有两条相互交错的线索：其一是传统社会中文人和士绅的作用，其二是乡村和城市之间的关系。前四篇文章主要讲第一个主题。文人和士绅要相提并论，因为文人大部分（并非全部）来自士绅，而士绅也靠他们中的某些人是文人而发挥作用和享受社会地位。文人是精英，而士绅属于社会经济阶层。第一篇文章讲述文人如何通过做官来为他们自己以及亲属赢得安全。第二篇文章描述了从文人到官员的这种调整的发展历史和文人如何看待他们与集权统治的关系以及如何以他们自己的哲学来对此加以解释和论证。第三篇文章转向了为什么中国没有经历重要的技术发展这一问题。在这里是从他们对于规范知识的独特关注的视角上而对文人或者说是知识分子作了考察。知识分子毫无技术知识，他们依靠别人的劳动，对生产活动毫不关心。所以统治阶级缺乏那种能够增进人民的物质条件的知识。与第一、第二篇文章一样，第四篇文章的关注点是士大夫在帝国的权力中作为中介的功能。但是现在的注意力指向了士绅中受过教育的人，他们仍住在地方社区当中，以私人的以及法律以外的方式，同那些正式承认的、在官府中担任最低职位的官吏打交道。文人士绅发挥的这种关键作用，使得皇权统治得以施行，并且维护了村庄的传统社会组织。这篇文章继而进一步讨论了保甲制度（该制度当时刚被国民党重新提出，后来又被共产党所废除），以此探求中央权威如何对地方社区施加直接影响，并要表明这样的做法为什么注定要失败。
+
+In the fifth essay there is apparently a new beginning; Fei here takes up not the administrative relations but the economic relations between country and city. The scholar-gentry are not so apparent; but they are here just the same. For, while Fei is telling us that the economic relationship between city and country works to the disadvantage of the country, because the city lives off the country by taking rent and interest from the countryman without sending to the country the products it needs and could consume, we must remember that it is these same gentry who are pocketing the rent and interest and increasingly using the money to buy Western-made products instead of Chinese-made goods. Fei distinguishes several types of towns and cities and shows how each type served the interests of the gentry (and also those of the imperial power) and did not bring advantage to the peasants. Garrison town, market town, and treaty port—all provided opportunities for the economic exploitation of the country. Thus the peasant came to pay a large part of the products of this labor to maintain the gentry class, while the gentry, coming to prefer Western goods, no longer bought the products of rural handicraft and so ruined the small manufacturing which provided the peasant with a little margin over the barest subsistence.
+
+The sixth essay develops this theme of the unsatisfactory character of the exchange between city and country and the worsening of the situation since the introduction of products manufactured in the West. And the seventh essay continues the consideration of the dislocations of the old social and economic system brought about by the influence of the West, while it returns to the theme of the scholar and his functions in Chinese society. In these last pages we see that the modern intellectual, the man educated in Western learning, does not take the place of the old intelligentsia. He does not go back to the country where he has no social position and no career. He stays in the city; so from the country is eroded away some of its best human resources. And some of the rural people, becoming poorer than ever, are also detached from the rural community and become predatory rovers or—as ever in China—rebels against the government. So only a few years before the Communists began to purge by shooting, and before the fighting in Korea, this series of essays ends, a diagnosis of immense problems, a declaration of hope that the Communists would provide leadership toward solving them.
+
+
+
+ 第五篇文章显然是一个新的起点。费先生在这里不再继续探讨城乡之间的行政关系，而是论述了城乡之间的经济关系。这里没有明确提及文人士绅关系，但实际上都是存在的。费先生告诉我们说，城乡之间的经济关系给乡村带来不利影响，因为城市靠从乡村收取地租和利息而生存，但却不把乡民们所需要的以及所能够消费得起的产品提供给他们。此时我们必须记住，正是这些士绅把地租和利息装进自己的口袋，并且不断地去购买由西方而不是中国制造出来的商品。费先生把城镇分成几类，指出每一类是如何仅仅满足士绅（和皇权势力）的利益而不给乡村带来任何好处的。衙门围墙式的城、集镇以及通商口岸，都为从经济上剥削乡村提供了机会。因此，乡民们的劳动产品中很大一部分是用来供养士绅阶层，但士绅们不再购买农村的手工业产品，却转而青睐洋货，这样便毁灭了能给乡民勉强糊口的生活带来些许改善的小手工业。
+
+第六篇文章进一步论述了城乡交换的不尽如人意以及引进洋货后这一情形的进一步恶化。第七篇文章继续论及西方影响给中国陈旧的社会经济制度造成的混乱，最后又回到文人及其在中国社会中的作用这一问题上来。在最后的这些篇幅里我们注意到，受过西方教育的现代知识分子并没有取代旧知识分子。他们没有回到既无社会地位又无事业可谈的乡村中去，而是留在城市里，因此乡村流失了一些最优秀的人力资源。一些乡民变得越来越贫困，他们脱离了乡村群体而成为流浪的强盗，或者是像中国过去一再出现过的那样，成为叛乱分子。这一系列文章收笔于共产党准备开始镇压反革命以及朝鲜战争爆发的前几年。这是一份对中国众多问题的诊断书，是希望共产党能带领人们解决这些问题的一份宣言书。
+
+● IV
+
+To the Westerner the book sheds light on the recent political behavior of China and suggests that the failure of the West to prevent the party and power of Mao Tse-tung from taking control arose out of a worsening situation among the Chinese people which the party of Chiang Kai-shek did not remedy and which many Americans did not understand. Furthermore, it offers a different construction from that which is often put forward as to the benefit so far received by China from the importation of Western technology and capital.
+
+First is borne in upon the reader the unwisdom, in the light of this analysis, of assuming that to the Chinese the central government has traditionally the meaning to Chinese which government has had to Americans and western Europeans. We have dealt with Chinese governments as though the Chinese thought they represented the Chinese people. It might have been nearer the truth if we had begun by assuming that centralized government is, traditionally, a potentially dangerous predator upon the people—"the tiger." With the revolution of Sun Yat-sen appeared governments that promised to act on behalf of the people, limiting their own power constitutionally. However, the credit of this promise, to Chinese, passed in the last decade from the Kuomintang to the Communist party. And the "people's assemblies," the innumerable committees and discussions, stimulated and guided by the Communists, gave Chinese, when the Communists took over, a sense of direct participation in government which they never experienced, and rarely thought was theirs to claim, during the long imperial period.
+
+Second, we understand from what is brought forth in these pages how little prepared have been the Chinese people to assume leadership and carry on constructive and efficient national government. When many of us joined General Marshall in bidding the educated liberals of China to take the lead in constituting a government neither Communist nor corrupt, we did not understand the tradition of which those liberals are the heir. Since the time of Confucius at least, the educated man in China has been concerned with ethical advice (or "normative knowledge," as Fei calls it), not with political action. Indeed, as Fei makes quite plain, especially in the first and fourth essays, sound political policy in China has been to neutralize the political power of the emperor, not to control it. Do-nothingism, he says, has been the equivalent of a constitutional check on government. So the scholar, while being an administrator, had nothing to do with shaping national policy; and administrative effectiveness consisted not in technical efficiency, as in the West, but in skill in such personal negotiations as kept local affairs running not too much disturbed by demands of centralized power. An educated elite with this tradition, without any political power or experience in the formation of policy, separated from the peasantry by mode of life and class position, could hardly be expected to rescue China from the torments of civil war. For the Chinese who has a modern Western education is only the heir of the scholar-official of the long imperial period.
+
+
+
+ ● 四
+
+本书给西方读者阐明了中国近期的政治行为，并指出，西方企图阻止共产党和毛泽东政权上台的失败，是由于蒋介石的国民党没能挽救中国人民于每况愈下的处境，而对于许多美国人来说也未能理解这一危急形势。同时，对于通常认为中国受益于引进西方技术和资本的观点，本书也作出了相反的回答。
+
+依照这一分析，读者首先认识到，如果假设对于中国人来说，传统上中央政府对中国人的意义与政府对美国人和西欧人的意义一样，这是很不智的。我们在与中国政府打交道时，总是假定中国人认为这些政府是代表中国人民的。如果我们一开始就假定，即从传统的意义上说，中央政府对人民而言，通常是潜在的危险的捕食者，是“老虎”，这也许会更接近于真实。随着孙中山的革命运动，出现了代表民众、用宪法限制自身权力的政府。不过，在中国人看来，代表民众的美名在过去的十年中由国民党转移到了共产党身上。由共产党所发动和领导的人民代表大会、不计其数的委员会和讨论，使中国人感受到，自己在共产党掌权后直接参与了政府，这是他们在漫长的帝国时代里从未经历也几乎没敢要求过的。
+
+其次，从这些文章中我们了解到，中国人对于掌握政权、施行建设性和有效的国家统治是何等地准备不足！我们许多人加入马歇尔将军的队伍，呼吁中国受过教育的自由派领导中国，建立起一个既非共产主义的、也非腐化堕落的政府。但是我们并不了解，这些自由派实质是这些传统东西的继承人。至少是从孔子时代开始，中国受过教育的人已经和伦理教条（或者如费先生所称谓的“规范知识”）而非政治行为联系在一起。实际上，正如费先生特别在第一篇与第四篇文章中明确阐述的那样，在中国，良好的政治策略是使皇帝的政治权力自然化，而不是要去控制它。他说，“无为”成为政府体制约束的同义词。因此，作为官员的文人，在制定国家政策上无所事事；行政的效率并非像西方那样体现在技术的效率上，而是体现在为保持地方不过多地受到中央政权的干扰而进行的个人游说的技能上。一个具有这种传统的受过教育的精英，没有任何政治权力或制定政策的经验，从生活方式和阶级地位上脱离了农民身份，我们很难想象这样的人能把中国从内战的混乱中解救出来，因为受过现代西方教育的中国人也只不过是中国漫长的帝国时代的文官的传续。
+
+The ancient system was not based on economic justice, but it worked. It worked to the degree that, except for natural catastrophes and wars, it gave the peasant a certain amount of security. His village handicrafts provided an income supplementary to that provided by his agriculture and used the labor that was not needed in slack seasons of the farmer's year. He had to support the gentry, but the scholar-official of the class he supported was useful to him in negotiating with the representatives of the imperial power to prevent the infliction of extreme hardship; and, if the peasant was both industrious and fortunate, he might live to see his son or grandson become a scholar and an official and so experience elevation in his own status. The teachings of the ancient sages reached the peasants through these scholars and redefined again and again the sense of moral purpose which peasant and gentry had in common. The Confucian non-acquisitive ideal both harmonized the peasant's ethics with his lot in life and acted as a restraint upon an imperial power otherwise without check.
+
+If we call this regime, from a view of its politics, democratic or authoritarian, we are likely in either case to misrepresent the facts. The participation of a good many villagers in decisions as to local matters was hardly an equal participation, and the influence of the gentry on the local life was, through their economic power alone, very great. The authoritarianism of the central government was in cases and at times truly autocratic, yet that regime was in theory based on moral authority rather than force; the teachings of the Confucians made the point again and again; the fact that an ideal other than absolutism existed influenced the facts, just as the ideal of social equality between all men influences the facts in the United States.
+
+Thus the opposition between gentry and peasantry in traditional China was held within bounds by the real economic interdependence of the two classes, by the degree of mobility between them, by the co-operation between the two in dealing with the imperial power, and by common ethical principles. What happened to this system that made in China a genuine social revolution? Fei's book is no systematic study of this question—or of any other—but it does suggest some part of the answer. The changes that occurred in China through contact with the West disrupted this system, made it unworkable, and increased the real or apparent harshness of the inequality of life-changes between gentry and peasantry. Fei assumes but does not discuss the general effects in China of that great awakening of the ill-fed, overworked two-thirds of the human race, who live chiefly in Asia, which is such an immense event of our times: the new and growing discontent of the underdog everywhere. The special effects which he puts to the fore are the importation of goods (rather than of capital) and the new learning. Fei is plainly convinced that the benefits of Western capitalistic development in China did the common people harm rather than good. As the gentry developed tastes for Western goods, while some of them found new sources for wealth in trading with the West, they came to spend their profits realized in rent or interest on Western products. The peasant lost his market for his handicrafts and often found it difficult to move to market any agricultural produce that he might be lucky enough to have left over from his domestic wants. Whether Fei's account can stand without some qualifications or not, the visitor to China in recent years cannot fail to catch some of the bitterness with which many Chinese look upon Shanghai and the other treaty ports, where live the privileged, Chinese or Western, "sucking out the wealth of the Chinese people for their own luxuries." So the war between Nationalists and Communists is seen, against this background, not as a conquest of China by a foreign power or a foreign ideology but as a civil conflict between the traditionally privileged rentier class and the rural population.
+
+
+
+ 古代的体系并非基于经济的公平，但却可行，可行到如果没有自然灾害和战争，农民就可以有一定程度安全感的地步。在农闲季节，多余的劳动力从事手工业可以带来额外收入。他们必须供养士绅，但是在与帝国权力的代表人物交涉以避免厄运时，他们所供养的这一阶层中的文官对他们又是有用的。并且，如果一个农民既勤劳又幸运，他也许能在有生之年看到自己的儿子或孙子成为文人和官吏，那么，他自己的地位也会因此而提高。古代圣人的教导便是通过这些文人来传递给农民的，并且一次又一次重新界定农民和士绅都共同认可的道德目的的意义。孔子“无欲”的理想既调和了农民对于命运的伦理思想，又限制了皇权，否则皇权将毫无节制。
+
+从政治的角度看，如果我们把这种统治叫做民主或独裁，那就可能歪曲了事实。在决定本村的事务时，众多村民的参加几乎并非平等的参与。士绅单单凭借他们在经济上的实力而对当地生活造成的影响就是相当巨大的。中央政府的威权主义有时存在，而且的确十分专制，但这种统治理论上是根基于道德权威而非武力，儒家学说曾多次指出过这一点。正是一种理想而非专制主义的存在这一事实影响到了这些现实，这与在美国人人平等的理想影响到了美国的那些现实是一样的。
+
+因此在传统的中国，士绅和农民的对立局限在一定的范围之内：他们经济上互相依赖；在某种程度上，他们之间可以流动；在同皇权打交道时互相合作；享有共同的伦理概念。那么，这一体制发生了什么而导致了中国一场真正的社会革命？费先生并没有在书中对这一问题或任何其他问题作系统研究，但却的确暗示了部分的答案。中国在与西方接触的过程中发生的变化破坏了这种体制，使其丧失效力，并使士绅和农民之间不平等的生活差异变得更为严重。费先生没有讨论占世界人口三分之二、主要居住在亚洲、食不果腹、过度劳累的人民的伟大觉醒所带来的影响，但对此作了假设。这一觉醒是当今时代的一件大事：无处不在的被压迫者对现实新生的不满与日俱增。费先生将物品（而不是资本）的进口和新学的出现这样的特殊影响看作是首当其冲的。费先生确信，西方资本主义在中国的发展对老百姓有害无利。随着士绅们逐渐培养起对洋货的品味，当他们中的某些人在与西方贸易的过程中发现新的发财之路时，他们便会开始用收取地租和利息得来的钱去购买洋货。农民的手工业品失去了市场，并且通常很难将除自用之外有幸剩下的农产品拿到集市上去出售。无论费先生的描述是否能站得住脚，近几年到过中国的人都不难感受到某些凄凉之处，许多中国人正是带着这种凄凉来看待上海以及其他通商口岸的：在那里居住着享有特权的中国人或洋人，他们“为享受荣华富贵而榨取中国人民的财富”。因此，在这种背景下，国民党和共产党的斗争就不是被看作中国被国外的势力或意识形态所征服，而是来自传统的靠收取地租和利息生存的特权阶层和农民的内部冲突。
+
+And more and more did the sympathies of the Chinese with modern education turn to the rural population and against the rentier class. They came to take hope that the reforms promised by Mao Tse-tung would remove some of the worst of the economic injustices of China. They saw a chance that they could use the special scientific knowledge many of them had acquired in solving the problem of how the city and country might be made mutually beneficial. They attacked the question of how industrialization of China might be wisely carried on, so that the common people might benefit. They began to see how great was their own personal and professional problem: to learn to act politically, to help make public policy in rural communities, and to work with a peasant from whom tradition had separated them.
+
+接受现代教育的中国人，越来越同情农民而反对收取地租的阶层。他们开始寄希望于毛泽东，希望他的改革能祛除某些严重经济不平等现象。他们看到了可以用自己掌握的专门的科学知识去解决城乡互惠互利问题的那种机会。他们着力解决如何巧妙地在中国实施工业化，从而使得普通民众可以受益这一问题。他们开始发现自己个人的和职业上所面对的问题是何等地重要，那就是要学会政治上的行为方式，要帮助制定乡村社区的公共政策，还要与在传统上跟他们分离开来的农民并肩工作。
+
+Hsiao-tung Fei, himself a member of the gentry class, at the time these essays were written was probably the leading voice among those striving to solve the problem of China with the aid of science and toward the common welfare. Through his studies and periods of residence in the West he had come to assume a position, unfamiliar to the traditional intellectual of China, that "something must be done to help." For this he and some few others in China like him were criticized by other intellectuals. Interested in American democracy and in English socialism, convinced that the people of China must assume responsibility for economic and social reform, he turned to the writing of the papers that now appear in this book partly because the suspicious Nationalist Chinese government would not allow him to carry on field research. The essays are in part an indirect criticism of the failures of the Nationalist government. Whether today Fei has the freedom he needs to speak and act in accordance with his convictions is not known to the writer of these lines. But those who know him are sure that he will continue as long as he is able to devote his energies, and to risk his life, to help the Chinese people.
+
+
+
+ ● V
+
+The correctness of Fei's interpretations of the origins of economic and political problems in China may be open to criticism. There are other minds and other books to do this. Another aspect of the book is also open to criticism: the use and interpretation of references to classical Chinese literature. Such references occur especially in the first two essays. To me the correctness of Fei's philological and philosophical understandings is, in the general context of this work, less important than the fact that he used the Chinese classics at all. The old literati had ceased to perpetuate themselves; they are gone forever; Fei's face was turned hopefully to the Communists, whose doctrines he knew to be anti-Confucian and Marxist. Yet Fei, talking to his own people, "the plain people," elaborates and demonstrates his views with etymologies and quotations from the traditional poets and philosophers. Also he quotes Lilienthal, R. H. Tawney, and Sorokin! There is something in these pages that tells us about the forms of thought appropriate to the persuasion of literate Chinese at the turn of the revolutionary tide.
+
+费孝通本人出身于士绅阶层，他所写的这些文章可能是那些想着民众的福利、主张依靠科学解决中国问题的人们的先声。他在西方学习和逗留期间逐渐认识到：“该做点帮忙的事情了。”这一立场对传统中国知识分子来说有些生疏，他同国内另外几个人因此遭到其他知识分子的批判。由于他对美国的民主和英国的社会主义感兴趣，认定中国人要负起经济与社会改革的责任，所以才会写下本书中所收录的文章，这里有一部分原因就是考虑到持怀疑态度的国民党政府可能不允许他去进行实地的田野研究。这些文章实际上委婉地批判了国民党政府的失败。费先生今天是否有依其信念的言行自由，本文作者不得而知，但认识费先生的人都确信，他会尽其可能继续不畏艰险、鞠躬尽瘁地帮助中国人民。
+
+● 五
+
+费先生对中国经济和社会问题的解释的正确性可能会引起批评意见。这是其他人和其他书要做的事了。本书的另外一个方面也许同样会遭到批评，那就是对本书所参考的中国古典文献的运用和解释方面。这些文献尤其在前两篇文章中居多。在我看来，费先生在文献学和哲学方面理解的正确性，从本书的一般脉络上来看，并不及他运用了中国经典这一事实来得重要。古代的文人学士已离我们而去，无法再永垂不朽。费先生转而憧憬共产主义，他深知共产党人的主张与儒家思想相左，他们是坚持马克思主义的。然而他引用古代诗人和哲人的语句来向他的“纯朴的人民”阐明自己的观点。他竟然还引用到了李林塞尔、理查德·亨利·托尼和索罗金！本书的字里行间向我们讲述了在革命浪潮转折时期，合乎中国文人信念的思维方式。
+
+● VI
+
+Fei's seven essays are followed in this volume by six life-histories of Chinese gentry collected by Mr. Yung-teh Chow in Yunnan between 1943 and 1946. Mr. Chow has translated these into English and kindly allowed their inclusion in this book. The accounts seem to us to exhibit, in terms of the life-careers of particular individuals, some of the principal generalizations Fei offers as to the role, partly beneficial, partly predatory, of the traditional Chinese gentry. Further comment on these life-histories appears on pages 145–148.
+
+A Chinese sociologist in this country said to my wife and me: "When a Chinese sociologist writes for Chinese, he writes very differently from the way he writes for Americans." The remark suggests something of the incompleteness with which Western social science and traditional Chinese forms of thought have become fused. It helps to explain, also, why my wife left in the text the many references to Chinese classics which Fei put there and introduced in the footnotes some explanations of some of these references. These references are entirely superfluous to the Sinologist; they are inserted to help readers who are not Sinologists to recognize the sources of some of Fei's allusions.
+
+
+
+ In the cases of Chinese who have written in English and have recorded their names with the surname in last position, we have followed this practice; in other cases we have written the names as the Chinese do: with the surname first.
+
+My wife and I are indebted to Mr. William L. Holland and the Institute of Pacific Relations (which had previously given aid to Fei for his researches on the Chinese gentry) for guidance and encouragement in the course of the preparation of the manuscript; to Professor John K. Fairbank, Dr. Marion J. Levy, Jr., Dr. Derk Bodde, W. Lloyd Warner, and Dr. Sol Tax for their kindness in reading the work and making helpful suggestions; and to Dr. Shu-ching Lee for advice on points of Chinese language or history and in connection with the editing of the life-histories. None of the above, however, has any responsibility for the content or form of the book.
+
+ROBERT REDFIELD
+
+UNIVERSITY OF CHICAGO
+
+May 1952
+
+● 六
+
+本书除了费先生的七篇短论外，接下来是六篇中国士绅的生活史，由周荣德先生于1943年至1946年间在云南搜集整理。周先生已将其译成英文并惠允我加进本书中来。从这些个人生活经历的角度来说，这些描述似乎向我们展示了费先生所概括的传统士绅阶层作用的一些主要性质，其作用大可说是利弊参半。在本书的145页至148页有对这些生活史的进一步评论。［该附录部分非费孝通所作，故未收入本书——编者注］
+
+一位中国社会学家对我和夫人说：“当一位中国社会学家为中国人写作时，他的写作风格与为美国人写作时截然不同。”这一见解暗示了西方的社会科学和中国人的传统思维方式相融合时某种程度的不完全。这也有助于解释为什么我夫人在正文中保留了费先生引用的众多中国古典文献，并在脚注中对其中一部分加以解释说明。这些引用对汉学家来讲完全多余，它们是为了帮助非汉学家的读者去认识费先生某些引述典故的出处。
+
+对于那些曾用英文写作并以英文形式（姓氏在后）注名的中国人的姓名，我们姑且沿用这种形式。其余的名字我们仍按中国人的习惯，即姓氏在前。
+
+在准备本书原稿的过程中，威廉·霍兰德先生和太平洋国际学会（该学会曾为费先生研究中国士绅阶层问题提供帮助）给予了我们指导和鼓励，我和夫人在此深表感激。费正清教授、小马利恩·利维博士、德克·卜德博士、劳埃德·沃纳和索尔·塔克斯博士都阅读了本书，并提出了宝贵建议；李树清博士在汉语语言和中国历史以及生活史编辑工作方面多有建议——我们在此都一并表示感谢。以上诸位对本书的内容和形式不负任何责任。
+
+罗伯特·雷德菲尔德
+
+1952年5月于芝加哥大学
+
+
+
+* * *
+
+
+
+  [1] Peasant Life in China (London: Routledge & Kegan Paul, Ltd.; New York: E. P. Dutton & Co., 1939).
+
+
+
+ [2] Earthbound China (Chicago: University of Chicago Press, 1945; London: Routledge & Kegan Paul, Ltd., 1948).
+
+
+
+ [3] "Peasantry and Gentry: An Interpretation of Chinese Social Structure and Its Changes," American Journal of Sociology, LII, No. 1 (July, 1946), 1–17.
+
+
+
+ [4] 《江村经济——中国农民的生活》，伦敦：劳特里奇与基根·保罗出版有限公司；纽约：杜冬出版公司，1939年。
+
+
+
+ [5] 《被土地束缚的中国》，芝加哥：芝加哥大学出版社，1945年；伦敦：劳特里奇与基根·保罗出版有限公司，1948年。
+
+
+
+ [6] 《农民和士绅——中国社会结构及其变迁的一种解释》，载于《美国社会学学刊》第52卷第1期，1946年7月，1—17页。
+
+
+
+
+

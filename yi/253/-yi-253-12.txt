@@ -1,0 +1,1033 @@
+附註、追記和延伸閱讀
+
+
+寫完這本書，我又有一些額外的讀物和想法要分享，例如神學家認為上帝是強固，還是反脆弱，或者在機率的領域，衡量的歷史是個冤大頭問題。至於進一步的讀物，我避免和以前提過的書重複，尤其是和歸納的哲學問題、「黑天鵝」問題，以及不確定的心理有關者。我成功地將一些數學材料隱藏在文字之中，沒被害怕數學的倫敦編輯亞歷克西斯（Alexis K.）逮到（尤其是在第五冊的註釋中提到脆弱性的定義，以及擇要推導「小就是美」）。網路上有更多相關的技術討論。
+
+
+遺世獨立：自《黑天鵝效應》寫成之後，我閉門獨居一千一百五十天，一年有超過三百天處於寧靜的狀態，極少和外部世界接觸——加上思考非線性和非線性暴露問題長達二十年。所以我可說對機構知識和化妝知識失去耐性。科學和知識是將有說服力和深度嚴謹的論點，帶到它的結論，而不是採用天真的（肯定法）實證主義或浮誇不實的手法。這是我拒絕使用商品化（和詭計多端）的新聞報導式「參考文獻」觀念的原因——所以改用「延伸閱讀」一詞。我整理出來的結果不應該依賴、也沒有依賴單一的論文或結果，除了以否定法戳破真面目之外——這些很具說明力。
+
+
+騙子：我在《國際預測期刊》（International Journal of Forecasting；《黑天鵝效應》的支持性文件之一，可在網路上看到）發表的「第四象限」，以實證方式，利用所有可用的經濟資料，指出厚尾既嚴重又難以處理——因此所有帶「平方」的方法（迴歸、標準差、相關等等），都無法處理社會經濟變數（技術上來說，一萬個資料中，八○％的峰度〔Kurtosis〕可能來自單一的觀察，這表示厚尾的所有量數只是抽樣誤差）。這是很強的否定法陳述：表示我們不能使用共變異數矩陣——它們既不可靠，也不能提供什麼資訊。事實上，光是接受厚尾，就會引導我們到這個結果——不需要實證；不過我還是處理了資料。任何誠實的科學專業都會說：「我們要拿這種證據怎麼辦？」——經濟學和財務學界都忽略了它。所以依據任何科學標準和倫理尺度來說，有一堆騙子存在。許多「諾貝爾獎得主」（恩格爾〔Engle〕、莫頓、史科爾茲、馬可維茨、米勒、薩繆遜、夏普〔Sharpe〕和其他更多）的研究成果植基於這些中心假設，如果不這樣的話，他們所有的研究都會煙消雲散。騙子（和脆弱推手）在機構中的表現很好。這是和倫理有關的問題；見第七冊的註釋。 就我們的目的來說，我忽視了在厚尾的領域中使用迴歸的任何經濟論文——當它們是熱空氣——除了少數例外，例如Pritchet (2001)，因為結果不受厚尾影響。
+
+
+
+
+
+前言與第一冊：反脆弱：導讀
+
+
+
+反脆弱性和深奧：Bar-Yam and Epstein (2004)定義了敏感性、對小刺激出現大反應的可能性，以及強固、對大刺激出現小反應的可能性。事實上，當反應是正面的，這種敏感性很像反脆弱性。
+
+
+與Bar-Yam的私人通信：Yaneer Bar-Yam大方地分享他說的話：「如果我們後退一步，推而廣之考慮分割的系統相對於連結的系統問題，會發現分割的系統比較穩定，連結的系統比較容易受傷害，以及有比較多機會採取集體行動。容易受傷害（脆弱性）是指有連結，卻沒回應。回應會使連結帶來機會。如果我們可以運用集體行動以處理威脅，或者掌握利用機會，那麼容易遭受傷害會因為得到利益而緩和，甚至被利益超越。這是我們所說的敏感性觀念，和你的反脆弱性概念之間的基本關係。」（獲准使用。）
+
+
+達摩克里斯與深奧化：Tainter (1988) 表示，複雜化帶來脆弱性——但是依循非常不同的推理方法。
+
+
+創傷後成長：Bonanno (2004)、Tedeschi and Calhoun (1996)、Calhoun and Tedeschi (2006)、Alter et al. (2007) 、Shah et al. (2007)、Pat-Horenczyk and Brom (2007)。
+
+
+飛機駕駛員把責任推給系統：FAA report: John Lowy, AP, Aug. 29, 2011。
+
+
+盧克萊修效應：《黑天鵝效應》的「後記」中討論的第四象限，以及相關論文的實證證據。
+
+
+最高水位：Kahneman (2011)以非常有見地的Howard Kunreuther之研究，支持他的論點，說：「不管是個人，還是政府的保護性行動，設計的目的通常是為了適用於曾經經歷的最糟災難⋯⋯他們不容易想到更糟的災難畫面。」
+
+
+心理學家與「堅韌」（resilience）：Seery 2011，承蒙Peter Bevelin同意。「但是若干理論和實證證據顯示，面對困難，這樣的經驗也會帶來利益，因為會以更大的堅韌傾向之形式，因應日後的壓力情況。」他們使用堅韌一詞！同樣的，這不是堅韌。
+
+
+丹欽的論文：Danchin et al. (2011)。
+
+
+工程師的錯誤和對安全的後續影響：Petroski (2006)。
+
+
+雜訊與努力：Mehta et al. (2012)。
+
+
+努力與流暢：Shan and Oppenheimer (2007)、Alter et al. (2007)。
+
+
+路障：與Saifedean Ammous談起的觀念。
+
+
+布札第：Una felice sintesi di quell'ultimo capitolo della vita di Buzzati è contenuto nel libro di Lucia Bellaspiga 《Dio che non esisti, ti prego. Dino Buzzati, la fatica di credere》。
+
+
+自知之明：《隨機的致富陷阱》一書提到Daniel Wegner對有意識的意志所產生的錯覺。
+
+
+書籍銷售與反應不好的書評：艾茵．蘭德：Michael Shermer, “The Unlikeliest Cult in History,” Skeptic vol. 2, no. 2, 1993, pp. 74-81。這只是舉例；請不要誤以為本書作者是艾茵．蘭德的書迷。
+
+
+抹黑：德國哲學家Brentano對馬克思發動匿名攻擊。起初指控他掩飾和《資本論》（Das Kapital）觀念完全無關的一些微不足道的事實；Brentano的討論完全偏離中心主題，甚至在死後，恩格斯（Engels）繼續積極辯論，在論文的第三冊序言中為馬克思辯護。
+
+
+從路易十四到拿破崙如何抹黑：Darnton (2010)。
+
+
+沃爾夫定律和骨頭、運動、游泳者的骨礦物質密度：Wolff (1892)、Carbuhn (2010)、Guadaluppe-Grau (2009)、Hallström et al. (2010)、Mudd (2007)、Velez (2008)。
+
+
+混亂之美：Arnheim (1971)。
+
+
+奈米複合材料：Carey et al. (2011)。
+
+
+卡森提與骨頭：感謝Jacques Merab討論和介紹Karsenty；Karsenty (2003, 2012a)、Fukumoto and Martin (2009)；男性的生育力與骨骼，Karsenty (2011, 2012b)。
+
+
+誤將經濟當作鐘錶：Grant (2001) 犯下令人為之氣結的典型錯誤：「社會被視為一具巨大和精巧的鐘錶，一旦發動，就會自動和可預測地運轉。整個系統由力學定律所掌管，組織每一部分的關係。就像牛頓發現的萬有引力定律，管理著自然世界的運動，亞當．斯密發現供給與需求法則，管理著經濟的運動。亞當．斯密在描述社會系統時，以鐘錶和機器為譬喻。」
+
+
+自私基因：「自私基因」是羅伯特．崔佛斯（Robert Trivers）提出的觀念（證據非常令人信服）——卻常被說成是Richard Dawkins提出的——與崔佛斯的私人通訊。真是糟透的故事。
+
+
+丹欽的系統反脆弱性和毒物興奮效應重新定義：丹欽和我寫了回饋模態的論文。Danchin et al. (2011)：「對於暴露在嚴重挑戰中的集合實體的命運來說，我們有可能取得正面的整體結果。在集合裡面，某個實體會表現得極好，以補償其他所有實體的崩解，甚至在沒有受到挑戰的情況下，表現得遠比大部分的實體要好。從這個觀點來看，毒物興奮效應只是對根本情境所做的整體描述，而這些情境是在一群程序、結構或分子的層級上運作，但是我們只注意到整體的正面結果。對活著的有機體來說，這可能是在有機體群、細胞群，或者細胞內分子群的層級上運作。我們這裡探討反脆弱性可以如何在後者的層級上運作，並且注意到它在執行時所展現的特性，令我們想起天擇的命名。尤其是，如果反脆弱性是一種內建的程序，允許若干個別實體在受到挑戰的情況中鶴立雞群，因而改善整體的命運，這會說明收集和利用資訊的程序如何執行。」
+
+
+史帝夫．賈伯斯：「死亡是生命最神奇的發明。它從系統中清除落伍的舊模式。」Beahm (2011)。
+
+
+瑞士的布穀鳥鐘：Orson Welles , The Third Man。
+
+
+布魯諾．萊奧尼（Bruno Leoni）：感謝Alberto Mingardi讓我了解法律強固性的觀念——以及有幸受邀於二○○九年在米蘭發表演說。Leoni (1957, 1991)。
+
+
+大平穩：這是火雞問題。二○○八年開始動亂之前，有個叫班傑明．柏南克的紳士，當時是普林斯頓教授，後來當上美國聯邦準備銀行主席，也是經濟和金融世界最有權勢的人，稱我們看到的那段期間為「大平穩」——因此使我的處境非常尷尬，難以主張脆弱性增加。這就好比宣稱剛在無菌室待了十年的人「十分健康」——這個時候，他最容易受到傷害。
+
+請注意，火雞問題是從羅素的雞演化而來（《黑天鵝效應》）。
+
+
+盧梭：詳《社會契約論》（Contrat Social）。也見Joseph de Maistre, Oeuvres, Éditions Robert Laffont。
+
+
+
+
+
+第二冊：現代化與否定反脆弱性
+
+
+
+城邦國家：支持邁向半自治城市的絕佳論調。Benjamin Barber、Long Now Foundation Lecture (2012)、Khanna (2010)、Glaeser (2011)。市長比總統更會處理垃圾收集的問題——而且比較不可能把我們捲入戰爭。關於黎凡特，也見Mansel (2012)。
+
+
+奧匈帝國：Fejtö (1989)。反事實歷史：Fejtö主張，第一次世界大戰將不會發生。
+
+
+隨機尋寶與石油探勘：Menard and Sharman (1976)，引人爭論的White et al. (1976)、Singer et al. (1981)。
+
+
+政治人士隨機指派：Pluchino et al. (2011)。
+
+
+瑞士：博覽會詳Fossedal and Berkeley (2005)。
+
+
+現代國家：Scott (1998)批評高度現代化國家。
+
+
+黎凡特經濟：Mansel (2012)談城邦國家。經濟歷史，Pamuk (2006)、Issawi (1966, 1988)、von Heyd (1886)。洞見詳Edmond About (About, 1855)。
+
+
+歷史上的城邦國家：Stasavage (2012) 批評以寡頭政治城邦國家作為長期成長的引擎（但是一開始的成長率很高）。不過這篇論文在計量經濟上完全不可信，因為它漏掉了厚尾。問題在於脆弱性和風險管理，不在於化妝成長。除了Weber and Pirenne，支持這個模型的，還有Delong and Schleifer (1993)。見Ogilvie (2011)。
+
+
+扁桃腺切除手術：Bakwin (1945)，Bornstein and Emler (2001) 引用，Freidson (1970) 討論。Avanian and Berwick (1991) 重製。
+
+
+奧爾洛夫：Orlov (2011)。
+
+
+發展的天真干預主義：Easterly (2006) 報告一種綠木材問題：「由於我在不知為何終於繁榮與和平的社會中研究與生活，就認為我懂得更多，能夠為其他的社會規劃繁榮與和平，這實在是一種謬誤。正如我的朋友April說過的，這就好比認為可以派遣賽馬去主持跑道興建工程那樣。」
+
+關於發展的運氣，也請見Easterly et al. (1993)、Easterly and Levine (2003)、Easterly (2001)。
+
+
+中國的飢荒：Meng et al. (2010)。
+
+
+華盛頓之死：Morens (1999)；Wallenborn (1997)。
+
+
+《可蘭經》與醫療傷害：
+
+
+
+
+
+塞梅爾威斯：最不可能想到的參考文獻，見Louis-Ferdinand Céline的博士論文，Gallimard (1999)重印，承蒙Gloria Origgi同意。
+
+
+假穩定：第七章的一些論點，是和馬克．布萊斯在《外交事務》（Foreign Affairs）共同發展出來的，Taleb and Blyth (2011)。
+
+
+瑞典：「經濟菁英自行當家作主的程度高於任何成功的民主政體，」Steinmo (2011)。
+
+
+交通和拆除標示牌：Vanderbilt (2008)。
+
+
+中國的歷史：Eberhard (reprint, 2006)。
+
+
+輕推：他們稱之為現狀偏差（status quo bias），而且有些人希望政府操縱人民擺脫現狀。不錯的主意，除了輕推我們的「專家」根本不是專家之外。
+
+
+拖延與優先試探啟發法：Brandstetter and Gigerenzer (2006)。
+
+
+法國的情形：Robb (2007)。法國的暴動是一種全國運動，Nicolas (2008)。一六八○年到一八○○年間法國的單一民族國家，Bell (2001)。
+
+
+深奧：我們這裡比較感興趣的是對厚尾甚於對其他屬性產生的影響。見Kaufman (1995)、Hilland (1995)、Bar-Yam (2001)、Miller and Page (2007)、Sornette (2004)。
+
+
+深奧與厚尾：這裡不需要栽進數學之中（把這件事留給懂技術的夥伴）；簡單的嚴謹論點可以用最少的字詞，證明厚尾如何從深奧系統的某些屬性出現。重要的數學效應來自隨機變數缺乏獨立，因而阻止它們收斂到高斯盆地（Gaussian basin）。
+
+
+我們來探討從動態避險（dynamic hedging）和投資組合修正而來的效應。
+
+
+Ａ——為何厚尾從槓桿和回饋環而來，單一代理人簡化情況。
+
+
+A1 ［槓桿］——如果某位代理人擁有槓桿Ｌ，因為財富增加（由於他所持有的證券價值上漲）而買進證券，以及在它們的價值下跌時賣出，以維持某種水準的槓桿Ｌ（他的暴露呈現凹性），以及
+
+
+A2 ［回饋效應］——如果證券的價值因為買盤而呈現非線性上漲，以及因為賣盤而使價值下跌，由於違反證券變動的獨立性，中央極限定理（the central limit theorem； CLT）不再成立（沒有收斂到高斯盆地）。所以厚尾是回饋和槓桿的直接結果，因為槓桿水準Ｌ的凹性而惡化。
+
+
+A3——如果回饋效應對規模呈現凹性（賣出十個單位的每單位成本高於賣出一個單位），那麼會出現證券和財富程序的負偏態（negative skewness）（簡單的說，就像投資組合保險的「負伽馬」，代理人有買進的選擇權，卻沒有賣出的選擇權，因此出現負偏態。強迫賣出就像賣出選擇權〔short option〕的避險。）
+
+
+請注意路徑相依（path dependence）會使偏態惡化：更明確的說，如果財富先增加，這會造成更多的風險和偏態。在價格下跌途中遭到軋壓和強迫賣出：市場下跌得比上漲時多（但是比較不常下跌）。
+
+
+Ｂ——多代理人：此外，如果有多於一位的代理人參與，那麼產生的效應會因為某位代理人的動態調整（避險）造成其他人的調整而愈滾愈大，這種情形通稱為「感染」。
+
+
+Ｃ——我們可以概化到任何事情，例如房屋價格會因為過多的流動性等因素，使得房屋買氣增加而上漲。
+
+
+強迫執行的相同一般性觀念加上成本的凹性，使得具有分散式隨機性的系統居於優越地位。
+
+
+提供數字後，風險增加：見定錨（anchoring）方面的文獻（《黑天鵝效應》一書有提到）。也請參考Mary Kate Stimmler的博士論文，Berkeley (2012)，承蒙Phil Tetlock同意。
+
+Stimmler的實驗如下所述。在簡單的情況中，告訴受測者：
+
+供你參考：期初投資（I）獲得報酬率（R），三個月後的總金額（T）計算公式如下：
+
+
+T=I*R
+
+
+
+在複雜的情況中，告訴受測者：
+
+供你參考：期初投資An-1獲得的報酬率為r，三個月後的總金額An計算公式如下：
+
+
+
+
+
+不用說，簡單的狀況和複雜的狀況算出來的數字相同。但是複雜狀況中的人，會去冒比較高的風險。
+
+
+誤解機率衡量：計程車司機和祖母看得一清二楚的事情，到了大學走道上竟然消失無蹤。歷史學家Alfred Crosby在他寫的The Measure of Reality (Crosby, 1997)一書提出下述的命題：西歐和世界其他地方不同之處，在於沉迷於衡量之中，將計性的東西轉換成計量（這句話不能說百分之百正確，因為古人也沉迷於衡量之中，但他們缺少阿拉伯數字去做合適的運算）。他的觀念是說，我們是透過學習，去精確衡量事物——這是科學革命的先聲。他提到第一具機械鐘（將時間量化）、海圖和透視畫（將空間量化）和複式簿記法（將財務帳戶量化）。沉迷於衡量始於正確的地方，卻慢慢侵入錯誤的地方。
+
+
+現在我們的問題，在於這種衡量開始用於衡量錯誤很高的要素上——某些情況中，衡量錯誤無限高（記得前一節提過的福島）。來自平常世界的錯誤微不足道，來自極端世界的錯誤則十分劇烈。當衡量錯誤高得離譜，我們就不應該使用「衡量」一詞。顯然我能「衡量」正在寫這些段落的桌子大小。我能「衡量」溫度的高低。但是我無法「衡量」未來的風險。我也不能「衡量」機率——和這張桌子不一樣的地方，是它無法供我們調查。我們頂多只能用猜測的方式，去估計某樣東西。
+
+
+請注意，Hacking (2006)壓根兒沒想過厚尾！Hald (1998, 2003)、von Plato (1994)、Salsburg (2001)一樣，應該懂得更多的Stigler (1990)也不例外。Bernstein (1996) 介紹我們使用不好的風險模型。Daston (1988) 將機率衡量和啟蒙時期搭上關係。
+
+
+將機率當作計量而非計性結構的觀念，事實上一直困擾著我們。而且「科學」等於「不會有錯的衡量」這個概念——大部分是這樣，但不是每樣東西都如此——會把我們帶到各式各樣的摩擦、誤解和夢想。
+
+
+對機率和懷疑主義的關係了解得很透澈：Franklin (2001)。其他很少哲學家會回頭探討機率的真正問題。
+
+
+第四象限：見《黑天鵝效應》的討論或論文Taleb (1999)。
+
+
+核子，新的風險管理：私人通訊，Atlanta, INPO, Nov. 2011。
+
+
+傳聞軼事知識和證據的力量：有位叫Karl Schluze的讀者寫道：「一位年紀相當大的老師和同事（喝波旁威士忌時）告訴我，『如果砍掉一隻狗的頭，牠還在吠，那你就不必重複做實驗』。」這很容易找到例子：沒有一位律師會引用「N=1」的論點，為某個人辯護，說：「他只殺一次。」沒人認為飛機墜毀是「傳聞軼事」。
+
+我將進一步在N=1充分的地方，提出反證。
+
+
+有時當結果和設想剛好相反，研究工作者的本能反應，是將結果稱為「傳聞軼事」。約翰．葛雷指出兩次世界大戰是史蒂芬．平克（Steven Pinker）所說大平穩（great moderation）故事的相反證據，平克稱葛雷的說法為「傳聞軼事」。根據我的經驗，社會科學家在談到「證據」時，很少人知道自己在講什麼。
+
+
+
+
+
+第三冊：非預測的世界觀
+
+
+
+決策理論家教實務工作者：更侮辱人的是，決策科學家使用「實務」的概念，名稱剛好相反。見Hammond, Keeney, and Raiffa (1999) 試著教我們如何做決策。有一本書正好描述實務工作者如何不採取行動，而是學術界認為實務工作者如何行動：Schon (1983)。
+
+
+好事和壞事的不對稱：李維（Livy）所著Annals (XXX, 21)中寫的Segnius homines bona quam mala sentiunt。
+
+
+斯多噶學派和情緒：和一般人所認為的剛好相反，斯多噶學派不是想將人變成植物那樣沒有情緒，Graver (2007)。
+
+
+經濟成長沒那麼快速：Crafts (1985)、Crafts and Harley (1992)。
+
+
+和搖滾明星偷情：Arnavist and Kirkpatrick (2005)、Griffith et al. (2002)、Townsend et al. (2010)。
+
+
+西默農：“Georges Simenon, profession: rentier,” Nicole de Jassy Le Soir illustré 9 janvier 1958, N°1333, pp. 8-9, 12。
+
+
+達里奧：Bridgewater-Associates-Ray-Dalio-Principles。
+
+
+
+
+
+第四冊：可選擇性、技術與反脆弱的智慧
+
+
+
+目的論
+
+
+亞里士多德和他的影響力：Rashed (2007)，他既是阿拉伯研究專家，也是希臘文化研究者。
+
+
+失敗得十分光榮：Morris (1975)。
+
+
+
+
+
+可選擇性
+
+
+拼裝：Jacob (1977a, 1977b)、Esnault (2001)。
+
+圖三十九
+
+奢侈品和可選擇性。縱軸是機率，橫軸是財富的積分。反脆弱城市：分配不均的變動對非常富有的人產生的影響，在厚尾會以非線性的方式增加：巨富的錢會對分配不均有所反應，而不是對世界上的總財富有所反應。財富離散變動二五％。他們占財富的比率需要乘以將近五十倍。基尼 係數（GINI coefficient）小幅變動○．○一（當分配絕對平均，基尼係數為○，如果一個人擁有全部的財富，基尼係數是一．○○），相當於實質國內生產毛額（Gross Domestic Product）上升八％——就機率分布來說，影響相當顯著。
+
+
+
+
+富者愈富：關於高淨值個人（High Net Worth Individuals； HNWI）的總財富增加，見美林公司（Merrill Lynch）在「世界首富現在比信用緊俏前更加富有」（World's wealthiest people now richer than before the credit crunch），Jill Treanor, The Guardian, June 2012。上圖畫出為什麼這件事和成長、總財富的資訊無關。
+
+
+阿拉伯的駱駝：Lindsay (2005)。
+
+
+不明：Kay (2010)。
+
+
+實質選擇權方面的文獻：Trigeorgis (1993)、Dixit and Pindyck (1994)中的評論、Trigeorgis (1996)、Luehrman (1998)、McGrath (1999)——重點在於可取消和不可取消的投資。
+
+
+轉譯醫學障礙：Wooton (2007)；Arikha (2008b)；現代Contopoulos-Ioannidis et al. (2003, 2008)、評論性Bosco and Watts (2007)。
+
+
+伍頓的批評：Brosco and Watts (2007)。
+
+
+副現象與葛蘭傑因果關係：見Granger (1999)中的評論。
+
+
+教鳥怎麼飛：伊拉斯謨提到一些先例，「教魚怎麼游」。Adages, 2519, III, VI, 19。“Piscem nature doces I'χθὺν νήχεσθαι διδάσκεις, id est piscem nature doces. Perinde est ac si dicas : Doctum doces. Confine illi, quod alibi retulimus : Δελφἶνα νήχεσθαι διδάσκεις, id est Delphinum natare doces.”這樣的表示方法，是Haug and Taleb (2010)首創，張貼於二○○六年，後來寫成一本書，Triana (2009)。我們並不清楚伊拉斯謨的意象，否則就會選用。
+
+
+教育與它對成長和財富的影響：Pritchett (2001)、Wolf (2002)、Chang (2011)。
+
+
+熊彼得的破壞以求進步的觀念：Schumpeter (1942)。哈佛經濟學家批評缺乏技術方法，見McCraw (2007)。
+
+
+業餘愛好者：Bryson (2010)、Kealey (1996)。
+
+
+巴舍利耶、索普和其他人的研究中科學歸因錯誤：Haug and Taleb (2010)。Triana (2009, 2011)中的討論。
+
+
+噴射引擎：Scranton (2006, 2007, 2009)、Gibbert and Scranton (2009)。
+
+
+戳破神經機械學的認識理論：Mindell, 2002。感謝大衛．艾傑頓介紹我去看他的研究。
+
+
+大教堂與理論幾何和公理化幾何：Beaujoan (1973, 1991)、Portet (2002)。沙特爾大教堂建築史參考Ball (2008)。
+
+
+認識基礎與混為一談：認識基礎有點像是ｘ，不是f (x)。Michael Polanyi用一個很好的方法，觀察技術中，ｘ和f (x)之間的不同：我們可以申請一項技術（也就是f (x)）的專利，但不能申請科學知識（也就是ｘ）的專利。見Mokyr (2005)。
+
+
+認識基礎：Mokyr (1999, 2002, 2005, 2009)。Mokyr最大的問題：沒有取得ωC。此外，東方缺乏試誤法的概念（也見有關中國的論點）：見Tetlock in Tetlock et al. (2009)。Mokyr and Meisenzahl的說法不同，認為微觀發明會增進宏觀發明。但是這在知識上仍然很弱。
+
+
+經濟學中的技術認識論：Marglin (1996)，但是傳統並沒有很悠久。
+
+
+李約瑟的中國研究：Winchester (2008)。
+
+
+終身職：Kealey (1996)：「亞當．斯密將英格蘭教授素質每下愈況，歸因於他們的薪水獲得保障和終身職工作（和蘇格蘭的大學比較）。」
+
+
+信仰主義：Popkin (2003)。
+
+
+線性模式：Edgerton (1996a, 1996b, 2004)。艾傑頓指出，這是向後配適的觀念，也就是配適到過去。艾傑頓也寫道：「從現代科學強調非學術起源（黑體是我標示以強調的）的漫長傳統來看，尤其是從工藝的傳統來看，二十世紀科學這種深厚的學術研究取向模式，以及堅持不少科學的歷史和科學的工業情境（從染色到釀造，再到引擎製造）的重要性有關（而且過去二十年來進一步強化），更為叫人驚訝。」
+
+
+凸性偏誤：商品和金融期貨很早就發現了這件事；Burghardt and Hoskins (1994)、Taleb (1997)、Burghardt and Liu (2002)、Burghardt and Panos (2001)、Kirikos and Novak (1997)、Pieterbarg and Renedo (2004)。許多人因為誤解這種效應而栽了大跟頭。
+
+
+察覺與描繪凸性偏誤（ωA）的例子，摘自本書作者的博士論文：我用的方法是找出什麼東西需要動態避險和動態修正。在不被認為屬於狹義的選擇權，但需要動態避險的工具類中，馬上可以想到範圍很廣的一類凸性工具：⑴低息票利率的長天期債券。假設有個不連續的時間架構。B (r,T,C)中，債券到期時間為Ｔ，支付的息票利率為Ｃ，其中rt =∫rs ds。凸性∂2/B∂r2隨著Ｔ而增加，隨著Ｃ而下降。⑵資金籌措和期貨價格相關性極高的合約。⑶計算時有幾何特色的一籃商品。⑷「雙幣種定義」（quanto-defined）合約，是大致上為人忽視的一類資產（報償不是以合約中的本地貨幣計算），例如日本ＮＩＫＥＩ期貨的報償，是以美國貨幣計算。簡言之，雖然以日圓計價的ＮＩＫＥＩ合約屬於線性，美元計價的合約卻屬非線性，需要動態避險。
+
+
+將期初時間訂為t0，最後的狀況為V(S,T) = ST，其中Ｔ是到期日。更簡單的是，剛剛描述的證券是普通遠期期貨，假設呈現線性。這似乎還沒有Ito項。但如果有個期中報償，也就是有個會計期間i/T，變動保證金（variation margin）是以現金支付，那麼就會出現某種複雜性。假設Δ(ti)是投資組合在(ti, ti-1)期間的價值變動，Δ(ti) = (V(S, ti)−V(S, ti-1))。如果變動保證金是在期間ti支付，那麼運算子將必須以期間ti和T之間的遠期利率去借，這裡是r(ti ,T)。這種資金籌措是使V(S,T)和ST的現值相當所必需。有期望值時，我們將必須利用遠期現金流量法，將ti-1到ti會計期間的變動保證金折算成現值。從期間Ｔ來看，變動值成為Et[exp[-r(ti,T)(T-ti)] Δ(ti)]，其中Et是時間ｔ的期望運算子（例如，在風險中性的機率量數之下）。因此，我們是在期間t0期望在期間Ｔ交付一連串未來變動Et0[Σ exp[-r(ti,T)(T-ti)]Δ(ti)]的期望值。但是我們需要利用期間利率（term rate）r(T)折算成現值。前面的方程式成為V(S,T)|t=t0= V[S,t0]+ exp[r(T)]Et0[Σ exp[-r(ti,T)(T-ti)] Δ(ti)]，這和任何遠期利率為隨機時的ST不同。結果（「定理」的禮貌說法）：當遠期折現率r(ti,T)的變異和標的證券ST為嚴格正值，且兩者的相關低於1，V(S,T)|t=t0≠ST。證明：檢視期望運算子的特質。因此：F(S, t0) = F(S,t0+Δt)，而非線性工具將只滿足：E[V(S,t0)]=E[V(S,t0+Δt)]。
+
+
+基萊的批評：Posner (1996)。
+
+
+科技通史：漏掉了凸性偏誤，Basalla (1988)、Stokes (1997)、Geison (1995)。
+
+
+創新的觀念：Berkun (2007)、Latour and Woolfar (1996)、Khosla (2009)、Johnson (2010)。
+
+
+醫療發現與缺乏因果式知識：Morton (2007)、Li (2006)、Le Fanu (2002)、Bohuon and Monneret (2009)。Le Fanu (2002)：「醫生和科學家在不承認，或者事實上沒有認清大自然的神秘扮演如此重要角色的情形下，在現代醫療的進步中居功，或許是可以預料之事。他們相信自己的知識貢獻大於實際、他們的了解多於實際的了解，一點也不叫人驚訝。他們沒有承認技術創新和藥品創新中，實證居於壓倒性的地位，因此不需要深入了解疾病的因果關係或自然歷史，便可能在疾病的治療上取得驚人的突破。」
+
+
+商務呈現凸性：Ridley (2010) 對腓尼基人發表評論；Aubet (2001)。
+
+
+大藥廠的內部人：La Matina (2009)。
+
+
+呈倍數增加的副作用：Tatonetti et al. (2012) 提到低估交互作用：他們只發掘人們同時服用幾種藥物所產生的副作用，這實際上使得副作用大增（他們指出，副作用增加的倍數高達四）。
+
+
+策略規劃：Starbuck et al. (1992, 2008)、Abrahamson and Freedman (2007)。後者歌頌混亂（disorder）和「雜亂」（mess）。
+
+
+創業精神：Elkington and Hartigan (2008)。
+
+
+哈佛商學院教授對小機率懷有病態的誤解：這並非經過實證的聲明，只是好玩而已：舉例來說，一個冤大頭漏掉ωB和ωC，總是往哈佛內部看起。Froot (2001)、Pisano (2006a, 2006b)。Froot：「由於保險公司的經理人以遠高於合理價格購買再保險，他們一定相信這樣的風險管理增添了很大的價值。」他認為自己知道合理價格。
+
+
+勒高夫：Le Goff (1985)：「L'un est un professeur, saisi dans son enseignement, entouré d'élèves, assiégé par les bans, où se presse l'auditoire. L'autre est un savant solitaire, dans son cabinet tranquille, à l'aise au milieu de la pièce où se meuvent librement ses pensées. Ici c'est le tumulte des écoles, la poussière des salles, l'indifférence au décor du labeur collectif,” “Là tout n'est qu'ordre et beauté / Luxe, calme, et volupté.」
+
+
+馬提格隆：Geschlechtsspezifische Unterschiede im Gehirn und mögliche Auswirkungen auf den Mathematikunterricht. Wissenschaftliche Hausarbeit zur Ersten Staatsprüfung für das Lehramt an Realschulen nach der RPO I v. 16.12.1999. Vorgelegt von: Ulmer, Birgit. Erste Staatsprüfung im Anschluss an das Wintersemester 2004/05, Pädagogische Hochschule Ludwigsburg. Studienfach: Mathematik. Dozenten: Prof. Dr. Laura Martignon, Prof. Dr. Otto Ungerer。
+
+
+勒南： Averroès et l'averroïsme, p. 323 (1852)。
+
+
+蘇格拉底：與Mark Vernon (Vernon, 2009) 交談，他相信蘇格拉底比較像胖子東尼。Wakefield (2009) 提供很好的情境。Calder et al. (2002) 描述得或多或少像是至聖先賢。
+
+
+蘇格拉底謬誤：Geach (1966)。
+
+
+認識—技藝：Alexander of Aphrodisias, On Aristotle's Metaphysics, On Aristotle's Prior Analytics 1.1-7, On Aristotle's Topics 1, Quaestiones 2.16-3.15。
+
+
+內隱—外顯知識：Colins (2010)、Polanyi (1958)、Mitchell (2006)。
+
+表十三 「知道如何」相對於「知道什麼」，以及它們的表親
+
+第一型 第二型
+
+知道什麼（know what） 知道如何（know how）
+
+外顯 內隱、默示
+
+證明用的知識 非證明用的知識
+
+認識 技藝
+
+認識基礎 經驗知識
+
+命題式知識 試探啟發法
+
+字面 比喻
+
+定向活動 拼裝
+
+理性主義 經驗主義
+
+學識 實務
+
+數學 工程
+
+歸納性知識，利用亞里士多德的目的論原則 完結篇主義（epilogism；曼諾多圖斯和經驗醫療學派）
+
+因果式史料編纂 歷史是明智的裁判官
+
+診斷 解剖
+
+法律的字義 法律的精神
+
+觀念 慣例
+
+戲局機率，統計教科書 生態不確定，在教科書上不容易處理
+
+理法 神話
+
+福音傳道（宗教中能夠解釋和可以教導的部分） 教條（依宗教的意義來說，指無法解釋的部分）
+
+通俗的神學（阿維羅伊和斯賓諾莎） 玄秘的神學（阿維羅伊和斯賓諾莎）
+
+
+上欄所有的名詞似乎容易聯想在一起。我們可以很容易解釋理性主義、外顯和字面互有關聯。但是下欄的名詞似乎在邏輯上沒有相關。是什麼東西將慣例、拼裝、神話、知道為何和比喻連結起來？是什麼東西將宗教教條和修補連結起來？是有某樣東西將它們串連在一起，但是我無法言簡意賅地解釋，不過，這裡面是有維特根斯坦家族的相似性。
+
+
+李維—史陀：Lévi-Strauss (1962) 談不同形式的智慧。他在一九八○年代接受訪問時，似乎相信未來某一天，「一旦我們懂得事物的理論」，科學很快會讓我們以可接受的精準度做出預測，詳Charbonnier (2010)。Wilken (2010)說明生物學領域的狀況。也見Bourdieu (1972)，從社會學家的角度看類似的問題。
+
+
+進化試探啟發法：這是中心論點，但我隱藏在這裡。總結這個觀點——合併文獻上的說法和本書的觀念：某個活動的進化試探啟發法有下列的屬性： ⒜你不知道自己正在用它， ⒝一代又一代的實務工作者，在非常相同或者相當類似的環境中，已經長期在做這件事，並且反映了某種進化的集體智慧，⒞它沒有代理問題，而且用它的人存活了下來（但是這排除醫生所用的醫療試探啟發法，因為病人可能無法活下來，以及有利於社會所用的集體試探啟發法），⒟它取代了需要數學解法的複雜問題，⒠你只能靠實踐和觀察別人的方式去學習，⒡ 你總是能夠在電腦上做得「更好」，而且在電腦上做得比真實生活中要好。由於某種原因，這些次佳的試探啟發法做得似乎比最好的方法要好，⒢在它發展出來的領域中，允許迅速回饋，意思是說犯下錯誤的人會遭到懲罰，不會得意太久。最後，正如心理學家康尼曼和特佛斯基所說的，在它們形成的領域之外，可能錯得十分可怕。
+
+
+爭論和綠木材問題：詳見Mercier and Sperber (2011)。後蘇格拉底將推理當作尋求真相的工具，這個觀念最近進一步貶值——但是蘇格拉底的討論方法似乎有它的用處，但只有在對話的形式中有用。Mercier and Sperber戳破了我們利用推理以尋求真相的觀念。他們在一項精彩的研究中指出，爭論的目的不是做決定，而是說服別人——因為我們靠推理而做成的決定，充滿很大的扭曲。他們用實驗得到證據說，個人在社會的情境中（有別人需要說服時）形成論點，做得比獨自一人時要好。
+
+
+反啟蒙運動：評論見Sternhell (2010)、McMahon (2001)、Delon (1997)。Horkheimer and Adorno以強而有力的方式，批評現代觀念中的化妝主義和冤大頭陷阱。當然還可以參考約翰．葛雷的研究，尤其是Gray (1998)和Straw Dogs, Gray (2002)。
+
+
+維根斯坦與內隱知識：Pears (2006)。
+
+
+論約瑟夫．德．邁斯特：Companion (2005)。
+
+
+生態、非足球媽媽經濟：Smith (2008)，也請參考和康尼曼一起發表的諾貝爾演說。蓋格連澤更進一步。
+
+
+古老的智慧：Oakeshott (1962, 1975, 1991)。請注意Oakeshott的保守主義意味著接受某種改變率為必要。我倒是覺得，他想要的是有機的改變，不是理性主義的改變。
+
+
+
+
+
+第五冊：非線性與非線性
+
+
+更正式的說，為了彌補來自Taleb and Douady (2012)的圖說，在壓力水準Ｋ和半偏差水準s-(λ)，隨機變數Xλ的局部脆弱性取決於參數λ，pdf f>λ是它的Ｋ左尾半維加敏感度（K-left-tailed semi-vega sensitivity；「維加」是某種波動量數的敏感度），對Ω以下的平均絕對半偏差s-來說，V(X, fλ, K, s-)，其中，
+
+
+
+在壓力水準L = φ (K)和Ｘ的左半偏差水準s-(λ)，Ｙ從Ｘ繼承而得的脆弱性是偏導數。壓力水準和pdf是針對變數Ｙ去定義，但是用於微分的參數是Ｘ的左半絕對偏差。至於反脆弱性，除了低於相同壓力水準Ｋ的強固性，還有Ω以上的翻轉部分。依據轉移定理，Ｙ的脆弱性和二階導數φ(K)有關，並顯示尾部經由移轉函數HK的凸性（凹性或混合非線性）轉換效應。至於反脆弱性，則利用高於Ｋ的積分s+。
+
+
+脆弱性不是心理現象：我們從脆弱性的定義是尾部維加敏感度（tail vega sensitivity）談起，最後帶到非線性是繼承情況中這種脆弱性來源的必要屬性。但是經濟學家和決策科學家有很多文獻，將風險嵌入心理偏好——人們一向稱風險是從風險規避而來，而風險規避是報償「效用」這個混淆概念呈現凹性的不確定之下，選擇結構產生的結果；見Pratt (1964)、Arrow (1965)、Rothschild and Stiglitz (1970, 1971)。但是「效用」除了轉圈子，哪裡也沒去，如同Machina and Rothschild (2008)所說：「風險是風險規避者所討厭的。」事實上，限制風險於規避「選擇的凹性」，是相當不愉快的結果。
+
+
+瓷杯和它的凹性：一個咖啡杯、一棟房子或一座橋梁顯然沒有心理偏好、主觀效用等。但它們對於傷害的反應，都呈現凹性：簡單的說，以z為壓力水準，Π(z) 為傷害函數，足以看出當 n>1，所有滿足條件： 0＜nz＜Z*的n都可成立此算式：Π(n z)＜nΠ(z)，其中 Z*是會使物體碎裂的水準（不必然是指定的水準）。這種分配不均導致Π(z)在初值z，有負二階導數。因此，如果一個咖啡杯受強度Ｚ的壓力因子傷害ｎ次 的程度，低於一次承受壓力因子nZ，那麼傷害（作為負函數）需要在碎裂點之下，對壓力因子呈現凹性 存活機率的結構和有害事件的分布施加了這個限制，和主觀效用或其他某些虛構事物無關。
+
+
+以正面方式擴大規模，城市的凸性：Bettencourt and West (2010, 2011)、West (2011)。城市就像動物那樣，屬於三維項目，而且這些有利的非線性對效率有幫助，可是要考慮交通問題！
+
+
+「更多就是不一樣」：Anderson (1972)。
+
+
+動物的比較脆弱性：Diamond (1988).
+
+
+傅萊傑格及其同事談延誤：Flyvbjerg (2009)、Flyvbjerg and Buzier (2011)。
+
+
+小就是美，浪漫觀點：Dahl and Tufte (1973)、Schumacher (1973) 有摘要，Kohr (1957) 首次證明治理單位大並不好。
+
+
+政府的規模：我找不到有人以凸性效應的方式在思考，連自由意志主義者也沒有——詳見 Kahn (2011)。
+
+
+小國表現得比較好：研究城邦國家治理的傳統相當悠久。我們解讀為政治體系的東西，看起來似乎可能來自規模。證據詳Easterly and Kraay (2000)。
+
+
+脆弱性增加的時代：Zajdenwebber，見《黑天鵝效應》的討論。《經濟學人》雜誌最近又收集一些數字，“Counting the Cost of Calamities,” Jan. 14, 2012。
+
+
+平均數的凸性效應：Jensen (1906)、Van Zwet (1966)。詹森用單調函數處理，Van Zwet 則用凹性—凸性和其他的混合方式處理——但是這些仍然是簡單非線性。Taleb and Douady (2012) 將它用於所有的局部非線性形式。
+
+規模更大的實證紀錄：合併和自負假說（hubris hypothesis）
+
+
+規模更大的實證紀錄：合併和自負假說（hubris hypothesis）：詳Roll (1986)；此後則見Cartwright and Schoenberg (2006)。
+
+
+古歷史的債務：巴比倫慶典，Hudson et al. (2002)。雅典，Harrison (1998)、Finley (1953) 。債務的歷史，Barty-King (1997)、Muldrew (1993)、Glaeser (2001) 。後者採無政府主義者的觀點。他其實相信背負債務之後會出現易貨交換。
+
+
+食物網：Dunne et al. (2002)、Perchey and Dunne (2012)、Valdovinos and Ramos-Jiliberto (2010)。脆弱性與資源，Nasr (2008, 2009)。
+
+
+房利美：它們面對所有重要的變數呈現凹性。歐巴馬政府的委員會中，有個不懂機率和非線性的傢伙，調查危機的成因時，散播謠言，說我只查房利美的利率風險：事實不然。
+
+
+執行成本：「價格衝擊」，也就是執行成本隨著規模而增加；它們傾向於依循平方根而增加——意思是總價格呈現凸性，並以指數3/2成長（意思是說成本是凹性）。但是問題在於像興業銀行那樣的大偏差中，情況會糟得多；交易成本會以愈來愈不精確的方式加快上升——依新的研究傳統，所有這些談價格衝擊的論文，在你需要它們的時候都沒有意義。叫人驚訝的是，班特．傅萊傑格發現類似的效應，但是總價格的凹性程度略低，橋梁和隧道的等比例成本以規模的10 Log[x]速度成長。
+
+
+小就是美，技術方法：要解釋城邦國家、小公司等面對有害的事件，強固性較高的原因，我們以Ｘ作為代表「意外暴露」（unintended exposure）、不確定來源的隨機變數（對興業銀行來說，這是指它沒有看到的部位，對一家公司來說，可能是緊急需要某些存貨等）。假設這種意外傷害的規模和單位的規模成比例——較小的實體進行的交易，比較大的實體要小。我們使用所有意外暴露變數的機率分布∑Xi，其中Xi是獨立隨機變數，並用簡單的切割比例Xi = X/N。以ｋ為尾部振幅，α為尾部指數，π(k, α, X) = αkαx-1-α。意外總部位的Ｎ迴旋帕雷托分布（Pareto distribution）是N ∑ Xi: π(k/N, α, X)N，其中Ｎ是分布的迴旋（convolutions）數。分布的平均值不因Ｎ而變化，為αk/α−1。
+
+
+從忍痛和超支而來的損失：損失函數是C[X] = -bXβ，傷害成本（costs of harm）是Ｘ的凹函數。對小偏差來說，微觀結構和討論執行的文獻中，β取3/2。
+
+
+傷害產生的機率分布：我們對Ｙ的分布感興趣，所以將隨機變數加以轉換。傷害y = C[X]的分布為π[C-1[x]]/C'[C-1[x]]。考慮它呈帕雷托分布，尾部振幅是kβ，尾部指數是α/β，損失可以改寫成，平均值為。現在和數為：Ｎ個實體的迴旋和近分布成為：，平均值（由於相加性）為含有Ｎ變數之函數： 。如果我們根據不同的β/α比率，去檢查尾部的期望損失比率（從N = 1到N = 10），那麼在十個單位中一個單的期望值比率，便能顯示不同的凹性水準下「小就是美」的效應。
+
+
+
+
+
+第六冊：否定法
+
+
+
+減法知識
+
+
+地圖：有位名叫Jean-Louis的讀者，是個地圖繪製者，寫信給我：「身為地圖繪製者，很早以前我就學會，做出好地圖的關鍵，正是在於你選擇不畫進地圖裡面的資訊。我讓不計其數的客戶知道，如果一張地圖太過巨細靡遺和精確，那會讓人眼花撩亂。」
+
+
+伊瑪目阿里：Nahj-el-Balagha, Letter. 31。
+
+
+摩西的神沒有反脆弱性：神——（猶太教、基督教和回教的）亞伯拉罕——摩西的神——代表完全的強固和不謬。請注意和起初的印象恰好相反：完美的精髓在於強固，不是反脆弱。我接到許多人的意見，表示（黎凡特的）神應該放進反脆弱類。根據東地中海的宗教，這將是極為嚴重的錯誤。神具有反脆弱性，或許適用於巴比倫、希臘、敘利亞和埃及的神話。但是黎凡特的一神論，從古閃米特的厄爾（El；或艾爾〔Al〕）到現代的阿拉，或者在比較輕的程度內，聖經地帶（Bible Belt）從創世紀到可蘭經，人們所說的「主」，逐步進展到定義愈來愈抽象的神——因此最接近純強固的定義。一神論的神絕對不脆弱；但祂沒有反脆弱性。根據定義，由於祂極大化的抽象特性，祂無法改善，而這正是完美的特質——只有不完美的凡人才能改善，因此需要反脆弱性，試著去改善。可蘭經中，神的特質之一是Smd，連阿拉伯語中也沒有這個字的同義字，因此無法翻譯；它的意義只能透過不斷地部分描述才能傳達。Smd是已經達到這種完全的程度，不需要依賴外界的情況，也就是不依賴任何事或任何人——這座堡壘經得起各式各樣的攻擊；祂超越了時間的概念。這個觀念也存在於黎凡特的其他系統。正統神學透過神化，尋求與神結合，渴望到達完全的層級，因此而不受其他任何事情左右。
+
+
+宗教禁止的事情：Fourest and Venner (2010) 提出超越各種信念的一張清單。
+
+
+史帝夫．賈伯斯：Beahm (2011)。
+
+
+葛拉威爾：「如果你將他在街道上的十年，所有的醫院帳單加起來——以及濫用藥物的治療成本、醫生的費用和其他的支出——Murray Barr的醫療帳單可能和內華達州的任何人一樣多。『不對Murray做點事情，花掉我們一百萬美元，』O'Bryan說。」Gladwell (2009)。
+
+
+否證與歸納的問題：見《黑天鵝效應》的參考資料。
+
+
+抽菸與整體的醫療效應：Burch (2009)。
+
+
+碎形：Mandelbrot (1983)。
+
+
+艾傑頓的年老震撼：Edgerton (2007)。
+
+
+
+
+
+決策理論中的少即是多
+
+
+
+簡單與史帝夫．賈伯斯：「這是我的密咒之一——專注於簡單。簡單比複雜還要困難：你必須非常賣力釐清你的思緒，讓它變得簡單。但是這麼做，最後是值得的，因為一旦你到達那裡，連山也能移動。」BusinessWeek, May 25,1998。
+
+
+試探啟發法是力量強大——且必要——的捷徑：Gigerenzer and Brighton (2009) 戳破Richard Dawkins所著《自私基因》（The Selfish Gene）中提到和棒球外野手如何接球有關的迷思：「他的行為，就好像解開了預測球所走軌跡的一組微分方程式⋯⋯在某個潛意識層次，有相當於數學計算的某種東西在運作。」
+
+
+不見得如此，Dawkins教授。Gerd Gigerenzer et al. 表示，並沒有做那種事。他們寫道：
+
+
+相反的，實驗顯示球員依賴幾個試探啟發法。凝視試探啟發法是其中最簡單的一個，而且在球已經飛得很高的時候運作：眼睛盯住球，開始跑，並且調整跑步的速度，好讓視角維持一定。依賴凝視試探啟發法的球員，可以忽視計算棒球軌跡需要的所有原因變數（causal variables）——起初的距離、速度、角度、空氣的阻力、風的速度和方向，以及球的轉速等等因素。只要注意一個變數，球員最後就會站在球的落點，不需要計算精確的位置。
+
+動物也使用同樣的試探啟發法，以捕捉獵物和攔截可能的交配目標。蝙蝠、鳥和蜻蜓在追求與掠奪的時候，會在牠們自己和獵物之間保持固定的視角，狗在接飛盤時也一樣。
+
+其他的例子：
+
+雌孔雀選擇配偶時，是使用試探啟發法：牠並沒有調查所有急著吸引牠注意的所有開屏孔雀，或者權衡和加進所有的雄性特徵，以計算最高的期望效用。牠只找三或四隻雄孔雀，選擇眼睛接觸次數最多的那隻。
+
+這和人一樣。另一個例子：
+
+為了在岩石細小的裂縫中，衡量蟻穴的大小，沒有拿碼尺的螞蟻只好靠經驗法則：牠以不規則的路徑，前進一段固定的時間，同時留下費洛蒙，然後離去。回來的時候，再走另一條不規則的路徑，並以遇到舊路徑的頻率，估計蟻穴的大小。這種試探啟發法十分精準。
+
+
+
+其他：Czerlinski and Gigerenzer et al. (1999)、Goldstein and Gigerenzer (1999)、Gigerenzer (2008)。
+
+
+馬克里達吉斯，預測和少即是多：Makridakis et al. (1982, 1993)、Makridakis and Hibon (2000)、Makridakis and Taleb (2009)。試探啟發法：Taleb, Canetti et al. (2012)——和國際貨幣基金員工。
+
+
+
+
+
+林迪效應與相關的主題
+
+
+Mandelbrot (1997)證明了林迪效應。起初他用在藝術品的生產上，受到生產者壽命的限制。在他生命快結束時，我建議以易損╲不易損為界線，他同意不易損呈現冪次法則分布，而易損（林迪原來的故事是這麼說的）只是作為比喻。視我們是否知道起初的時間而定，指數分布剩下的壽命，不管未來的狀況為何，都保持固定，至於冪次法則分布，壽命則會隨著起初的時間後過了多少時間而增加，倍數是 (α/1-α)，其中α是尾部指數；對高斯或半高斯分布來說，壽命則減少。
+
+
+戈特：Gott (1993, 1994) 提出哥白尼的觀念，但沒有設定適當的機率條件；Caves (2000) 修正。見Rees (2003) 的討論，Bostrom (2002)談到悖論。
+
+
+生存論文和分散式特質：冪次法則往往被誤認為是指數分布，因為尾部缺乏資料。所以我用先驗方式，假設指數分布可能是冪次法則分布，但反過來則不如此假設，因為反方向的錯誤非常不可能發生。Pigolotti et al. (2005)。帝國：參考Arbesman (2011)、Khmaladze et al. (2007, 2010)、 Taagepera (1978, 1979)。公司：Fujiwara。也請參考Turchin (2003,2009)。
+
+
+各種分布的條件生存期望時間：Sornette and Knopoff (1997)。他們指出，一個人等地震發生的時間愈久，很奇怪的，預料他們會等得更久。
+
+
+其他的嗜新狂
+
+
+勒．柯比意：Christopher Caldwell, “Revolting High Rises,” New York Times, November 27,2005。
+
+
+凱恩斯與古代的衡量：Cairns (2007)。Yoav Brand引起我注意到他的著作。Yoav Brand在演講之後，很客氣地送我他的書。
+
+
+非目的論設計：建築物如何突變和改變，Brand (1995)。
+
+
+狗：Moral, ii. 11； 1208 b 11。「他說，當一隻狗總是習慣於睡在相同的地磚上，恩貝多克利斯被問到狗為何總是睡在相同的地磚上，他答道，狗和地磚有某種相似性，所以這種相似性是牠經常睡在它上面的原因。」
+
+
+
+
+
+醫療的一般和哲學性討論
+
+
+
+醫學或哲學：反思醫療史，Mudry (2006)、Pigeaud (2006)；Camguillem (1995) 討論醫療傷害。至於精神，Pager (1996)、Bates (1995)。
+
+
+伊斯蘭醫療：Porman and Savage-Smith (2007)、Djebbar (2001)。
+
+
+《論動物的運動》與試圖將醫療數學化：詳Wear (1995)。且讓我再說一遍：數學是好的，但錯誤的數學並不好。
+
+
+古代醫療：Edelstein (1987)、Lonrig (1998)。Vivian Nutton的Ancient Medicine (Nutton [2004]) 資訊豐富，但幾乎一字不提經驗主義者，而且除了一些標準的論文，對於古代實務沒有講得太詳細。不朽的Zeller (1905) 談到更多的醫療（懷疑論者和方法論者），或甚至最好參考Brochard寫得十分精彩的Les Sceptiques Grecs。
+
+
+橘子：以現代希臘語命名，但「葡萄牙語」以訛傳訛為portokali——黎凡特的阿拉伯語進一步以訛傳訛成burduqan，目前是用西西里島方言使用的名稱。
+
+
+醫療試探啟發法：Palmieri (2003)。
+
+
+中世紀與文藝復興：French (2003)。
+
+
+通史：Conrad et al. (1995)、Porter (2002, 2003)、Meslin et al. (2006)、Kennedy (2004)。
+
+
+醫療傷害：Sharpe and Faden (1998) 最為完整； Illich (1995) 談第一次運動；Hadler (2009)談背部，Duffin (1999)、Welsh et al.(2011) 談過度診斷（但沒有提到雜訊╲訊號和過濾），Lebrun (1995)。
+
+
+代理與醫療傷害：只是隨便舉個例子：「外科醫生如果列席手術中心董事，會動比較多的手術，」June 22, 2012, “The Daily Stat,” Harvard Business Review。
+
+
+更有趣的醫療傷害歷史觀點：Gustave Jules A. Witkowski, 1889, Le mal qu'on a dit des médecins。
+
+
+理性主義╲加倫主義：Garicia-Ballester (1995)。
+
+
+蒙田：“Mais ils ont cet heur, selon Nicocles, que le soleil esclaire leur succez, et la terre cache leur faute； et, outre-cela, ils ont une façon bien avantageuse de se servir de toutes sortes d'evenemens, car ce que la fortune, ce que la nature, ou quelque autre cause estrangere (desquelles le nombre est infini) produit en nous de bon et de salutaire, c'est le privilege de la medecine de se l'attribuer. Tous les heureux succez qui arrivent au patient qui est soubs son regime, c'est d'elle qu'il les tient. Les occasions qui m'ont guery, moy, et qui guerissent mille autres qui n'appellent point les medecins à leurs secours, ils les usurpent en leurs subjects； et, quant aux mauvais accidents, ou ils les desavouent tout à fait, en attribuant la coulpe au patient par des raisons si vaines q'ils n'ont garde de faillir d'en trouver tousjours assez bon nombre de telles....”（請注意他察覺到歸因問題。）
+
+On demandoit à un Lacedemonien qui l'avoit fait vivre sain si long temps: L'ignorance de la medecine, respond it il.
+
+Et Adrian l'Empereur crioit sans cesse, en mourant, que la presse des medecins l'avoit tué.
+
+
+現代另類醫療：Singh and Edzard (2008)——他們有切身利害，因為他們因此被告。
+
+
+順勢療法與經驗證據：Goldacre (2007)。也見非常值得一讀的Bad Science, Goldacre (2009)。
+
+
+現代的證據基礎醫療：手稿詳Sacket et al. (1998)。理性主義方法的缺失，Silverman (1999)、Gauch (2009)、Sestini and Irving (2009)。
+
+
+冰敷：Collins (2008)：「並沒有充分的證據顯示，冷療法能夠改善軟組織損傷管理的臨床結果。」我找不到說法相反的論文。所提供的利益似乎微不足道，甚至一點都不有趣。
+
+
+血壓的凸性：數據取自Welch et al. (2011)。
+
+
+詹森不等式與肺部呼吸器：Brewster et al. (2005)、Graham et al. (2005)、Mutch et al. (2007)。
+
+
+帕拉塞爾蘇斯：這位反叛者是個有趣的人物；可是似乎被Coulter (2000)等順勢療法的支持者綁架。傳記詳Ball (2006)、Bechtel (1970)、Alendy (1937)。
+
+
+永生：Gray (2011).
+
+
+斯湯達爾：Le Rouge et le noir: “La besogne de cette journée sera longue et rude, fortifions-nous par un premier déjeuner； le second viendra à dix heures pendant la grand'messe.” Chapitre XXVIII。
+
+
+特定的醫療主題
+
+請注意本書作者關心的不是證據，而是缺乏證據，以及研究工作者如何管理這種問題。重點放在察覺失去的凸性。
+
+
+低熱量甜味劑的效果：看那些有既得利益的自我衛護者所寫的研究，可以得到很多資訊。De la Hunty et al. (2006) 以統合分析（meta-analysis）指出阿斯巴甜的「各種好處」，但是重點放在「熱量進熱量出」的方法，而不是整體的體重增加。仔細拜讀，可以發現漏掉了核心問題：「被替代的能量會有若干補償，但只占被替代能量的三分之一左右，而且可能（黑體是我標示以強調的）低於當阿斯巴甜用來讓清涼飲料具有甜味。不過這些補償值是從短期研究而來。」這篇論文顯然是阿斯巴甜的製造商資助寫成的。Anderson et al. (2012)的研究做得更好，但毀於利益衝突（作者得到食品公司的補助），做成結論說：「沒有證據顯示低熱量甜味劑（ＬＣＳ）可說是造成成人體重增加的原因。同樣的，找不到證據支持它在體重管理上扮演某種角色。」我只注意最後一句，因為它是「反利益」的證據。如果有好處的話，我們會已經知道。換句話說，迄至二○一二年止，我們正承受這些無熱量甜味劑的醫療傷害，但沒有證據顯示它們有好處！
+
+
+米特拉達提斯化與毒物興奮效應：詳Pliny, Kaiser (2003)、Rattan (2008)、Calabrese and Baldwin (2002, 2003a, 2003b) 。請注意他們遺漏了凸性論點，或者偏離常態的洞見——毒物興奮效應或許只是恢復正常狀態而已。
+
+
+禁食與毒物興奮效應：Martin, Mattson et al. (2006)。癌症治療與禁食， Longo et al. (2008)、Safdie et al. (2009)、Raffaghelo et al. (2010)；酵母與受到限制下的長壽，Fabrizio et al. (2001)；SIRT1，Longo et al. (2006)、Michan et al. (2010)；評論研究詳Blagosklonny et al. (2010)。
+
+
+毒物興奮效應的定義：Mattson (2008) 有局部定義，Danchin et al. (2011)有較為複雜系統的方法。
+
+
+老化、長壽與毒物興奮效應：極其豐富的研究；Radak et al. (2005)、Rattan (2008)、Cypster and Johnson (2002) 討論線蟲（C-elegans）；Gems and Partridge (2008)、Haylick (2001)、Masoro (1998)、Parsons (2000)；炎症和老人癡呆症，Finch et al. (2001)。
+
+
+骨質密度與負重：Dook (1997) 談女性，Andreoli et al. (2001) 談比較一般性的運動員；Scott, Khan, et al. (2008) 談一般運動。女性老化：Solomon (1997)、Rautava et al. (2007)；Conroy et al. (1993)談年輕女性。
+
+
+骨質密度與騎腳踏車：Nichols et al. (2003)、Barry et al. (2008)。
+
+
+骨質密度與奧運會式舉重：若干「舉重」研究誤將在機器上的阻力運動當作強化骨骼的真實自然舉重。Conroy et al. (1993) 是在生態上比較強固的研究，因為將重點放在重量上。
+
+
+甲狀腺：Earle (1975)。
+
+
+膽固醇：非天真觀點，Scanu and Edelstein (2008)。
+
+
+雷萬廷與預期壽命：Lewontin (1993)。了解雷萬廷估計的潛在不可靠性，並從網路上某篇我記不得的文章導向ＣＤＣ資料。
+
+
+戶外不是運動：Rose et al. (2008)。經過接近工作場所、父母近視、種族等因素的調整後，待在戶外的總時間愈長，而不是做運動，和近視較少、遠視平均折射較多有關。
+
+
+「神經嘮叨」、「大腦色情」研究：Weisberg (2008), McCabe (2008)，也請參考英國皇家協會（U.K. Royal Society）的「神經科學與法律」報告。請注意作家Jonah Lehrer使用大腦色情取得相當大的效果。他利用某種寬鬆的大腦故事建立起敘事，將敘事謬誤發揮到極致——直到他被抓到一邊敘事，一邊製造支持敘事的資料為止。
+
+
+牙醫承受創造營業收入的壓力：“Dental Abuse Seen Driven by Private Equity Investments,” Sydney P. Freedberg, Bloomberg News, May 17,2012。
+
+
+顯著性：簡單的說，社會科學的研究者不應該使用統計，就像不應該給會計師手術刀一樣。誤解顯著性的問題，會影響專業人員。見McCloskey and Ziliak (1996)、Ziliak and McCloskey (2008)、Soyer and Hogarth (2011)、Kahneman and Tversky (1971)、Taleb and Goldstein (2012)。
+
+
+儘管一頭熱，數學財務領域的實務工作者和理論家卻不了解統計的基本概念：證據見Taleb and Goldstein (2007)。
+
+
+遺漏劑量反應的非線性：輻射方面的情況相當鮮明，Neumaier et al. (2012)。「目前使用中的標準模型採用線性標度，將游離輻射的罹癌風險，從高劑量外推到低劑量。但是根據我們在這麼大距離中的ＤＳＢ集群（DSB clustering）發現，我們非常懷疑一般假設游離輻射的風險與劑量成正比，並且轉而提供一個機制，可以更為準確地處理游離輻射的風險劑量相依（risk dose dependency）。」輻射的毒物興奮效應是指低水準的輻射，能夠產生毒物興奮反應，進而產生保護效果。也見Aurengo (2005)。
+
+
+他汀類藥物和凸性：舉例來說，醫生經常開出他汀類藥物，以降低血脂，雖然對某一類人來說，結果具有統計顯著性，但效果相當輕微。「年齡在三十到六十九歲的高風險男人，應該告訴他們約五十個病患需要治療五年，才能防止一例（心血管疾病）」(Abramson and Wright,2007)。
+
+
+他汀類藥物副作用與（或多或少的）隱形風險：傷害肌肉骨骼的副作用，或者只是疼痛，Women, Speed et al. (2012)。一般性評估，Hilton-Jones (2009)、Hu Chung et al. (2012)。Roberts (2012)指出利益凸性的另一個層面，因此在邊際案例中造成傷害。Fernandez et al. (2011)指出臨床試驗沒有反映疾病風險。Blaha et al. (2012)指出「增加健康病患的風險」。也見Reedberg and Katz (2012)；Hamazaki et al.：「他汀類藥物對各種原因的死亡率造成的絕對影響相當小，如果有的話。」
+
+
+哈倫．克魯姆霍爾茨（Harlan Krumholz），Forbes, April 29,2011：
+
+
+問題在於改善驗血結果的藥物可能沒有降低風險。舉例來說，許多藥物雖然減少低密度脂蛋白（ＬＤＬ）或增加高密度脂蛋白（ＨＤＬ），或者降低血糖或血壓，卻沒有降低風險，而這和所有的期望不符——並且在某些病例中，反而增加風險。
+
+當考慮治療選項，以防止心臟病等將來的事件時，更是如此。對許多影響風險因素（risk factors）的藥物來說，很遺憾的，調查病患是否受益的研究不是沒有執行，就是延後執行。默克藥廠（Merck）的降ＬＤＬ藥物ezetimibe，便是如此。由於包含病患服用結果資訊的研究，要到ezetimibe專利期滿才會完成，所以未來好幾年內，我們不會知道它實際上如何影響風險。耗資十億美元的這種藥物，只根據它對驗血的影響而批准和銷售。
+
+但是就貝特類藥物（fibrates）來說，我們比較幸運。病患服用結果已有研究報告出爐，而艾波特（Abbott）的非諾貝特類藥物（fenofibrate）已經在大型研究中測試過兩次。這兩次，即使它非常有效地降低三酸甘油酯，卻未能降低服用這種藥物的病患承受的風險。最近國家衛生研究院斥資三億美元進行實驗，發現當艾波特的藥物和一種他汀類藥物結合，並沒有產生效益——而且顯示可能傷害婦女。這樣的關切，高到足以促使聯邦食品藥物管理局召開諮詢委員會，以檢討相關的研究發現。
+
+
+
+
+背部：McGill (2007)；造成醫療傷害的手術或無痛分娩，Hadler (2009)、Sayre (2010)。
+
+
+醫生罷工：曾經有幾次發生醫院罷工，取消非急需手術，但和緊急治療有關的服務除外。雖然資料不是很多，如果以否定法模態去解讀，卻能給我們一些洞見。關於非急需手術的影響，Argeseanu et al. (2008)。
+
+
+糖尿病和藥物治療（ACCORD研究）：控制糖尿病患者心血管疾病風險的行動（Action to Control Cardiovascular Risk in Diabetes； ACCORD）發現，降低血糖或其他指標沒有好處——這可能比用藥物方法矯治的簡單葡萄糖問題不透明。綜合，Skyler et al. (2009)，古方法，Westman and Vernon (2008)。
+
+
+糖尿病和節食的討論：Taylor (2008)，逆轉詳Lim et al. (2011)、Boucher et al. (2004)、Shimakuru et al. (2010)；光是靠節食的糖尿病管理，早期的洞見詳Wilson et al. (1980)。Couzin, “Deaths in Diabetes Trial Challenge a Long-Held Theory,” Science 15 (February 2008): 884-885。糖尿病逆轉和減肥（或其他）手術：Pories (1995)、Guidone et al. (2006)、Rubino et al.2006。
+
+
+癌症自體吞噬：Kondo et al. (2005)。
+
+
+自體吞噬（一般）：Danchin et al. (2011)、Congcong et al. (2012)。
+
+
+醫療和健身的詹森不等式：Schnohr and Marott (2011) 等許多人差一點指出，極限疾跑和什麼事也不做（就像槓鈴那樣）的表現，會超越穩定的運動，但是他們漏掉了凸性偏誤的部分。
+
+
+與亞特．德．瓦尼的私人通訊：「組織的增長會逐漸增加，但是相對於營養的攝取呈現凸性（曲線不斷上升，但上升速率減緩）。起始點要保持穩定狀態的解決方法，必須是如此。這意味著均衡攝取而增加的體重（包括脂肪），會高於相同的熱量和營養以忽多忽少的方式攝取。肌肉和脂肪會競相取得受質，所以比較胖的人會將營養分配給肌肉，因為身體脂肪會在肌肉中引起胰島素抗性。胰島素是以脈衝式釋放的方式運作，而且以那種型態運作的效果，遠高於一天六餐所誘發的慢性升高。就下檔來說，也就是減少脂肪和肌肉的情況，曲線的斜率為負，但下降的速率減緩（呈現凹性）。這表示以間歇性的方式進食，比連續不斷進食會失去更多脂肪。均衡攝取的損失（一天六餐會使平均值的變動變得很小）低於攝取相同的數量、但每次攝取忽大忽小所造成的損失。更細微的一點：當你均衡進食，失去的體重會多於間歇性進食，但那是因為在慢性剝奪的情況下失去的肌肉多於間歇性剝奪。間歇性剝奪會產生優異的身體組成。」
+
+
+飢餓、間歇性禁食和老化：神經元抗性和大腦老化，Anson, Guo, et al. (2003)、Mattson et al. (2005)、Martin, Mattson et al. (2006)、Halagappa, Guo, et al. (2007)、Stranahan and Mattson (2012)。
+
+
+熱量限制：Harrison (1984), Wiendruch (1996), Pischon (2008)。
+
+
+劇烈運動：偶發性能量失衡產生的影響之文獻綜合，De Vany (2011)。他也探討冪次法則效應。
+
+
+遺漏藥丸比較投機性的要點：Stip (2010)花時間用複雜的製藥大廠故事，探討肯定法延長生命的情況。
+
+
+葡萄糖與意志力：見Kahneman (2011) 提到Baumeister做的實驗，顯示葡萄糖使人頭腦更敏銳，並且有助於意志力，或許只適用於新陳代謝不適的人。見Kurzban (2010)看各種統計工具。
+
+
+如同前言所說，因為缺乏隨機性導致病痛叢生：Yaffe and Blackwell (2004)、Razay and Wilcock (1994)；老人癡呆症和高胰島素血症，Luchsinger, Tang, et al. (2004)、Janson, Laedtke, et al. (2004)。
+
+
+飢餓與頭腦：Stranahan and Mattson (2012)。人們長期以來相信大腦需要葡萄糖，不是酮，而且大腦不會經過自體吞噬，逐步矯正。
+
+
+齋月和禁食的影響：齋月一點都不有趣，因為只禁食約十二個小時，視季節而定（有人從晚餐禁食到午餐，有十七個小時不進食，本書作者就是這麼做的）。此外，他們在破曉時大吃大喝，拚命塞進碳水化合物，而根據我的經驗，還會加上的黎波里（黎巴嫩）的甜食。不過仍然有些作用。Trabelsi et al. (2012)、Akanji et al. (2012)。
+
+
+壓力的好處：關於短期和長期這兩種壓力因子的不同影響，Dhabar (2009)；至於壓力有助於提升免疫力和抗癌，Dhabhar et al. (2010)、Dhabhar et al. (2012)。
+
+
+衛生和系統性消除病菌的醫療傷害：Rook (2011)、Garner et al. (2006)、Mégraud and Lamouliatte (1992) 談幽門螺旋桿菌。
+
+
+古法群眾、德．瓦尼，加里．陶布斯和朋友們：Taubes (2008, 2011)、De Vany (2011)；進化人類學，Carrera-Bastos et al. (2011)、Kaplan et al. (2000)。
+
+
+
+
+
+第七冊：脆弱性和反脆弱性的倫理
+
+
+
+資本主義的現代哲學討論：即使Cuillerai (2009)等見識不俗的論述，也對切身利害這種簡單的試探啟發法不感興趣。歷史中的勇氣：Berns et al. (2010)。
+
+
+角鬥士：Veyne (1999)。
+
+
+跑步機：Lucretius, Nimirum quia non bene norat quæ esset habendi / Finis, et omnino quoad crescat vera voluptas。
+
+
+群體與集體：Haidt (2012)。
+
+
+亞當．斯密談資本主義：「這個字他不曾講過」與Simon Schama的私人通訊。
+
+
+史迪格里茲等人的危險報告：Joseph E. Stiglitz, Jonathan M. Orszag, and Peter R. Orszag, “Implications of the New Fannie Mae and Freddie Mac Risk-based Capital Standard,” Fannie Mae Papers, Volume I, Issue 2, March2002。
+
+
+邁耶．蘭斯基：已經退休的紐約市警察局黑幫調查員Ralph Salerno如此表示，詳Ferrante (2011)。
+
+
+製藥大廠找病人而不是找治療方法，令人不快的活動：直接和間接貪腐的故事，尤其是在精神病領域。哈佛醫學院一位精神病教授獲得製藥大廠一百六十萬美元，「多虧他，二歲的孩子現在被診斷罹患躁鬱症⋯⋯」Marcia Angell, The New York Review of Books。Angell曾是《新英格蘭醫學期刊》的編輯，不信任許多臨床研究。此外，錢如何沒有花在投機性研究，而是下在一般藥物的「安全」賭注上，Light and Lexchin (2012)。
+
+
+相互矛盾的研究：康尼曼引起我注意Malmendier and Tate (2008, 2009) 等研究。他們指出經理人在公司的投資多於需要，所以因為過度自信而產生過度的切身利害。麥爾隆．史科爾茲和羅伯．莫頓投資於長期資本管理公司。沒錯——但是整體而言，免費選擇權居於支配地位（只要衡量經理人總共拿到的薪酬，相對於股東的獲利就知道）。這個世界上有「隨機性傻瓜」，也有「隨機性騙子」；我們經常看到兩者並存（感謝：Nicolas Tabardel。）。
+
+
+不對稱性和榨取：Acemoglu and Robinson (2012)利用他們的榨取式經濟機構和環境概念，討論不對稱性，其中有人因為犧牲他人而致富，這和凸性協作架構中，一個人的財富使得餅做大相反。機構扮演的角色，North (1990)。
+
+
+魚子醬資本主義和伯恩耶特的問題：Riffard (2004)、Burnyeat (1984)、Wai-Hung (2002)。
+
+
+集體視盲和責任分散：在動物的領域（螞蟻），Deneubourg, Goss et al. (1983)、Deneubourg, Pasteels et al. (1983)。
+
+
+羅馬的生活與社會化：Veyne (2001)。
+
+
+房間中的大象：指每個人都知道，卻一直不去討論的事情。Zerubavel (2006)。
+
+
+大公司的死亡率：高於預期，Greenwood and Suddaby (2006)，Stubbart and Knight (2006) 的評論。最好的檢定是拿標準普爾一百或者標準普爾五百，看它們經過一段時間的成分股變化。另一種方法是看企業合併的文獻。
+
+
+資訊瀑流：群眾導致謬誤、錯覺和謠言惡化的機制，Sunstein (2009)綜合報告。
+
+
+艾倫．布林德問題：《華爾街日報》文章，帶有未揭露的利益衝突：〈地毯式存款保險是個爛主意〉（Blanket Deposit Insurance Is a Bad Idea），Oct. 15, 2008，與哥倫比亞大學商學院院長R. Glenn Hubbard 合撰。
+
+
+家族企業的相對表現：McConaughy and Fialco (2001)、Le Breton-Miller and Miller (2006)、Mackie (2001)。
+
+
+切身利害：Taleb and Martin (2012a)。
+
+
+
+
+
+資料採擷、巨量資料和研究工作者的選擇權等
+
+
+
+社會科學文獻中的誤解：典型的錯誤，如非常積極推廣這個觀念的Ayres (2007) 對問題的無知：「大買歐元需要做避險動作嗎？看起來你應該賣掉包含沃爾瑪（Wal-Mart）股票在內的其他二十六檔股票和商品構成的審慎平衡投資組合，」p. 11。
+
+
+史丹．楊格的聖戰：Young and Carr (2011).亦見Ioannides (2005,2007)。
+
+
+信念的許定：Levi (1980)。
+
+
+鹽：Freedman and Petitti (2001) 依賴資料的視覺化，而不是靠指標，非常具有說服力。請注意「兩位作者都沒有擔任鹽業顧問」，這樣的東西，我會優先拜讀。
+
+
+巨量資料的圖：利用蒙第卡羅模擬；用於>0.1，或者超過相關係數，是社會科學所喜歡的（很難用分析性的方法去做分析，因為需要很大的矩陣，才能維持正定〔positive-definite〕）。凸性相對於相關係數門檻值不變。
+
+
+臨床試驗中研究工作者偏誤的解決方法：Goldacre (2009)建議設立試驗資料庫，強迫研究工作者將失敗記錄下來。任何做法都比我們現在要好。
+
+
+集體和脆弱性：集體的力量來自效率等方面的利益，因此具有脆弱性：人們開始用集體判斷取代個人判斷。這運作得相當好——比個人必須重起爐灶，速度要快且便宜（因此更有效率）。但是和任何走捷徑的東西一樣，最後會在我們眼前爆炸。在我們生活的世界中，它的影響更加嚴重——規模愈來愈大；集體等於整個地球。
+
+
+賈伯斯與工匠倫理：這件事令我憂慮：「花花公子：『你的意思是說，生產小型個人電腦的人，對產品沒有那種自豪？』賈伯斯：『如果他們有的話，就不會做小型個人電腦。』」Playboy [sic], Feb. 1,1985。
+
+
+戳破雙曲線貼現的假說：Read and Airoldi (2012)。
+
+
+關於巨量資料和研究工作者訛詐系統的其他討論：Baumeister et al. (2007) 談到心理學中的自行報告。Kerr (1998) 談有了結果才定假說的問題，Yauan and Maxwell 談事後；Yarkoni談大Ｍ（維度）低Ｎ（資料）的問題。
+
+
+
+
+
+謝辭
+
+
+Peter Bevelin、Jazi Zilber、Peter Tanous和Rolf Dobelli非常詳盡地讀完全部手稿幾個不同的版本數次之多，並且大方表示意見，或者提示相關的研究。Will Murphy、Evan Camfield、Alexis Kirshbaum、Cynthia Taleb、Will Goodlad、Stefan McGrath和Asim Samiuddin等人特別熱心貢獻，除了見證本書的推進，也協助它的開展。
+
+感謝惠賜指教與助益良多：Peter Nielsen、Rory Sutherland、Saifedean Ammous、Max Brockman、John Brockman、Marcos Carreira、Nathan Myhrvold、Aaron Brown、Terry Burnham、Peter Boettke、Russ Roberts、Kevin Horgan、Farid Karkaby、Michael Schrague、Dan Goldstein、Marie-Christine Riachi、Ed Frankel、Mika Kasuga、Eric Weinstein、Emanuel Derman、Alberto Mingardi、Constantine Sandis、Guy Deutscher、Bruno Dupire、George Martin、Joelle Weiss、Rohan Silva、Janan Ganesh、Dan Ariely、Gur Huberman、Cameron Williams、Jacques Merab、Lorenzo Savorelli、Andres Velasco、Eleni Panagiotarakou、Conrad Young、Melik Keylan、Seth Roberts、John McDonald、Yaneer BarYam、David Shaywitz、Nouriel Roubini、Philippe Asseily、Ghassan Bejjani、Alexis Grégoire Saint-Marie、Charles Tapiero、Barry Blecherman、Art De Vany、Guy Riviere、Bernard Oppetit、Brendon Yarkin和Mark Spitznagel；以及我的線上協助者Jean-Louis Reault、Ben Lambert、Marko Costa、Satiyaki Den、Kenneth Lamont、Vergil Den、Karen Brennan、Ban Kanj、Lea McKay、Ricardo Medina、Marco Alves、Pierre Madani、Greg Linster、Oliver Mayor、Satyaki Roy、Daniel Hogendoorn、Phillip Crenshaw、Walter Marsh、 John Aziz、Graeme Blake、Greg Linster、Sujit Kapadia、Alvaro De La Paz、Apoorv Bajpai、Louis Shickle、Ben Brady、Alfonso Payno de las Cuevas、“Guru Anaerobic,” Alexander Boland、David Boxenhorn、Dru Stevenson和Michal Kolano。我肯定忘了其他許多人。
+
+
+
+
+

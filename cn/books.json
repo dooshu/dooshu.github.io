@@ -1,0 +1,6056 @@
+
+
+[
+  {
+    "bookid": 1,
+    "title": "红楼梦",
+    "description": ""
+  },
+  {
+    "bookid": 2,
+    "title": "金瓶梅词话",
+    "description": ""
+  },
+  {
+    "bookid": 3,
+    "title": "水浒传",
+    "description": ""
+  },
+  {
+    "bookid": 4,
+    "title": "西游记",
+    "description": ""
+  },
+  {
+    "bookid": 5,
+    "title": "三国演义",
+    "description": ""
+  },
+  {
+    "bookid": 6,
+    "title": "聊斋志异 - 蒲松龄、于天池、孙通海、于天池",
+    "description": ""
+  },
+  {
+    "bookid": 7,
+    "title": "儒林外史",
+    "description": ""
+  },
+  {
+    "bookid": 8,
+    "title": "史记",
+    "description": ""
+  },
+  {
+    "bookid": 9,
+    "title": "汉书",
+    "description": ""
+  },
+  {
+    "bookid": 10,
+    "title": "后汉书 - (南朝·宋)范晔",
+    "description": ""
+  },
+  {
+    "bookid": 11,
+    "title": "三国志",
+    "description": ""
+  },
+  {
+    "bookid": 12,
+    "title": "晋书",
+    "description": ""
+  },
+  {
+    "bookid": 13,
+    "title": "宋书",
+    "description": ""
+  },
+  {
+    "bookid": 14,
+    "title": "南齐书",
+    "description": ""
+  },
+  {
+    "bookid": 15,
+    "title": "梁书",
+    "description": ""
+  },
+  {
+    "bookid": 16,
+    "title": "陈书",
+    "description": ""
+  },
+  {
+    "bookid": 17,
+    "title": "魏书",
+    "description": ""
+  },
+  {
+    "bookid": 18,
+    "title": "北齐书",
+    "description": ""
+  },
+  {
+    "bookid": 19,
+    "title": "周书",
+    "description": ""
+  },
+  {
+    "bookid": 20,
+    "title": "隋书",
+    "description": ""
+  },
+  {
+    "bookid": 21,
+    "title": "南史",
+    "description": ""
+  },
+  {
+    "bookid": 22,
+    "title": "北史",
+    "description": ""
+  },
+  {
+    "bookid": 23,
+    "title": "旧唐书",
+    "description": ""
+  },
+  {
+    "bookid": 24,
+    "title": "新唐书",
+    "description": ""
+  },
+  
+  {
+    "bookid": 25,
+    "title": "旧五代史",
+    "description": ""
+  },
+  {
+    "bookid": 26,
+    "title": "新五代史",
+    "description": ""
+  },
+  {
+    "bookid": 27,
+    "title": "宋史",
+    "description": ""
+  },
+  {
+    "bookid": 28,
+    "title": "辽史",
+    "description": ""
+  },
+  {
+    "bookid": 29,
+    "title": "金史",
+    "description": ""
+  },
+  {
+    "bookid": 30,
+    "title": "元史",
+    "description": ""
+  },
+  {
+    "bookid": 31,
+    "title": "明史",
+    "description": ""
+  },
+  {
+    "bookid": 32,
+    "title": "大学",
+    "description": ""
+  },
+  {
+    "bookid": 33,
+    "title": "论语 - (春秋)孔子",
+    "description": ""
+  },
+  {
+    "bookid": 34,
+    "title": "孟子",
+    "description": ""
+  },
+  {
+    "bookid": 35,
+    "title": "中庸",
+    "description": ""
+  },
+  {
+    "bookid": 36,
+    "title": "诗经",
+    "description": ""
+  },
+  {
+    "bookid": 37,
+    "title": "尚书",
+    "description": ""
+  },
+  {
+    "bookid": 38,
+    "title": "礼记",
+    "description": ""
+  },
+  {
+    "bookid": 39,
+    "title": "周易(易经)",
+    "description": ""
+  },
+  {
+    "bookid": 40,
+    "title": "春秋",
+    "description": ""
+  },
+  {
+    "bookid": 41,
+    "title": "左传",
+    "description": ""
+  },
+  {
+    "bookid": 42,
+    "title": "公羊传",
+    "description": ""
+  },
+  {
+    "bookid": 43,
+    "title": "谷梁传",
+    "description": ""
+  },
+  {
+    "bookid": 44,
+    "title": "睡前消息",
+    "description": ""
+  },
+  {
+    "bookid": 45,
+    "title": "临高启明",
+    "description": ""
+  },
+  {
+    "bookid": 46,
+    "title": "李氏焚书",
+    "description": ""
+  },
+  {
+    "bookid": 47,
+    "title": "古文观止",
+    "description": ""
+  },
+  {
+    "bookid": 48,
+    "title": "昭明文选",
+    "description": ""
+  },
+  {
+    "bookid": 49,
+    "title": "金圣叹评水浒",
+    "description": ""
+  },
+  {
+    "bookid": 50,
+    "title": "文字",
+    "description": ""
+  },
+  {
+    "bookid": 51,
+    "title": "道德经(老子)",
+    "description": ""
+  },
+  {
+    "bookid": 52,
+    "title": "红太阳是怎样升起的──延安整风运动的来龙去脉",
+    "description": ""
+  },
+  {
+    "bookid": 53,
+    "title": "小岛大浪吹-非正经政经频道",
+    "description": ""
+  },
+  {
+    "bookid": 54,
+    "title": "罗辑思维",
+    "description": ""
+  },
+  {
+    "bookid": 55,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 56,
+    "title": "西厢记-(元)王实甫&会真记-(唐)元稹",
+    "description": ""
+  },
+  {
+    "bookid": 57,
+    "title": "我与地坛",
+    "description": ""
+  },
+  {
+    "bookid": 58,
+    "title": "创业史-柳青",
+    "description": ""
+  },
+  {
+    "bookid": 59,
+    "title": "平凡的世界-路遥",
+    "description": ""
+  },
+  {
+    "bookid": 60,
+    "title": "刘心武揭秘红楼梦",
+    "description": ""
+  },
+  {
+    "bookid": 61,
+    "title": "庄子（南华经）",
+    "description": ""
+  },
+  {
+    "bookid": 62,
+    "title": "中县干部-北大博士论文",
+    "description": ""
+  },
+  {
+    "bookid": 63,
+    "title": "王小波全集",
+    "description": ""
+  },
+  {
+    "bookid": 64,
+    "title": "活着-余华",
+    "description": ""
+  },
+  {
+    "bookid": 65,
+    "title": "县乡中国：县域治理现代化",
+    "description": ""
+  },
+  {
+    "bookid": 66,
+    "title": "王鼎钧回忆录四部曲",
+    "description": ""
+  },
+  {
+    "bookid": 67,
+    "title": "小镇喧嚣——一个乡镇政治运作的演绎与阐释",
+    "description": ""
+  },
+  {
+    "bookid": 68,
+    "title": "淮南子",
+    "description": ""
+  },
+  {
+    "bookid": 69,
+    "title": "三体-刘慈欣",
+    "description": ""
+  },
+  {
+    "bookid": 70,
+    "title": "明朝那些事儿-当年明月(石悦)",
+    "description": ""
+  },
+  {
+    "bookid": 71,
+    "title": "痴婆子传",
+    "description": ""
+  },
+  {
+    "bookid": 72,
+    "title": "围城-钱钟书",
+    "description": ""
+  },
+  {
+    "bookid": 73,
+    "title": "增广贤文",
+    "description": ""
+  },
+  {
+    "bookid": 74,
+    "title": "资治通鉴",
+    "description": ""
+  },
+  {
+    "bookid": 75,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 76,
+    "title": "弱传播-邹振东",
+    "description": ""
+  },
+  {
+    "bookid": 77,
+    "title": "大目标：我们与这个世界的政治协商 - 任冲昊、王巍、周小路、白熊",
+    "description": ""
+  },
+  {
+    "bookid": 78,
+    "title": "红楼梦",
+    "description": ""
+  },
+  {
+    "bookid": 79,
+    "title": "牡丹亭还魂记 - (明)汤显祖",
+    "description": ""
+  },
+  {
+    "bookid": 80,
+    "title": "棋王-阿城",
+    "description": ""
+  },
+  {
+    "bookid": 81,
+    "title": "太平广记 - (宋)李昉、扈蒙、徐铉等",
+    "description": ""
+  },
+  {
+    "bookid": 82,
+    "title": "唐诗三百首",
+    "description": ""
+  },
+  {
+    "bookid": 83,
+    "title": "骆驼祥子-老舍",
+    "description": ""
+  },
+  {
+    "bookid": 84,
+    "title": "黄河边的中国-曹锦清",
+    "description": ""
+  },
+  {
+    "bookid": 85,
+    "title": "万历十五年-黄仁宇",
+    "description": ""
+  },
+  {
+    "bookid": 86,
+    "title": "背叛-李雪",
+    "description": ""
+  },
+  {
+    "bookid": 87,
+    "title": "遥远的救世主-李雪",
+    "description": ""
+  },
+  {
+    "bookid": 88,
+    "title": "天幕红尘-李雪",
+    "description": ""
+  },
+  {
+    "bookid": 89,
+    "title": "剑南诗稿",
+    "description": ""
+  },
+  {
+    "bookid": 90,
+    "title": "历史的棋局-《国家人文历史》编著",
+    "description": ""
+  },
+  {
+    "bookid": 91,
+    "title": "文学回忆录-木心、陈丹青",
+    "description": ""
+  },
+  {
+    "bookid": 92,
+    "title": "中国历代政治得失-钱穆",
+    "description": ""
+  },
+  {
+    "bookid": 93,
+    "title": "浪潮之巅-吴军",
+    "description": ""
+  },
+  {
+    "bookid": 94,
+    "title": "天龙八部三联版 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 95,
+    "title": "老子的心事：雪煮《道德经》-雪漠",
+    "description": ""
+  },
+  {
+    "bookid": 96,
+    "title": "大漠三部曲_大漠祭_猎原_白虎关-雪漠",
+    "description": ""
+  },
+  {
+    "bookid": 97,
+    "title": "崇祯死局，无人能解",
+    "description": ""
+  },
+  {
+    "bookid": 98,
+    "title": "长安的荔枝-马伯庸",
+    "description": ""
+  },
+  {
+    "bookid": 99,
+    "title": "革命年代 - 高华",
+    "description": ""
+  },
+  {
+    "bookid": 100,
+    "title": "多变的孙科 - 高华",
+    "description": ""
+  },
+  {
+    "bookid": 101,
+    "title": "在历史的风陵渡口 - 高华",
+    "description": ""
+  },
+  {
+    "bookid": 102,
+    "title": "皮皮鲁传 - 郑渊洁",
+    "description": ""
+  },
+  {
+    "bookid": 103,
+    "title": "鲁西西传 - 郑渊洁",
+    "description": ""
+  },
+  {
+    "bookid": 104,
+    "title": "舒克贝塔传 - 郑渊洁",
+    "description": ""
+  },
+  {
+    "bookid": 105,
+    "title": "大灰狼罗克传 - 郑渊洁",
+    "description": ""
+  },
+  {
+    "bookid": 106,
+    "title": "商君书",
+    "description": ""
+  },
+  {
+    "bookid": 107,
+    "title": "置身事内：中国政府与经济发展 - 兰小欢",
+    "description": ""
+  },
+  {
+    "bookid": 108,
+    "title": "筚路维艰 - 萧冬连",
+    "description": ""
+  },
+  {
+    "bookid": 109,
+    "title": "世说新语 - (南朝宋)刘义庆",
+    "description": ""
+  },
+  {
+    "bookid": 110,
+    "title": "人间词话 - 王国维",
+    "description": ""
+  },
+  {
+    "bookid": 111,
+    "title": "山海经",
+    "description": ""
+  },
+  {
+    "bookid": 112,
+    "title": "国语",
+    "description": ""
+  },
+  {
+    "bookid": 113,
+    "title": "乡土中国 - 费孝通",
+    "description": ""
+  },
+  {
+    "bookid": 114,
+    "title": "新乡土中国（部分）- 贺雪峰",
+    "description": ""
+  },
+  {
+    "bookid": 115,
+    "title": "鲁迅全集1938年版",
+    "description": ""
+  },
+  {
+    "bookid": 116,
+    "title": "鲁迅全集2005年版",
+    "description": ""
+  },
+  {
+    "bookid": 117,
+    "title": "探路之役-萧冬连",
+    "description": ""
+  },
+  {
+    "bookid": 118,
+    "title": "文城 - 余华",
+    "description": ""
+  },
+  {
+    "bookid": 119,
+    "title": "中国官僚政治研究 - 王亚南",
+    "description": ""
+  },
+  {
+    "bookid": 120,
+    "title": "蒋介石和陈诚 - 王学庆、赵洪昌",
+    "description": ""
+  },
+  {
+    "bookid": 121,
+    "title": "命运 - 蔡崇达",
+    "description": ""
+  },
+  {
+    "bookid": 122,
+    "title": "皮囊 - 蔡崇达",
+    "description": ""
+  },
+  {
+    "bookid": 123,
+    "title": "红楼梦",
+    "description": ""
+  },
+  {
+    "bookid": 124,
+    "title": "红楼梦脂评汇校本 - 吴铭恩汇校",
+    "description": ""
+  },
+  {
+    "bookid": 125,
+    "title": "读史方舆纪要 -（清）顾祖禹",
+    "description": ""
+  },
+  {
+    "bookid": 126,
+    "title": "竹书纪年",
+    "description": ""
+  },
+  {
+    "bookid": 127,
+    "title": "古本竹书纪年",
+    "description": ""
+  },
+  {
+    "bookid": 128,
+    "title": "给青年的十二封信 - 朱光潜",
+    "description": ""
+  },
+  {
+    "bookid": 129,
+    "title": "谈美 - 朱光潜",
+    "description": ""
+  },
+  {
+    "bookid": 130,
+    "title": "金圣叹批评本西厢记",
+    "description": ""
+  },
+  {
+    "bookid": 131,
+    "title": "射雕英雄传 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 132,
+    "title": "闲情偶寄 - 李渔",
+    "description": ""
+  },
+  {
+    "bookid": 133,
+    "title": "天下才子必读书 - 金圣叹选批",
+    "description": ""
+  },
+  {
+    "bookid": 134,
+    "title": "鹿鼎记 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 135,
+    "title": "饥饿的盛世：乾隆时代的得与失 - 张宏杰",
+    "description": ""
+  },
+  {
+    "bookid": 136,
+    "title": "翦商：殷周之变与华夏新生 - 李硕",
+    "description": ""
+  },
+  {
+    "bookid": 137,
+    "title": "中国法律与中国社会 - 瞿同祖著",
+    "description": ""
+  },
+  {
+    "bookid": 138,
+    "title": "南明史 - 顾诚",
+    "description": ""
+  },
+  {
+    "bookid": 139,
+    "title": "谈艺录 - 钱锺书",
+    "description": ""
+  },
+  {
+    "bookid": 140,
+    "title": "慈禧全传 - 高阳",
+    "description": ""
+  },
+  {
+    "bookid": 141,
+    "title": "罗织经",
+    "description": ""
+  },
+  {
+    "bookid": 142,
+    "title": "共同富裕 - 厉以宁，黄奇帆，刘世锦，蔡昉",
+    "description": ""
+  },
+  {
+    "bookid": 143,
+    "title": "吕氏春秋",
+    "description": ""
+  },
+  {
+    "bookid": 144,
+    "title": "“边缘人”纪事：几个“问题”小人物的悲剧故事 - 杨奎松",
+    "description": ""
+  },
+  {
+    "bookid": 145,
+    "title": "抗战前后国共谈判实录 - 杨奎松",
+    "description": ""
+  },
+  {
+    "bookid": 146,
+    "title": "读史求实：中国现代史读史札记 - 杨奎松",
+    "description": ""
+  },
+  {
+    "bookid": 147,
+    "title": "“中间地带”的革命：国际大背景下看中共成功之道 - 杨奎松",
+    "description": ""
+  },
+  {
+    "bookid": 148,
+    "title": "毛泽东与莫斯科的恩恩怨怨 - 杨奎松",
+    "description": ""
+  },
+  {
+    "bookid": 149,
+    "title": "国民党的“联共”与“反共” - 杨奎松",
+    "description": ""
+  },
+  {
+    "bookid": 150,
+    "title": "西安事变新探： 张学良与中共关系之谜 - 杨奎松",
+    "description": ""
+  },
+  {
+    "bookid": 151,
+    "title": "红楼梦魇 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 152,
+    "title": "盐镇 - 易小荷",
+    "description": ""
+  },
+  {
+    "bookid": 153,
+    "title": "管錐編 - 钱锺书",
+    "description": ""
+  },
+  {
+    "bookid": 154,
+    "title": "苏东坡传 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 155,
+    "title": "蘇軾選集 - 王水照選注",
+    "description": ""
+  },
+  {
+    "bookid": 156,
+    "title": "味道之人民公社第二版 - 梁文道",
+    "description": ""
+  },
+  {
+    "bookid": 157,
+    "title": "味道之味觉现象（最终）第2版 - 梁文道",
+    "description": ""
+  },
+  {
+    "bookid": 158,
+    "title": "味道之第一宗罪第二版 - 梁文道",
+    "description": ""
+  },
+  {
+    "bookid": 159,
+    "title": "白鹿原无删减版 - 陈忠实",
+    "description": ""
+  },
+  {
+    "bookid": 160,
+    "title": "走出帝制：从晚清到民国的历史回望 - 秦晖",
+    "description": ""
+  },
+  {
+    "bookid": 161,
+    "title": "邱会作回忆录 - 邱会作",
+    "description": ""
+  },
+  {
+    "bookid": 162,
+    "title": "李作鹏回忆录",
+    "description": ""
+  },
+  {
+    "bookid": 163,
+    "title": "岁月艰难：吴法宪回忆录",
+    "description": ""
+  },
+  {
+    "bookid": 164,
+    "title": "中国文化的深层结构 - [美]孙隆基",
+    "description": ""
+  },
+  {
+    "bookid": 165,
+    "title": "巨婴国 - 武志红",
+    "description": ""
+  },
+  {
+    "bookid": 166,
+    "title": "务虚笔记 - 史铁生",
+    "description": ""
+  },
+  {
+    "bookid": 167,
+    "title": "指数基金投资指南-银行螺丝钉",
+    "description": ""
+  },
+  {
+    "bookid": 168,
+    "title": "历史的温度 - 张玮",
+    "description": ""
+  },
+  {
+    "bookid": 169,
+    "title": "悲欣交集：弘一大师李叔同的前世今生 - 陈慧剑",
+    "description": ""
+  },
+  {
+    "bookid": 170,
+    "title": "我们仨 - 杨绛",
+    "description": ""
+  },
+  {
+    "bookid": 171,
+    "title": "白鸟坠入密林 - 贝客邦",
+    "description": ""
+  },
+  {
+    "bookid": 172,
+    "title": "四书 - 阎连科",
+    "description": ""
+  },
+  {
+    "bookid": 173,
+    "title": "相信 - 蔡磊",
+    "description": ""
+  },
+  {
+    "bookid": 174,
+    "title": "中华史纲 - 李定一",
+    "description": ""
+  },
+  {
+    "bookid": 175,
+    "title": "中国通史 - 吕思勉",
+    "description": ""
+  },
+  {
+    "bookid": 176,
+    "title": "中国通史 - 傅乐成",
+    "description": ""
+  },
+  {
+    "bookid": 177,
+    "title": "中国通史 - 白寿彝",
+    "description": ""
+  },
+  {
+    "bookid": 178,
+    "title": "国史大纲 - 钱穆",
+    "description": ""
+  },
+  {
+    "bookid": 179,
+    "title": "中国通史 - 范文澜，蔡美彪",
+    "description": ""
+  },
+  {
+    "bookid": 180,
+    "title": "中国史纲 - 张荫麟、吕思勉、蒋廷黻",
+    "description": ""
+  },
+  {
+    "bookid": 181,
+    "title": "中国史纲要 - 翦伯赞",
+    "description": ""
+  },
+  {
+    "bookid": 182,
+    "title": "简读中国史：世界史坐标下的中国 - 张宏杰",
+    "description": ""
+  },
+  {
+    "bookid": 183,
+    "title": "中国通史 - 社科院",
+    "description": ""
+  },
+  {
+    "bookid": 184,
+    "title": "中国通史 - 钱穆、叶龙",
+    "description": ""
+  },
+  {
+    "bookid": 185,
+    "title": "国史概要(第4版) - 樊树志",
+    "description": ""
+  },
+  {
+    "bookid": 186,
+    "title": "中国史纲（外二种）- 张荫麟",
+    "description": ""
+  },
+  {
+    "bookid": 187,
+    "title": "宋史论丛 - 张荫麟",
+    "description": ""
+  },
+  {
+    "bookid": 188,
+    "title": "清史论丛 - 张荫麟",
+    "description": ""
+  },
+  {
+    "bookid": 189,
+    "title": "张荫麟书评集",
+    "description": ""
+  },
+  {
+    "bookid": 190,
+    "title": "调味圣经（第2版） - 牛国平、周伟",
+    "description": ""
+  },
+  {
+    "bookid": 191,
+    "title": "隋炀帝艳史",
+    "description": ""
+  },
+  {
+    "bookid": 192,
+    "title": "隋唐演义",
+    "description": ""
+  },
+  {
+    "bookid": 193,
+    "title": "百年老狼：经济危机的脉络 - 马前卒(任冲昊)",
+    "description": ""
+  },
+  {
+    "bookid": 194,
+    "title": "致命弱点 - 杨恒均",
+    "description": ""
+  },
+  {
+    "bookid": 195,
+    "title": "致命武器 - 杨恒均",
+    "description": ""
+  },
+  {
+    "bookid": 196,
+    "title": "致命追杀 - 杨恒均",
+    "description": ""
+  },
+  {
+    "bookid": 197,
+    "title": "沧浪之水 - 阎真",
+    "description": ""
+  },
+  {
+    "bookid": 198,
+    "title": "如何是好 - 阎真",
+    "description": ""
+  },
+  {
+    "bookid": 199,
+    "title": "华音流韶 - 步非烟(辛晓娟)",
+    "description": ""
+  },
+  {
+    "bookid": 200,
+    "title": "房思琪的初恋乐园 - 林奕含",
+    "description": ""
+  },
+  {
+    "bookid": 201,
+    "title": "笑傲江湖 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 202,
+    "title": "草房子 - 曹文轩",
+    "description": ""
+  },
+  {
+    "bookid": 203,
+    "title": "倾城之恋 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 204,
+    "title": "天朝的崩溃 - 茅海建",
+    "description": ""
+  },
+  {
+    "bookid": 205,
+    "title": "平如美棠：我俩的故事 - 饶平如",
+    "description": ""
+  },
+  {
+    "bookid": 206,
+    "title": "秋园 - 杨本芬",
+    "description": ""
+  },
+  {
+    "bookid": 207,
+    "title": "傅雷家书 - 傅聪",
+    "description": ""
+  },
+  {
+    "bookid": 208,
+    "title": "刷盘子，还是读书？——反思中日强国之路 - 钟庆（愚蠢小猪）",
+    "description": ""
+  },
+  {
+    "bookid": 209,
+    "title": "我在北京送快递 - 胡安焉",
+    "description": ""
+  },
+  {
+    "bookid": 210,
+    "title": "了不起的物理 - 严伯钧",
+    "description": ""
+  },
+  {
+    "bookid": 211,
+    "title": "古文观止演义 - 王鼎钧",
+    "description": ""
+  },
+  {
+    "bookid": 212,
+    "title": "中国建筑史 - 梁思成",
+    "description": ""
+  },
+  {
+    "bookid": 213,
+    "title": "朱子语类",
+    "description": ""
+  },
+  {
+    "bookid": 214,
+    "title": "第九个寡妇 - 严歌苓",
+    "description": ""
+  },
+  {
+    "bookid": 215,
+    "title": "数学之美 - 吴军",
+    "description": ""
+  },
+  {
+    "bookid": 216,
+    "title": "上学记 - 何兆武、文靖",
+    "description": ""
+  },
+  {
+    "bookid": 217,
+    "title": "一个大童话：我在中国的四十年 - 遇罗锦",
+    "description": ""
+  },
+  {
+    "bookid": 218,
+    "title": "乾坤特重我头轻：回忆我的哥哥遇罗克 - 遇罗锦",
+    "description": ""
+  },
+  {
+    "bookid": 219,
+    "title": "孙子兵法",
+    "description": ""
+  },
+  {
+    "bookid": 220,
+    "title": "三十六计",
+    "description": ""
+  },
+  {
+    "bookid": 221,
+    "title": "曹操批注《孙子兵法》",
+    "description": ""
+  },
+  {
+    "bookid": 222,
+    "title": "荀子",
+    "description": ""
+  },
+  {
+    "bookid": 223,
+    "title": "列子",
+    "description": ""
+  },
+  {
+    "bookid": 224,
+    "title": "墨子 - 墨翟",
+    "description": ""
+  },
+  {
+    "bookid": 225,
+    "title": "韩非子",
+    "description": ""
+  },
+  {
+    "bookid": 226,
+    "title": "鬼谷子",
+    "description": ""
+  },
+  {
+    "bookid": 227,
+    "title": "抱朴子",
+    "description": ""
+  },
+  {
+    "bookid": 228,
+    "title": "管子",
+    "description": ""
+  },
+  {
+    "bookid": 229,
+    "title": "六韬",
+    "description": ""
+  },
+  {
+    "bookid": 230,
+    "title": "吴子兵法",
+    "description": ""
+  },
+  {
+    "bookid": 231,
+    "title": "司马法",
+    "description": ""
+  },
+  {
+    "bookid": 232,
+    "title": "孔子家语",
+    "description": ""
+  },
+  {
+    "bookid": 233,
+    "title": "尸子",
+    "description": ""
+  },
+  {
+    "bookid": 234,
+    "title": "关尹子",
+    "description": ""
+  },
+  {
+    "bookid": 235,
+    "title": "黄帝四经",
+    "description": ""
+  },
+  {
+    "bookid": 236,
+    "title": "公孙龙子",
+    "description": ""
+  },
+  {
+    "bookid": 237,
+    "title": "邓析子",
+    "description": ""
+  },
+  {
+    "bookid": 238,
+    "title": "尹文子",
+    "description": ""
+  },
+  {
+    "bookid": 239,
+    "title": "惠施“历物十事”",
+    "description": ""
+  },
+  {
+    "bookid": 240,
+    "title": "毛泽东选集",
+    "description": ""
+  },
+  {
+    "bookid": 241,
+    "title": "大江大海1949 - 龙应台",
+    "description": ""
+  },
+  {
+    "bookid": 242,
+    "title": "水经注",
+    "description": ""
+  },
+  {
+    "bookid": 243,
+    "title": "在细雨中呼喊 - 余华",
+    "description": ""
+  },
+  {
+    "bookid": 244,
+    "title": "宫女谈往录 - 金易、沈义羚",
+    "description": ""
+  },
+  {
+    "bookid": 245,
+    "title": "筚路蓝缕：计划经济在中国 - 程连升",
+    "description": ""
+  },
+  {
+    "bookid": 246,
+    "title": "厄运缠身 - 风溯君",
+    "description": ""
+  },
+  {
+    "bookid": 247,
+    "title": "全球科技通史 - 吴军",
+    "description": ""
+  },
+  {
+    "bookid": 248,
+    "title": "智能时代：大数据与智能革命重新定义未来 - 吴军",
+    "description": ""
+  },
+  {
+    "bookid": 249,
+    "title": "上帝的手术刀：基因编辑简史 - 王立铭",
+    "description": ""
+  },
+  {
+    "bookid": 250,
+    "title": "尤侗诗词全集 - (明清)艮斋",
+    "description": ""
+  },
+  {
+    "bookid": 251,
+    "title": "黄帝内经",
+    "description": ""
+  },
+  {
+    "bookid": 252,
+    "title": "神农本草经",
+    "description": ""
+  },
+  {
+    "bookid": 253,
+    "title": "生死疲劳 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 254,
+    "title": "红高粱家族 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 255,
+    "title": "檀香刑 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 256,
+    "title": "丰乳肥臀 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 257,
+    "title": "蛙 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 258,
+    "title": "晚熟的人 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 259,
+    "title": "透明的红萝卜 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 260,
+    "title": "球状闪电 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 261,
+    "title": "酒国 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 262,
+    "title": "莫言的奇奇怪怪故事集 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 263,
+    "title": "天堂蒜薹之歌 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 264,
+    "title": "十三步 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 265,
+    "title": "食草家族 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 266,
+    "title": "红树林 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 267,
+    "title": "四十一炮 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 268,
+    "title": "白狗秋千架 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 269,
+    "title": "与大师约会 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 270,
+    "title": "我們的荊軻(劇本) - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 271,
+    "title": "会唱歌的墙 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 272,
+    "title": "师傅越来越雅谑 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 273,
+    "title": "怀抱鲜花的女人 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 274,
+    "title": "欢乐 - 莫言",
+    "description": ""
+  },
+  {
+    "bookid": 275,
+    "title": "鬼吹灯(全八册) - 天下霸唱",
+    "description": ""
+  },
+  {
+    "bookid": 276,
+    "title": "中国近代史 - 蒋廷黻",
+    "description": ""
+  },
+  {
+    "bookid": 277,
+    "title": "兄弟 - 余华",
+    "description": ""
+  },
+  {
+    "bookid": 278,
+    "title": "有所不为的反叛者：批判、怀疑与想象力 - 罗新",
+    "description": ""
+  },
+  {
+    "bookid": 279,
+    "title": "汴京之围：北宋末年的外交、战争和人 - 郭建龙",
+    "description": ""
+  },
+  {
+    "bookid": 280,
+    "title": "呼吸之间 - 李谨伯",
+    "description": ""
+  },
+  {
+    "bookid": 281,
+    "title": "菜根谭",
+    "description": ""
+  },
+  {
+    "bookid": 282,
+    "title": "裴松之注三国志",
+    "description": ""
+  },
+  {
+    "bookid": 283,
+    "title": "金圣叹评点才子古文",
+    "description": ""
+  },
+  {
+    "bookid": 284,
+    "title": "明遗民诗 - (清)卓尔堪",
+    "description": ""
+  },
+  {
+    "bookid": 285,
+    "title": "震川先生集",
+    "description": ""
+  },
+  {
+    "bookid": 286,
+    "title": "巨人的背影——为毛泽东辩护及当代中国问题省思 - 董玉振",
+    "description": ""
+  },
+  {
+    "bookid": 287,
+    "title": "手把手教你：如何从一无所有到财务自由 - 突然心血来潮",
+    "description": ""
+  },
+  {
+    "bookid": 288,
+    "title": "认知觉醒：开启自我改变的原动力 - 周岭",
+    "description": ""
+  },
+  {
+    "bookid": 289,
+    "title": "短暂的春秋：华国锋下台内幕 - 师东兵",
+    "description": ""
+  },
+  {
+    "bookid": 290,
+    "title": "穆斯林的葬礼 - 霍达",
+    "description": ""
+  },
+  {
+    "bookid": 291,
+    "title": "寻秦记 - 黄易",
+    "description": ""
+  },
+  {
+    "bookid": 292,
+    "title": "历史学的境界 - 高华",
+    "description": ""
+  },
+  {
+    "bookid": 293,
+    "title": "北洋军阀史 - 来新夏",
+    "description": ""
+  },
+  {
+    "bookid": 294,
+    "title": "从惊奇开始：青少年哲学第一课 - 刘擎等著",
+    "description": ""
+  },
+  {
+    "bookid": 295,
+    "title": "感知·理知·自我认知 - 陈嘉映",
+    "description": ""
+  },
+  {
+    "bookid": 296,
+    "title": "打开：周濂的100堂西方哲学课 - 周濂",
+    "description": ""
+  },
+  {
+    "bookid": 297,
+    "title": "西方哲学史讲演录 - 赵林",
+    "description": ""
+  },
+  {
+    "bookid": 298,
+    "title": "用得上的哲学：破解日常难题的99种思考方法 - 徐英瑾",
+    "description": ""
+  },
+  {
+    "bookid": 299,
+    "title": "《存在与时间》读本 - 陈嘉映",
+    "description": ""
+  },
+  {
+    "bookid": 300,
+    "title": "萧红全集",
+    "description": ""
+  },
+  {
+    "bookid": 301,
+    "title": "可能性的艺术：比较政治学30讲 - 刘瑜",
+    "description": ""
+  },
+  {
+    "bookid": 302,
+    "title": "送你一颗子弹 - 刘瑜",
+    "description": ""
+  },
+  {
+    "bookid": 303,
+    "title": "民主的细节 - 刘瑜",
+    "description": ""
+  },
+  {
+    "bookid": 304,
+    "title": "观念的水位 - 刘瑜",
+    "description": ""
+  },
+  {
+    "bookid": 305,
+    "title": "愿你慢慢长大 - 刘瑜等",
+    "description": ""
+  },
+  {
+    "bookid": 306,
+    "title": "把自己作为方法：与项飙谈话 - 项飙、吴琦著",
+    "description": ""
+  },
+  {
+    "bookid": 307,
+    "title": "费曼学习法：用输出倒逼输入 - 尹红心、李伟著",
+    "description": ""
+  },
+  {
+    "bookid": 308,
+    "title": "我是落花生的女儿 - 许燕吉",
+    "description": ""
+  },
+  {
+    "bookid": 309,
+    "title": "理想之城：苏筱的战争 - 若花燃燃",
+    "description": ""
+  },
+  {
+    "bookid": 310,
+    "title": "沈从文九讲 - 张新颖",
+    "description": ""
+  },
+  {
+    "bookid": 311,
+    "title": "一个人的村庄 - 刘亮程",
+    "description": ""
+  },
+  {
+    "bookid": 312,
+    "title": "吴晗论明史",
+    "description": ""
+  },
+  {
+    "bookid": 313,
+    "title": "延安日记（1940-1945）- 萧军",
+    "description": ""
+  },
+  {
+    "bookid": 314,
+    "title": "镜花缘 - 李汝珍",
+    "description": ""
+  },
+  {
+    "bookid": 315,
+    "title": "人生 - 路遥",
+    "description": ""
+  },
+  {
+    "bookid": 316,
+    "title": "一生中最高兴的一天 - 路遥",
+    "description": ""
+  },
+  {
+    "bookid": 317,
+    "title": "早晨从中午开始 - 路遥",
+    "description": ""
+  },
+  {
+    "bookid": 318,
+    "title": "古代漢語 - 王力(主编)",
+    "description": ""
+  },
+  {
+    "bookid": 319,
+    "title": "一封家书 - 小僧",
+    "description": ""
+  },
+  {
+    "bookid": 320,
+    "title": "大地的谎言 - 小僧",
+    "description": ""
+  },
+  {
+    "bookid": 321,
+    "title": "南村辍耕录",
+    "description": ""
+  },
+  {
+    "bookid": 322,
+    "title": "趋光运动：回溯童年的精神图景 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 323,
+    "title": "为了报仇写小说：残雪访谈录 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 324,
+    "title": "山上的小屋 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 325,
+    "title": "传说中的宝藏 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 326,
+    "title": "小镇逸事 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 327,
+    "title": "末世爱情 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 328,
+    "title": "自然的意志 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 329,
+    "title": "影族 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 330,
+    "title": "一个奇异的世界 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 331,
+    "title": "苍老的浮云 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 332,
+    "title": "开凿 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 333,
+    "title": "海的诱惑 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 334,
+    "title": "鹰之歌 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 335,
+    "title": "暗夜 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 336,
+    "title": "水乡 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 337,
+    "title": "赤脚医生 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 338,
+    "title": "黑暗地母的礼物 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 339,
+    "title": "思想汇报 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 340,
+    "title": "五香街 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 341,
+    "title": "吕芳诗小姐 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 342,
+    "title": "边疆 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 343,
+    "title": "新世纪爱情故事 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 344,
+    "title": "黄泥街 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 345,
+    "title": "最后的情人 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 346,
+    "title": "灵魂的城堡：理解卡夫卡 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 347,
+    "title": "辉煌的裂变：卡尔维诺的艺术生存 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 348,
+    "title": "地狱中的独行者 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 349,
+    "title": "解读博尔赫斯 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 350,
+    "title": "永生的操练：解读《神曲》 - 残雪",
+    "description": ""
+  },
+  {
+    "bookid": 351,
+    "title": "北京折叠 - 郝景芳",
+    "description": ""
+  },
+  {
+    "bookid": 352,
+    "title": "肉蒲团 - 李渔",
+    "description": ""
+  },
+  {
+    "bookid": 353,
+    "title": "肉蒲團 - 情隱先生",
+    "description": ""
+  },
+  {
+    "bookid": 354,
+    "title": "金钱博弈 - 单伟建",
+    "description": ""
+  },
+  {
+    "bookid": 355,
+    "title": "灯草和尚 - 高则诚",
+    "description": ""
+  },
+  {
+    "bookid": 356,
+    "title": "绣榻野史 - 吕天成",
+    "description": ""
+  },
+  {
+    "bookid": 357,
+    "title": "新刻碧玉楼",
+    "description": ""
+  },
+  {
+    "bookid": 358,
+    "title": "如意君传 - 徐昌龄",
+    "description": ""
+  },
+  {
+    "bookid": 359,
+    "title": "三言二拍：初刻拍案惊奇 - 凌濛初",
+    "description": ""
+  },
+  {
+    "bookid": 360,
+    "title": "三言二拍：二刻拍案惊奇 - 凌濛初",
+    "description": ""
+  },
+  {
+    "bookid": 361,
+    "title": "三刻拍案惊奇 - 陆人龙",
+    "description": ""
+  },
+  {
+    "bookid": 362,
+    "title": "京华烟云 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 363,
+    "title": "爱与讽刺 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 364,
+    "title": "从异教徒到基督徒 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 365,
+    "title": "林语堂自传+八十自叙",
+    "description": ""
+  },
+  {
+    "bookid": 366,
+    "title": "大城北京 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 367,
+    "title": "风声鹤唳 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 368,
+    "title": "红牡丹 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 369,
+    "title": "孔子的智慧 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 370,
+    "title": "赖柏英 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 371,
+    "title": "老子的智慧 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 372,
+    "title": "美国的智慧 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 373,
+    "title": "平心论高鹗 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 374,
+    "title": "奇岛 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 375,
+    "title": "生活的艺术 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 376,
+    "title": "人生不过如此 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 377,
+    "title": "唐人街 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 378,
+    "title": "啼笑皆非 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 379,
+    "title": "吾国与吾民 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 380,
+    "title": "武则天正传 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 381,
+    "title": "中国传奇 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 382,
+    "title": "印度的智慧 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 383,
+    "title": "中国的智慧 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 384,
+    "title": "朱门 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 385,
+    "title": "中国的理智 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 386,
+    "title": "动人的北平 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 387,
+    "title": "本来的自由 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 388,
+    "title": "人生的态度 - 林语堂",
+    "description": ""
+  },
+  {
+    "bookid": 389,
+    "title": "废都 - 贾平凹",
+    "description": ""
+  },
+  {
+    "bookid": 390,
+    "title": "秦腔 - 贾平凹",
+    "description": ""
+  },
+  {
+    "bookid": 391,
+    "title": "古炉 - 贾平凹",
+    "description": ""
+  },
+  {
+    "bookid": 392,
+    "title": "山本 - 贾平凹",
+    "description": ""
+  },
+  {
+    "bookid": 393,
+    "title": "浮躁 - 贾平凹",
+    "description": ""
+  },
+  {
+    "bookid": 394,
+    "title": "打开心灵之门 - 袁红、姜荣环、王昆主编",
+    "description": ""
+  },
+  {
+    "bookid": 395,
+    "title": "中国道教发展史略 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 396,
+    "title": "如何修证佛法 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 397,
+    "title": "中国文化泛言 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 398,
+    "title": "静坐修道与长生不老 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 399,
+    "title": "易经杂说 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 400,
+    "title": "药师经的济世观 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 401,
+    "title": "原本大学微言 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 402,
+    "title": "学佛者的基本信念 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 403,
+    "title": "定慧初修 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 404,
+    "title": "圆觉经略说 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 405,
+    "title": "金刚经说什么 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 406,
+    "title": "楞伽大义今释 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 407,
+    "title": "楞严大义今释 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 408,
+    "title": "禅话 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 409,
+    "title": "禅海蠡测 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 410,
+    "title": "道家、密宗与东方神秘学 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 411,
+    "title": "易经系传别讲 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 412,
+    "title": "孟子旁通 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 413,
+    "title": "老子他说 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 414,
+    "title": "亦新亦旧的一代 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 415,
+    "title": "中国佛教发展史略 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 416,
+    "title": "历史的经验 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 417,
+    "title": "禅宗与道家 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 418,
+    "title": "论语别裁 - 南怀瑾",
+    "description": ""
+  },
+  {
+    "bookid": 419,
+    "title": "《红楼梦》考证（改定稿） - 胡适",
+    "description": ""
+  },
+  {
+    "bookid": 420,
+    "title": "《红楼梦》研究 - 俞平伯",
+    "description": ""
+  },
+  {
+    "bookid": 421,
+    "title": "夜晚的潜水艇 - 陈春成",
+    "description": ""
+  },
+  {
+    "bookid": 422,
+    "title": "走出戈壁：我的中美故事 - 單偉建",
+    "description": ""
+  },
+  {
+    "bookid": 423,
+    "title": "在历史巨人身边：师哲回忆录 - 李海文",
+    "description": ""
+  },
+  {
+    "bookid": 424,
+    "title": "我的前半生 - 爱新觉罗·溥仪",
+    "description": ""
+  },
+  {
+    "bookid": 425,
+    "title": "往事如烟：张国焘夫人回忆录 - 杨子烈",
+    "description": ""
+  },
+  {
+    "bookid": 426,
+    "title": "我的回忆 - 张国焘",
+    "description": ""
+  },
+  {
+    "bookid": 427,
+    "title": "情绪自救：化解焦虑、抑郁、失眠的七天自我疗愈法 - 李宏夫",
+    "description": ""
+  },
+  {
+    "bookid": 428,
+    "title": "庆余年 - 猫腻",
+    "description": ""
+  },
+  {
+    "bookid": 429,
+    "title": "墓碑：中国六十年代大饥荒纪实 - 杨继绳",
+    "description": ""
+  },
+  {
+    "bookid": 430,
+    "title": "中国改革年代的政治斗争 - 杨继绳",
+    "description": ""
+  },
+  {
+    "bookid": 431,
+    "title": "苏东坡新传 - 李一冰",
+    "description": ""
+  },
+  {
+    "bookid": 432,
+    "title": "伤寒论 - 汉·张仲景",
+    "description": ""
+  },
+  {
+    "bookid": 433,
+    "title": "癸酉本红楼梦（吴氏石头记）",
+    "description": ""
+  },
+  {
+    "bookid": 434,
+    "title": "阶级身份和差异：1949-1965年中国社会的政治分层 - 高华",
+    "description": ""
+  },
+  {
+    "bookid": 435,
+    "title": "井口战役 - 核动力战列舰",
+    "description": ""
+  },
+  {
+    "bookid": 436,
+    "title": "不被理解的少年 - 陈瑜",
+    "description": ""
+  },
+  {
+    "bookid": 437,
+    "title": "基层女性 - 王慧玲",
+    "description": ""
+  },
+  {
+    "bookid": 438,
+    "title": "普通读者：独立书评家西闪随笔精选集",
+    "description": ""
+  },
+  {
+    "bookid": 439,
+    "title": "斗破苍穹 - 天蚕土豆",
+    "description": ""
+  },
+  {
+    "bookid": 440,
+    "title": "许仙志 - 说梦者",
+    "description": ""
+  },
+  {
+    "bookid": 441,
+    "title": "大脑简史 - 谢伯让",
+    "description": ""
+  },
+  {
+    "bookid": 442,
+    "title": "十万个为什么第六版 - 韩启德总主编",
+    "description": ""
+  },
+  {
+    "bookid": 443,
+    "title": "绝密人性天书 - 我吃西红柿（朱洪志）",
+    "description": ""
+  },
+  {
+    "bookid": 444,
+    "title": "世说俗谈 - 刘勃",
+    "description": ""
+  },
+  {
+    "bookid": 445,
+    "title": "失败者的春秋 - 刘勃",
+    "description": ""
+  },
+  {
+    "bookid": 446,
+    "title": "司马迁的记忆之野 - 刘勃",
+    "description": ""
+  },
+  {
+    "bookid": 447,
+    "title": "战国歧途 - 刘勃",
+    "description": ""
+  },
+  {
+    "bookid": 448,
+    "title": "传奇中的大唐 - 刘勃",
+    "description": ""
+  },
+  {
+    "bookid": 449,
+    "title": "人以什么理由来记忆 - 徐贲",
+    "description": ""
+  },
+  {
+    "bookid": 450,
+    "title": "通往尊严的公共生活 - 徐贲",
+    "description": ""
+  },
+  {
+    "bookid": 451,
+    "title": "统治与教育：从国民到公民 - 徐贲",
+    "description": ""
+  },
+  {
+    "bookid": 452,
+    "title": "知识分子和公共政治 - 徐贲",
+    "description": ""
+  },
+  {
+    "bookid": 453,
+    "title": "明亮的对话：公共说理十八讲 - 徐贲",
+    "description": ""
+  },
+  {
+    "bookid": 454,
+    "title": "颓废与沉默：透视犬儒文化 - 徐贲",
+    "description": ""
+  },
+  {
+    "bookid": 455,
+    "title": "怀疑的时代需要怎样的信仰 - 徐贲",
+    "description": ""
+  },
+  {
+    "bookid": 456,
+    "title": "什么是好的公共生活 - 徐贲",
+    "description": ""
+  },
+  {
+    "bookid": 457,
+    "title": "弹指词 - 顾贞观(清)",
+    "description": ""
+  },
+  {
+    "bookid": 458,
+    "title": "纳兰词笺注 - 纳兰性德、张草纫",
+    "description": ""
+  },
+  {
+    "bookid": 459,
+    "title": "张岱诗文集 - 夏咸淳辑校",
+    "description": ""
+  },
+  {
+    "bookid": 460,
+    "title": "稼轩词编年笺注 - 辛弃疾、邓广铭",
+    "description": ""
+  },
+  {
+    "bookid": 461,
+    "title": "放翁词编年笺注 - 陆游、夏承焘、吴熊和、陶然",
+    "description": ""
+  },
+  {
+    "bookid": 462,
+    "title": "李清照集笺注 - 李清照、徐培均",
+    "description": ""
+  },
+  {
+    "bookid": 463,
+    "title": "东坡乐府笺 - 苏轼著、朱孝臧",
+    "description": ""
+  },
+  {
+    "bookid": 464,
+    "title": "李璟李煜词校注 - 李璟、李煜、詹安泰",
+    "description": ""
+  },
+  {
+    "bookid": 465,
+    "title": "韩昌黎文集校注 - 韩愈、马其昶、马茂元",
+    "description": ""
+  },
+  {
+    "bookid": 466,
+    "title": "楚辞今注 - 汤炳正、李大明、李诚、熊良智注",
+    "description": ""
+  },
+  {
+    "bookid": 467,
+    "title": "诗经今注 - 高亨注",
+    "description": ""
+  },
+  {
+    "bookid": 468,
+    "title": "清稗类钞 - 徐珂",
+    "description": ""
+  },
+  {
+    "bookid": 469,
+    "title": "半截墓碑下的往事：高岗在北京 - 赵家梁、张晓霁",
+    "description": ""
+  },
+  {
+    "bookid": 470,
+    "title": "美的历程 - 李泽厚",
+    "description": ""
+  },
+  {
+    "bookid": 471,
+    "title": "细说中国历史丛书（全十册）- 黎东方",
+    "description": ""
+  },
+  {
+    "bookid": 472,
+    "title": "马瑞芳趣话红楼梦 - 马瑞芳",
+    "description": ""
+  },
+  {
+    "bookid": 473,
+    "title": "绿烟琐窗集  - 富察明义",
+    "description": ""
+  },
+  {
+    "bookid": 474,
+    "title": "楹联丛话全编 - 梁章钜",
+    "description": ""
+  },
+  {
+    "bookid": 475,
+    "title": "现代汉语语法十讲 - 张斌",
+    "description": ""
+  },
+  {
+    "bookid": 476,
+    "title": "智囊全集 - 冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 477,
+    "title": "天吾手记 - 双雪涛",
+    "description": ""
+  },
+  {
+    "bookid": 478,
+    "title": "猎人 - 双雪涛",
+    "description": ""
+  },
+  {
+    "bookid": 479,
+    "title": "翅鬼 - 双雪涛",
+    "description": ""
+  },
+  {
+    "bookid": 480,
+    "title": "聋哑时代 - 双雪涛",
+    "description": ""
+  },
+  {
+    "bookid": 481,
+    "title": "飞行家 - 双雪涛",
+    "description": ""
+  },
+  {
+    "bookid": 482,
+    "title": "平原上的摩西 - 双雪涛",
+    "description": ""
+  },
+  {
+    "bookid": 483,
+    "title": "《收获》文学榜2021中短篇小说",
+    "description": ""
+  },
+  {
+    "bookid": 484,
+    "title": "海葵 - 贝客邦",
+    "description": ""
+  },
+  {
+    "bookid": 485,
+    "title": "轮回前的告别 - 贝客邦",
+    "description": ""
+  },
+  {
+    "bookid": 486,
+    "title": "白鸟坠入密林 - 贝客邦",
+    "description": ""
+  },
+  {
+    "bookid": 487,
+    "title": "江南三部曲：人面桃花 - 格非",
+    "description": ""
+  },
+  {
+    "bookid": 488,
+    "title": "江南三部曲：山河入梦 - 格非",
+    "description": ""
+  },
+  {
+    "bookid": 489,
+    "title": "江南三部曲：春尽江南 - 格非",
+    "description": ""
+  },
+  {
+    "bookid": 490,
+    "title": "戒指花 - 格非",
+    "description": ""
+  },
+  {
+    "bookid": 491,
+    "title": "锦瑟 - 格非",
+    "description": ""
+  },
+  {
+    "bookid": 492,
+    "title": "相遇 - 格非",
+    "description": ""
+  },
+  {
+    "bookid": 493,
+    "title": "迷舟 - 格非",
+    "description": ""
+  },
+  {
+    "bookid": 494,
+    "title": "边缘 - 格非",
+    "description": ""
+  },
+  {
+    "bookid": 495,
+    "title": "敌人 - 格非",
+    "description": ""
+  },
+  {
+    "bookid": 496,
+    "title": "欲望的旗帜 - 格非",
+    "description": ""
+  },
+  {
+    "bookid": 497,
+    "title": "雪隐鹭鸶：《金瓶梅》的声色与虚无 - 格非",
+    "description": ""
+  },
+  {
+    "bookid": 498,
+    "title": "南京传 - 叶兆言",
+    "description": ""
+  },
+  {
+    "bookid": 499,
+    "title": "浮木 - 杨本芬",
+    "description": ""
+  },
+  {
+    "bookid": 500,
+    "title": "斗争十八年 - 司马璐",
+    "description": ""
+  },
+  {
+    "bookid": 501,
+    "title": "晚年周恩来 - 高文谦",
+    "description": ""
+  },
+  {
+    "bookid": 502,
+    "title": "午夜降临前抵达 - 刘子超",
+    "description": ""
+  },
+  {
+    "bookid": 503,
+    "title": "妻妾成群 - 苏童",
+    "description": ""
+  },
+  {
+    "bookid": 504,
+    "title": "武则天 - 苏童",
+    "description": ""
+  },
+  {
+    "bookid": 505,
+    "title": "城北地带 - 苏童",
+    "description": ""
+  },
+  {
+    "bookid": 506,
+    "title": "菩萨蛮 - 苏童",
+    "description": ""
+  },
+  {
+    "bookid": 507,
+    "title": "我的帝王生涯 - 苏童",
+    "description": ""
+  },
+  {
+    "bookid": 508,
+    "title": "米 - 苏童",
+    "description": ""
+  },
+  {
+    "bookid": 509,
+    "title": "蛇为什么会飞 - 苏童",
+    "description": ""
+  },
+  {
+    "bookid": 510,
+    "title": "红粉 - 苏童",
+    "description": ""
+  },
+  {
+    "bookid": 511,
+    "title": "罂粟之家 - 苏童",
+    "description": ""
+  },
+  {
+    "bookid": 512,
+    "title": "刺青时代 - 苏童",
+    "description": ""
+  },
+  {
+    "bookid": 513,
+    "title": "驯子记 - 苏童",
+    "description": ""
+  },
+  {
+    "bookid": 514,
+    "title": "骑兵 - 苏童",
+    "description": ""
+  },
+  {
+    "bookid": 515,
+    "title": "神女峰 - 苏童",
+    "description": ""
+  },
+  {
+    "bookid": 516,
+    "title": "向日葵 - 苏童",
+    "description": ""
+  },
+  {
+    "bookid": 517,
+    "title": "何以中国：公元前2000年的中原图景 - 许宏",
+    "description": ""
+  },
+  {
+    "bookid": 518,
+    "title": "大都无城：中国古都的动态解读 - 许宏",
+    "description": ""
+  },
+  {
+    "bookid": 519,
+    "title": "东亚青铜潮：前甲骨文时代的千年变局 - 许宏",
+    "description": ""
+  },
+  {
+    "bookid": 520,
+    "title": "三言二拍：警世通言 - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 521,
+    "title": "三言二拍：醒世恒言 - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 522,
+    "title": "三言二拍：喻世明言(古今小说) - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 523,
+    "title": "语文杂记 - 吕叔湘",
+    "description": ""
+  },
+  {
+    "bookid": 524,
+    "title": "语文漫谈：吕叔湘讲解字词句 - 吕叔湘",
+    "description": ""
+  },
+  {
+    "bookid": 525,
+    "title": "语法修辞讲话 - 吕叔湘、朱德熙",
+    "description": ""
+  },
+  {
+    "bookid": 526,
+    "title": "马瑞芳品读红楼梦",
+    "description": ""
+  },
+  {
+    "bookid": 527,
+    "title": "装腔启示录 - 柳翠虎",
+    "description": ""
+  },
+  {
+    "bookid": 528,
+    "title": "歧路灯 - 李海观",
+    "description": ""
+  },
+  {
+    "bookid": 529,
+    "title": "田园诗与狂想曲：关中模式与前近代社会的再认识（第三版） - 秦晖",
+    "description": ""
+  },
+  {
+    "bookid": 530,
+    "title": "南非的启示 - 秦晖",
+    "description": ""
+  },
+  {
+    "bookid": 531,
+    "title": "鼎革之际：明清交替史文集 - 秦晖",
+    "description": ""
+  },
+  {
+    "bookid": 532,
+    "title": "共同的底线 - 秦晖",
+    "description": ""
+  },
+  {
+    "bookid": 533,
+    "title": "传统十论：本土社会的制度、文化及其变革 - 秦晖",
+    "description": ""
+  },
+  {
+    "bookid": 534,
+    "title": "王气黯然：宋元明陕西史 - 秦晖",
+    "description": ""
+  },
+  {
+    "bookid": 535,
+    "title": "白居易全集",
+    "description": ""
+  },
+  {
+    "bookid": 536,
+    "title": "花间集校注 - 赵崇祚、杨景龙",
+    "description": ""
+  },
+  {
+    "bookid": 537,
+    "title": "幽微的人性 - 李玫瑾",
+    "description": ""
+  },
+  {
+    "bookid": 538,
+    "title": "心理抚养 - 李玫瑾",
+    "description": ""
+  },
+  {
+    "bookid": 539,
+    "title": "额尔古纳河右岸 - 迟子建",
+    "description": ""
+  },
+  {
+    "bookid": 540,
+    "title": "世界上所有的夜晚 - 迟子建",
+    "description": ""
+  },
+  {
+    "bookid": 541,
+    "title": "群山之巅 - 迟子建",
+    "description": ""
+  },
+  {
+    "bookid": 542,
+    "title": "白雪乌鸦 - 迟子建",
+    "description": ""
+  },
+  {
+    "bookid": 543,
+    "title": "鬼魅丹青 - 迟子建",
+    "description": ""
+  },
+  {
+    "bookid": 544,
+    "title": "伪满洲国 - 迟子建",
+    "description": ""
+  },
+  {
+    "bookid": 545,
+    "title": "烟火漫卷 - 迟子建",
+    "description": ""
+  },
+  {
+    "bookid": 546,
+    "title": "北极村童话 - 迟子建",
+    "description": ""
+  },
+  {
+    "bookid": 547,
+    "title": "黄鸡白酒：迟子建最新小说集",
+    "description": ""
+  },
+  {
+    "bookid": 548,
+    "title": "淫奇抄系列 - snow_xefd雪凡",
+    "description": ""
+  },
+  {
+    "bookid": 549,
+    "title": "如雪如山 - 张天翼",
+    "description": ""
+  },
+  {
+    "bookid": 550,
+    "title": "李清照诗词全集",
+    "description": ""
+  },
+  {
+    "bookid": 551,
+    "title": "闲品《断肠集》：朱淑真诗词传 - 孟斜阳",
+    "description": ""
+  },
+  {
+    "bookid": 552,
+    "title": "长生殿 - 洪昇",
+    "description": ""
+  },
+  {
+    "bookid": 553,
+    "title": "一捧雪 - (明)李玉",
+    "description": ""
+  },
+  {
+    "bookid": 554,
+    "title": "邯郸记 - 汤显祖",
+    "description": ""
+  },
+  {
+    "bookid": 555,
+    "title": "袁氏当国（第2版） - 唐德刚",
+    "description": ""
+  },
+  {
+    "bookid": 556,
+    "title": "段祺瑞政权：民国史军阀篇 - 唐德刚",
+    "description": ""
+  },
+  {
+    "bookid": 557,
+    "title": "李宗仁回忆录（第2版） - 唐德刚",
+    "description": ""
+  },
+  {
+    "bookid": 558,
+    "title": "胡适口述自传 - 唐德刚",
+    "description": ""
+  },
+  {
+    "bookid": 559,
+    "title": "胡适杂忆（第2版） - 唐德刚",
+    "description": ""
+  },
+  {
+    "bookid": 560,
+    "title": "史学与红学 - 唐德刚",
+    "description": ""
+  },
+  {
+    "bookid": 561,
+    "title": "书缘与人缘 - 唐德刚",
+    "description": ""
+  },
+  {
+    "bookid": 562,
+    "title": "五十年代的尘埃 - 唐德刚",
+    "description": ""
+  },
+  {
+    "bookid": 563,
+    "title": "战争与爱情 - 唐德刚",
+    "description": ""
+  },
+  {
+    "bookid": 564,
+    "title": "故乡相处流传 - 刘震云",
+    "description": ""
+  },
+  {
+    "bookid": 565,
+    "title": "故乡天下黄花 - 刘震云",
+    "description": ""
+  },
+  {
+    "bookid": 566,
+    "title": "手机 - 刘震云",
+    "description": ""
+  },
+  {
+    "bookid": 567,
+    "title": "一地鸡毛 - 刘震云",
+    "description": ""
+  },
+  {
+    "bookid": 568,
+    "title": "我叫刘跃进 - 刘震云",
+    "description": ""
+  },
+  {
+    "bookid": 569,
+    "title": "一句顶一万句 - 刘震云",
+    "description": ""
+  },
+  {
+    "bookid": 570,
+    "title": "我不是潘金莲 - 刘震云",
+    "description": ""
+  },
+  {
+    "bookid": 571,
+    "title": "温故一九四二 - 刘震云",
+    "description": ""
+  },
+  {
+    "bookid": 572,
+    "title": "覆雨翻云 - 黄易",
+    "description": ""
+  },
+  {
+    "bookid": 573,
+    "title": "严绳孙诗词全集 - (明清)藕荡渔人",
+    "description": ""
+  },
+  {
+    "bookid": 574,
+    "title": "崇祯往事：明帝国的最后图景 - 陈梧桐",
+    "description": ""
+  },
+  {
+    "bookid": 575,
+    "title": "大众哲学 - 艾思奇",
+    "description": ""
+  },
+  {
+    "bookid": 576,
+    "title": "王维诗集",
+    "description": ""
+  },
+  {
+    "bookid": 577,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 578,
+    "title": "李守信的自述",
+    "description": ""
+  },
+  {
+    "bookid": 579,
+    "title": "国民党高层的派系政治 - 金以林",
+    "description": ""
+  },
+  {
+    "bookid": 580,
+    "title": "新元史",
+    "description": ""
+  },
+  {
+    "bookid": 581,
+    "title": "清史稿",
+    "description": ""
+  },
+  {
+    "bookid": 582,
+    "title": "传习录 - 王阳明",
+    "description": ""
+  },
+  {
+    "bookid": 583,
+    "title": "异常生物见闻录 - 远瞳",
+    "description": ""
+  },
+  {
+    "bookid": 584,
+    "title": "我被骗去缅北那些年 - 阿最",
+    "description": ""
+  },
+  {
+    "bookid": 585,
+    "title": "素书 - (汉) 黄石公",
+    "description": ""
+  },
+  {
+    "bookid": 586,
+    "title": "回荡的钟摆 - 许小年",
+    "description": ""
+  },
+  {
+    "bookid": 587,
+    "title": "搜神记",
+    "description": ""
+  },
+  {
+    "bookid": 588,
+    "title": "桃花扇本末 - （清）孔尚任著，谢雍君、朱方遒评注",
+    "description": ""
+  },
+  {
+    "bookid": 589,
+    "title": "声律启蒙 - 车万育（清）",
+    "description": ""
+  },
+  {
+    "bookid": 590,
+    "title": "笠翁对韵 - 李渔（清）",
+    "description": ""
+  },
+  {
+    "bookid": 591,
+    "title": "红楼梦诗词曲赋全解 - 蔡义江",
+    "description": ""
+  },
+  {
+    "bookid": 592,
+    "title": "说岳全传：新增精忠演义说本岳王全传 - (清)钱彩",
+    "description": ""
+  },
+  {
+    "bookid": 593,
+    "title": "十字路口的中国经济 - 陆铭",
+    "description": ""
+  },
+  {
+    "bookid": 594,
+    "title": "经济体制与公共政策第2版 - 陆铭、梁文泉",
+    "description": ""
+  },
+  {
+    "bookid": 595,
+    "title": "向心城市：迈向未来的活力、宜居与和谐 - 陆铭",
+    "description": ""
+  },
+  {
+    "bookid": 596,
+    "title": "空间的力量：地理、政治与城市发展(第2版) - 陆铭",
+    "description": ""
+  },
+  {
+    "bookid": 597,
+    "title": "大国大城：当代中国的统一、发展与平衡 - 陆铭",
+    "description": ""
+  },
+  {
+    "bookid": 598,
+    "title": "房地产与城市发展——问题及对策 - 陈杰、陆铭、黄益平、潘英丽",
+    "description": ""
+  },
+  {
+    "bookid": 599,
+    "title": "顶级对话：理解变化中的经济世界 - 张军",
+    "description": ""
+  },
+  {
+    "bookid": 600,
+    "title": "改变中国：经济学家的改革记述 - 张军",
+    "description": ""
+  },
+  {
+    "bookid": 601,
+    "title": "中国寻路者 - 高渊",
+    "description": ""
+  },
+  {
+    "bookid": 602,
+    "title": "在城望乡：田野中国五讲 - 曹东勃",
+    "description": ""
+  },
+  {
+    "bookid": 603,
+    "title": "陶庵梦忆 - (明清)张岱",
+    "description": ""
+  },
+  {
+    "bookid": 604,
+    "title": "西湖梦寻 - (明清)张岱",
+    "description": ""
+  },
+  {
+    "bookid": 605,
+    "title": "琅嬛文集 - (明清)张岱",
+    "description": ""
+  },
+  {
+    "bookid": 606,
+    "title": "夜航船 - (明清)张岱",
+    "description": ""
+  },
+  {
+    "bookid": 607,
+    "title": "石匮书 - (明清)张岱",
+    "description": ""
+  },
+  {
+    "bookid": 608,
+    "title": "石匮书后集 - (明清)张岱",
+    "description": ""
+  },
+  {
+    "bookid": 609,
+    "title": "快园道古 - (明清)张岱",
+    "description": ""
+  },
+  {
+    "bookid": 610,
+    "title": "张岱诗词集 - (明清)张岱",
+    "description": ""
+  },
+  {
+    "bookid": 611,
+    "title": "国榷（整理中） - (明清)谈迁",
+    "description": ""
+  },
+  {
+    "bookid": 612,
+    "title": "板桥杂记 - (明清)余怀",
+    "description": ""
+  },
+  {
+    "bookid": 613,
+    "title": "东京梦华录 - (宋)孟元老",
+    "description": ""
+  },
+  {
+    "bookid": 614,
+    "title": "法医秦明",
+    "description": ""
+  },
+  {
+    "bookid": 615,
+    "title": "明通鉴",
+    "description": ""
+  },
+  {
+    "bookid": 616,
+    "title": "鱼玄机诗编年译注 - 彭志宪、张燚",
+    "description": ""
+  },
+  {
+    "bookid": 617,
+    "title": "浮生六记 - (清)沈复",
+    "description": ""
+  },
+  {
+    "bookid": 618,
+    "title": "阳光灿烂的日子 - 冯志远",
+    "description": ""
+  },
+  {
+    "bookid": 619,
+    "title": "繁花 - 金宇澄",
+    "description": ""
+  },
+  {
+    "bookid": 620,
+    "title": "大明王朝1566 - 刘和平",
+    "description": ""
+  },
+  {
+    "bookid": 621,
+    "title": "楚辞 - (宋)洪兴祖",
+    "description": ""
+  },
+  {
+    "bookid": 622,
+    "title": "墉城集仙录 - (唐)杜光庭",
+    "description": ""
+  },
+  {
+    "bookid": 623,
+    "title": "从来就没有救世主 - 许小年",
+    "description": ""
+  },
+  {
+    "bookid": 624,
+    "title": "芙蓉国 - 柯云路",
+    "description": ""
+  },
+  {
+    "bookid": 625,
+    "title": "函宇通：格致草、地緯 - (明)熊明遇",
+    "description": ""
+  },
+  {
+    "bookid": 626,
+    "title": "列朝诗集 - (清)钱谦益",
+    "description": ""
+  },
+  {
+    "bookid": 627,
+    "title": "列朝小傳 - (清)錢謙益",
+    "description": ""
+  },
+  {
+    "bookid": 628,
+    "title": "盐铁论 - (西汉)桓宽",
+    "description": ""
+  },
+  {
+    "bookid": 629,
+    "title": "巨流河 - 齐邦媛",
+    "description": ""
+  },
+  {
+    "bookid": 630,
+    "title": "再生緣 - (清)陳端生著；梁德繩續補；陳寅恪、郭沫若評",
+    "description": ""
+  },
+  {
+    "bookid": 631,
+    "title": "文革受难者 - 王友琴",
+    "description": ""
+  },
+  {
+    "bookid": 632,
+    "title": "百年中国经济史笔记 - 杨小凯",
+    "description": ""
+  },
+  {
+    "bookid": 633,
+    "title": "诗词格律十讲 - 王力",
+    "description": ""
+  },
+  {
+    "bookid": 634,
+    "title": "汉语的韵律、词法与句法 - 冯胜利",
+    "description": ""
+  },
+  {
+    "bookid": 635,
+    "title": "张春桥狱中家书",
+    "description": ""
+  },
+  {
+    "bookid": 636,
+    "title": "当代中国政府与政治 - 景跃进",
+    "description": ""
+  },
+  {
+    "bookid": 637,
+    "title": "一代大侠 - snow_xefd(雪凡)",
+    "description": ""
+  },
+  {
+    "bookid": 638,
+    "title": "暮霭凝香：如意楼正传 - 雪凡snow_xefd",
+    "description": ""
+  },
+  {
+    "bookid": 639,
+    "title": "窃玉 - snow_xefd(雪凡)",
+    "description": ""
+  },
+  {
+    "bookid": 640,
+    "title": "如影逐形  - 雪凡snow_xefd",
+    "description": ""
+  },
+  {
+    "bookid": 641,
+    "title": "都市偷香贼 - 雪凡snow_xefd",
+    "description": ""
+  },
+  {
+    "bookid": 642,
+    "title": "血雨沁芳 - snow_xefd雪凡",
+    "description": ""
+  },
+  {
+    "bookid": 643,
+    "title": "彼岸山庄 - snow_xefd雪凡",
+    "description": ""
+  },
+  {
+    "bookid": 644,
+    "title": "屐上霜 - 雪凡snow_xefd",
+    "description": ""
+  },
+  {
+    "bookid": 645,
+    "title": "教育孩子需要大智慧：“哈佛女孩刘亦婷”真相 - 萧愚",
+    "description": ""
+  },
+  {
+    "bookid": 646,
+    "title": "哈佛女孩刘亦婷",
+    "description": ""
+  },
+  {
+    "bookid": 647,
+    "title": "元南戏·白兔记(刘智远/刘知远)",
+    "description": ""
+  },
+  {
+    "bookid": 648,
+    "title": "红玫瑰与白玫瑰 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 649,
+    "title": "怨女 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 650,
+    "title": "半生缘 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 651,
+    "title": "小团圆 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 652,
+    "title": "流言 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 653,
+    "title": "重访边城 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 654,
+    "title": "海上花开花落 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 655,
+    "title": "异乡记 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 656,
+    "title": "六月新娘 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 657,
+    "title": "一曲难忘 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 658,
+    "title": "雷峰塔 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 659,
+    "title": "易经 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 660,
+    "title": "少帅 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 661,
+    "title": "张爱玲私语录 - 张爱玲、宋淇、宋邝文美",
+    "description": ""
+  },
+  {
+    "bookid": 662,
+    "title": "晚清沧海事 - 罗马主义",
+    "description": ""
+  },
+  {
+    "bookid": 663,
+    "title": "宋元明讲唱文学 - 叶德钧",
+    "description": ""
+  },
+  {
+    "bookid": 664,
+    "title": "西湖二集(西湖文言) - (明)周楫",
+    "description": ""
+  },
+  {
+    "bookid": 665,
+    "title": "苏联兴亡史纲 - 陈之骅、吴恩远、马龙闪",
+    "description": ""
+  },
+  {
+    "bookid": 666,
+    "title": "史上第一混乱 - 张小花",
+    "description": ""
+  },
+  {
+    "bookid": 667,
+    "title": "梦溪笔谈 - (北宋)沈括",
+    "description": ""
+  },
+  {
+    "bookid": 668,
+    "title": "困学纪闻- (宋)王应麟",
+    "description": ""
+  },
+  {
+    "bookid": 669,
+    "title": "困学纪闻注 - (宋)王應麟著；(清)翁元圻輯注；孫通海點校",
+    "description": ""
+  },
+  {
+    "bookid": 670,
+    "title": "容斋随笔 - (宋)洪迈",
+    "description": ""
+  },
+  {
+    "bookid": 671,
+    "title": "四松堂集 - 愛新覺羅敦誠",
+    "description": ""
+  },
+  {
+    "bookid": 672,
+    "title": "懋斋诗钞 - 爱新觉罗敦敏",
+    "description": ""
+  },
+  {
+    "bookid": 673,
+    "title": "月山诗集 - (清)张鹏翮",
+    "description": ""
+  },
+  {
+    "bookid": 674,
+    "title": "苕溪渔隐丛话 - (南宋)胡仔",
+    "description": ""
+  },
+  {
+    "bookid": 675,
+    "title": "诗话总龟 - (宋)阮阅",
+    "description": ""
+  },
+  {
+    "bookid": 676,
+    "title": "娱目醒心编 - (清)玉山草亭老人",
+    "description": ""
+  },
+  {
+    "bookid": 677,
+    "title": "李商隐(李义山)诗全集 - 郑在瀛",
+    "description": ""
+  },
+  {
+    "bookid": 678,
+    "title": "冷斋夜话 - (宋)惠洪",
+    "description": ""
+  },
+  {
+    "bookid": 679,
+    "title": "法华经合论 - (宋)惠洪",
+    "description": ""
+  },
+  {
+    "bookid": 680,
+    "title": "石门文字禅 - (宋)惠洪",
+    "description": ""
+  },
+  {
+    "bookid": 681,
+    "title": "天厨禁脔 - (宋)惠洪",
+    "description": ""
+  },
+  {
+    "bookid": 682,
+    "title": "禅林僧宝传 - 惠洪",
+    "description": ""
+  },
+  {
+    "bookid": 683,
+    "title": "林间录&临济宗旨&智证传 - 惠洪",
+    "description": ""
+  },
+  {
+    "bookid": 684,
+    "title": "天雨花 - (明清)佚名",
+    "description": ""
+  },
+  {
+    "bookid": 685,
+    "title": "酉阳杂俎 - (唐)段成式；张仲裁译注",
+    "description": ""
+  },
+  {
+    "bookid": 686,
+    "title": "释名 - (东汉)刘熙；任继昉、刘江涛译注",
+    "description": ""
+  },
+  {
+    "bookid": 687,
+    "title": "榴花梦 - (清)李桂玉",
+    "description": ""
+  },
+  {
+    "bookid": 688,
+    "title": "崇祯朝野纪 - (明)李逊之",
+    "description": ""
+  },
+  {
+    "bookid": 689,
+    "title": "崇祯惨史/铁冠图/忠烈奇书 - (清)松滋山人",
+    "description": ""
+  },
+  {
+    "bookid": 690,
+    "title": "明实录：大明太祖高皇帝实录（洪武朝朱元璋）- (明)太宗文皇帝敕撰",
+    "description": ""
+  },
+  {
+    "bookid": 691,
+    "title": "北东园笔录 - (清)梁恭辰",
+    "description": ""
+  },
+  {
+    "bookid": 692,
+    "title": "小窗幽记 - (明)陈继儒",
+    "description": ""
+  },
+  {
+    "bookid": 693,
+    "title": "围炉夜话 - (清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 694,
+    "title": "皇明祖训 - 朱元璋",
+    "description": ""
+  },
+  {
+    "bookid": 695,
+    "title": "王文恪公笔记 - (明)王鏊撰",
+    "description": ""
+  },
+  {
+    "bookid": 696,
+    "title": "陈子龙诗词全集 - (明清)",
+    "description": ""
+  },
+  {
+    "bookid": 697,
+    "title": "先拨志始 - (明)文秉",
+    "description": ""
+  },
+  {
+    "bookid": 698,
+    "title": "列女传 - (西汉)刘向",
+    "description": ""
+  },
+  {
+    "bookid": 699,
+    "title": "女四书：女诫 - (东汉)班昭",
+    "description": ""
+  },
+  {
+    "bookid": 700,
+    "title": "女四书：内训 - (明)仁孝皇后",
+    "description": ""
+  },
+  {
+    "bookid": 701,
+    "title": "女四书：女论语 - (唐)宋若莘",
+    "description": ""
+  },
+  {
+    "bookid": 702,
+    "title": "女四书：女范捷录 - (明)江宁刘氏",
+    "description": ""
+  },
+  {
+    "bookid": 703,
+    "title": "大观红楼：欧丽娟讲红楼梦",
+    "description": ""
+  },
+  {
+    "bookid": 704,
+    "title": "红楼梦日历 - 红楼梦精雅生活设计中心",
+    "description": ""
+  },
+  {
+    "bookid": 705,
+    "title": "历代辞赋鉴赏辞典 - 霍旭东",
+    "description": ""
+  },
+  {
+    "bookid": 706,
+    "title": "张苍水诗文集 - (明清)张煌言",
+    "description": ""
+  },
+  {
+    "bookid": 707,
+    "title": "虞初新志　-　(清初)张潮",
+    "description": ""
+  },
+  {
+    "bookid": 708,
+    "title": "太平广记钞 - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 709,
+    "title": "古今谭概 - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 710,
+    "title": "情史 - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 711,
+    "title": "挂枝儿(童痴一弄) - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 712,
+    "title": "山歌(童痴二弄) - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 713,
+    "title": "新平妖传(墨憨斋批点北宋三遂平妖传) - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 714,
+    "title": "东周列国志(新列国志) - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 715,
+    "title": "广笑府 - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 716,
+    "title": "马吊牌经 - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 717,
+    "title": "笑府 - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 718,
+    "title": "金声巧联 - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 719,
+    "title": "夹竹桃顶针千家诗山歌 - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 720,
+    "title": "甲申纪事(甲申纪闻) - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 721,
+    "title": "三教偶拈 - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 722,
+    "title": "精忠旗 - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 723,
+    "title": "燕都日记 - (明)冯梦龙",
+    "description": ""
+  },
+  {
+    "bookid": 724,
+    "title": "菽园杂记 - (明)陆容",
+    "description": ""
+  },
+  {
+    "bookid": 725,
+    "title": "企业融资学 - 肖翔",
+    "description": ""
+  },
+  {
+    "bookid": 726,
+    "title": "从华国锋下台到胡耀邦下台 - 胡绩伟",
+    "description": ""
+  },
+  {
+    "bookid": 727,
+    "title": "金榜题名之后：大学生出路分化之谜 - 郑雅君",
+    "description": ""
+  },
+  {
+    "bookid": 728,
+    "title": "世上为什么要有图书馆 - 杨素秋",
+    "description": ""
+  },
+  {
+    "bookid": 729,
+    "title": "钝吟杂录 - (明清)冯班",
+    "description": ""
+  },
+  {
+    "bookid": 730,
+    "title": "广东新语 - (明清)屈大均",
+    "description": ""
+  },
+  {
+    "bookid": 731,
+    "title": "推背图 - (唐)李淳风",
+    "description": ""
+  },
+  {
+    "bookid": 732,
+    "title": "乙巳占 - (唐)李淳风",
+    "description": ""
+  },
+  {
+    "bookid": 733,
+    "title": "太玄金锁流珠引 - (唐)李淳风",
+    "description": ""
+  },
+  {
+    "bookid": 734,
+    "title": "洗脑的历史 - 傅志彬",
+    "description": ""
+  },
+  {
+    "bookid": 735,
+    "title": "逍遥小散仙 - 迷男",
+    "description": ""
+  },
+  {
+    "bookid": 736,
+    "title": "凡人修仙传 - 忘语",
+    "description": ""
+  },
+  {
+    "bookid": 737,
+    "title": "六朝燕歌行 - 紫狂、弄玉",
+    "description": ""
+  },
+  {
+    "bookid": 738,
+    "title": "窦娥冤 - (元)关汉卿",
+    "description": ""
+  },
+  {
+    "bookid": 739,
+    "title": "之江新语 - 习近平",
+    "description": ""
+  },
+  {
+    "bookid": 740,
+    "title": "忠孝蔡伯喈琵琶记 - (元明)高明",
+    "description": ""
+  },
+  {
+    "bookid": 741,
+    "title": "我想我爱你 - 雷恩那",
+    "description": ""
+  },
+  {
+    "bookid": 742,
+    "title": "吴梅村全集 - (明清)吴伟业",
+    "description": ""
+  },
+  {
+    "bookid": 743,
+    "title": "宦海沉浮 - 舍人",
+    "description": ""
+  },
+  {
+    "bookid": 744,
+    "title": "我不原諒中國教育：一個90後對中國教育的批判與反思 - 钟道然",
+    "description": ""
+  },
+  {
+    "bookid": 745,
+    "title": "圆圈正义: 作为自由前提的信念 - 罗翔",
+    "description": ""
+  },
+  {
+    "bookid": 746,
+    "title": "全唐诗 - 曹寅、彭定求等",
+    "description": ""
+  },
+  {
+    "bookid": 747,
+    "title": "全唐文 - (清)董诰",
+    "description": ""
+  },
+  {
+    "bookid": 748,
+    "title": "全唐词 - (民)唐圭璋",
+    "description": ""
+  },
+  {
+    "bookid": 749,
+    "title": "全宋词 - (民)唐圭璋",
+    "description": ""
+  },
+  {
+    "bookid": 750,
+    "title": "全金元词 - (民)唐圭璋",
+    "description": ""
+  },
+  {
+    "bookid": 751,
+    "title": "唐宋词简释 - (民)唐圭璋",
+    "description": ""
+  },
+  {
+    "bookid": 752,
+    "title": "杨尚昆谈新中国若干历史问题 - 苏维民",
+    "description": ""
+  },
+  {
+    "bookid": 753,
+    "title": "定西孤儿院纪事 - 杨显惠",
+    "description": ""
+  },
+  {
+    "bookid": 754,
+    "title": "夹边沟记事 - 杨显惠",
+    "description": ""
+  },
+  {
+    "bookid": 755,
+    "title": "甘南纪事 - 杨显惠",
+    "description": ""
+  },
+  {
+    "bookid": 756,
+    "title": "秦观词集",
+    "description": ""
+  },
+  {
+    "bookid": 757,
+    "title": "宗镜录 - (宋)永明延寿",
+    "description": ""
+  },
+  {
+    "bookid": 758,
+    "title": "观心玄枢&永明智觉禅师唯心诀&神栖安养赋&定慧相资歌&受菩萨戒法&警世 - (宋)永明延寿",
+    "description": ""
+  },
+  {
+    "bookid": 759,
+    "title": "万善同归集&心赋注 - (宋)永明延寿",
+    "description": ""
+  },
+  {
+    "bookid": 760,
+    "title": "妖刀记 - 默默猴",
+    "description": ""
+  },
+  {
+    "bookid": 761,
+    "title": "小小说十七篇",
+    "description": ""
+  },
+  {
+    "bookid": 762,
+    "title": "中华新韵[十四韵]常用字简表",
+    "description": ""
+  },
+  {
+    "bookid": 763,
+    "title": "中华通韵[十六韵]常用字简表",
+    "description": ""
+  },
+  {
+    "bookid": 764,
+    "title": "中华新韵[十八韵]韵部表",
+    "description": ""
+  },
+  {
+    "bookid": 765,
+    "title": "中华今韵[十九韵]韵部表",
+    "description": ""
+  },
+  {
+    "bookid": 766,
+    "title": "龙魂侠影 - 六道惊魂",
+    "description": ""
+  },
+  {
+    "bookid": 767,
+    "title": "红楼遗梦 - 冬雪晚晴",
+    "description": ""
+  },
+  {
+    "bookid": 768,
+    "title": "侯大利刑侦笔记 - 小桥老树(张兵)",
+    "description": ""
+  },
+  {
+    "bookid": 769,
+    "title": "侯海洋基层风云 - 小桥老树(张兵)",
+    "description": ""
+  },
+  {
+    "bookid": 770,
+    "title": "侯沧海商路笔记 - 小桥老树(张兵)",
+    "description": ""
+  },
+  {
+    "bookid": 771,
+    "title": "静州往事 - 小桥老树(张兵)",
+    "description": ""
+  },
+  {
+    "bookid": 772,
+    "title": "复国 - 小桥老树(张兵)",
+    "description": ""
+  },
+  {
+    "bookid": 773,
+    "title": "飞燕外传&杂事秘辛",
+    "description": ""
+  },
+  {
+    "bookid": 774,
+    "title": "歡喜冤家/艳镜/欢喜奇观 - (明)西湖漁隱",
+    "description": ""
+  },
+  {
+    "bookid": 775,
+    "title": "山形依旧枕寒流 - 劉伶醉",
+    "description": ""
+  },
+  {
+    "bookid": 776,
+    "title": "冷战三部曲：西柏林的陌生人 - VALLENNOX",
+    "description": ""
+  },
+  {
+    "bookid": 777,
+    "title": "冷战三部曲：卢比扬卡的孩子们 - VALLENNOX",
+    "description": ""
+  },
+  {
+    "bookid": 778,
+    "title": "冷战三部曲：斯特拉斯堡的乌鸦 - VALLENNOX",
+    "description": ""
+  },
+  {
+    "bookid": 779,
+    "title": "J.斯坦利先生的证词 - VALLENNOX",
+    "description": ""
+  },
+  {
+    "bookid": 780,
+    "title": "十一时 - VALLENNOX",
+    "description": ""
+  },
+  {
+    "bookid": 781,
+    "title": "卢瓦索先生的漫长夏天 - VALLENNOX",
+    "description": ""
+  },
+  {
+    "bookid": 782,
+    "title": "归途 - VALLENNOX",
+    "description": ""
+  },
+  {
+    "bookid": 783,
+    "title": "Bomber’s Moon - VALLENNOX",
+    "description": ""
+  },
+  {
+    "bookid": 784,
+    "title": "珍珠之河 - VALLENNOX",
+    "description": ""
+  },
+  {
+    "bookid": 785,
+    "title": "罗马之路 - VALLENNOX",
+    "description": ""
+  },
+  {
+    "bookid": 786,
+    "title": "图法 - VALLENNOX",
+    "description": ""
+  },
+  {
+    "bookid": 787,
+    "title": "PAX – VALLENNOX",
+    "description": ""
+  },
+  {
+    "bookid": 788,
+    "title": "若干重大决策与事件的回顾 - 薄一波",
+    "description": ""
+  },
+  {
+    "bookid": 789,
+    "title": "海上花列传 - (清)韩邦庆",
+    "description": ""
+  },
+  {
+    "bookid": 790,
+    "title": "侠女奇缘/儿女英雄传/金玉缘/正法眼藏五十三参/日下新书 - (清)文康",
+    "description": ""
+  },
+  {
+    "bookid": 791,
+    "title": "金鳞岂是池中物 - MONKEY",
+    "description": ""
+  },
+  {
+    "bookid": 792,
+    "title": "金鳞外传之龙游浅水 - MONKEY",
+    "description": ""
+  },
+  {
+    "bookid": 793,
+    "title": "我的朝鲜战争：一个志愿军战俘的自述 - 张泽石",
+    "description": ""
+  },
+  {
+    "bookid": 794,
+    "title": "一百年，许多人，许多事 - 杨苡、余斌",
+    "description": ""
+  },
+  {
+    "bookid": 795,
+    "title": "洋相 - 冯骥才",
+    "description": ""
+  },
+  {
+    "bookid": 796,
+    "title": "好嘴杨巴 - 冯骥才",
+    "description": ""
+  },
+  {
+    "bookid": 797,
+    "title": "冯骥才记述文化五十年(冰河&凌汛&激流中&漩涡里)",
+    "description": ""
+  },
+  {
+    "bookid": 798,
+    "title": "无路可逃 - 冯骥才",
+    "description": ""
+  },
+  {
+    "bookid": 799,
+    "title": "灵魂需要独处：冯骥才散文精选集",
+    "description": ""
+  },
+  {
+    "bookid": 800,
+    "title": "一百个人的十年 - 冯骥才",
+    "description": ""
+  },
+  {
+    "bookid": 801,
+    "title": "万物生灵：冯骥才给孩子的散文",
+    "description": ""
+  },
+  {
+    "bookid": 802,
+    "title": "世间生活：冯骥才生活散文精选",
+    "description": ""
+  },
+  {
+    "bookid": 803,
+    "title": "俗世奇人全本 - 冯骥才",
+    "description": ""
+  },
+  {
+    "bookid": 804,
+    "title": "怪世奇谈(阴阳八卦&三寸金莲&神鞭) - 冯骥才",
+    "description": ""
+  },
+  {
+    "bookid": 805,
+    "title": "让心灵更自由 - 冯骥才",
+    "description": ""
+  },
+  {
+    "bookid": 806,
+    "title": "能人 - 冯骥才",
+    "description": ""
+  },
+  {
+    "bookid": 807,
+    "title": "艺术家们 - 冯骥才",
+    "description": ""
+  },
+  {
+    "bookid": 808,
+    "title": "花巷 - 冯骥才",
+    "description": ""
+  },
+  {
+    "bookid": 809,
+    "title": "人类的敦煌 - 冯骥才",
+    "description": ""
+  },
+  {
+    "bookid": 810,
+    "title": "各有各的活法 - 冯骥才",
+    "description": ""
+  },
+  {
+    "bookid": 811,
+    "title": "南乡三十六村 - 冯骥才",
+    "description": ""
+  },
+  {
+    "bookid": 812,
+    "title": "北平无战事 - 刘和平",
+    "description": ""
+  },
+  {
+    "bookid": 813,
+    "title": "美国人的性格/美国与美国人 - 费孝通",
+    "description": ""
+  },
+  {
+    "bookid": 814,
+    "title": "远方，是生命的航程：费孝通域外随笔",
+    "description": ""
+  },
+  {
+    "bookid": 815,
+    "title": "人间，是温暖的驿站：费孝通人物随笔",
+    "description": ""
+  },
+  {
+    "bookid": 816,
+    "title": "脚步，是文化的刻度：费孝通文化随笔",
+    "description": ""
+  },
+  {
+    "bookid": 817,
+    "title": "江村经济 - 费孝通",
+    "description": ""
+  },
+  {
+    "bookid": 818,
+    "title": "乡土重建 - 费孝通",
+    "description": ""
+  },
+  {
+    "bookid": 819,
+    "title": "生育制度 - 费孝通",
+    "description": ""
+  },
+  {
+    "bookid": 820,
+    "title": "社会调查自白 - 费孝通",
+    "description": ""
+  },
+  {
+    "bookid": 821,
+    "title": "重访英伦 - 费孝通",
+    "description": ""
+  },
+  {
+    "bookid": 822,
+    "title": "杂写集 - 费孝通",
+    "description": ""
+  },
+  {
+    "bookid": 823,
+    "title": "民主·宪法·人权：作之民 - 费孝通",
+    "description": ""
+  },
+  {
+    "bookid": 824,
+    "title": "美好社会与美美与共：费孝通对现时代的思考 - 费孝通",
+    "description": ""
+  },
+  {
+    "bookid": 825,
+    "title": "全球化与文化自觉：费孝通晚年文选",
+    "description": ""
+  },
+  {
+    "bookid": 826,
+    "title": "当代社会人类学发展 - 费孝通",
+    "description": ""
+  },
+  {
+    "bookid": 827,
+    "title": "皇权与绅权 - 费孝通、吴唅等",
+    "description": ""
+  },
+  {
+    "bookid": 828,
+    "title": "病隙碎笔 - 史铁生",
+    "description": ""
+  },
+  {
+    "bookid": 829,
+    "title": "夏天的玫瑰 - 史铁生",
+    "description": ""
+  },
+  {
+    "bookid": 830,
+    "title": "我的遥远的清平湾 - 史铁生",
+    "description": ""
+  },
+  {
+    "bookid": 831,
+    "title": "放下与执着 - 史铁生",
+    "description": ""
+  },
+  {
+    "bookid": 832,
+    "title": "我的丁一之旅  - 史铁生",
+    "description": ""
+  },
+  {
+    "bookid": 833,
+    "title": "史铁生中短篇小说（1978-1984）",
+    "description": ""
+  },
+  {
+    "bookid": 834,
+    "title": "史铁生中短篇小说（1985-1987）",
+    "description": ""
+  },
+  {
+    "bookid": 835,
+    "title": "史铁生中短篇小说（1988-2000）",
+    "description": ""
+  },
+  {
+    "bookid": 836,
+    "title": "史铁生散文随笔",
+    "description": ""
+  },
+  {
+    "bookid": 837,
+    "title": "创作谈 - 史铁生",
+    "description": ""
+  },
+  {
+    "bookid": 838,
+    "title": "评论（序跋） - 史铁生",
+    "description": ""
+  },
+  {
+    "bookid": 839,
+    "title": "史铁生的书信",
+    "description": ""
+  },
+  {
+    "bookid": 840,
+    "title": "记忆与印象 - 史铁生",
+    "description": ""
+  },
+  {
+    "bookid": 841,
+    "title": "扶轮问路 - 史铁生",
+    "description": ""
+  },
+  {
+    "bookid": 842,
+    "title": "昼信基督夜信佛 - 史铁生",
+    "description": ""
+  },
+  {
+    "bookid": 843,
+    "title": "史铁生创作的剧本",
+    "description": ""
+  },
+  {
+    "bookid": 844,
+    "title": "史铁生的访谈和对话",
+    "description": ""
+  },
+  {
+    "bookid": 845,
+    "title": "鸾鎞记 - (明)叶宪祖",
+    "description": ""
+  },
+  {
+    "bookid": 846,
+    "title": "哈耶克社会理论 - 邓正来",
+    "description": ""
+  },
+  {
+    "bookid": 847,
+    "title": "哈耶克法律哲学 - 邓正来",
+    "description": ""
+  },
+  {
+    "bookid": 848,
+    "title": "中国法学向何处去？ - 邓正来",
+    "description": ""
+  },
+  {
+    "bookid": 849,
+    "title": "洛阳伽蓝记 - (东魏)杨衒之",
+    "description": ""
+  },
+  {
+    "bookid": 850,
+    "title": "扬州画舫录 - (清)李斗",
+    "description": ""
+  },
+  {
+    "bookid": 851,
+    "title": "金锁记 - 张爱玲",
+    "description": ""
+  },
+  {
+    "bookid": 852,
+    "title": "书剑恩仇录 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 853,
+    "title": "碧血剑 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 854,
+    "title": "袁崇焕评传 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 855,
+    "title": "神雕侠侣 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 856,
+    "title": "雪山飞狐 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 857,
+    "title": "飞狐外传 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 858,
+    "title": "倚天屠龙记 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 859,
+    "title": "鸳鸯刀&白马啸西风 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 860,
+    "title": "越女剑 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 861,
+    "title": "连城诀 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 862,
+    "title": "侠客行 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 863,
+    "title": "哈佛家训大全集 - 博文编",
+    "description": ""
+  },
+  {
+    "bookid": 864,
+    "title": "石湖词&四时田园杂兴&范村菊譜&吴船录&骖鸾录&范村梅谱&桂海虞衡志&揽辔录 - (宋)范成大",
+    "description": ""
+  },
+  {
+    "bookid": 865,
+    "title": "石湖诗集 - (宋)范成大",
+    "description": ""
+  },
+  {
+    "bookid": 866,
+    "title": "吴郡志 - (宋)范成大",
+    "description": ""
+  },
+  {
+    "bookid": 867,
+    "title": "小仓山房诗集 - (清)袁枚",
+    "description": ""
+  },
+  {
+    "bookid": 868,
+    "title": "续诗品&祭妹文 - (清)袁枚",
+    "description": ""
+  },
+  {
+    "bookid": 869,
+    "title": "随园随笔 - (清)袁枚",
+    "description": ""
+  },
+  {
+    "bookid": 870,
+    "title": "随园食单 - (清)袁枚",
+    "description": ""
+  },
+  {
+    "bookid": 871,
+    "title": "随园诗话 - (清)袁枚",
+    "description": ""
+  },
+  {
+    "bookid": 872,
+    "title": "子不语 - (清)袁枚",
+    "description": ""
+  },
+  {
+    "bookid": 873,
+    "title": "枣窗闲笔 - (清)爱新觉罗裕瑞",
+    "description": ""
+  },
+  {
+    "bookid": 874,
+    "title": "续红楼梦 - (清)秦子忱/雪坞",
+    "description": ""
+  },
+  {
+    "bookid": 875,
+    "title": "续红楼梦/增补红楼梦/红楼重梦 - (清)海圃主人",
+    "description": ""
+  },
+  {
+    "bookid": 876,
+    "title": "绮楼重梦/蜃楼情梦/红楼续梦 - (清)兰皋主人",
+    "description": ""
+  },
+  {
+    "bookid": 877,
+    "title": "红楼复梦 - (清)陈少海",
+    "description": ""
+  },
+  {
+    "bookid": 878,
+    "title": "红楼圆梦 - (清)临鹤山人/梦梦先生",
+    "description": ""
+  },
+  {
+    "bookid": 879,
+    "title": "后红楼梦 - (清)",
+    "description": ""
+  },
+  {
+    "bookid": 880,
+    "title": "程乙本紅樓夢",
+    "description": ""
+  },
+  {
+    "bookid": 881,
+    "title": "三侠五义/忠烈侠义传 - (清)石玉昆",
+    "description": ""
+  },
+  {
+    "bookid": 882,
+    "title": "七侠五义 - (清)石玉昆",
+    "description": ""
+  },
+  {
+    "bookid": 883,
+    "title": "忠烈小五义 - (清)石玉昆",
+    "description": ""
+  },
+  {
+    "bookid": 884,
+    "title": "忠烈续小五义传/三续忠烈侠义传 - (清)石玉昆",
+    "description": ""
+  },
+  {
+    "bookid": 885,
+    "title": "延芬室集 - (清)爱新觉罗永忠",
+    "description": ""
+  },
+  {
+    "bookid": 886,
+    "title": "晚清官场镜像：杜凤治日记研究 - 邱捷",
+    "description": ""
+  },
+  {
+    "bookid": 887,
+    "title": "拾遗记 - (晋)王嘉",
+    "description": ""
+  },
+  {
+    "bookid": 888,
+    "title": "龚楚将军回忆录",
+    "description": ""
+  },
+  {
+    "bookid": 889,
+    "title": "侯卫东官场笔记 - 小桥老树(张兵)",
+    "description": ""
+  },
+  {
+    "bookid": 890,
+    "title": "巴国侯氏  - 小桥老树(张兵)",
+    "description": ""
+  },
+  {
+    "bookid": 891,
+    "title": "暴风雨的记忆 - 北岛、曹一凡、维一编",
+    "description": ""
+  },
+  {
+    "bookid": 892,
+    "title": "苏东坡全集 - 曾枣庄、舒大刚编",
+    "description": ""
+  },
+  {
+    "bookid": 893,
+    "title": "李太白全集 - (唐)李白，(清)王琦注",
+    "description": ""
+  },
+  {
+    "bookid": 894,
+    "title": "汉武洞冥记 - (东汉)郭宪",
+    "description": ""
+  },
+  {
+    "bookid": 895,
+    "title": "明史钞略 - (明清)庄廷鑨",
+    "description": ""
+  },
+  {
+    "bookid": 896,
+    "title": "秦韬玉全集 - (唐)",
+    "description": ""
+  },
+  {
+    "bookid": 897,
+    "title": "后山全集 - (北宋)陈师道",
+    "description": ""
+  },
+  {
+    "bookid": 898,
+    "title": "蔡邕全集 - (东汉)",
+    "description": ""
+  },
+  {
+    "bookid": 899,
+    "title": "陶渊明集 - (东晋)陶潜",
+    "description": ""
+  },
+  {
+    "bookid": 900,
+    "title": "搜神后记 - (东晋)陶渊明",
+    "description": ""
+  },
+  {
+    "bookid": 901,
+    "title": "阮籍集 - (三国)",
+    "description": ""
+  },
+  {
+    "bookid": 902,
+    "title": "夏完淳诗词全集 - (明清)",
+    "description": ""
+  },
+  {
+    "bookid": 903,
+    "title": "东度记 - (明)方汝浩",
+    "description": ""
+  },
+  {
+    "bookid": 904,
+    "title": "禅真逸史 - (明)方汝浩",
+    "description": ""
+  },
+  {
+    "bookid": 905,
+    "title": "禅真后史 - (清)方汝浩",
+    "description": ""
+  },
+  {
+    "bookid": 906,
+    "title": "乐府诗集",
+    "description": ""
+  },
+  {
+    "bookid": 907,
+    "title": "高太史大全集 - (元明)高启",
+    "description": ""
+  },
+  {
+    "bookid": 908,
+    "title": "凫藻集 - (元明)高启",
+    "description": ""
+  },
+  {
+    "bookid": 909,
+    "title": "东田文集 - (明)马中锡",
+    "description": ""
+  },
+  {
+    "bookid": 910,
+    "title": "盛明杂剧 - (明)沈泰",
+    "description": ""
+  },
+  {
+    "bookid": 911,
+    "title": "泰泉集 - (明)黄佐",
+    "description": ""
+  },
+  {
+    "bookid": 912,
+    "title": "翰林记 - (明)黄佐",
+    "description": ""
+  },
+  {
+    "bookid": 913,
+    "title": "革除遗事 - (明)黄佐",
+    "description": ""
+  },
+  {
+    "bookid": 914,
+    "title": "泰泉乡礼 - (明)黄佐",
+    "description": ""
+  },
+  {
+    "bookid": 915,
+    "title": "全上古三代秦汉三国六朝文 - (清)严可均",
+    "description": ""
+  },
+  {
+    "bookid": 916,
+    "title": "先秦汉魏晋南北朝诗 - 逯钦立辑",
+    "description": ""
+  },
+  {
+    "bookid": 917,
+    "title": "战国策 - (西汉)刘向",
+    "description": ""
+  },
+  {
+    "bookid": 918,
+    "title": "居官福惠全书 - (清)黄六鸿",
+    "description": ""
+  },
+  {
+    "bookid": 919,
+    "title": "三因极一病证方论 - (南宋)陈言",
+    "description": ""
+  },
+  {
+    "bookid": 920,
+    "title": "无声戏 - (明清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 921,
+    "title": "怜香伴 - (明清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 922,
+    "title": "风筝误 - (明清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 923,
+    "title": "觉世名言十二楼 - (明清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 924,
+    "title": "凰求凤/鸳鸯赚 - (明清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 925,
+    "title": "比目鱼 - (明清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 926,
+    "title": "奈何天/奇福记 - (明清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 927,
+    "title": "慎鸾交 - (明清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 928,
+    "title": "玉搔头/万年欢 - (明清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 929,
+    "title": "意中缘 - (明清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 930,
+    "title": "觉世名言连城璧 - (明清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 931,
+    "title": "蜃中楼 - (明清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 932,
+    "title": "合锦回文传 - (明清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 933,
+    "title": "巧团圆/梦中楼 - (明清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 934,
+    "title": "窥词管见 - (明清)李渔",
+    "description": ""
+  },
+  {
+    "bookid": 935,
+    "title": "双官诰/三娘教子/忠孝节义/机房训 - (明清)陈二白",
+    "description": ""
+  },
+  {
+    "bookid": 936,
+    "title": "幽明录/幽冥录/幽冥记&宣验记 - (南朝宋)刘义庆",
+    "description": ""
+  },
+  {
+    "bookid": 937,
+    "title": "十药神书 - (元)葛乾孙",
+    "description": ""
+  },
+  {
+    "bookid": 938,
+    "title": "僧尼孽海 - (明)唐伯虎",
+    "description": ""
+  },
+  {
+    "bookid": 939,
+    "title": "唐寅诗词全集417首 - (明)唐伯虎",
+    "description": ""
+  },
+  {
+    "bookid": 940,
+    "title": "六如居士画谱 - (明)唐寅/唐伯虎",
+    "description": ""
+  },
+  {
+    "bookid": 941,
+    "title": "甘水仙源录/甘泉仙源录/夷门天乐道人李道谦集 - (元)李道谦",
+    "description": ""
+  },
+  {
+    "bookid": 942,
+    "title": "终南山祖庭仙真内传&七真年谱 - (元)李道谦",
+    "description": ""
+  },
+  {
+    "bookid": 943,
+    "title": "大中祥符法宝录 - (北宋)杨亿",
+    "description": ""
+  },
+  {
+    "bookid": 944,
+    "title": "西昆酬唱集 - (北宋)杨亿",
+    "description": ""
+  },
+  {
+    "bookid": 945,
+    "title": "武夷新集 - (北宋)杨亿",
+    "description": ""
+  },
+  {
+    "bookid": 946,
+    "title": "王梵志诗校注 - (隋唐)王梵志",
+    "description": ""
+  },
+  {
+    "bookid": 947,
+    "title": "书断&六体书论&文字论&论用笔十法&评书药石论 - (唐)张怀瓘",
+    "description": ""
+  },
+  {
+    "bookid": 948,
+    "title": "全宋诗：陆游",
+    "description": ""
+  },
+  {
+    "bookid": 949,
+    "title": "全宋诗：范成大",
+    "description": ""
+  },
+  {
+    "bookid": 950,
+    "title": "全宋诗：杨万里",
+    "description": ""
+  },
+  {
+    "bookid": 951,
+    "title": "全宋诗：艾、敖",
+    "description": ""
+  },
+  {
+    "bookid": 952,
+    "title": "全宋诗：白玉蟾",
+    "description": ""
+  },
+  {
+    "bookid": 953,
+    "title": "全宋诗：晁说之",
+    "description": ""
+  },
+  {
+    "bookid": 954,
+    "title": "全宋诗：陈",
+    "description": ""
+  },
+  {
+    "bookid": 955,
+    "title": "全宋诗：程",
+    "description": ""
+  },
+  {
+    "bookid": 956,
+    "title": "全宋诗：方回",
+    "description": ""
+  },
+  {
+    "bookid": 957,
+    "title": "全宋诗：王",
+    "description": ""
+  },
+  {
+    "bookid": 958,
+    "title": "全宋诗：文同",
+    "description": ""
+  },
+  {
+    "bookid": 959,
+    "title": "全宋诗：文天祥",
+    "description": ""
+  },
+  {
+    "bookid": 960,
+    "title": "全宋诗：胡",
+    "description": ""
+  },
+  {
+    "bookid": 961,
+    "title": "全宋诗：黄庭坚",
+    "description": ""
+  },
+  {
+    "bookid": 962,
+    "title": "全宋诗：姜特立",
+    "description": ""
+  },
+  {
+    "bookid": 963,
+    "title": "全宋诗：郭",
+    "description": ""
+  },
+  {
+    "bookid": 964,
+    "title": "全宋诗：韩",
+    "description": ""
+  },
+  {
+    "bookid": 965,
+    "title": "全宋诗：何",
+    "description": ""
+  },
+  {
+    "bookid": 966,
+    "title": "全宋诗：黄",
+    "description": ""
+  },
+  {
+    "bookid": 967,
+    "title": "全宋诗：李",
+    "description": ""
+  },
+  {
+    "bookid": 968,
+    "title": "全宋诗：林",
+    "description": ""
+  },
+  {
+    "bookid": 969,
+    "title": "全宋诗：刘克庄",
+    "description": ""
+  },
+  {
+    "bookid": 970,
+    "title": "全宋诗：刘子翚",
+    "description": ""
+  },
+  {
+    "bookid": 971,
+    "title": "全宋诗：刘",
+    "description": ""
+  },
+  {
+    "bookid": 972,
+    "title": "全宋诗：楼钥",
+    "description": ""
+  },
+  {
+    "bookid": 973,
+    "title": "全宋诗：罗必元",
+    "description": ""
+  },
+  {
+    "bookid": 974,
+    "title": "全宋诗：梅尧臣",
+    "description": ""
+  },
+  {
+    "bookid": 975,
+    "title": "全宋诗：欧阳修",
+    "description": ""
+  },
+  {
+    "bookid": 976,
+    "title": "全宋诗：强至",
+    "description": ""
+  },
+  {
+    "bookid": 977,
+    "title": "全宋诗：邵雍",
+    "description": ""
+  },
+  {
+    "bookid": 978,
+    "title": "全宋诗：释绍昙",
+    "description": ""
+  },
+  {
+    "bookid": 979,
+    "title": "全宋诗：释文珦",
+    "description": ""
+  },
+  {
+    "bookid": 980,
+    "title": "全宋诗：释",
+    "description": ""
+  },
+  {
+    "bookid": 981,
+    "title": "全宋诗：舒岳祥",
+    "description": ""
+  },
+  {
+    "bookid": 982,
+    "title": "全宋诗：司马光",
+    "description": ""
+  },
+  {
+    "bookid": 983,
+    "title": "全宋诗：宋祁",
+    "description": ""
+  },
+  {
+    "bookid": 984,
+    "title": "全宋诗：宋庠",
+    "description": ""
+  },
+  {
+    "bookid": 985,
+    "title": "全宋诗：宋",
+    "description": ""
+  },
+  {
+    "bookid": 986,
+    "title": "全宋诗：苏泂",
+    "description": ""
+  },
+  {
+    "bookid": 987,
+    "title": "全宋诗：苏轼",
+    "description": ""
+  },
+  {
+    "bookid": 988,
+    "title": "全宋诗：苏辙",
+    "description": ""
+  },
+  {
+    "bookid": 989,
+    "title": "全宋诗：苏",
+    "description": ""
+  },
+  {
+    "bookid": 990,
+    "title": "全宋诗：孙",
+    "description": ""
+  },
+  {
+    "bookid": 991,
+    "title": "全宋诗：汪",
+    "description": ""
+  },
+  {
+    "bookid": 992,
+    "title": "全宋诗：魏了翁",
+    "description": ""
+  },
+  {
+    "bookid": 993,
+    "title": "全宋诗：魏",
+    "description": ""
+  },
+  {
+    "bookid": 994,
+    "title": "全宋诗：吴芾",
+    "description": ""
+  },
+  {
+    "bookid": 995,
+    "title": "全宋诗：吴",
+    "description": ""
+  },
+  {
+    "bookid": 996,
+    "title": "全宋诗：项安世",
+    "description": ""
+  },
+  {
+    "bookid": 997,
+    "title": "全宋诗：徐",
+    "description": ""
+  },
+  {
+    "bookid": 998,
+    "title": "全宋诗：许",
+    "description": ""
+  },
+  {
+    "bookid": 999,
+    "title": "全宋诗：喻良能",
+    "description": ""
+  },
+  {
+    "bookid": 1000,
+    "title": "全宋诗：袁说友",
+    "description": ""
+  },
+  {
+    "bookid": 1001,
+    "title": "全宋诗：岳珂",
+    "description": ""
+  },
+  {
+    "bookid": 1002,
+    "title": "全宋诗：曾丰",
+    "description": ""
+  },
+  {
+    "bookid": 1003,
+    "title": "全宋诗：曾",
+    "description": ""
+  },
+  {
+    "bookid": 1004,
+    "title": "全宋诗：张耒",
+    "description": ""
+  },
+  {
+    "bookid": 1005,
+    "title": "全宋诗：张閏",
+    "description": ""
+  },
+  {
+    "bookid": 1006,
+    "title": "全宋诗：张嵲",
+    "description": ""
+  },
+  {
+    "bookid": 1007,
+    "title": "全宋诗：张",
+    "description": ""
+  },
+  {
+    "bookid": 1008,
+    "title": "全宋诗：赵蕃",
+    "description": ""
+  },
+  {
+    "bookid": 1009,
+    "title": "全宋诗：赵",
+    "description": ""
+  },
+  {
+    "bookid": 1010,
+    "title": "全宋诗：郑刚中",
+    "description": ""
+  },
+  {
+    "bookid": 1011,
+    "title": "全宋诗：郑",
+    "description": ""
+  },
+  {
+    "bookid": 1012,
+    "title": "全宋诗：周必大",
+    "description": ""
+  },
+  {
+    "bookid": 1013,
+    "title": "全宋诗：周",
+    "description": ""
+  },
+  {
+    "bookid": 1014,
+    "title": "全宋诗：朱",
+    "description": ""
+  },
+  {
+    "bookid": 1015,
+    "title": "全宋诗：杨亿",
+    "description": ""
+  },
+  {
+    "bookid": 1016,
+    "title": "全宋诗：杨",
+    "description": ""
+  },
+  {
+    "bookid": 1017,
+    "title": "全宋诗：蔡",
+    "description": ""
+  },
+  {
+    "bookid": 1018,
+    "title": "全宋诗：曹勋",
+    "description": ""
+  },
+  {
+    "bookid": 1019,
+    "title": "全宋诗：曹",
+    "description": ""
+  },
+  {
+    "bookid": 1020,
+    "title": "全宋诗：晁补之",
+    "description": ""
+  },
+  {
+    "bookid": 1021,
+    "title": "全宋诗：晁",
+    "description": ""
+  },
+  {
+    "bookid": 1022,
+    "title": "全宋诗：仇远",
+    "description": ""
+  },
+  {
+    "bookid": 1023,
+    "title": "全宋诗：戴复古",
+    "description": ""
+  },
+  {
+    "bookid": 1024,
+    "title": "全宋诗：戴",
+    "description": ""
+  },
+  {
+    "bookid": 1025,
+    "title": "全宋诗：邓",
+    "description": ""
+  },
+  {
+    "bookid": 1026,
+    "title": "全宋诗：董嗣杲",
+    "description": ""
+  },
+  {
+    "bookid": 1027,
+    "title": "全宋诗：范",
+    "description": ""
+  },
+  {
+    "bookid": 1028,
+    "title": "全宋诗：方岳",
+    "description": ""
+  },
+  {
+    "bookid": 1029,
+    "title": "全宋诗：方",
+    "description": ""
+  },
+  {
+    "bookid": 1030,
+    "title": "全宋诗：高",
+    "description": ""
+  },
+  {
+    "bookid": 1031,
+    "title": "全宋诗：葛",
+    "description": ""
+  },
+  {
+    "bookid": 1032,
+    "title": "全宋诗：贺铸",
+    "description": ""
+  },
+  {
+    "bookid": 1033,
+    "title": "全宋诗：洪咨夔",
+    "description": ""
+  },
+  {
+    "bookid": 1034,
+    "title": "全宋诗：孔武仲",
+    "description": ""
+  },
+  {
+    "bookid": 1035,
+    "title": "全宋诗：陆文圭",
+    "description": ""
+  },
+  {
+    "bookid": 1036,
+    "title": "全宋诗：吕",
+    "description": ""
+  },
+  {
+    "bookid": 1037,
+    "title": "全宋诗：钱",
+    "description": ""
+  },
+  {
+    "bookid": 1038,
+    "title": "全宋诗：秦观",
+    "description": ""
+  },
+  {
+    "bookid": 1039,
+    "title": "全宋诗：叶",
+    "description": ""
+  },
+  {
+    "bookid": 1040,
+    "title": "全宋诗：虞俦",
+    "description": ""
+  },
+  {
+    "bookid": 1041,
+    "title": "全宋诗",
+    "description": ""
+  },
+  {
+    "bookid": 1042,
+    "title": "全宋诗：王之道",
+    "description": ""
+  },
+  {
+    "bookid": 1043,
+    "title": "全宋诗：王安石",
+    "description": ""
+  },
+  {
+    "bookid": 1044,
+    "title": "全宋诗：王禹偁",
+    "description": ""
+  },
+  {
+    "bookid": 1045,
+    "title": "全宋诗：王洋",
+    "description": ""
+  },
+  {
+    "bookid": 1046,
+    "title": "全宋诗：王炎",
+    "description": ""
+  },
+  {
+    "bookid": 1047,
+    "title": "全宋诗：王令",
+    "description": ""
+  },
+  {
+    "bookid": 1048,
+    "title": "全宋诗：杜",
+    "description": ""
+  },
+  {
+    "bookid": 1049,
+    "title": "全宋诗：冯",
+    "description": ""
+  },
+  {
+    "bookid": 1050,
+    "title": "全宋诗：顾",
+    "description": ""
+  },
+  {
+    "bookid": 1051,
+    "title": "全宋诗：柴、崔、卫、翁、谢、薛、姚、丁、洪",
+    "description": ""
+  },
+  {
+    "bookid": 1052,
+    "title": "全宋诗：佚名",
+    "description": ""
+  },
+  {
+    "bookid": 1053,
+    "title": "全宋诗：度、傅、华、晃、贾、家、金、卷、寇、乐、黎、马、毛、潘、石、史、辛",
+    "description": ""
+  },
+  {
+    "bookid": 1054,
+    "title": "王阳明全集 - (明)",
+    "description": ""
+  },
+  {
+    "bookid": 1055,
+    "title": "欧阳修集 - (宋)",
+    "description": ""
+  },
+  {
+    "bookid": 1056,
+    "title": "王勃全集 - (唐)",
+    "description": ""
+  },
+  {
+    "bookid": 1057,
+    "title": "杜牧诗集 - (唐)",
+    "description": ""
+  },
+  {
+    "bookid": 1058,
+    "title": "曹子建集 - (三国)曹植",
+    "description": ""
+  },
+  {
+    "bookid": 1059,
+    "title": "庚巳编 - (明)陆粲",
+    "description": ""
+  },
+  {
+    "bookid": 1060,
+    "title": "陆子余集 - (明)陆粲",
+    "description": ""
+  },
+  {
+    "bookid": 1061,
+    "title": "左传附注&春秋胡氏传辨疑说听 - (明)陆粲",
+    "description": ""
+  },
+  {
+    "bookid": 1062,
+    "title": "金刚经/金刚般若波罗密经 - (晋)",
+    "description": ""
+  },
+  {
+    "bookid": 1063,
+    "title": "红楼血泪史 - 潘重规",
+    "description": ""
+  },
+  {
+    "bookid": 1064,
+    "title": "红楼梦断：曹雪芹家的故事 - 高阳",
+    "description": ""
+  },
+  {
+    "bookid": 1065,
+    "title": "南渡录 - (明清)李清",
+    "description": ""
+  },
+  {
+    "bookid": 1066,
+    "title": "三垣笔记&袁督师计斩毛文龙始末 - (明清)李清",
+    "description": ""
+  },
+  {
+    "bookid": 1067,
+    "title": "扬州十日记 - (明清)王秀楚",
+    "description": ""
+  },
+  {
+    "bookid": 1068,
+    "title": "别本东里文集 - (明)杨士奇",
+    "description": ""
+  },
+  {
+    "bookid": 1069,
+    "title": "明太宗实录 - (明)杨士奇",
+    "description": ""
+  },
+  {
+    "bookid": 1070,
+    "title": "明太宗宝训 - (明)杨士奇",
+    "description": ""
+  },
+  {
+    "bookid": 1071,
+    "title": "明仁宗实录 - (明)杨士奇",
+    "description": ""
+  },
+  {
+    "bookid": 1072,
+    "title": "明仁宗昭皇帝宝训 - (明)杨士奇",
+    "description": ""
+  },
+  {
+    "bookid": 1073,
+    "title": "明宣宗实录 - (明)杨士奇",
+    "description": ""
+  },
+  {
+    "bookid": 1074,
+    "title": "明宣宗宝训 - (明)杨士奇",
+    "description": ""
+  },
+  {
+    "bookid": 1075,
+    "title": "三朝圣谕录 - (明)杨士奇",
+    "description": ""
+  },
+  {
+    "bookid": 1076,
+    "title": "历代名臣奏议 - (明)杨士奇",
+    "description": ""
+  },
+  {
+    "bookid": 1077,
+    "title": "文渊阁书目&颜乐堂记 - (明)杨士奇",
+    "description": ""
+  },
+  {
+    "bookid": 1078,
+    "title": "东里集 - (明)杨士奇",
+    "description": ""
+  },
+  {
+    "bookid": 1079,
+    "title": "麓堂诗话&燕对录 - (明)李东阳",
+    "description": ""
+  },
+  {
+    "bookid": 1080,
+    "title": "大明會典 - (明)李东阳",
+    "description": ""
+  },
+  {
+    "bookid": 1081,
+    "title": "怀麓堂集 - (明)李东阳",
+    "description": ""
+  },
+  {
+    "bookid": 1082,
+    "title": "妙法莲华经/法华经 - (明)李东阳",
+    "description": ""
+  },
+  {
+    "bookid": 1083,
+    "title": "无量义经&佛说观普贤菩萨行法经",
+    "description": ""
+  },
+  {
+    "bookid": 1084,
+    "title": "艮斋杂说 - (明清)尤侗",
+    "description": ""
+  },
+  {
+    "bookid": 1085,
+    "title": "唐会要 - (宋)王溥",
+    "description": ""
+  },
+  {
+    "bookid": 1086,
+    "title": "五代会要&周世宗实录残本 - (宋)王溥",
+    "description": ""
+  },
+  {
+    "bookid": 1087,
+    "title": "史记集解 - (南朝宋)裴骃",
+    "description": ""
+  },
+  {
+    "bookid": 1088,
+    "title": "沧浪集&沧浪诗话 - (宋)严羽 > 沧浪诗话",
+    "description": ""
+  },
+  {
+    "bookid": 1089,
+    "title": "参谋助手论：为首长服务 - 王怀志、郭政",
+    "description": ""
+  },
+  {
+    "bookid": 1090,
+    "title": "拜谒诸神：西方政治理论与方法寻踪 - 陈岳、黄嘉树、蒲国良、任剑涛、王续添、王英津、杨光斌、周淑真",
+    "description": ""
+  },
+  {
+    "bookid": 1091,
+    "title": "黑格尔的政治神学：《精神现象学》与《法哲学原理》释义 - 陈岳、黄嘉树、蒲国良、任剑涛、王续添、王英津、杨光斌、周淑真",
+    "description": ""
+  },
+  {
+    "bookid": 1092,
+    "title": "除旧布新中国政治发展侧记 - 任剑涛",
+    "description": ""
+  },
+  {
+    "bookid": 1093,
+    "title": "重思胡适 - 任剑涛",
+    "description": ""
+  },
+  {
+    "bookid": 1094,
+    "title": "政治哲学讲演录 - 任剑涛",
+    "description": ""
+  },
+  {
+    "bookid": 1095,
+    "title": "茶经&顾渚山记 - (唐)陆羽",
+    "description": ""
+  },
+  {
+    "bookid": 1096,
+    "title": "张伯渊茶录 - (明)张源",
+    "description": ""
+  },
+  {
+    "bookid": 1097,
+    "title": "刘晨阮肇误入桃源 - (元)王子一",
+    "description": ""
+  },
+  {
+    "bookid": 1098,
+    "title": "皇明诗选&江蓠槛 - (明)陈子龙",
+    "description": ""
+  },
+  {
+    "bookid": 1099,
+    "title": "皇明经世文编 - (明)陈子龙",
+    "description": ""
+  },
+  {
+    "bookid": 1100,
+    "title": "大小诸证方论&青囊秘诀&傅青主女科&傅青主男科重编考释 - (明清)傅山",
+    "description": ""
+  },
+  {
+    "bookid": 1101,
+    "title": "作字示儿孙&书法散论 - (明清)傅山",
+    "description": ""
+  },
+  {
+    "bookid": 1102,
+    "title": "傅山的诗词全集 - (明清)",
+    "description": ""
+  },
+  {
+    "bookid": 1103,
+    "title": "冒辟疆是《红楼梦》的作者 - 冒连泉",
+    "description": ""
+  },
+  {
+    "bookid": 1104,
+    "title": "玉簪记 - (明)高濂",
+    "description": ""
+  },
+  {
+    "bookid": 1105,
+    "title": "遵生八笺 - (明)高濂",
+    "description": ""
+  },
+  {
+    "bookid": 1106,
+    "title": "柳河东集 - (唐)柳宗元",
+    "description": ""
+  },
+  {
+    "bookid": 1107,
+    "title": "柳州文钞&龙城录&河间传&东海若解 - (唐)柳宗元",
+    "description": ""
+  },
+  {
+    "bookid": 1108,
+    "title": "诂训柳先生文集 - (唐)柳宗元",
+    "description": ""
+  },
+  {
+    "bookid": 1109,
+    "title": "柳宗元文集 - (唐)柳宗元",
+    "description": ""
+  },
+  {
+    "bookid": 1110,
+    "title": "红楼探玉 - 王一",
+    "description": ""
+  },
+  {
+    "bookid": 1111,
+    "title": "史记的读法：司马迁的历史世界 - 杨照",
+    "description": ""
+  },
+  {
+    "bookid": 1112,
+    "title": "尚书大传 - (汉)伏胜",
+    "description": ""
+  },
+  {
+    "bookid": 1113,
+    "title": "鸳鸯梦 - (明清)叶小纨",
+    "description": ""
+  },
+  {
+    "bookid": 1114,
+    "title": "唐语林 - (宋)王谠",
+    "description": ""
+  },
+  {
+    "bookid": 1115,
+    "title": "侯鲭录 - (宋)赵令畴",
+    "description": ""
+  },
+  {
+    "bookid": 1116,
+    "title": "黑骏马 - 张承志",
+    "description": ""
+  },
+  {
+    "bookid": 1117,
+    "title": "红鬃烈马 - (清)",
+    "description": ""
+  },
+  {
+    "bookid": 1118,
+    "title": "中国历代职官别名大辞典 - 龚延明",
+    "description": ""
+  },
+  {
+    "bookid": 1119,
+    "title": "唐诗鉴赏辞典：新一版 - 上海辞书出版社文学鉴赏辞典编纂中心",
+    "description": ""
+  },
+  {
+    "bookid": 1120,
+    "title": "唐宋词鉴赏辞典：新一版 - 上海辞书出版社文学鉴赏辞典编纂中心",
+    "description": ""
+  },
+  {
+    "bookid": 1121,
+    "title": "元明清词鉴赏辞典（新一版） - 上海辞书出版社文学鉴赏辞典编纂中心",
+    "description": ""
+  },
+  {
+    "bookid": 1122,
+    "title": "古代志怪小说鉴赏辞典 - 上海辞书出版社文学鉴赏辞典编纂中心",
+    "description": ""
+  },
+  {
+    "bookid": 1123,
+    "title": "唐宋小说鉴赏辞典 - 上海辞书出版社文学鉴赏辞典编纂中心",
+    "description": ""
+  },
+  {
+    "bookid": 1124,
+    "title": "明清小说鉴赏辞典 - 上海辞书出版社文学鉴赏辞典编纂中心",
+    "description": ""
+  },
+  {
+    "bookid": 1125,
+    "title": "明清传奇鉴赏辞典 - 上海辞书出版社文学鉴赏辞典编纂中心",
+    "description": ""
+  },
+  {
+    "bookid": 1126,
+    "title": "历代赋鉴赏辞典 - 上海辞书出版社",
+    "description": ""
+  },
+  {
+    "bookid": 1127,
+    "title": "历代女性诗词鉴赏辞典 - 上海辞书出版社",
+    "description": ""
+  },
+  {
+    "bookid": 1128,
+    "title": "宋词鉴赏辞典(新一版) - 上海辞书出版社",
+    "description": ""
+  },
+  {
+    "bookid": 1129,
+    "title": "古文鉴赏辞典：新一版 - 陈振鹏、章培恒",
+    "description": ""
+  },
+  {
+    "bookid": 1130,
+    "title": "元曲鉴赏辞典 - 蒋星煜",
+    "description": ""
+  },
+  {
+    "bookid": 1131,
+    "title": "先秦诗鉴赏辞典 - 上海辞书出版社文学鉴赏辞典编纂中心",
+    "description": ""
+  },
+  {
+    "bookid": 1132,
+    "title": "汉魏六朝诗鉴赏辞典 - 吴小如等",
+    "description": ""
+  },
+  {
+    "bookid": 1133,
+    "title": "宋诗鉴赏辞典：新一版 - 缪钺",
+    "description": ""
+  },
+  {
+    "bookid": 1134,
+    "title": "元明清诗鉴赏辞典（新一版） - 上海辞书出版社文学鉴赏辞典编纂中心",
+    "description": ""
+  },
+  {
+    "bookid": 1135,
+    "title": "新诗鉴赏辞典：新一版 - 上海辞书出版社文学鉴赏辞典编纂中心",
+    "description": ""
+  },
+  {
+    "bookid": 1136,
+    "title": "乐章集 - (宋)柳永",
+    "description": ""
+  },
+  {
+    "bookid": 1137,
+    "title": "她的荆棘：从痛经到子宫内膜异位症 - 徐冰",
+    "description": ""
+  },
+  {
+    "bookid": 1138,
+    "title": "宋琬诗词全集 - (明清)",
+    "description": ""
+  },
+  {
+    "bookid": 1139,
+    "title": "二乡亭词 - (明清)宋琬",
+    "description": ""
+  },
+  {
+    "bookid": 1140,
+    "title": "学余堂集 - (明清)施闰章",
+    "description": ""
+  },
+  {
+    "bookid": 1141,
+    "title": "施闰章诗全集 - (明清)",
+    "description": ""
+  },
+  {
+    "bookid": 1142,
+    "title": "过江七事&秋园杂佩 - (明清)陈贞慧",
+    "description": ""
+  },
+  {
+    "bookid": 1143,
+    "title": "黄金策 - (元明)刘基/刘伯温",
+    "description": ""
+  },
+  {
+    "bookid": 1144,
+    "title": "百战奇略 - (元明)刘基/刘伯温",
+    "description": ""
+  },
+  {
+    "bookid": 1145,
+    "title": "郁离子 - (元明)刘基/刘伯温",
+    "description": ""
+  },
+  {
+    "bookid": 1146,
+    "title": "兵法心要&烧饼歌 - (元明)刘基/刘伯温",
+    "description": ""
+  },
+  {
+    "bookid": 1147,
+    "title": "太师诚意伯刘文公集 - (元明)刘基/刘伯温",
+    "description": ""
+  },
+  {
+    "bookid": 1148,
+    "title": "陵川集 - (元)郝经",
+    "description": ""
+  },
+  {
+    "bookid": 1149,
+    "title": "郝经续后汉书 - (元)郝经",
+    "description": ""
+  },
+  {
+    "bookid": 1150,
+    "title": "画禅室随笔 - (明)董其昌",
+    "description": ""
+  },
+  {
+    "bookid": 1151,
+    "title": "容台集 - (明)董其昌",
+    "description": ""
+  },
+  {
+    "bookid": 1152,
+    "title": "尔雅 - (周汉)",
+    "description": ""
+  },
+  {
+    "bookid": 1153,
+    "title": "李云龙诗词全集 - (明清)",
+    "description": ""
+  },
+  {
+    "bookid": 1154,
+    "title": "史记三家注 - 司马迁、裴骃、司马贞、张守节等",
+    "description": ""
+  },
+  {
+    "bookid": 1155,
+    "title": "吴越春秋 - (东汉)赵晔",
+    "description": ""
+  },
+  {
+    "bookid": 1156,
+    "title": "通典 - (唐)杜佑",
+    "description": ""
+  },
+  {
+    "bookid": 1157,
+    "title": "文献通考 - (元)马端临",
+    "description": ""
+  },
+  {
+    "bookid": 1158,
+    "title": "明季北略 - (明清)计六奇",
+    "description": ""
+  },
+  {
+    "bookid": 1159,
+    "title": "明季南略 - (明清)计六奇",
+    "description": ""
+  },
+  {
+    "bookid": 1160,
+    "title": "小畜集&五代史阙文 - (北宋)王禹偁",
+    "description": ""
+  },
+  {
+    "bookid": 1161,
+    "title": "王黄州小畜外集 - (北宋)王禹偁",
+    "description": ""
+  },
+  {
+    "bookid": 1162,
+    "title": "人物评论集 - 刘仲敬",
+    "description": ""
+  },
+  {
+    "bookid": 1163,
+    "title": "从华夏到中国 - 刘仲敬",
+    "description": ""
+  },
+  {
+    "bookid": 1164,
+    "title": "华夏幻梦：古老神话与现实危机 - 刘仲敬",
+    "description": ""
+  },
+  {
+    "bookid": 1165,
+    "title": "内亚海洋与帝国秩序 - 刘仲敬",
+    "description": ""
+  },
+  {
+    "bookid": 1166,
+    "title": "外伊朗黄金时代的内亚秩序 - 冬川豆、刘仲敬",
+    "description": ""
+  },
+  {
+    "bookid": 1167,
+    "title": "守先待后：思想、格局与传统 - 刘仲敬",
+    "description": ""
+  },
+  {
+    "bookid": 1168,
+    "title": "经与史：华夏世界的历史建构谈 - 刘仲敬",
+    "description": ""
+  },
+  {
+    "bookid": 1169,
+    "title": "远东的线索 - 刘仲敬",
+    "description": ""
+  },
+  {
+    "bookid": 1170,
+    "title": "民国纪事本末(1911～1949) - 刘仲敬",
+    "description": ""
+  },
+  {
+    "bookid": 1171,
+    "title": "我书架上的神明 - 李银河、刘仲敬、万维钢、王小妮、于建嵘、余英时等",
+    "description": ""
+  },
+  {
+    "bookid": 1172,
+    "title": "周礼 - 徐正英、常佩雨译注",
+    "description": ""
+  },
+  {
+    "bookid": 1173,
+    "title": "仪礼 - 彭林译注",
+    "description": ""
+  },
+  {
+    "bookid": 1174,
+    "title": "帝京景物略 - (明)刘侗",
+    "description": ""
+  },
+  {
+    "bookid": 1175,
+    "title": "毛诗 - 毛公",
+    "description": ""
+  },
+  {
+    "bookid": 1176,
+    "title": "毛诗故训传 - 毛公",
+    "description": ""
+  },
+  {
+    "bookid": 1177,
+    "title": "毛诗正义/礼记正义 - (汉)毛亨传、郑玄笺，(唐)孔颖达等正义",
+    "description": ""
+  },
+  {
+    "bookid": 1178,
+    "title": "孔子编年&苕溪渔隐词话 - (南宋)胡仔",
+    "description": ""
+  },
+  {
+    "bookid": 1179,
+    "title": "明心宝鉴 - (明)范立本",
+    "description": ""
+  },
+  {
+    "bookid": 1180,
+    "title": "张居正全集 - 李志阳、赖文婷、林翠霞、林益莉、孙大鹏等点校",
+    "description": ""
+  },
+  {
+    "bookid": 1181,
+    "title": "治大国若烹小鲜：基层治理与世道人心 - 吕德文",
+    "description": ""
+  },
+  {
+    "bookid": 1182,
+    "title": "万历野获编 - (明)沈德符",
+    "description": ""
+  },
+  {
+    "bookid": 1183,
+    "title": "顾曲杂言&敝帚斋馀谈 - (明)沈德符",
+    "description": ""
+  },
+  {
+    "bookid": 1184,
+    "title": "南疆逸史 - (清)温睿临",
+    "description": ""
+  },
+  {
+    "bookid": 1185,
+    "title": "陈子壮诗词全集 - (明清)",
+    "description": ""
+  },
+  {
+    "bookid": 1186,
+    "title": "张家玉诗词全集 - (明清)",
+    "description": ""
+  },
+  {
+    "bookid": 1187,
+    "title": "陈邦彦诗词全集 - (明清)",
+    "description": ""
+  },
+  {
+    "bookid": 1188,
+    "title": "东南纪事 - (清)邵廷采",
+    "description": ""
+  },
+  {
+    "bookid": 1189,
+    "title": "西南纪事 - (清)邵廷采",
+    "description": ""
+  },
+  {
+    "bookid": 1190,
+    "title": "野史无文 - (明清)郑达",
+    "description": ""
+  },
+  {
+    "bookid": 1191,
+    "title": "华阳国志 - (东晋)常璩",
+    "description": ""
+  },
+  {
+    "bookid": 1192,
+    "title": "研堂见闻杂记 - (明清)王家祯",
+    "description": ""
+  },
+  {
+    "bookid": 1193,
+    "title": "周元公集/太极图说/太极通书 - (北宋)周敦颐",
+    "description": ""
+  },
+  {
+    "bookid": 1194,
+    "title": "一读就上瘾的中国史 - 温伯陵",
+    "description": ""
+  },
+  {
+    "bookid": 1195,
+    "title": "韩诗外传 - (西汉)韩婴",
+    "description": ""
+  },
+  {
+    "bookid": 1196,
+    "title": "明史纪事本末 - (清)谷应泰",
+    "description": ""
+  },
+  {
+    "bookid": 1197,
+    "title": "关汉卿选集 - (元)",
+    "description": ""
+  },
+  {
+    "bookid": 1198,
+    "title": "逸周书",
+    "description": ""
+  },
+  {
+    "bookid": 1199,
+    "title": "汉魏异怪志　甲集　汉魏六朝（传记篇） - 班固、伶玄、赵晔、赵晔、无名氏、郭宪、桓驎、张俨、王嘉、王嘉、贾善翔、干宝、干宝、司马彪、庾翼、蒋济、郭颁、李朏、孔晔、法显、殷基、宗懔、陶弘景、王度、东方朔、东方朔、刘向、刘向、刘歆、郭宪、邯郸淳、皇甫谧、皇甫谧、陈寿、周斐、张方、张隐、常璩、常璩、张华、张华、干宝、沉怀远、郭颁",
+    "description": ""
+  },
+  {
+    "bookid": 1200,
+    "title": "灵棋经 - (汉)东方朔，(明)刘基注",
+    "description": ""
+  },
+  {
+    "bookid": 1201,
+    "title": "神异经&海内十洲记 - (汉)东方朔",
+    "description": ""
+  },
+  {
+    "bookid": 1202,
+    "title": "江文通集 - (南朝梁)江淹",
+    "description": ""
+  },
+  {
+    "bookid": 1203,
+    "title": "历代诗余 - (清)王奕清",
+    "description": ""
+  },
+  {
+    "bookid": 1204,
+    "title": "历代词话 - (清)王奕清",
+    "description": ""
+  },
+  {
+    "bookid": 1205,
+    "title": "钦定曲谱 - (清)王奕清",
+    "description": ""
+  },
+  {
+    "bookid": 1206,
+    "title": "游民文化与中国社会 - 王学泰",
+    "description": ""
+  },
+  {
+    "bookid": 1207,
+    "title": "新语往还：中日近代语言交涉史 - [日]沈国威",
+    "description": ""
+  },
+  {
+    "bookid": 1208,
+    "title": "逻辑新引 - (民)殷海光",
+    "description": ""
+  },
+  {
+    "bookid": 1209,
+    "title": "怎样判别是非 - (民)殷海光",
+    "description": ""
+  },
+  {
+    "bookid": 1210,
+    "title": "",
+    "description": ""
+  }
+ 
+]

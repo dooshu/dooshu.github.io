@@ -1,0 +1,357 @@
+结论：哈耶克自由主义的哲学困境
+
+
+通过前文三个部分的讨论，我们可以发见，哈耶克立基于其社会理论的自发社会秩序的论证方案，对人性和社会秩序的性质提供了一个精妙且强有力的解释，并对自由主义的发展产生了极重大的意义；然而一如本文开篇所言，我们是在哈耶克自由主义理论“知识增量”的研究策略下讨论他的这一社会理论及其对当代自由主义发展的贡献的，而这就意味着根据这种研究策略而达致的结论本身，既不能说明哈耶克自由主义理论不存在问题，也同样不能说明哈耶克的自由主义只关注社会理论的问题，因为这种社会理论本身还不足以使他就何种原则应当支配这种社会秩序的问题得出规范性结论；因此，从一个对政治哲学的基本要求来看，如果哈耶克的自由主义理论要具有规范性的力量，那么它还必须对一种规范的政治哲学做出阐释。实际上，当哈耶克把他的研究宣称为一种力图重述或构建自由主义政治哲学的努力时〔143〕，他已然预设了对下述两个问题的关注：一是他力图阐明自由社会秩序的观念是如何与正确理解社会力量的性质和人们在控制这些力量方面的理性限度相一致的；二是他力图阐明构成一个自由社会的理想之基础的规范性原则，并经由这一努力而证明对自由的捍卫和以自由的规则系统为基础的自发社会秩序的假设是正当的，进而避免对自发社会秩序理论做无限的扩大解释。对于前一个论题，我们已在前文中做了较为详尽的讨论，而后一个论题所涉及的则是我们在这里需要略加检讨的所谓哈耶克自由主义社会理论的伦理基础的问题。
+
+我们必须承认，这是一个极为棘手和复杂的论题，其关键原因在于哈耶克本人从未以这样一种方式讨论过这个问题；当然，我们在这里的关注点也不在于对这个论题做详尽的正面阐释，而毋宁在于透过这个论题而揭示出哈耶克自由主义哲学中所存在的值得我们进一步思考和探究的问题。据此，我们将把视角转向西方论者对哈耶克自由主义哲学所做的解释〔144〕，因为这些在认识论上彼此冲突的解释能够为我们的讨论提供一个颇具意义的出发点。
+
+就西方论者对哈耶克自由主义哲学所做的解释而言，较具典型意义的乃是下述两种解释：
+
+第一种乃是保守主义的解释；这种解释认为，尽管哈耶克本人在《自由秩序原理》著名的跋文中明确阐说了他为什么不是一个保守主义者的理由〔145〕，但是，如果我们赞同K. Minogue有关保守主义道德论辩的定义，即把它视作一种不仅强调业已确立的传统的价值而且也旨在阐释那些反对个人理性能充分证明和指导人类事务之主张的哲学论辩〔146〕，并根据此一定义来检视哈耶克的自由主义哲学，那么我们可以说，哈耶克本人给出的那些理由并不能使他豁免于论者们依旧视他为一个保守主义者，这是因为哈耶克关于规则系统文化进化过程所具有的理性不及的性质与个人理性的限度的认识，不仅使哈耶克得出了个人无法根据理性完全证明社会和规则之正当性的结论，而且还致使他强调传统和社会秩序的重要性，换言之，在哈耶克那里，业已确立的传统的正当性乃植根于它的理性不及的性质和它所具有的独一无二的调适价值；就此而言，哈耶克凸显出了他的自由主义哲学的保守主义一面。当然，我们在这里需要强调指出的是，由于哈耶克的保守主义所试图守成的自发社会秩序乃是一种抽象的秩序，所以它并不是那种以R. Scruton为范例的“实质的保守主义”（substantive conservatism），而毋宁更趋近于以Oakeshott为代表的“抽象的保守主义”（abstract conservatism）〔147〕。
+
+第二种解释在认识论方面与第一种解释完全不同，亦即那种把哈耶克的政治哲学理解成功利主义论式的解释，更准确地说是John Gray所谓的“间接功利主义”解释〔148〕；这种解释认为，尽管哈耶克的个人主义认为功利主义作为建构论唯理主义的变异形式，根本无力证明功利标准的存在而且亦无力指导个人在他的实际生活中对正当行为的考虑，因此他明确反对任何形式的功利主义（这当然包括以边沁为代表的“行为功利主义”以及此后发展出来的“规则功利主义”〔149〕），但是一如Gray所言，“哈耶克与休谟一样，他们的道德理论都有着一种根本的功利主义承担，而这就是间接的功利主义”〔150〕；他甚至认为，哈耶克所确立的功利标准的开放性与他的反享乐主义立场在间接的功利主义论式中结合和表达得最精彩，这是因为哈耶克与“正统的”功利主义者不同，他乃是以“某种长期的且内在无法定量的裨益”来检视自由的价值和隐含于其间的规则的价值的：在哈耶克，任何规则系统的标准乃是它是否最大化了不确定的任何个人得以运用其个人知识并实现其未知的目的的机会；而且他认为，自发社会秩序的规则系统之所以是适当的规则，乃是因为个人对它们的遵循会产生一种普遍欲求的和道德上可欲的后果，亦即一种有助益的行动结构或社会秩序。
+
+显而易见，西方论者对哈耶克自由主义哲学所做的“保守主义解释”和“功利主义解释”，给出了在认识论层面完全不同的两种哈耶克自由主义。保守主义的反唯理主义的哈耶克认为，“伦理学不是一个选择的问题”〔151〕，因为道德不是设计而是传统之自然选择的结果，而且这种选择“不是一个理性的过程”而是一个创造理性的过程〔152〕；立基于个人理性无力脱离社会进化进程并判断它的运作的这一观点，保守主义的哈耶克认为，我们无力为自己提供任何证明以说明我们坚守某些规则的理由，然而作为间接功利主义者的哈耶克却的确试图为他所称之为的“传统道德”提供某种理性的论证。总而言之，在保守主义的解释中，哈耶克透过反唯理主义的和传统主义的观念而成了道德哲学中的怀疑论者；而在功利主义的解释中，哈耶克经由揭示那些能证明自由秩序为正当并指导自发社会秩序发展的基本原则而成了道德哲学中的理性主义者。
+
+当然，上述两种解释之所以给出了认识论层面完全不同的两种哈耶克自由主义，其间的一个原因乃是这两种解释的单向度的性质使然：由于它们完全忽视了哈耶克自由主义的深层哲学预设中的问题，从而也就当然无力协调哈耶克自由主义立基于这种哲学预设而表现出来的反唯理主义的和理性主义的要素之间的紧张，所以从结果上讲，上述任何一种解释都无力为哈耶克的社会理论提供一个一致的伦理基础〔153〕；然而，不容我们忽视的是，导致这种结果的最根本的原因则是哈耶克自由主义本身在哲学预设之间的冲突。因此，为了解决哈耶克道德哲学解释中的问题，我们必须就构成哈耶克对自由社会秩序原则做道德论证及其否认这种努力之可能性的道德知识论之间的严重冲突之基础的哲学预设问题——一个长期以来始终没有引起足够重视的问题——做进一步的追究。
+
+一如前述，哈耶克乃是通过对古典自由主义哲学进行全面重述和建构的方式来捍卫自由主义理想的，因此从逻辑上讲，我们当可以从古典自由主义者的社会哲学和道德哲学中发见哈耶克的哲学预设；当然，在这些古典自由主义者的思想当中，之于哈耶克，最具重要意义的则是休谟和康德的思想，这是因为哈耶克认为，休谟和康德乃是自由主义传统中的核心人物，而且他们的知识贡献也构成了现代自由主义理论的基础：哈耶克在《大卫·休谟的法律和政治的哲学》（“The Legal and Political Philosophy of David Hume”）一文中指出，休谟的政治理论“对晚些时候以自由主义著称的法律和政治哲学提供了很可能是唯一的全面性论述”〔154〕；而他又在《自由社会秩序诸原则》（“The Principles of a Liberal Social Order”）一文中断言，自由主义对内含于法治观念中的适当行为规则与当局为了组织的目的而颁发的具体命令所做的“根本区别”，“乃是由休谟和康德的法律理论所明确阐释的”，尽管“自他们以后未得到充分的重述”〔155〕；此外，他还进一步指出，就他所关注的主要问题而言，“自休谟和康德以后，思想似乎几无进展，从而我的分析将在很大程度上是在他们停止的地方对他们的观点予以恢复”〔156〕。需要指出的是，哈耶克之所以以休谟和康德的理论为基础，乃是因为他认为他们的观点不仅不存在根本的不相容合性，而且是可以互补的，例如他宣称，“正义行动规则的目的独立性，是由大卫·休谟揭示的，尔后又得到了康德最为系统的发展”〔157〕，他甚至还断言，康德的普遍法则的观念，“似直接源出于休谟”〔158〕。
+
+的确，立基于以休谟为代表的苏格兰启蒙运动思想家的自由主义的社会哲学和康德阐释得最为彻底的自由道德哲学，哈耶克对古典自由主义哲学做出了重述并力图以一种统一的理论形式对之加以建构，然而我们需要强调指出的是，哈耶克试图调和休谟和康德这两种在认识论上彼此冲突的哲学观的努力，正是哈耶克整个自由主义哲学困境的根源之所在，一如C. Kukathas所言，“哈耶克的危险在于这样一种努力有可能无法成功”〔159〕；哈耶克之所以无法避免这个危险，主要有两个原因：一是因为尽管作为自由主义政治哲学家，休谟和康德无疑都共有着一些重要的政治承担，例如他们都强调自由理念和法治的重要性，强调对分立产权的维护和根据个人的权利进行分配，以及强调社会生活中公域与私域的界分等等，但是，他们在这些承担方面的相似性却并不能消弭他们在如何认识自由正义观方面的根本分歧；二是因为哈耶克所构建的自由主义哲学受困于休谟和康德不相容合的关于理性所能成就者的预设之中。就此而论，哈耶克自由主义的第一个哲学预设是休谟式的，亦即对自由秩序原则进行哲学论证的观念是可以质疑的。哈耶克通过遵循休谟的理路把正义视作一种能够有助于人们应对其环境的规则系统并且否认正义规则能够经由理性而发现，甚至认为这些行为规则最终能从其有助于人的合作并增进社会之生存前景这样一个事实中获致其正当性，因此我们可以说，哈耶克的第一个哲学预设深深地植根于休谟关于社会性质以及正义受制于社会进化的“怀疑论”知识论之中，而休谟这个知识论的著名结论就是人无力“根据理性……来捍卫理性”，因为人的理解的基础并不在于人的理性的力量，相反，人的理解的基础乃是经验。
+
+与此同时，哈耶克在力图揭示自由社会秩序的原则的时候，立基于“独立于他人专断意志”的自由观念或“某种特定障碍——即他人的强制——的不存在”的自由观念〔160〕，而对自发社会秩序的必要条件和“大社会”〔161〕的首要原则所做的阐释，则显而易见地植根于一种与休谟式假设完全不同的理性主义认识论，而这就是哈耶克的康德式的哲学预设。哈耶克的这个第二哲学预设所强调的乃是坚持理性论证的重要性；更为具体地说，这一哲学预设与康德理性主义认识论中的两个主张相勾连：一是个人具有实践理性的能力，因为理性不仅使他能够进行判断而且还构成了他行动的动机；二是个人之所以是自由的，乃是因为理性揭示了经验所不能者，并使个人得以把握那种能使他意识到他的自由的道德法则或不受制约的实践法则〔162〕。
+
+通过上文的简要分析，我们发见，正是哈耶克对休谟与康德这两种彼此紧张且冲突的自由主义哲学所做的调和处理，内化成了哈耶克自由主义哲学本身的反唯理主义与理性主义之间的紧张或冲突的困境；然而，当我们把哈耶克的这一哲学困境具体适用于哈耶克社会理论的时候，便产生了一个我们必须直面的类似的问题：一方面哈耶克关于人性和社会秩序性质的社会理论——亦即他所提出的一种旨在解释特定社会制度如何能使人们克服源出于个人理性有限的各种问题的实质性社会理论——导使他极力主张一种植根极深的反唯理主义的自由主义，而另一方面他则试图根据一整套规范性原则去捍卫他的这一主张，正是这一努力使他在同时采纳了一种较为理性主义的进路去解决有关自由主义正义理论的论证问题。如果我们将哈耶克自由主义哲学中的这一核心困境转换成一种问式，那么这便可以被表达为C. Kukathas的问题：给定哈耶克依循休谟理路而认定个人理性在社会生活中只具有限的作用，那么哈耶克的理论又如何有可能在为自由主义提供系统捍卫的同时，而不沦为他所批判的唯理主义的牺牲品〔163〕？
+
+这个问题的提出，不仅可以使我们得出结论认为，我们绝对不能简单地把哈耶克的自由主义哲学解释成单一的保守主义理论，也同样不能简单地将其视作任何最终立基于唯理主义的功利主义，而且还要求我们在研究哈耶克自由主义理论的时候，对另外两个彼此紧密相关的更为基本的问题做出进一步的追究：一是我们究竟应当对哈耶克所阐发的作为整体的自由主义哲学做何种学术评价？二是我们在进行此一学术评价时，究竟应当依凭何种解释框架，或者说我们是否有可能确立或发现一种有效的解释框架以对哈耶克的自由主义做出一致的解释？
+
+注　释
+
+〔1〕本文最早发表在《中国社会科学季刊》1997年秋季号，总第20期。
+
+〔2〕“朝圣山学社”成立于1947年4月。当年，在哈耶克的推动下，三十九位著名学者集会于瑞士“朝圣山”讨论自由社会的性质等重大问题；会后在哈耶克的倡议下，成立了该学社，并以首次集会的地名“朝圣山”命名。哈耶克自该学社创立起，连任12年主席，于1960年辞去主席一职并当选为名誉主席。该学社的核心成员有冯·米塞斯、弗兰克·奈特、福里德曼、波普尔、麦克·博兰尼、马克洛普等著名学者。有关文献请参阅F. Machlup, ed. Essays on Hayek, London：Routledge & Kegan Paul, 1977, xi-xiv；更重要的文献请参阅S. Kresge and L. Wenar, ed. Hayek on Hayek, Routledge, 1994, pp.132-133。
+
+〔3〕S. Gordon, "The Political Economy of A. Hayek," in J. C. Wood and R. N. Woods, ed. F. A. Hayek: Critical Assessments (Ⅲ), London and New York：Routledge, 1991, p.290．具体到哈耶克的《自由秩序原理》（The Constitution of Liberty）一书, Arthur Seldon认为此书可以与亚当·斯密的《国富论》相媲美（参见Arthur Seldon, Agenda for a Free Society: Essays on Hayek's The Constitution of Liberty, Hutchinson of London, 1961, p.8）; H. Hazlitt则认为该书乃是穆勒《论自由》一书在20世纪的继承者（参见G. Dietze, "Hayek on the Rule of Law," in F. Machlup, ed. Essays on Hayek, London：Routledge & Kegan Paul, 1977, p.109）。
+
+〔4〕M. Sandel, ed., Liberalism and Its Critics, Oxford: Basil Blackwell, 1984; A. Arblaster, The Rise and Decline of Western Liberalism, Oxford: Basil Blackwell, 1985; John Gray, Liberalism, Milton Keynes：Open Press, 1986. 1987年由D. Miller主持的《布莱克维尔政治思想百科全书》亦收入“哈耶克”的条目（参见邓正来主编《布莱克维尔政治学百科全书》［中译本］，中国政法大学出版社1992年版，第313—334页）。
+
+〔5〕据我的阅读范围，较具代表性的专著有如下述：N. Barry, Hayek's Social and Political Philosophy, London：Macmillan, 1979; John Gray, Hayek on Liberty, Oxford: Basil Blachwell, 1984：R. Butler, Hayek: His Contribution to the Political and Economic Thought of Our Time, London：Temple Smith, 1983; B. L. Crowley, The Self, the Individual, and the Community: Liberalism in the Political Thought of F. A. Hayek and Sidney and Beatrice Webb, Oxford: Clarendon Press, 1987; B. M. Rowland, Ordered Liberty and the Constitutional Framework: The Political Thought of F. A. Hayek, Greenwood Press, 1987; C. Kukathas, Hayek and Modern Liberalism, Oxford: Oxford University Press, 1989。
+
+〔6〕这部四卷本论文集乃是Routledge出版社出版的《当代经济学家的批判性评述》丛书（Critical Assessments of Contemporary Economists）中的一部，这套丛书还包括对希克斯、萨缪尔森、福里德曼和熊彼特等大经济学家的评论文集；在《弗里德利希·哈耶克——批判性评述》（J. C. Wood and R. N. Woods, ed. F. A. Hayek: Critical Assessments, London and New York：Routledge, 1991）四卷本中，主要收入了一些重要的论者从1931年至1984年发表的96篇对哈耶克思想各个方面进行研究和批判的论文。另请参阅有关的论文集：Arthur Seldon, ed. Agenda for a Free Society: Essays on Hayek's The Constitution of Liberty, Hutchinson of London, 1961; F. Machlup, ed. Essays on Hayek, London: Routledge & Kegan Paul, 1977; Arthur Seldon, ed. Hayek's Serfdom Revisited, London：Institute of Economic Affairs, 1984。
+
+〔7〕我之所以强调这个问题，乃是因为80年代以后，域外论者向中国大陆学术界传播和讨论哈耶克思想的过程中，表现出来的主要问题就是这样一种“印象式”的论辩方式；通过这种论辩方式而对哈耶克思想所做的捍卫抑或否定，尽管立场不同，然而论辩方式却是完全相同的：这种论式最为重要的特征之一，就是根据一己的“印象”而把有关问题的结论从其立基于的理论脉络中剥离出来，根据自己的论述脉络对其做背离原本理论的解释，进而误导读者。当然，这个问题与哈耶克的理论本身并无直接关系，它实际上所涉及的乃是作为研究者的知识分子应当如何对待知识的问题。关于这种现象以及其间的问题，我将写专文加以讨论。
+
+〔8〕这里需要指出的是，哈耶克的思想渊源特别繁复，主要的渊源有门格尔首创的“奥地利经济学派”，以亚当·福格森和休谟为代表的苏格兰的启蒙运动思想和康德详尽阐释的道德哲学。然而，值得注意的是，不同的论者从不同的理路出发，会强调哈耶克自由主义的不同的思想渊源；较为典型的是英国著名自由主义学者John Gray的例子：他从怀疑论的康德主义框架出发，除了认为哈耶克受到康德和休谟的影响以外，还将哈耶克的独特性视作是受到了马赫、维特根斯坦、波普尔和博兰尼等四人的影响（参见John Gray, Hayek on liberty, Oxford: Basil Blachwell, 1984, pp.8-16）。我个人认为，关于哈耶克的思想渊源的问题，最值得向读者推荐的是S. Kresge和L. Wenar两人共同编辑的Hayek on Hayek（Routledge, 1994）一书，其间哈耶克就其思想渊源的问题做了比较详尽的交代。
+
+〔9〕"Das Stabilisierungsproblem im Goldwahlamgslandern," Zeitschrift für Volkswirtschaft und Sozialpolitik, N. S. 4. 1924.
+
+〔10〕霍伊指出，“哈耶克连珠炮似的发出了一串诘难，或许哈耶克提出的问题太多了，简直让那些急躁的改革者无暇应接”；霍伊所开列的哈耶克“问题”，请参阅霍伊：《自由主义政治哲学》，刘锋译，三联书店1992年版，第197—198页。
+
+〔11〕Hayek, The Constitution of Liberty, Chicago：The University of Chicago Press, 1960, p.5.
+
+〔12〕Hayek, "Kinds of Rationalism," in Studies in Philosophy, Politics and Economics, London：Routledge & Kegan Paul, 1967, Chapter 5.
+
+〔13〕参见John Gray, Hayek on Liberty, Oxford: Basil Blachwell, 1984, pp.134-135。
+
+〔14〕Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago：The University of Chicago Press, 1973, p.23.
+
+〔15〕限于篇幅，我们不可能对哈耶克自由主义所存在的各种问题都做详尽的讨论，因此，我们将只关注哈耶克哲学预设中所存在的一些问题。关于其他问题，将在我正在撰写的专著中进行探究。
+
+〔16〕关于自生自发的秩序，哈耶克认为，亦可用“自我生成的秩序”（self-generating order）、“自我组织的秩序”（self-organizing order）或“人的合作的扩展秩序”（extended order of human cooperation）等术语代替。
+
+〔17〕Hayek, Studies in Philosophy, Politics and Economics, Routledge & Kegan Paul, 1967, p.162.
+
+〔18〕同上书，第71页。
+
+〔19〕George C. Roche Ⅲ, "The Relevance of Friedrich A. Hayek," in F. Machlup, ed. Essays on Hayek, London：Routledge & Kegan Paul, 1977, p.10.
+
+〔20〕G. P. O’Driscoll, "Spontaneous Order and the Coordination of Economic Activities," in J. C. Wood and R. N. Woods, ed. F. A. Hayek: Critical Assessments (VⅢ), London and New York：Routledge, 1991, p.22.
+
+〔21〕参见布坎南：《自由、市场与国家》，平新乔等译，上海三联书店1989年版，第116—117页；他在该书中还明确指出，“在一篇早期的论文里，我批评哈耶克将自然秩序原理延伸到制度和法律结构。在那篇论文中，我只是指出哈耶克的论点存在内在矛盾；我没有做出任何努力去排除或解决这个矛盾”（同上书，第110页）。布坎南在这里所谓的“早期”的“批评”，是指他在 "Law and the Invisible Hand"一文中对哈耶克观点的批评；他的这一批评又可见之于他在The Limits of Liberty：Between Anarchy and Leviathan（The University of Chicago Press, 1975, p.194）一书第十章注释［1］中所做的阐释，“我对于哈耶克对现代史的深刻解释及其对改善人类福祉的诊断的基本批评，在于他对社会进化将在事实上确保有效的制度形式生存下来的笃信不疑。哈耶克对人类改革制度的有意识努力极不信任，以致他毫无批评地接受了进化论的观点。我们可以在很大程度上赞同哈耶克对社会改革和制度改革所持的怀疑主义态度，然却不需把进化过程提升至具有理想作用的地步。的确，改革有可能是艰难的，但此一事实却并不构成我们将进化过程提升至理想地位的理由。”
+
+〔22〕Hayek, Law, Legislation and Liberty, Vol. Ⅲ, The Political Order of a Free People, Chicago：The University of Chicago Press, 1979, pp.42-43.
+
+〔23〕John Gray, Hayek on Liberty, Oxford: Basil Blachwell, 1984, pp.118-125.
+
+〔24〕参见R. Vernon, "Unintended Consequences," Political Theory, 1979, 7：57-73。
+
+〔25〕一如布坎南本人所承认的，“我完全赞同这两个哈耶克-索维尔中心论题，并且不向任何人隐瞒我对哈耶克远见卓识的贡献……表示钦佩。可是，在哈耶克最近的著作中，还有变得日益重要的第三个论题，而这个论题完全没有在索维尔的论文中出现，这引起了我的关注。这个论题涉及在其规范意义上把自然秩序原理延伸应用于制度结构的产生问题”（布坎南，《自由、市场与国家》，平新乔等译，上海三联书店1989年版，第109页）。然而，这里需要强调的是，如果我们毫无辨析地谈论自发的社会秩序，不仅会漏失这一重要学术脉络的发现，而且也会遮蔽两种自发的社会秩序的独特类型之间的差异以及它们之间的关系。我们必须承认，在研究哈耶克思想的文献中，由于论者常常流于“印象式”的解读层面，而未能对哈耶克自生自发秩序及其核心部分的文化进化观等问题做出较深刻的追究。
+
+〔26〕Hayek, Studies in Philosophy, Politics and Economics, London: Routledge & Kegan Paul, 1967, p.92.
+
+〔27〕Hayek, Law, Legislation and Liberty, Vol. Ⅲ, The Political Order of a Free People, Chicago: The University of Chicago Press, 1979, p.152.
+
+〔28〕Hayek, The Counter-Revolution of Science: Studies in the Abuse of Reason, Indianapolis, 1979, p.162.
+
+〔29〕他们当中的杰出者首推大卫·休谟、亚当·斯密和亚当·福格森；当然，他们在英格兰的同时代人塔克、埃德蒙·伯克和William Paley也对这一进化论传统作出了贡献；这些思想家所利用的资源主要是那种植根于普通法法理学中的思想传统。当然，哈耶克知识论立场的更深远的渊源还可以溯至苏格拉底的哲学，一如哈耶克在《自由秩序原理》中所宣称的：“苏格拉底认为，承认我们的无知乃是开启智慧之母”（Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.22）。
+
+〔30〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.69.
+
+〔31〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, 第56页。当然，这里需要指出的是，哈耶克就进化论的理性主义与建构论的唯理主义所做的两分法，并不完全是以国界为标准的，例如，法国人孟德斯鸠以及晚些时候的贡斯当，尤其是托克维尔等人，实际上更接近于他所称之为的“英国”传统，而恰恰不是“法国”传统。
+
+〔32〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.54.
+
+〔33〕J. L. Talmon, The Origins of Totalitarian Democracy, London: Secker & Warburg, 1952, p.2, 71；转引自Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.56。
+
+〔34〕参见哈耶克：《致命的自负》（原译《不幸的观念》），刘戟锋等译，东方出版社1991年版，第71页。
+
+〔35〕哈耶克：《致命的自负》（原译《不幸的观念》），刘戟锋等译，东方出版社1991年版。
+
+〔36〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.69.
+
+〔37〕Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago: The University of Chicago Press, 1973, p.33.
+
+〔38〕同上书，第32页。
+
+〔39〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.69.
+
+〔40〕Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago: The University of Chicago Press, 1973, p.5.
+
+〔41〕参见Hayek, Studies in Philosophy, Politics and Economics, London: Routledge & Kegan Paul, 1967, p.96。
+
+〔42〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.57.
+
+〔43〕同上书，第61页。
+
+〔44〕Hayek, New Studies in Philosophy, Politics, Economics and the History of Ideas, Routledge & Kegan Paul, 1978, p.13.
+
+〔45〕同上书，第5页。然而值得我们注意的是，B. Williams却对笛卡儿是否持有这一个观点提出了质疑，他的观点请参见Descartes: The Project of Pure of Enguiry, Penguin, 1978, pp.46-47。
+
+〔46〕当然，哈耶克也用希腊语“cosmos”来指谓一种成长的秩序（a grown order）或由内形成的秩序（endogenous order）；而用“taxis”来指称一种人造的秩序（a made order）或由外力产生的秩序（exogenous order）（参见Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago: The University of Chicago Press, 1973, pp.35-37）。
+
+〔47〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960. 中译本《自由秩序原理》，邓正来译，三联书店1997年版，第58—59页。
+
+〔48〕Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago: The University of Chicago Press, 1973, p.43.
+
+〔49〕参见Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, Chapter 4。
+
+〔50〕Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago: The University of Chicago Press, 1973, p.10.
+
+〔51〕同上书，第46页。
+
+〔52〕Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago: The University of Chicago Press, 1973, p.10.
+
+〔53〕同上书，第20页。
+
+〔54〕同上书，第38页。
+
+〔55〕同上书，第36页。
+
+〔56〕同上书，第37页。
+
+〔57〕参见哈耶克：《个人主义与经济秩序》，贾湛等译，北京经济学院出版社1989年版，第83页。
+
+〔58〕哈耶克认为，“秩序”一术语亦可以用当代社会科学系统论中常用的“系统”（system）一术语来代替（参见Hayek, Law, Legislation and Liberty: A New Statement of the Liberal Principle of Justice and Political Economy, complete ed. Routledge & Kegan Paul, 1982, p. xix）。
+
+〔59〕Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago: The University of Chicago Press, 1973, p.36.
+
+〔60〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, pp.159-160.
+
+〔61〕Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago: The University of Chicago Press, 1973, pp.43-44.
+
+〔62〕同上书，第36页。
+
+〔63〕同上书，第40页。
+
+〔64〕同上书，第51页。
+
+〔65〕哈耶克宣称，如果一个现代经济要成功，它就必须处理“知识分工”的问题，这是当代大众社会所特有的问题。他解释说，当代社会所面临的问题，乃是“如何确保充分利用每个社会成员所知道的资源，因为其相对重要性只有这些个人才知道。简而言之，它是一个如何利用任何人都不拥有其整体的知识的问题”（参见哈耶克：《个人主义与经济秩序》，贾湛等译，北京经济学院出版社1989年版，第75页）。
+
+〔66〕Hayek, New Studies in Philosophy, Politics, Economics and the History of Ideas, Routledge & Kegan Paul, 1978, p.135.
+
+〔67〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, Chapter 14, pp.205-219.
+
+〔68〕同上书，第159页。
+
+〔69〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.62.
+
+〔70〕参见R. A. Arnold, "Hayek and Institutional Reform," in J. C. Wood and R. N. Woods, ed. F. A. Hayek: Critical Assessments (Ⅲ), London and New York: Routledge, 1991, pp.233-235.
+
+〔71〕关于哈耶克的自由既是一种目的又是一种手段的论断，请参见M. M. Wilhelm, "The Political Thought of F. A. Hayek," in J. C. Wood and R. N. Woods, ed. F. A. Hayek: Critical Assessments (Ⅱ), London and New York: Routledge, 1991, pp.158-177。
+
+〔72〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, pp.22-38.
+
+〔73〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, Chapter 14.
+
+〔74〕同上书, Chapters 4 & 10。
+
+〔75〕同上书，第284页。
+
+〔76〕哈耶克：《通向奴役之路》，滕维藻等译，商务印书馆1962年版，第40页。
+
+〔77〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.59.
+
+〔78〕Hayek, Studies in Philosophy, Politics and Economics, London: Routledge & Kegan Paul, 1967, p.66 n.
+
+〔79〕Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago: The University of Chicago Press, 1973, p.43.
+
+〔80〕Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago: The University of Chicago Press, 1973, p.10.
+
+〔81〕参见Hayek, Studies in Philosophy, Politics and Economics, London: Routledge & Kegan Paul, 1967, pp.96-97。
+
+〔82〕同上书，第67页。
+
+〔83〕Hayek, Law, Legislation and Liberty, Vol. Ⅱ, The Mirage of Social Justice, Chicago: The University of Chicago Press, 1976, p.109.
+
+〔84〕Hayek, Studies in Philosophy, Politics and Economics, London: Routledge & Kegan Paul, 1967, p.42.
+
+〔85〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.27.
+
+〔86〕Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago: The University of Chicago Press, 1973, p.23.
+
+〔87〕Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago: The University of Chicago Press, 1973, p.5.
+
+〔88〕Hayek, Studies in Philosophy, Politics and Economics, London: Routledge & Kegan Paul, 1967, p.92.
+
+〔89〕同上书，第80页。
+
+〔90〕Hayek, Law, Legislation and Liberty, Vol. Ⅱ, The Mirage of Social Justice, Chicago: The University of Chicago Press, 1976, p.4.
+
+〔91〕Hayek, New Studies in Philosophy, Politics, Economics and the History of Ideas, Routledge & Kegan Paul, 1978, p.10.
+
+〔92〕Hayek, Studies in Philosophy, Politics and Economics, London: Routledge & Kegan Paul, 1967, p.42.
+
+〔93〕Hayek, Law, Legislation and Liberty, Vol. Ⅲ, The Political Order of a Free People, Chicago: The University of Chicago Press, 1979, p.164.
+
+〔94〕Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago: The University of Chicago Press, 1973, p.9.
+
+〔95〕同上书，第18页。
+
+〔96〕Hayek, Law, Legislation and Liberty, Vol. Ⅲ, The Political Order of a Free People, Chicago: The University of Chicago Press, 1979, p.161.
+
+〔97〕哈耶克：《致命的自负》（原译《不幸的观念》），刘戟锋等译，东方出版社1991年版，第16页。
+
+〔98〕Hayek, Law, Legislation and Liberty, Vol. Ⅱ, The Mirage of Social Justice, Chicago: The University of Chicago Press, 1976, p.11.
+
+〔99〕哈耶克：《致命的自负》（原译《不幸的观念》），刘戟锋等译，东方出版社1991年版，第12—13页。
+
+〔100〕参见Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.59。
+
+〔101〕同上。
+
+〔102〕参见Hayek, Law, Legislation and Liberty, Vol. Ⅲ, The Political Order of a Free People, Chicago: The University of Chicago Press, 1979, p.162。
+
+〔103〕参阅N. Moldofsky, Order: with or without Design? The Centre for Research into Communist Economics, 1989, pp.30-31。
+
+〔104〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.66.
+
+〔105〕V. Vanberg, "Spontaneous Market Order and Social Rules: A Critical Examination of F. A. Hayek's Theory of Cultural Evolution," in J. C. Wood and R. N. Woods, ed. F. A. Hayek: Critical Assessments (Ⅲ), London and New York: Routledge, 1991, pp.177-201. 需要指出的是，哈耶克有时的确认为文化规则的选择可以在个人和群体层面同时展开，例如他说文化进化在很大程度上是“通过个人和群体的成功”而运作的（Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.59）；然而，在我看来，这里关键的问题乃是哈耶克并没有对合成这两种不尽相同的解释路径做理论上的建构。关于这个问题，N. Moldofsky也从另一个角度对V. Vanberg的观点做出了回应，请参见Order: with or without Design? The Centre for Research into Communist Economic, 1989, p.31。
+
+〔106〕参见Hayek, Studies in Philosophy, Politics and Economics, London: Routledge & Kegan Pau, 1967, pp.66-81。
+
+〔107〕参见布坎南：《自由、市场与国家》，平新乔等译，上海三联书店1989年版，第115页；同时又请参见哈耶克：《致命的自负》（原译《不幸的观念》），刘戟锋等译，东方出版社1991年版，第24页。
+
+〔108〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, pp.66-67.
+
+〔109〕同上书, 第70页。
+
+〔110〕同上书，第324—339页。
+
+〔111〕参见Hayek, Law, Legislation and Liberty, Vol. Ⅲ, The Political Order of a Free People, Chicago: The University of Chicago Press, 1979, 尤请参见pp.105-128；实际上早在哈耶克撰写《自由秩序原理》一书时，他已然具有了这一具体建议的观念雏形，请参见Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.207。
+
+〔112〕布坎南：《自由、市场与国家》，平新乔等译，上海三联书店1989年版，第85页。
+
+〔113〕同上书，第117页。
+
+〔114〕我认为，哈耶克的这个洞见，对中国的学者会有很大的启示，因为它会使我们认真思考具有中国传统意义的文化规则和当下中国社会的具体制度之间的关系和差异，进而确知中国制度改革的层面。
+
+〔115〕布坎南：《自由、市场与国家》，平新乔等译，上海三联书店1989年版，第122页。
+
+〔116〕同上书，第116页。
+
+〔117〕罗伯特·诺齐克：《无政府、国家与乌托邦》，何怀宏等译，中国社会科学出版社1991年版，第187页。
+
+〔118〕H. L. A. Hart, "Between Utility and Rights, "in Alan Ryan, ed. The Idea of Freedom, Oxford: Oxford University Press, 1979, p.77.
+
+〔119〕参见约翰·罗尔斯：《正义论》，何怀宏等译，中国社会科学出版社1988年版，第56—79页。
+
+〔120〕罗伯特·诺齐克：《无政府、国家与乌托邦》，何怀宏等译，中国社会科学出版社1991年版，第1页。
+
+〔121〕诺齐克的这一权利原则包括三个最基本的要求：一是“获取的正义原则”，即任何人都必须通过其自身的能力和劳动去获取财产；二是“转让的正义原则”，即任何财产的转让与分配都必须立基于个人的自愿而不得以任何方式侵损个人的权利；三是“矫正的正义原则”，即以正义的方式矫正分配过程中发生的一切侵损个人权利的行为和后果。请参见罗伯特·诺齐克：《无政府、国家与乌托邦》，何怀宏等译，中国社会科学出版社1991年版，第156—159页。
+
+〔122〕H. L. A. Hart, "Between Utility and Rights," in Alan Ryan, ed. The Idea of Freedom, Oxford: Oxford University Press, 1979, p.77.
+
+〔123〕关于这个问题，请参见万俊人：《关于美德伦理的传统叙述、重述和辩述（译者序言）》，载麦金泰尔：《谁之正义？何种合理性？》，万俊人等译，当代中国出版社1996年版；又请参见万俊人所撰写的一篇论题相关的论文：《美国当代社会伦理学的新发展》，载《中国社会科学》1995年第3期，第144—160页。
+
+〔124〕M. Sandel, Liberalism and the Limits of Justice, Cambridge: Cambridge University Press, 1982, p.174. 转引自并参见万俊人：《美国当代社会伦理学的新发展》，载《中国社会科学》1995年第3期，第148—150页。
+
+〔125〕同上。
+
+〔126〕同上。
+
+〔127〕R. P. Wolff, Understanding Rawls: A Reconstruction and Critique of A Theory of Justice, Priceton: Princeton University Press, 1977, p.210.
+
+〔128〕Amy Gutmann, "Communitarian Critics of Liberalism," in Philosophy and Public Affairs, 14: 308-322, 1985, p.308；转引自B. M. Rowland, Ordered Liberty and the Constitutional Framework: The Political Thought of F. A. Hayek, Greenwood Press, 1987, pp.116-117。
+
+〔129〕C. Larmore, Patterns of Moral Complexity, Cambridge, 1987, p.93.
+
+〔130〕鉴于本文论题的设定，我不可能在这里对他们所做的回应进行讨论。关于他们的观点，请主要参阅约翰·罗尔斯："Justice as Fairness: Political not Metaphysical," in Philosophy and Public Affairs, 14, 1985, pp.223-251; Dworkin, A Matter of Principle, Cambridge, Mass.: Harvard University Press, 1986。
+
+〔131〕参见F. A. Hayek, Law, Legislation and Liberty, "Consolidated Preface to One Volume Edition," T. J. Press, Ltd., xvii。然而需要指出的是，A. DiQuattro却认为，罗尔斯与哈耶克在两个方面存在着根本的差异：第一，罗尔斯认为市场社会主义与其正义二原则相容合，而哈耶克则对市场社会主义大加批评；第二，罗尔斯与哈耶克在分配政策领域中何者为首要原则方面亦大有分歧。参见A. DiQuattro, "Rawls versus Hayek," in J. C. Wood and R. N. Woods, ed. F. A. Hayek: Critical Assessments (Ⅳ), London and New York: Routledge, 1991, pp.202-205。
+
+〔132〕参见Jeremy Shearmur, "Hayek and the Wisdom of the Age," in Arthur Seldon, ed. Hayek's Selfdom Revisited, pp.67-85。
+
+〔133〕哈耶克：《个人主义与经济秩序》，贾湛等译，北京经济学院出版社1989年版，第11页。
+
+〔134〕这里需要指出的是，R. F. Harrod在“Hayek on Individualism”一文中对哈耶克的个人主义标准提出了明确的质疑。他认为，讨论个人主义，首先必须是标准正确，但哈耶克的“个人主义：真与伪”这个标题本身就隐含有一种教条主义。为此，Harrod给出了他自己的六个标准。第一是历史标准：其他论者的理论可以根据其观点与那些确立了个人主义解释者资格的大师的观点相符与否来加以检验。第二是词源学标准：可以设定个人主义这个术语本身一定强调个人的重要意义，因此可以根据那些理论是否真正强调这一点来进行判断。第三是科学标准：真个人主义可以被认为是与真“个人主义”命题相符合的理论，而与伪命题相符的则是伪个人主义。第四是价值目的标准：个人主义可以被认为是对目的或价值的一种陈述，个人主义可以被认为是真的，如果个人主义确立的目标或价值是人们实际上所珍视的事务，这种个人主义就是真的。第五是价值手段标准：个人主义可以被视作并不确定终极价值，而是确定那些实现人类共同接受的较为基本的目标的手段；如果个人主义规定了一套事实上有助于这些目标实现的准则，这种个人主义就是真的。第六是道德标准：真个人主义可以被认为是陈述了人们应当旨在努力的价值，而不论人们是否努力。Harrod指出，哈耶克并不清楚他选择的是上述何种或何组标准，因此在他的分析中，凸显出了这种分析的专断性。有关这方面的具体分析，请参阅R. F. Harrod, "Hayek on Individualism," in J. C. Wood and R. N. Woods, ed. F. A. Hayek: Critical Assessments (Ⅱ), London and New York: Routledge, 1991, pp.69-75。
+
+〔135〕哈耶克：《个人主义与经济秩序》，贾湛等译，北京经济学院出版社1989年版，第11页。
+
+〔136〕实际上哈耶克对伪个人主义的批判，主要的目的也在于对这种集体主义进行批判，因为一如他所言，即使是反对唯理主义的“伪个人主义，也会导致实际上的集体主义”。参见哈耶克：《个人主义与经济秩序》，贾湛等译，北京经济学院出版社1989年版，第6—7页。
+
+〔137〕参见Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, Chapter Ⅰ中有关自由状态和自由权项的讨论。
+
+〔138〕哈耶克：《个人主义与经济秩序》，贾湛等译，北京经济学院出版社1989年版，第15页。
+
+〔139〕同上书，第6—7页。
+
+〔140〕哈耶克：《个人主义与经济秩序》，贾湛等译，北京经济学院出版社1989年版，第6页。
+
+〔141〕同上书，第23—24。
+
+〔142〕参见Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.157。
+
+〔143〕参见Hayek在The Constitution of Liberty（Chicago: The University of Chicago Press, 1960）一书中所开宗明意指出的，如果我们期望西方基本价值重新获致力量，“那么对它们做出综合性的重述及重新证明的工作，便是刻不容缓的事务”（p.3）。
+
+〔144〕这里需要指出的是，西方论者所给出的解释主要有下述几种：John Gray给出了一种康德式的自由主义解释和一种间接功利主义的解释；C. Kukathas则认为，哈耶克的道德哲学在捍卫自由的社会秩序以及其间最为核心的正义观念的时候，同时采用了三种论式：第一种论式乃是契约论论式，它通过诉诸康德的观点而否定那种力图证明社会正义原则模式化的努力在道德上的正当性；第二个论式是一种保守主义的论辩；而第三种乃是功利主义的论式（参见C. Kukathas, Hayek and Modern Liberalism, Oxford: Oxford University Press, 1989）。然而，囿于篇幅，本文将不对契约论论式这个问题展开讨论。
+
+〔145〕根据哈耶克自己的观点，他所阐释的反对保守主义的理由主要有如下述：（1）担忧变化或进步；（2）缺少对当局权力范围的关注；（3）对民主的敌视，承认特权和确立的等级；（4）或者宣称超自然力量的权威；参阅Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, pp.397-411。
+
+〔146〕K. Minogue有关保守主义的讨论，参阅他在P. Edwards所主编的The Encyclopaedia of Philosophy, London, 1967, Ⅱ, pp.195-198所撰写的“保守主义”条目；又参阅邓正来主编的《布莱克维尔政治学百科全书》“保守主义”条目，中国政法大学出版社1992年版，第157—160页。
+
+〔147〕关于抽象保守主义，请参见Oakeshott, Rationalism in Politics and Other Essays, London: Methuen, 1981；关于实质保守主义，请参见R. Scruton, The Meaning of Conservatism, 2nd ed., London: Macmillan, 1984。他们两者间的区别，主要在于他们所守成的对象完全不同：抽象保守主义者主要欲求坚持的乃是一种人的互动方式，在Oakeshott看来，这种方式并不是由他所谓的“文明结社”的政治结构所产生的，而是在其间得到维续的；然而，Oakeshott的这种抽象保守主义与R. Scruton的保守主义不尽相同，这主要是因为后者较少关注特定结社方式的维续，而更关注现存文明秩序的维护。R. Scruton认为，保守主义所应当维护的必须是合法建构的实际存在的文明秩序，因此保守主义的使命便在于反对和防阻这种状态的丢失。
+
+〔148〕John Gray指出，哈耶克之所以是间接保守主义者，理由主要有三（参阅John Gray, Hayek on Liberty, Oxford: Basil Blachwell, 1984, pp.59-61）：（1）一如前述，哈耶克在捍卫自由主义的时候既把自由视作一种目的又理解成一种手段，因此他主张自由的许多论点都颇似功利主义的论式，最为典型的论式可见之于哈耶克在《自由秩序原理》中的论断，即“我们对自由的坚信……是以这样一个信念为基础的，即从总体观之，自由将释放出更多的力量，而其所达致的结果一定是利大于弊”（Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.31）；（2）哈耶克认为，尽管伦理价值最终无法获得科学论证，但是集体主义者与非集体主义者之间的诸多争议却能够不诉诸道德价值而得到解决（参阅Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago: The University of Chicago Press, 1973, p.6），这里的底蕴在于，他所涉人的并不是一个关于目的而是一个关于实现这些目的的手段的论争；因此，他所批判的并不是集体主义者的道德意图，而是他们在知识上的谬误，亦即一种并不是源出于错误的道德理论而是源出于错误的政治经济学的谬误；（3）在哈耶克，一如前述，正义是秩序的条件，而正义规则的目的乃是要把秩序引入人类事务之中，从而维续增进人之努力所必须的条件。因此，John Gray认为，哈耶克把正义的框架视作是成功增进一般福利的一个不可或缺的条件的论辩，实际上赋予了一种可行的和以偏好为基础的功利标准以较为确定的内容：一种规则体系之所以有用，乃是因为它最大化了不确定的任何个人实现其未知的目的的机会。
+
+〔149〕关于“行为功利主义”和“规则功利主义”，前者主张道德行为只受制于一个原则，即功利原则；行为的正当与否，完全在于它是否能够带来更多的功利或导致更少的反功利。后者则反对前者，认为如果每个人按照他个人的功利计算去采取行动，反而会导致更多的反功利，因此最高原则（即功利原则）与个别的道德行为之间还需要有约定的道德和社会的规则。就此问题而言，中文世界最精彩的研究文献，在我看来，乃是由傅伟勋做出的，参阅其所著《美国近年来的哲学研究与中国哲学重建问题》，载《从西方哲学到禅佛教》，三联书店1989年版，第203—238页。
+
+〔150〕John Gray, Hayek on Liberty, Oxford: Basil Blachwell, 1984, pp.59.
+
+〔151〕Hayek, Law, Legislation and Liberty, Vol. Ⅲ, The Political Order of a Free People, Chicago: The University of Chicago Press, 1979, Epilogue, p.167.
+
+〔152〕同上书，Epilogue, p.166。
+
+〔153〕这个问题极为复杂，我们在这里仅简单地讨论一下相关的原因。一方面，保守主义的解释之所以不能成立，最为根本的原因是哈耶克因承继康德道德哲学而在其理论中存有着一种理性主义的要素，而这是与保守主义哲学理性有限的主张所不相容合的。作为一个保守主义者，Oakeshott在他所撰写的《政治学的理性主义》一文中极为精准地把握住了哈耶克政治哲学中的理性主义特性，他指出，“这很可能是哈耶克《通向奴役之路》一书的最为重要的特征，然而这并不是指他的理论的说服力，而是指这样一个事实，即它是一个理论。一个反对所有计划的计划，虽说有可能优于它所反对的任何计划，但是它依旧属于同一个类型的政治学”（"Rationalism in Politics," in Rationalism in Politics and Other Essays, London: Methuen, 1981, p.21）。而另一方面，试图用间接功利主义把哈耶克政治著述中的不同论辩统一起来的解释也是不可行的，因为作为一种唯理主义的伦理学观，功利主义无法与哈耶克思想中的反唯理主义要素相调和；而且哈耶克也宣称，“唯一能够被说成是决定行为规则的‘功利’，并不是……那种为行动者所知道的功利或为任何一个人所知道的功利，而只是一种对整个社会的实体化的‘功利’"（Hayek, Law, Legislation and Liberty, Vol. Ⅱ, The Mirage of Social Justice, Chicago: The University of Chicago Press, 1976, p.22）。
+
+〔154〕Hayek, Studies in Philosophy, Politics and Economics, London: Routledge & Kegan Paul, 1967, p.109.
+
+〔155〕Hayek, Studies in Philosophy, Politics and Economics, London: Routledge & Kegan Paul, 1967, p.166.
+
+〔156〕Hayek, Law, Legislation and Liberty, Vol. Ⅰ, Rules and Order, Chicago: The University of Chicago Press, 1973, 6 n.
+
+〔157〕参见Hayek, "The Confusion of Language in Political Thought," in New Studies in Philosophy, Politics, Economics and the History of Ideas, Routledge & Kegan Paul, 1978, p.77。
+
+〔158〕Hayek, Studies in Philosophy, Politics and Economics, London: Routledge & Kegan Paul, 1967, p.117。恰如John Gray所言，“哈耶克政治哲学最具意义的特征之一，乃是它试图在休谟和康德的正义观之间构造出一种调和的观点”（参阅John Gray, Hayek on Liberty, Oxford: Basil Blackwell, 1984, p.8），而N. MacCormik也宣称，哈耶克关于休谟与康德的理论具有可相容性的观点，不仅是可行的，而且是极富洞见的（参阅MacCormik, Legal Right and Social Democracy, Oxford: Clarendon Press, 1982, 6 n.）。
+
+〔159〕参见C. Kukathas, Hayek and Modern Liberalism, Oxford: Oxford University Press, 1989；尤其是其间的第五章“伦理学与自由秩序”。
+
+〔160〕Hayek, The Constitution of Liberty, Chicago: The University of Chicago Press, 1960, p.19.
+
+〔161〕哈耶克所用“大社会”（great society）一术语，其渊源来自亚当·斯密；而且他认为，他使用的“大社会”这一术语也与波普尔的“开放社会”（open society）这一术语同义。他明确指出，“大社会”这一术语在18世纪已经习用，如R. Cumberland在1727年出版的A Treatise on the Law of Nature一书即曾使用，亚当·斯密与其他论者亦曾使用过此一术语。然而，R. Vernon则认为，哈耶克的“大社会”与波普尔的“开放社会”并不完全同义，因为二者的支配性预设明显不同：哈耶克从经济学与社会科学史形成其复杂的学理，而波普尔则根据自然科学方法的确定观点形成其基本的理论模型；请参见R. Vernon, "The 'Great Society' and the 'Open Society': Liberalism in Hayek and Popper," in Canadian Journal of Political Science, 9 (1976), pp.261-276。
+
+〔162〕参见C. Kukathas, Hayek and Modern Liberalism, Oxford: Oxford University Press, 1989, p.15。
+
+〔163〕参见C. Kukathas, Hayek and Modern Liberalism, Oxford: Oxford University Press, 1989, pp. vii-viii。
+
+
+

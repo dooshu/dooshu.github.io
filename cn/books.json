@@ -764,7 +764,7 @@
   },
   {
     "bookid": 153,
-    "title": "管錐編 - 钱锺书",
+    "title": "管锥编/管錐編 - 钱锺书",
     "description": ""
   },
   {
@@ -6104,22 +6104,22 @@
   },
   {
     "bookid": 1221,
-    "title": "",
+    "title": "上帝是红色的 - 廖亦武",
     "description": ""
   },
   {
     "bookid": 1222,
-    "title": "",
+    "title": "最后的地主 - 廖亦武",
     "description": ""
   },
   {
     "bookid": 1223,
-    "title": "",
+    "title": "中国冤案录 - 廖亦武",
     "description": ""
   },
   {
     "bookid": 1224,
-    "title": "",
+    "title": "中国底层访谈录 - 廖亦武",
     "description": ""
   },
   {
@@ -6134,6 +6134,21 @@
   },
   {
     "bookid": 1227,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1228,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1229,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1220,
     "title": "",
     "description": ""
   }

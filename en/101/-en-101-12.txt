@@ -1,0 +1,109 @@
+12 Man and Machine
+
+
+AS MATURE INDUSTRIES stagnate, information technology has advanced so rapidly that it has now become synonymous with “technology” itself. Today, more than 1.5 billion people enjoy instant access to the world’s knowledge using pocket-sized devices. Every one of today’s smartphones has thousands of times more processing power than the computers that guided astronauts to the moon. And if Moore’s law continues apace, tomorrow’s computers will be even more powerful.
+
+Computers already have enough power to outperform people in activities we used to think of as distinctively human. In 1997, IBM’s Deep Blue defeated world chess champion Garry Kasparov. Jeopardy!’s best-ever contestant, Ken Jennings, succumbed to IBM’s Watson in 2011. And Google’s self-driving cars are already on California roads today. Dale Earnhardt Jr. needn’t feel threatened by them, but the Guardian worries (on behalf of the millions of chauffeurs and cabbies in the world) that self-driving cars “could drive the next wave of unemployment.”
+
+Everyone expects computers to do more in the future—so much more that some wonder: 30 years from now, will there be anything left for people to do? “Software is eating the world,” venture capitalist Marc Andreessen has announced with a tone of inevitability. VC Andy Kessler sounds almost gleeful when he explains that the best way to create productivity is “to get rid of people.” Forbes captured a more anxious attitude when it asked readers: Will a machine replace you?
+
+Futurists can seem like they hope the answer is yes. Luddites are so worried about being replaced that they would rather we stop building new technology altogether. Neither side questions the premise that better computers will necessarily replace human workers. But that premise is wrong: computers are complements for humans, not substitutes. The most valuable businesses of coming decades will be built by entrepreneurs who seek to empower people rather than try to make them obsolete.
+
+
+
+
+
+SUBSTITUTION VS. COMPLEMENTARITY
+
+
+Fifteen years ago, American workers were worried about competition from cheaper Mexican substitutes. And that made sense, because humans really can substitute for each other. Today people think they can hear Ross Perot’s “giant sucking sound” once more, but they trace it back to server farms somewhere in Texas instead of cut-rate factories in Tijuana. Americans fear technology in the near future because they see it as a replay of the globalization of the near past. But the situations are very different: people compete for jobs and for resources; computers compete for neither.
+
+
+
+
+
+Globalization Means Substitution
+
+
+When Perot warned about foreign competition, both George H. W. Bush and Bill Clinton preached the gospel of free trade: since every person has a relative strength at some particular job, in theory the economy maximizes wealth when people specialize according to their advantages and then trade with each other. In practice, it’s not unambiguously clear how well free trade has worked, for many workers at least. Gains from trade are greatest when there’s a big discrepancy in comparative advantage, but the global supply of workers willing to do repetitive tasks for an extremely small wage is extremely large.
+
+People don’t just compete to supply labor; they also demand the same resources. While American consumers have benefited from access to cheap toys and textiles from China, they’ve had to pay higher prices for the gasoline newly desired by millions of Chinese motorists. Whether people eat shark fins in Shanghai or fish tacos in San Diego, they all need food and they all need shelter. And desire doesn’t stop at subsistence—people will demand ever more as globalization continues. Now that millions of Chinese peasants can finally enjoy a secure supply of basic calories, they want more of them to come from pork instead of just grain. The convergence of desire is even more obvious at the top: all oligarchs have the same taste in Cristal, from Petersburg to Pyongyang.
+
+
+
+
+
+Technology Means Complementarity
+
+
+Now think about the prospect of competition from computers instead of competition from human workers. On the supply side, computers are far more different from people than any two people are different from each other: men and machines are good at fundamentally different things. People have intentionality—we form plans and make decisions in complicated situations. We’re less good at making sense of enormous amounts of data. Computers are exactly the opposite: they excel at efficient data processing, but they struggle to make basic judgments that would be simple for any human.
+
+To understand the scale of this variance, consider another of Google’s computer-for-human substitution projects. In 2012, one of their supercomputers made headlines when, after scanning 10 million thumbnails of YouTube videos, it learned to identify a cat with 75% accuracy. That seems impressive—until you remember that an average four-year-old can do it flawlessly. When a cheap laptop beats the smartest mathematicians at some tasks but even a supercomputer with 16,000 CPUs can’t beat a child at others, you can tell that humans and computers are not just more or less powerful than each other—they’re categorically different.
+
+
+
+
+
+The stark differences between man and machine mean that gains from working with computers are much higher than gains from trade with other people. We don’t trade with computers any more than we trade with livestock or lamps. And that’s the point: computers are tools, not rivals.
+
+The differences are even deeper on the demand side. Unlike people in industrializing countries, computers don’t yearn for more luxurious foods or beachfront villas in Cap Ferrat; all they require is a nominal amount of electricity, which they’re not even smart enough to want. When we design new computer technology to help solve problems, we get all the efficiency gains of a hyperspecialized trading partner without having to compete with it for resources. Properly understood, technology is the one way for us to escape competition in a globalizing world. As computers become more and more powerful, they won’t be substitutes for humans: they’ll be complements.
+
+
+
+
+
+COMPLEMENTARY BUSINESSES
+
+
+Complementarity between computers and humans isn’t just a macro-scale fact. It’s also the path to building a great business. I came to understand this from my experience at PayPal. In mid-2000, we had survived the dot-com crash and we were growing fast, but we faced one huge problem: we were losing upwards of $10 million to credit card fraud every month. Since we were processing hundreds or even thousands of transactions per minute, we couldn’t possibly review each one—no human quality control team could work that fast.
+
+So we did what any group of engineers would do: we tried to automate a solution. First, Max Levchin assembled an elite team of mathematicians to study the fraudulent transfers in detail. Then we took what we learned and wrote software to automatically identify and cancel bogus transactions in real time. But it quickly became clear that this approach wouldn’t work either: after an hour or two, the thieves would catch on and change their tactics. We were dealing with an adaptive enemy, and our software couldn’t adapt in response.
+
+The fraudsters’ adaptive evasions fooled our automatic detection algorithms, but we found that they didn’t fool our human analysts as easily. So Max and his engineers rewrote the software to take a hybrid approach: the computer would flag the most suspicious transactions on a well-designed user interface, and human operators would make the final judgment as to their legitimacy. Thanks to this hybrid system—we named it “Igor,” after the Russian fraudster who bragged that we’d never be able to stop him—we turned our first quarterly profit in the first quarter of 2002 (as opposed to a quarterly loss of $29.3 million one year before). The FBI asked us if we’d let them use Igor to help detect financial crime. And Max was able to boast, grandiosely but truthfully, that he was “the Sherlock Holmes of the Internet Underground.”
+
+This kind of man-machine symbiosis enabled PayPal to stay in business, which in turn enabled hundreds of thousands of small businesses to accept the payments they needed to thrive on the internet. None of it would have been possible without the man-machine solution—even though most people would never see it or even hear about it.
+
+I continued to think about this after we sold PayPal in 2002: if humans and computers together could achieve dramatically better results than either could attain alone, what other valuable businesses could be built on this core principle? The next year, I pitched Alex Karp, an old Stanford classmate, and Stephen Cohen, a software engineer, on a new startup idea: we would use the human-computer hybrid approach from PayPal’s security system to identify terrorist networks and financial fraud. We already knew the FBI was interested, and in 2004 we founded Palantir, a software company that helps people extract insight from divergent sources of information. The company is on track to book sales of $1 billion in 2014, and Forbes has called Palantir’s software the “killer app” for its rumored role in helping the government locate Osama bin Laden.
+
+We have no details to share from that operation, but we can say that neither human intelligence by itself nor computers alone will be able to make us safe. America’s two biggest spy agencies take opposite approaches: The Central Intelligence Agency is run by spies who privilege humans. The National Security Agency is run by generals who prioritize computers. CIA analysts have to wade through so much noise that it’s very difficult to identify the most serious threats. NSA computers can process huge quantities of data, but machines alone cannot authoritatively determine whether someone is plotting a terrorist act. Palantir aims to transcend these opposing biases: its software analyzes the data the government feeds it—phone records of radical clerics in Yemen or bank accounts linked to terror cell activity, for instance—and flags suspicious activities for a trained analyst to review.
+
+In addition to helping find terrorists, analysts using Palantir’s software have been able to predict where insurgents plant IEDs in Afghanistan; prosecute high-profile insider trading cases; take down the largest child pornography ring in the world; support the Centers for Disease Control and Prevention in fighting foodborne disease outbreaks; and save both commercial banks and the government hundreds of millions of dollars annually through advanced fraud detection.
+
+Advanced software made this possible, but even more important were the human analysts, prosecutors, scientists, and financial professionals without whose active engagement the software would have been useless.
+
+Think of what professionals do in their jobs today. Lawyers must be able to articulate solutions to thorny problems in several different ways—the pitch changes depending on whether you’re talking to a client, opposing counsel, or a judge. Doctors need to marry clinical understanding with an ability to communicate it to non-expert patients. And good teachers aren’t just experts in their disciplines: they must also understand how to tailor their instruction to different individuals’ interests and learning styles. Computers might be able to do some of these tasks, but they can’t combine them effectively. Better technology in law, medicine, and education won’t replace professionals; it will allow them to do even more.
+
+LinkedIn has done exactly this for recruiters. When LinkedIn was founded in 2003, they didn’t poll recruiters to find discrete pain points in need of relief. And they didn’t try to write software that would replace recruiters outright. Recruiting is part detective work and part sales: you have to scrutinize applicants’ history, assess their motives and compatibility, and persuade the most promising ones to join you. Effectively replacing all those functions with a computer would be impossible. Instead, LinkedIn set out to transform how recruiters did their jobs. Today, more than 97% of recruiters use LinkedIn and its powerful search and filtering functionality to source job candidates, and the network also creates value for the hundreds of millions of professionals who use it to manage their personal brands. If LinkedIn had tried to simply replace recruiters with technology, they wouldn’t have a business today.
+
+
+
+
+
+The Ideology of Computer Science
+
+
+Why do so many people miss the power of complementarity? It starts in school. Software engineers tend to work on projects that replace human efforts because that’s what they’re trained to do. Academics make their reputations through specialized research; their primary goal is to publish papers, and publication means respecting the limits of a particular discipline. For computer scientists, that means reducing human capabilities into specialized tasks that computers can be trained to conquer one by one.
+
+Just look at the trendiest fields in computer science today. The very term “machine learning” evokes imagery of replacement, and its boosters seem to believe that computers can be taught to perform almost any task, so long as we feed them enough training data. Any user of Netflix or Amazon has experienced the results of machine learning firsthand: both companies use algorithms to recommend products based on your viewing and purchase history. Feed them more data and the recommendations get ever better. Google Translate works the same way, providing rough but serviceable translations into any of the 80 languages it supports—not because the software understands human language, but because it has extracted patterns through statistical analysis of a huge corpus of text.
+
+The other buzzword that epitomizes a bias toward substitution is “big data.” Today’s companies have an insatiable appetite for data, mistakenly believing that more data always creates more value. But big data is usually dumb data. Computers can find patterns that elude humans, but they don’t know how to compare patterns from different sources or how to interpret complex behaviors. Actionable insights can only come from a human analyst (or the kind of generalized artificial intelligence that exists only in science fiction).
+
+We have let ourselves become enchanted by big data only because we exoticize technology. We’re impressed with small feats accomplished by computers alone, but we ignore big achievements from complementarity because the human contribution makes them less uncanny. Watson, Deep Blue, and ever-better machine learning algorithms are cool. But the most valuable companies in the future won’t ask what problems can be solved with computers alone. Instead, they’ll ask: how can computers help humans solve hard problems?
+
+
+
+
+
+EVER-SMARTER COMPUTERS: FRIEND OR FOE?
+
+
+The future of computing is necessarily full of unknowns. It’s become conventional to see ever-smarter anthropomorphized robot intelligences like Siri and Watson as harbingers of things to come; once computers can answer all our questions, perhaps they’ll ask why they should remain subservient to us at all.
+
+The logical endpoint to this substitutionist thinking is called “strong AI”: computers that eclipse humans on every important dimension. Of course, the Luddites are terrified by the possibility. It even makes the futurists a little uneasy; it’s not clear whether strong AI would save humanity or doom it. Technology is supposed to increase our mastery over nature and reduce the role of chance in our lives; building smarter-than-human computers could actually bring chance back with a vengeance. Strong AI is like a cosmic lottery ticket: if we win, we get utopia; if we lose, Skynet substitutes us out of existence.
+
+But even if strong AI is a real possibility rather than an imponderable mystery, it won’t happen anytime soon: replacement by computers is a worry for the 22nd century. Indefinite fears about the far future shouldn’t stop us from making definite plans today. Luddites claim that we shouldn’t build the computers that might replace people someday; crazed futurists argue that we should. These two positions are mutually exclusive but they are not exhaustive: there is room in between for sane people to build a vastly better world in the decades ahead. As we find new ways to use computers, they won’t just get better at the kinds of things people already do; they’ll help us to do what was previously unimaginable.
+
+
+
+
+

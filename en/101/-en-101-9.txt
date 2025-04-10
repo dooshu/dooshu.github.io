@@ -1,0 +1,115 @@
+9 Foundations
+
+
+EVERY GREAT COMPANY is unique, but there are a few things that every business must get right at the beginning. I stress this so often that friends have teasingly nicknamed it “Thiel’s law”: a startup messed up at its foundation cannot be fixed.
+
+Beginnings are special. They are qualitatively different from all that comes afterward. This was true 13.8 billion years ago, at the founding of our cosmos: in the earliest microseconds of its existence, the universe expanded by a factor of 1030—a million trillion trillion. As cosmogonic epochs came and went in those first few moments, the very laws of physics were different from those we know today.
+
+It was also true 227 years ago at the founding of our country: fundamental questions were open for debate by the Framers during the few months they spent together at the Constitutional Convention. How much power should the central government have? How should representation in Congress be apportioned? Whatever your views on the compromises reached that summer in Philadelphia, they’ve been hard to change ever since: after ratifying the Bill of Rights in 1791, we’ve amended the Constitution only 17 times. Today, California has the same representation in the Senate as Alaska, even though it has more than 50 times as many people. Maybe that’s a feature, not a bug. But we’re probably stuck with it as long as the United States exists. Another constitutional convention is unlikely; today we debate only smaller questions.
+
+Companies are like countries in this way. Bad decisions made early on—if you choose the wrong partners or hire the wrong people, for example—are very hard to correct after they are made. It may take a crisis on the order of bankruptcy before anybody will even try to correct them. As a founder, your first job is to get the first things right, because you cannot build a great company on a flawed foundation.
+
+
+
+
+
+FOUNDING MATRIMONY
+
+
+When you start something, the first and most crucial decision you make is whom to start it with. Choosing a co-founder is like getting married, and founder conflict is just as ugly as divorce. Optimism abounds at the start of every relationship. It’s unromantic to think soberly about what could go wrong, so people don’t. But if the founders develop irreconcilable differences, the company becomes the victim.
+
+In 1999, Luke Nosek was one of my co-founders at PayPal, and I still work with him today at Founders Fund. But a year before PayPal, I invested in a company Luke started with someone else. It was his first startup; it was one of my first investments. Neither of us realized it then, but the venture was doomed to fail from the beginning because Luke and his co-founder were a terrible match. Luke is a brilliant and eccentric thinker; his co-founder was an MBA type who didn’t want to miss out on the ’90s gold rush. They met at a networking event, talked for a while, and decided to start a company together. That’s no better than marrying the first person you meet at the slot machines in Vegas: you might hit the jackpot, but it probably won’t work. Their company blew up and I lost my money.
+
+Now when I consider investing in a startup, I study the founding teams. Technical abilities and complementary skill sets matter, but how well the founders know each other and how well they work together matter just as much. Founders should share a prehistory before they start a company together—otherwise they’re just rolling dice.
+
+
+
+
+
+OWNERSHIP, POSSESSION, AND CONTROL
+
+
+It’s not just founders who need to get along. Everyone in your company needs to work well together. A Silicon Valley libertarian might say you could solve this problem by restricting yourself to a sole proprietorship. Freud, Jung, and every other psychologist has a theory about how every individual mind is divided against itself, but in business at least, working for yourself guarantees alignment. Unfortunately, it also limits what kind of company you can build. It’s very hard to go from 0 to 1 without a team.
+
+A Silicon Valley anarchist might say you could achieve perfect alignment as long as you hire just the right people, who will flourish peacefully without any guiding structure. Serendipity and even free-form chaos at the workplace are supposed to help “disrupt” all the old rules made and obeyed by the rest of the world. And indeed, “if men were angels, no government would be necessary.” But anarchic companies miss what James Madison saw: men aren’t angels. That’s why executives who manage companies and directors who govern them have separate roles to play; it’s also why founders’ and investors’ claims on a company are formally defined. You need good people who get along, but you also need a structure to help keep everyone aligned for the long term.
+
+To anticipate likely sources of misalignment in any company, it’s useful to distinguish between three concepts:
+
+• Ownership: who legally owns a company’s equity?
+
+• Possession: who actually runs the company on a day-to-day basis?
+
+• Control: who formally governs the company’s affairs?
+
+
+
+A typical startup allocates ownership among founders, employees, and investors. The managers and employees who operate the company enjoy possession. And a board of directors, usually comprising founders and investors, exercises control.
+
+In theory, this division works smoothly. Financial upside from part ownership attracts and rewards investors and workers. Effective possession motivates and empowers founders and employees—it means they can get stuff done. Oversight from the board places managers’ plans in a broader perspective. In practice, distributing these functions among different people makes sense, but it also multiplies opportunities for misalignment.
+
+To see misalignment at its most extreme, just visit the DMV. Suppose you need a new driver’s license. Theoretically, it should be easy to get one. The DMV is a government agency, and we live in a democratic republic. All power resides in “the people,” who elect representatives to serve them in government. If you’re a citizen, you’re a part owner of the DMV and your representatives control it, so you should be able to walk in and get what you need.
+
+Of course, it doesn’t work like that. We the people may “own” the DMV’s resources, but that ownership is merely fictional. The clerks and petty tyrants who operate the DMV, however, enjoy very real possession of their small-time powers. Even the governor and the legislature charged with nominal control over the DMV can’t change anything. The bureaucracy lurches ever sideways of its own inertia no matter what actions elected officials take. Accountable to nobody, the DMV is misaligned with everybody. Bureaucrats can make your licensing experience pleasurable or nightmarish at their sole discretion. You can try to bring up political theory and remind them that you are the boss, but that’s unlikely to get you better service.
+
+Big corporations do better than the DMV, but they’re still prone to misalignment, especially between ownership and possession. The CEO of a huge company like General Motors, for example, will own some of the company’s stock, but only a trivial portion of the total. Therefore he’s incentivized to reward himself through the power of possession rather than the value of ownership. Posting good quarterly results will be enough for him to keep his high salary and corporate jet. Misalignment can creep in even if he receives stock compensation in the name of “shareholder value.” If that stock comes as a reward for short-term performance, he will find it more lucrative and much easier to cut costs instead of investing in a plan that might create more value for all shareholders far in the future.
+
+Unlike corporate giants, early-stage startups are small enough that founders usually have both ownership and possession. Most conflicts in a startup erupt between ownership and control—that is, between founders and investors on the board. The potential for conflict increases over time as interests diverge: a board member might want to take a company public as soon as possible to score a win for his venture firm, while the founders would prefer to stay private and grow the business.
+
+In the boardroom, less is more. The smaller the board, the easier it is for the directors to communicate, to reach consensus, and to exercise effective oversight. However, that very effectiveness means that a small board can forcefully oppose management in any conflict. This is why it’s crucial to choose wisely: every single member of your board matters. Even one problem director will cause you pain, and may even jeopardize your company’s future.
+
+A board of three is ideal. Your board should never exceed five people, unless your company is publicly held. (Government regulations effectively mandate that public companies have larger boards—the average is nine members.) By far the worst you can do is to make your board extra large. When unsavvy observers see a nonprofit organization with dozens of people on its board, they think: “Look how many great people are committed to this organization! It must be extremely well run.” Actually, a huge board will exercise no effective oversight at all; it merely provides cover for whatever microdictator actually runs the organization. If you want that kind of free rein from your board, blow it up to giant size. If you want an effective board, keep it small.
+
+
+
+
+
+ON THE BUS OR OFF THE BUS
+
+
+As a general rule, everyone you involve with your company should be involved full-time. Sometimes you’ll have to break this rule; it usually makes sense to hire outside lawyers and accountants, for example. However, anyone who doesn’t own stock options or draw a regular salary from your company is fundamentally misaligned. At the margin, they’ll be biased to claim value in the near term, not help you create more in the future. That’s why hiring consultants doesn’t work. Part-time employees don’t work. Even working remotely should be avoided, because misalignment can creep in whenever colleagues aren’t together full-time, in the same place, every day. If you’re deciding whether to bring someone on board, the decision is binary. Ken Kesey was right: you’re either on the bus or off the bus.
+
+
+
+
+
+CASH IS NOT KING
+
+
+For people to be fully committed, they should be properly compensated. Whenever an entrepreneur asks me to invest in his company, I ask him how much he intends to pay himself. A company does better the less it pays the CEO—that’s one of the single clearest patterns I’ve noticed from investing in hundreds of startups. In no case should a CEO of an early-stage, venture-backed startup receive more than $150,000 per year in salary. It doesn’t matter if he got used to making much more than that at Google or if he has a large mortgage and hefty private school tuition bills. If a CEO collects $300,000 per year, he risks becoming more like a politician than a founder. High pay incentivizes him to defend the status quo along with his salary, not to work with everyone else to surface problems and fix them aggressively. A cash-poor executive, by contrast, will focus on increasing the value of the company as a whole.
+
+Low CEO pay also sets the standard for everyone else. Aaron Levie, the CEO of Box, was always careful to pay himself less than everyone else in the company—four years after he started Box, he was still living two blocks away from HQ in a one-bedroom apartment with no furniture except a mattress. Every employee noticed his obvious commitment to the company’s mission and emulated it. If a CEO doesn’t set an example by taking the lowest salary in the company, he can do the same thing by drawing the highest salary. So long as that figure is still modest, it sets an effective ceiling on cash compensation.
+
+Cash is attractive. It offers pure optionality: once you get your paycheck, you can do anything you want with it. However, high cash compensation teaches workers to claim value from the company as it already exists instead of investing their time to create new value in the future. A cash bonus is slightly better than a cash salary—at least it’s contingent on a job well done. But even so-called incentive pay encourages short-term thinking and value grabbing. Any kind of cash is more about the present than the future.
+
+
+
+
+
+VESTED INTERESTS
+
+
+Startups don’t need to pay high salaries because they can offer something better: part ownership of the company itself. Equity is the one form of compensation that can effectively orient people toward creating value in the future.
+
+However, for equity to create commitment rather than conflict, you must allocate it very carefully. Giving everyone equal shares is usually a mistake: every individual has different talents and responsibilities as well as different opportunity costs, so equal amounts will seem arbitrary and unfair from the start. On the other hand, granting different amounts up front is just as sure to seem unfair. Resentment at this stage can kill a company, but there’s no ownership formula to perfectly avoid it.
+
+This problem becomes even more acute over time as more people join the company. Early employees usually get the most equity because they take more risk, but some later employees might be even more crucial to a venture’s success. A secretary who joined eBay in 1996 might have made 200 times more than her industry-veteran boss who joined in 1999. The graffiti artist who painted Facebook’s office walls in 2005 got stock that turned out to be worth $200 million, while a talented engineer who joined in 2010 might have made only $2 million. Since it’s impossible to achieve perfect fairness when distributing ownership, founders would do well to keep the details secret. Sending out a company-wide email that lists everyone’s ownership stake would be like dropping a nuclear bomb on your office.
+
+Most people don’t want equity at all. At PayPal, we once hired a consultant who promised to help us negotiate lucrative business development deals. The only thing he ever successfully negotiated was a $5,000 daily cash salary; he refused to accept stock options as payment. Stories of startup chefs becoming millionaires notwithstanding, people often find equity unattractive. It’s not liquid like cash. It’s tied to one specific company. And if that company doesn’t succeed, it’s worthless.
+
+Equity is a powerful tool precisely because of these limitations. Anyone who prefers owning a part of your company to being paid in cash reveals a preference for the long term and a commitment to increasing your company’s value in the future. Equity can’t create perfect incentives, but it’s the best way for a founder to keep everyone in the company broadly aligned.
+
+
+
+
+
+EXTENDING THE FOUNDING
+
+
+Bob Dylan has said that he who is not busy being born is busy dying. If he’s right, being born doesn’t happen at just one moment—you might even continue to do it somehow, poetically at least. The founding moment of a company, however, really does happen just once: only at the very start do you have the opportunity to set the rules that will align people toward the creation of value in the future.
+
+The most valuable kind of company maintains an openness to invention that is most characteristic of beginnings. This leads to a second, less obvious understanding of the founding: it lasts as long as a company is creating new things, and it ends when creation stops. If you get the founding moment right, you can do more than create a valuable company: you can steer its distant future toward the creation of new things instead of the stewardship of inherited success. You might even extend its founding indefinitely.
+
+
+
+
+

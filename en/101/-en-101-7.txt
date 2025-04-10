@@ -1,0 +1,96 @@
+7 Follow the Money
+
+
+MONEY MAKES MONEY. “For whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them” (Matthew 25:29). Albert Einstein made the same observation when he stated that compound interest was “the eighth wonder of the world,” “the greatest mathematical discovery of all time,” or even “the most powerful force in the universe.” Whichever version you prefer, you can’t miss his message: never underestimate exponential growth. Actually, there’s no evidence that Einstein ever said any of those things—the quotations are all apocryphal. But this very misattribution reinforces the message: having invested the principal of a lifetime’s brilliance, Einstein continues to earn interest on it from beyond the grave by receiving credit for things he never said.
+
+Most sayings are forgotten. At the other extreme, a select few people like Einstein and Shakespeare are constantly quoted and ventriloquized. We shouldn’t be surprised, since small minorities often achieve disproportionate results. In 1906, economist Vilfredo Pareto discovered what became the “Pareto principle,” or the 80-20 rule, when he noticed that 20% of the people owned 80% of the land in Italy—a phenomenon that he found just as natural as the fact that 20% of the peapods in his garden produced 80% of the peas. This extraordinarily stark pattern, in which a small few radically outstrip all rivals, surrounds us everywhere in the natural and social world. The most destructive earthquakes are many times more powerful than all smaller earthquakes combined. The biggest cities dwarf all mere towns put together. And monopoly businesses capture more value than millions of undifferentiated competitors. Whatever Einstein did or didn’t say, the power law—so named because exponential equations describe severely unequal distributions—is the law of the universe. It defines our surroundings so completely that we usually don’t even see it.
+
+This chapter shows how the power law becomes visible when you follow the money: in venture capital, where investors try to profit from exponential growth in early-stage companies, a few companies attain exponentially greater value than all others. Most businesses never need to deal with venture capital, but everyone needs to know exactly one thing that even venture capitalists struggle to understand: we don’t live in a normal world; we live under a power law.
+
+
+
+
+
+THE POWER LAW OF VENTURE CAPITAL
+
+
+Venture capitalists aim to identify, fund, and profit from promising early-stage companies. They raise money from institutions and wealthy people, pool it into a fund, and invest in technology companies that they believe will become more valuable. If they turn out to be right, they take a cut of the returns—usually 20%. A venture fund makes money when the companies in its portfolio become more valuable and either go public or get bought by larger companies. Venture funds usually have a 10-year lifespan since it takes time for successful companies to grow and “exit.”
+
+But most venture-backed companies don’t IPO or get acquired; most fail, usually soon after they start. Due to these early failures, a venture fund typically loses money at first. VCs hope the value of the fund will increase dramatically in a few years’ time, to break-even and beyond, when the successful portfolio companies hit their exponential growth spurts and start to scale.
+
+The big question is when this takeoff will happen. For most funds, the answer is never. Most startups fail, and most funds fail with them. Every VC knows that his task is to find the companies that will succeed. However, even seasoned investors understand this phenomenon only superficially. They know companies are different, but they underestimate the degree of difference.
+
+
+
+
+
+The error lies in expecting that venture returns will be normally distributed: that is, bad companies will fail, mediocre ones will stay flat, and good ones will return 2x or even 4x. Assuming this bland pattern, investors assemble a diversified portfolio and hope that winners counterbalance losers.
+
+But this “spray and pray” approach usually produces an entire portfolio of flops, with no hits at all. This is because venture returns don’t follow a normal distribution overall. Rather, they follow a power law: a small handful of companies radically outperform all others. If you focus on diversification instead of single-minded pursuit of the very few companies that can become overwhelmingly valuable, you’ll miss those rare companies in the first place.
+
+This graph shows the stark reality versus the perceived relative homogeneity:
+
+
+
+
+
+Our results at Founders Fund illustrate this skewed pattern: Facebook, the best investment in our 2005 fund, returned more than all the others combined. Palantir, the second-best investment, is set to return more than the sum of every other investment aside from Facebook. This highly uneven pattern is not unusual: we see it in all our other funds as well. The biggest secret in venture capital is that the best investment in a successful fund equals or outperforms the entire rest of the fund combined.
+
+This implies two very strange rules for VCs. First, only invest in companies that have the potential to return the value of the entire fund. This is a scary rule, because it eliminates the vast majority of possible investments. (Even quite successful companies usually succeed on a more humble scale.) This leads to rule number two: because rule number one is so restrictive, there can’t be any other rules.
+
+Consider what happens when you break the first rule. Andreessen Horowitz invested $250,000 in Instagram in 2010. When Facebook bought Instagram just two years later for $1 billion, Andreessen netted $78 million—a 312x return in less than two years. That’s a phenomenal return, befitting the firm’s reputation as one of the Valley’s best. But in a weird way it’s not nearly enough, because Andreessen Horowitz has a $1.5 billion fund: if they only wrote $250,000 checks, they would need to find 19 Instagrams just to break even. This is why investors typically put a lot more money into any company worth funding. (And to be fair, Andreessen would have invested more in Instagram’s later rounds had it not been conflicted out by a previous investment.) VCs must find the handful of companies that will successfully go from 0 to 1 and then back them with every resource.
+
+Of course, no one can know with certainty ex ante which companies will succeed, so even the best VC firms have a “portfolio.” However, every single company in a good venture portfolio must have the potential to succeed at vast scale. At Founders Fund, we focus on five to seven companies in a fund, each of which we think could become a multibillion-dollar business based on its unique fundamentals. Whenever you shift from the substance of a business to the financial question of whether or not it fits into a diversified hedging strategy, venture investing starts to look a lot like buying lottery tickets. And once you think that you’re playing the lottery, you’ve already psychologically prepared yourself to lose.
+
+
+
+
+
+WHY PEOPLE DON’T SEE THE POWER LAW
+
+
+Why would professional VCs, of all people, fail to see the power law? For one thing, it only becomes clear over time, and even technology investors too often live in the present. Imagine a firm invests in 10 companies with the potential to become monopolies—already an unusually disciplined portfolio. Those companies will look very similar in the early stages before exponential growth.
+
+
+
+
+
+Over the next few years, some companies will fail while others begin to succeed; valuations will diverge, but the difference between exponential growth and linear growth will be unclear.
+
+
+
+
+
+After 10 years, however, the portfolio won’t be divided between winners and losers; it will be split between one dominant investment and everything else.
+
+But no matter how unambiguous the end result of the power law, it doesn’t reflect daily experience. Since investors spend most of their time making new investments and attending to companies in their early stages, most of the companies they work with are by definition average. Most of the differences that investors and entrepreneurs perceive every day are between relative levels of success, not between exponential dominance and failure. And since nobody wants to give up on an investment, VCs usually spend even more time on the most problematic companies than they do on the most obviously successful.
+
+
+
+
+
+If even investors specializing in exponentially growing startups miss the power law, it’s not surprising that most everyone else misses it, too. Power law distributions are so big that they hide in plain sight. For example, when most people outside Silicon Valley think of venture capital, they might picture a small and quirky coterie—like ABC’s Shark Tank, only without commercials. After all, less than 1% of new businesses started each year in the U.S. receive venture funding, and total VC investment accounts for less than 0.2% of GDP. But the results of those investments disproportionately propel the entire economy. Venture-backed companies create 11% of all private sector jobs. They generate annual revenues equivalent to an astounding 21% of GDP. Indeed, the dozen largest tech companies were all venture-backed. Together those 12 companies are worth more than $2 trillion, more than all other tech companies combined.
+
+
+
+
+
+WHAT TO DO WITH THE POWER LAW
+
+
+The power law is not just important to investors; rather, it’s important to everybody because everybody is an investor. An entrepreneur makes a major investment just by spending her time working on a startup. Therefore every entrepreneur must think about whether her company is going to succeed and become valuable. Every individual is unavoidably an investor, too. When you choose a career, you act on your belief that the kind of work you do will be valuable decades from now.
+
+The most common answer to the question of future value is a diversified portfolio: “Don’t put all your eggs in one basket,” everyone has been told. As we said, even the best venture investors have a portfolio, but investors who understand the power law make as few investments as possible. The kind of portfolio thinking embraced by both folk wisdom and financial convention, by contrast, regards diversified betting as a source of strength. The more you dabble, the more you are supposed to have hedged against the uncertainty of the future.
+
+But life is not a portfolio: not for a startup founder, and not for any individual. An entrepreneur cannot “diversify” herself: you cannot run dozens of companies at the same time and then hope that one of them works out well. Less obvious but just as important, an individual cannot diversify his own life by keeping dozens of equally possible careers in ready reserve.
+
+Our schools teach the opposite: institutionalized education traffics in a kind of homogenized, generic knowledge. Everybody who passes through the American school system learns not to think in power law terms. Every high school course period lasts 45 minutes whatever the subject. Every student proceeds at a similar pace. At college, model students obsessively hedge their futures by assembling a suite of exotic and minor skills. Every university believes in “excellence,” and hundred-page course catalogs arranged alphabetically according to arbitrary departments of knowledge seem designed to reassure you that “it doesn’t matter what you do, as long as you do it well.” That is completely false. It does matter what you do. You should focus relentlessly on something you’re good at doing, but before that you must think hard about whether it will be valuable in the future.
+
+For the startup world, this means you should not necessarily start your own company, even if you are extraordinarily talented. If anything, too many people are starting their own companies today. People who understand the power law will hesitate more than others when it comes to founding a new venture: they know how tremendously successful they could become by joining the very best company while it’s growing fast. The power law means that differences between companies will dwarf the differences in roles inside companies. You could have 100% of the equity if you fully fund your own venture, but if it fails you’ll have 100% of nothing. Owning just 0.01% of Google, by contrast, is incredibly valuable (more than $35 million as of this writing).
+
+If you do start your own company, you must remember the power law to operate it well. The most important things are singular: One market will probably be better than all others, as we discussed in Chapter 5. One distribution strategy usually dominates all others, too—for that see Chapter 11. Time and decision-making themselves follow a power law, and some moments matter far more than others—see Chapter 9. However, you can’t trust a world that denies the power law to accurately frame your decisions for you, so what’s most important is rarely obvious. It might even be secret. But in a power law world, you can’t afford not to think hard about where your actions will fall on the curve.
+
+
+
+
+

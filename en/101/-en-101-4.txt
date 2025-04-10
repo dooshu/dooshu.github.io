@@ -1,0 +1,84 @@
+4 The Ideology of Competition
+
+
+CREATIVE MONOPOLY means new products that benefit everybody and sustainable profits for the creator. Competition means no profits for anybody, no meaningful differentiation, and a struggle for survival. So why do people believe that competition is healthy? The answer is that competition is not just an economic concept or a simple inconvenience that individuals and companies must deal with in the marketplace. More than anything else, competition is an ideology—the ideology—that pervades our society and distorts our thinking. We preach competition, internalize its necessity, and enact its commandments; and as a result, we trap ourselves within it—even though the more we compete, the less we gain.
+
+This is a simple truth, but we’ve all been trained to ignore it. Our educational system both drives and reflects our obsession with competition. Grades themselves allow precise measurement of each student’s competitiveness; pupils with the highest marks receive status and credentials. We teach every young person the same subjects in mostly the same ways, irrespective of individual talents and preferences. Students who don’t learn best by sitting still at a desk are made to feel somehow inferior, while children who excel on conventional measures like tests and assignments end up defining their identities in terms of this weirdly contrived academic parallel reality.
+
+And it gets worse as students ascend to higher levels of the tournament. Elite students climb confidently until they reach a level of competition sufficiently intense to beat their dreams out of them. Higher education is the place where people who had big plans in high school get stuck in fierce rivalries with equally smart peers over conventional careers like management consulting and investment banking. For the privilege of being turned into conformists, students (or their families) pay hundreds of thousands of dollars in skyrocketing tuition that continues to outpace inflation. Why are we doing this to ourselves?
+
+I wish I had asked myself when I was younger. My path was so tracked that in my 8th-grade yearbook, one of my friends predicted—accurately—that four years later I would enter Stanford as a sophomore. And after a conventionally successful undergraduate career, I enrolled at Stanford Law School, where I competed even harder for the standard badges of success.
+
+The highest prize in a law student’s world is unambiguous: out of tens of thousands of graduates each year, only a few dozen get a Supreme Court clerkship. After clerking on a federal appeals court for a year, I was invited to interview for clerkships with Justices Kennedy and Scalia. My meetings with the Justices went well. I was so close to winning this last competition. If only I got the clerkship, I thought, I would be set for life. But I didn’t. At the time, I was devastated.
+
+In 2004, after I had built and sold PayPal, I ran into an old friend from law school who had helped me prepare my failed clerkship applications. We hadn’t spoken in nearly a decade. His first question wasn’t “How are you doing?” or “Can you believe it’s been so long?” Instead, he grinned and asked: “So, Peter, aren’t you glad you didn’t get that clerkship?” With the benefit of hindsight, we both knew that winning that ultimate competition would have changed my life for the worse. Had I actually clerked on the Supreme Court, I probably would have spent my entire career taking depositions or drafting other people’s business deals instead of creating anything new. It’s hard to say how much would be different, but the opportunity costs were enormous. All Rhodes Scholars had a great future in their past.
+
+
+
+
+
+WAR AND PEACE
+
+
+Professors downplay the cutthroat culture of academia, but managers never tire of comparing business to war. MBA students carry around copies of Clausewitz and Sun Tzu. War metaphors invade our everyday business language: we use headhunters to build up a sales force that will enable us to take a captive market and make a killing. But really it’s competition, not business, that is like war: allegedly necessary, supposedly valiant, but ultimately destructive.
+
+Why do people compete with each other? Marx and Shakespeare provide two models for understanding almost every kind of conflict.
+
+According to Marx, people fight because they are different. The proletariat fights the bourgeoisie because they have completely different ideas and goals (generated, for Marx, by their very different material circumstances). The greater the differences, the greater the conflict.
+
+To Shakespeare, by contrast, all combatants look more or less alike. It’s not at all clear why they should be fighting, since they have nothing to fight about. Consider the opening line from Romeo and Juliet: “Two households, both alike in dignity.” The two houses are alike, yet they hate each other. They grow even more similar as the feud escalates. Eventually, they lose sight of why they started fighting in the first place.
+
+In the world of business, at least, Shakespeare proves the superior guide. Inside a firm, people become obsessed with their competitors for career advancement. Then the firms themselves become obsessed with their competitors in the marketplace. Amid all the human drama, people lose sight of what matters and focus on their rivals instead.
+
+Let’s test the Shakespearean model in the real world. Imagine a production called Gates and Schmidt, based on Romeo and Juliet. Montague is Microsoft. Capulet is Google. Two great families, run by alpha nerds, sure to clash on account of their sameness.
+
+As with all good tragedy, the conflict seems inevitable only in retrospect. In fact it was entirely avoidable. These families came from very different places. The House of Montague built operating systems and office applications. The House of Capulet wrote a search engine. What was there to fight about?
+
+Lots, apparently. As a startup, each clan had been content to leave the other alone and prosper independently. But as they grew, they began to focus on each other. Montagues obsessed about Capulets obsessed about Montagues. The result? Windows vs. Chrome OS, Bing vs. Google Search, Explorer vs. Chrome, Office vs. Docs, and Surface vs. Nexus.
+
+Just as war cost the Montagues and Capulets their children, it cost Microsoft and Google their dominance: Apple came along and overtook them all. In January 2013, Apple’s market capitalization was $500 billion, while Google and Microsoft combined were worth $467 billion. Just three years before, Microsoft and Google were each more valuable than Apple. War is costly business.
+
+Rivalry causes us to overemphasize old opportunities and slavishly copy what has worked in the past. Consider the recent proliferation of mobile credit card readers. In October 2010, a startup called Square released a small, white, square-shaped product that let anyone with an iPhone swipe and accept credit cards. It was the first good payment processing solution for mobile handsets. Imitators promptly sprang into action. A Canadian company called NetSecure launched its own card reader in a half-moon shape. Intuit brought a cylindrical reader to the geometric battle. In March 2012, eBay’s PayPal unit launched its own copycat card reader. It was shaped like a triangle—a clear jab at Square, as three sides are simpler than four. One gets the sense that this Shakespearean saga won’t end until the apes run out of shapes.
+
+
+
+
+
+The hazards of imitative competition may partially explain why individuals with an Asperger’s-like social ineptitude seem to be at an advantage in Silicon Valley today. If you’re less sensitive to social cues, you’re less likely to do the same things as everyone else around you. If you’re interested in making things or programming computers, you’ll be less afraid to pursue those activities single-mindedly and thereby become incredibly good at them. Then when you apply your skills, you’re a little less likely than others to give up your own convictions: this can save you from getting caught up in crowds competing for obvious prizes.
+
+Competition can make people hallucinate opportunities where none exist. The crazy ’90s version of this was the fierce battle for the online pet store market. It was Pets.com vs. PetStore.com vs. Petopia.com vs. what seemed like dozens of others. Each company was obsessed with defeating its rivals, precisely because there were no substantive differences to focus on. Amid all the tactical questions—Who could price chewy dog toys most aggressively? Who could create the best Super Bowl ads?—these companies totally lost sight of the wider question of whether the online pet supply market was the right space to be in. Winning is better than losing, but everybody loses when the war isn’t one worth fighting. When Pets.com folded after the dot-com crash, $300 million of investment capital disappeared with it.
+
+Other times, rivalry is just weird and distracting. Consider the Shakespearean conflict between Larry Ellison, co-founder and CEO of Oracle, and Tom Siebel, a top salesman at Oracle and Ellison’s protégé before he went on to found Siebel Systems in 1993. Ellison was livid at what he thought was Siebel’s betrayal. Siebel hated being in the shadow of his former boss. The two men were basically identical—hard-charging Chicagoans who loved to sell and hated to lose—so their hatred ran deep. Ellison and Siebel spent the second half of the ’90s trying to sabotage each other. At one point, Ellison sent truckloads of ice cream sandwiches to Siebel’s headquarters to try to convince Siebel employees to jump ship. The copy on the wrappers? “Summer is near. Oracle is here. To brighten your day and your career.”
+
+Strangely, Oracle intentionally accumulated enemies. Ellison’s theory was that it’s always good to have an enemy, so long as it was large enough to appear threatening (and thus motivational to employees) but not so large as to actually threaten the company. So Ellison was probably thrilled when in 1996 a small database company called Informix put up a billboard near Oracle’s Redwood Shores headquarters that read: CAUTION: DINOSAUR CROSSING. Another Informix billboard on northbound Highway 101 read: YOU’VE JUST PASSED REDWOOD SHORES. SO DID WE.
+
+Oracle shot back with a billboard that implied that Informix’s software was slower than snails. Then Informix CEO Phil White decided to make things personal. When White learned that Larry Ellison enjoyed Japanese samurai culture, he commissioned a new billboard depicting the Oracle logo along with a broken samurai sword. The ad wasn’t even really aimed at Oracle as an entity, let alone the consuming public; it was a personal attack on Ellison. But perhaps White spent a little too much time worrying about the competition: while he was busy creating billboards, Informix imploded in a massive accounting scandal and White soon found himself in federal prison for securities fraud.
+
+If you can’t beat a rival, it may be better to merge. I started Confinity with my co-founder Max Levchin in 1998. When we released the PayPal product in late 1999, Elon Musk’s X.com was right on our heels: our companies’ offices were four blocks apart on University Avenue in Palo Alto, and X’s product mirrored ours feature-for-feature. By late 1999, we were in all-out war. Many of us at PayPal logged 100-hour workweeks. No doubt that was counterproductive, but the focus wasn’t on objective productivity; the focus was defeating X.com. One of our engineers actually designed a bomb for this purpose; when he presented the schematic at a team meeting, calmer heads prevailed and the proposal was attributed to extreme sleep deprivation.
+
+But in February 2000, Elon and I were more scared about the rapidly inflating tech bubble than we were about each other: a financial crash would ruin us both before we could finish our fight. So in early March we met on neutral ground—a café almost exactly equidistant to our offices—and negotiated a 50-50 merger. De-escalating the rivalry post-merger wasn’t easy, but as far as problems go, it was a good one to have. As a unified team, we were able to ride out the dot-com crash and then build a successful business.
+
+Sometimes you do have to fight. Where that’s true, you should fight and win. There is no middle ground: either don’t throw any punches, or strike hard and end it quickly.
+
+This advice can be hard to follow because pride and honor can get in the way. Hence Hamlet:
+
+Exposing what is mortal and unsure
+
+To all that fortune, death, and danger dare,
+
+Even for an eggshell. Rightly to be great
+
+Is not to stir without great argument,
+
+But greatly to find quarrel in a straw
+
+When honor’s at the stake.
+
+
+
+For Hamlet, greatness means willingness to fight for reasons as thin as an eggshell: anyone would fight for things that matter; true heroes take their personal honor so seriously they will fight for things that don’t matter. This twisted logic is part of human nature, but it’s disastrous in business. If you can recognize competition as a destructive force instead of a sign of value, you’re already more sane than most. The next chapter is about how to use a clear head to build a monopoly business.
+
+
+
+
+

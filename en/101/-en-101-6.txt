@@ -1,0 +1,238 @@
+6 You Are Not a Lottery Ticket
+
+
+THE MOST CONTENTIOUS question in business is whether success comes from luck or skill.
+
+What do successful people say? Malcolm Gladwell, a successful author who writes about successful people, declares in Outliers that success results from a “patchwork of lucky breaks and arbitrary advantages.” Warren Buffett famously considers himself a “member of the lucky sperm club” and a winner of the “ovarian lottery.” Jeff Bezos attributes Amazon’s success to an “incredible planetary alignment” and jokes that it was “half luck, half good timing, and the rest brains.” Bill Gates even goes so far as to claim that he “was lucky to be born with certain skills,” though it’s not clear whether that’s actually possible.
+
+Perhaps these guys are being strategically humble. However, the phenomenon of serial entrepreneurship would seem to call into question our tendency to explain success as the product of chance. Hundreds of people have started multiple multimillion-dollar businesses. A few, like Steve Jobs, Jack Dorsey, and Elon Musk, have created several multibillion-dollar companies. If success were mostly a matter of luck, these kinds of serial entrepreneurs probably wouldn’t exist.
+
+In January 2013, Jack Dorsey, founder of Twitter and Square, tweeted to his 2 million followers: “Success is never accidental.”
+
+Most of the replies were unambiguously negative. Referencing the tweet in The Atlantic, reporter Alexis Madrigal wrote that his instinct was to reply: “ ‘Success is never accidental,’ said all multimillionaire white men.” It’s true that already successful people have an easier time doing new things, whether due to their networks, wealth, or experience. But perhaps we’ve become too quick to dismiss anyone who claims to have succeeded according to plan.
+
+Is there a way to settle this debate objectively? Unfortunately not, because companies are not experiments. To get a scientific answer about Facebook, for example, we’d have to rewind to 2004, create 1,000 copies of the world, and start Facebook in each copy to see how many times it would succeed. But that experiment is impossible. Every company starts in unique circumstances, and every company starts only once. Statistics doesn’t work when the sample size is one.
+
+From the Renaissance and the Enlightenment to the mid-20th century, luck was something to be mastered, dominated, and controlled; everyone agreed that you should do what you could, not focus on what you couldn’t. Ralph Waldo Emerson captured this ethos when he wrote: “Shallow men believe in luck, believe in circumstances.… Strong men believe in cause and effect.” In 1912, after he became the first explorer to reach the South Pole, Roald Amundsen wrote: “Victory awaits him who has everything in order—luck, people call it.” No one pretended that misfortune didn’t exist, but prior generations believed in making their own luck by working hard.
+
+If you believe your life is mainly a matter of chance, why read this book? Learning about startups is worthless if you’re just reading stories about people who won the lottery. Slot Machines for Dummies can purport to tell you which kind of rabbit’s foot to rub or how to tell which machines are “hot,” but it can’t tell you how to win.
+
+Did Bill Gates simply win the intelligence lottery? Was Sheryl Sandberg born with a silver spoon, or did she “lean in”? When we debate historical questions like these, luck is in the past tense. Far more important are questions about the future: is it a matter of chance or design?
+
+
+
+
+
+CAN YOU CONTROL YOUR FUTURE?
+
+
+You can expect the future to take a definite form or you can treat it as hazily uncertain. If you treat the future as something definite, it makes sense to understand it in advance and to work to shape it. But if you expect an indefinite future ruled by randomness, you’ll give up on trying to master it.
+
+Indefinite attitudes to the future explain what’s most dysfunctional in our world today. Process trumps substance: when people lack concrete plans to carry out, they use formal rules to assemble a portfolio of various options. This describes Americans today. In middle school, we’re encouraged to start hoarding “extracurricular activities.” In high school, ambitious students compete even harder to appear omnicompetent. By the time a student gets to college, he’s spent a decade curating a bewilderingly diverse résumé to prepare for a completely unknowable future. Come what may, he’s ready—for nothing in particular.
+
+A definite view, by contrast, favors firm convictions. Instead of pursuing many-sided mediocrity and calling it “well-roundedness,” a definite person determines the one best thing to do and then does it. Instead of working tirelessly to make herself indistinguishable, she strives to be great at something substantive—to be a monopoly of one. This is not what young people do today, because everyone around them has long since lost faith in a definite world. No one gets into Stanford by excelling at just one thing, unless that thing happens to involve throwing or catching a leather ball.
+
+
+
+
+
+You can also expect the future to be either better or worse than the present. Optimists welcome the future; pessimists fear it. Combining these possibilities yields four views:
+
+
+
+
+
+Indefinite Pessimism
+
+
+Every culture has a myth of decline from some golden age, and almost all peoples throughout history have been pessimists. Even today pessimism still dominates huge parts of the world. An indefinite pessimist looks out onto a bleak future, but he has no idea what to do about it. This describes Europe since the early 1970s, when the continent succumbed to undirected bureaucratic drift. Today the whole Eurozone is in slow-motion crisis, and nobody is in charge. The European Central Bank doesn’t stand for anything but improvisation: the U.S. Treasury prints “In God We Trust” on the dollar; the ECB might as well print “Kick the Can Down the Road” on the euro. Europeans just react to events as they happen and hope things don’t get worse. The indefinite pessimist can’t know whether the inevitable decline will be fast or slow, catastrophic or gradual. All he can do is wait for it to happen, so he might as well eat, drink, and be merry in the meantime: hence Europe’s famous vacation mania.
+
+
+
+
+
+Definite Pessimism
+
+
+A definite pessimist believes the future can be known, but since it will be bleak, he must prepare for it. Perhaps surprisingly, China is probably the most definitely pessimistic place in the world today. When Americans see the Chinese economy grow ferociously fast (10% per year since 2000), we imagine a confident country mastering its future. But that’s because Americans are still optimists, and we project our optimism onto China. From China’s viewpoint, economic growth cannot come fast enough. Every other country is afraid that China is going to take over the world; China is the only country afraid that it won’t.
+
+China can grow so fast only because its starting base is so low. The easiest way for China to grow is to relentlessly copy what has already worked in the West. And that’s exactly what it’s doing: executing definite plans by burning ever more coal to build ever more factories and skyscrapers. But with a huge population pushing resource prices higher, there’s no way Chinese living standards can ever actually catch up to those of the richest countries, and the Chinese know it.
+
+This is why the Chinese leadership is obsessed with the way in which things threaten to get worse. Every senior Chinese leader experienced famine as a child, so when the Politburo looks to the future, disaster is not an abstraction. The Chinese public, too, knows that winter is coming. Outsiders are fascinated by the great fortunes being made inside China, but they pay less attention to the wealthy Chinese trying hard to get their money out of the country. Poorer Chinese just save everything they can and hope it will be enough. Every class of people in China takes the future deadly seriously.
+
+
+
+
+
+Definite Optimism
+
+
+To a definite optimist, the future will be better than the present if he plans and works to make it better. From the 17th century through the 1950s and ’60s, definite optimists led the Western world. Scientists, engineers, doctors, and businessmen made the world richer, healthier, and more long-lived than previously imaginable. As Karl Marx and Friedrich Engels saw clearly, the 19th-century business class
+
+created more massive and more colossal productive forces than all preceding generations together. Subjection of Nature’s forces to man, machinery, application of chemistry to industry and agriculture, steam-navigation, railways, electric telegraphs, clearing of whole continents for cultivation, canalisation of rivers, whole populations conjured out of the ground—what earlier century had even a presentiment that such productive forces slumbered in the lap of social labor?
+
+
+
+Each generation’s inventors and visionaries surpassed their predecessors. In 1843, the London public was invited to make its first crossing underneath the River Thames by a newly dug tunnel. In 1869, the Suez Canal saved Eurasian shipping traffic from rounding the Cape of Good Hope. In 1914 the Panama Canal cut short the route from Atlantic to Pacific. Even the Great Depression failed to impede relentless progress in the United States, which has always been home to the world’s most far-seeing definite optimists. The Empire State Building was started in 1929 and finished in 1931. The Golden Gate Bridge was started in 1933 and completed in 1937. The Manhattan Project was started in 1941 and had already produced the world’s first nuclear bomb by 1945. Americans continued to remake the face of the world in peacetime: the Interstate Highway System began construction in 1956, and the first 20,000 miles of road were open for driving by 1965. Definite planning even went beyond the surface of this planet: NASA’s Apollo Program began in 1961 and put 12 men on the moon before it finished in 1972.
+
+Bold plans were not reserved just for political leaders or government scientists. In the late 1940s, a Californian named John Reber set out to reinvent the physical geography of the whole San Francisco Bay Area. Reber was a schoolteacher, an amateur theater producer, and a self-taught engineer. Undaunted by his lack of credentials, he publicly proposed to build two huge dams in the Bay, construct massive freshwater lakes for drinking water and irrigation, and reclaim 20,000 acres of land for development. Even though he had no personal authority, people took the Reber Plan seriously. It was endorsed by newspaper editorial boards across California. The U.S. Congress held hearings on its feasibility. The Army Corps of Engineers even constructed a 1.5-acre scale model of the Bay in a cavernous Sausalito warehouse to simulate it. These tests revealed technical shortcomings, so the plan wasn’t executed.
+
+But would anybody today take such a vision seriously in the first place? In the 1950s, people welcomed big plans and asked whether they would work. Today a grand plan coming from a schoolteacher would be dismissed as crankery, and a long-range vision coming from anyone more powerful would be derided as hubris. You can still visit the Bay Model in that Sausalito warehouse, but today it’s just a tourist attraction: big plans for the future have become archaic curiosities.
+
+
+
+
+
+In the 1950s, Americans thought big plans for the future were too important to be left to experts.
+
+
+
+
+
+Indefinite Optimism
+
+
+After a brief pessimistic phase in the 1970s, indefinite optimism has dominated American thinking ever since 1982, when a long bull market began and finance eclipsed engineering as the way to approach the future. To an indefinite optimist, the future will be better, but he doesn’t know how exactly, so he won’t make any specific plans. He expects to profit from the future but sees no reason to design it concretely.
+
+Instead of working for years to build a new product, indefinite optimists rearrange already-invented ones. Bankers make money by rearranging the capital structures of already existing companies. Lawyers resolve disputes over old things or help other people structure their affairs. And private equity investors and management consultants don’t start new businesses; they squeeze extra efficiency from old ones with incessant procedural optimizations. It’s no surprise that these fields all attract disproportionate numbers of high-achieving Ivy League optionality chasers; what could be a more appropriate reward for two decades of résumé-building than a seemingly elite, process-oriented career that promises to “keep options open”?
+
+Recent graduates’ parents often cheer them on the established path. The strange history of the Baby Boom produced a generation of indefinite optimists so used to effortless progress that they feel entitled to it. Whether you were born in 1945 or 1950 or 1955, things got better every year for the first 18 years of your life, and it had nothing to do with you. Technological advance seemed to accelerate automatically, so the Boomers grew up with great expectations but few specific plans for how to fulfill them. Then, when technological progress stalled in the 1970s, increasing income inequality came to the rescue of the most elite Boomers. Every year of adulthood continued to get automatically better and better for the rich and successful. The rest of their generation was left behind, but the wealthy Boomers who shape public opinion today see little reason to question their naïve optimism. Since tracked careers worked for them, they can’t imagine that they won’t work for their kids, too.
+
+Malcolm Gladwell says you can’t understand Bill Gates’s success without understanding his fortunate personal context: he grew up in a good family, went to a private school equipped with a computer lab, and counted Paul Allen as a childhood friend. But perhaps you can’t understand Malcolm Gladwell without understanding his historical context as a Boomer (born in 1963). When Baby Boomers grow up and write books to explain why one or another individual is successful, they point to the power of a particular individual’s context as determined by chance. But they miss the even bigger social context for their own preferred explanations: a whole generation learned from childhood to overrate the power of chance and underrate the importance of planning. Gladwell at first appears to be making a contrarian critique of the myth of the self-made businessman, but actually his own account encapsulates the conventional view of a generation.
+
+
+
+
+
+OUR INDEFINITELY OPTIMISTIC WORLD
+
+
+Indefinite Finance
+
+
+While a definitely optimistic future would need engineers to design underwater cities and settlements in space, an indefinitely optimistic future calls for more bankers and lawyers. Finance epitomizes indefinite thinking because it’s the only way to make money when you have no idea how to create wealth. If they don’t go to law school, bright college graduates head to Wall Street precisely because they have no real plan for their careers. And once they arrive at Goldman, they find that even inside finance, everything is indefinite. It’s still optimistic—you wouldn’t play in the markets if you expected to lose—but the fundamental tenet is that the market is random; you can’t know anything specific or substantive; diversification becomes supremely important.
+
+The indefiniteness of finance can be bizarre. Think about what happens when successful entrepreneurs sell their company. What do they do with the money? In a financialized world, it unfolds like this:
+
+• The founders don’t know what to do with it, so they give it to a large bank.
+
+• The bankers don’t know what to do with it, so they diversify by spreading it across a portfolio of institutional investors.
+
+• Institutional investors don’t know what to do with their managed capital, so they diversify by amassing a portfolio of stocks.
+
+• Companies try to increase their share price by generating free cash flows. If they do, they issue dividends or buy back shares and the cycle repeats.
+
+
+
+At no point does anyone in the chain know what to do with money in the real economy. But in an indefinite world, people actually prefer unlimited optionality; money is more valuable than anything you could possibly do with it. Only in a definite future is money a means to an end, not the end itself.
+
+
+
+
+
+Indefinite Politics
+
+
+Politicians have always been officially accountable to the public at election time, but today they are attuned to what the public thinks at every moment. Modern polling enables politicians to tailor their image to match preexisting public opinion exactly, so for the most part, they do. Nate Silver’s election predictions are remarkably accurate, but even more remarkable is how big a story they become every four years. We are more fascinated today by statistical predictions of what the country will be thinking in a few weeks’ time than by visionary predictions of what the country will look like 10 or 20 years from now.
+
+And it’s not just the electoral process—the very character of government has become indefinite, too. The government used to be able to coordinate complex solutions to problems like atomic weaponry and lunar exploration. But today, after 40 years of indefinite creep, the government mainly just provides insurance; our solutions to big problems are Medicare, Social Security, and a dizzying array of other transfer payment programs. It’s no surprise that entitlement spending has eclipsed discretionary spending every year since 1975. To increase discretionary spending we’d need definite plans to solve specific problems. But according to the indefinite logic of entitlement spending, we can make things better just by sending out more checks.
+
+
+
+
+
+Indefinite Philosophy
+
+
+You can see the shift to an indefinite attitude not just in politics but in the political philosophers whose ideas underpin both left and right.
+
+The philosophy of the ancient world was pessimistic: Plato, Aristotle, Epicurus, and Lucretius all accepted strict limits on human potential. The only question was how best to cope with our tragic fate. Modern philosophers have been mostly optimistic. From Herbert Spencer on the right and Hegel in the center to Marx on the left, the 19th century shared a belief in progress. (Remember Marx and Engels’s encomium to the technological triumphs of capitalism from this page.) These thinkers expected material advances to fundamentally change human life for the better: they were definite optimists.
+
+In the late 20th century, indefinite philosophies came to the fore. The two dominant political thinkers, John Rawls and Robert Nozick, are usually seen as stark opposites: on the egalitarian left, Rawls was concerned with questions of fairness and distribution; on the libertarian right, Nozick focused on maximizing individual freedom. They both believed that people could get along with each other peacefully, so unlike the ancients, they were optimistic. But unlike Spencer or Marx, Rawls and Nozick were indefinite optimists: they didn’t have any specific vision of the future.
+
+
+
+
+
+Their indefiniteness took different forms. Rawls begins A Theory of Justice with the famous “veil of ignorance”: fair political reasoning is supposed to be impossible for anyone with knowledge of the world as it concretely exists. Instead of trying to change our actual world of unique people and real technologies, Rawls fantasized about an “inherently stable” society with lots of fairness but little dynamism. Nozick opposed Rawls’s “patterned” concept of justice. To Nozick, any voluntary exchange must be allowed, and no social pattern could be noble enough to justify maintenance by coercion. He didn’t have any more concrete ideas about the good society than Rawls: both of them focused on process. Today, we exaggerate the differences between left-liberal egalitarianism and libertarian individualism because almost everyone shares their common indefinite attitude. In philosophy, politics, and business, too, arguing over process has become a way to endlessly defer making concrete plans for a better future.
+
+
+
+
+
+Indefinite Life
+
+
+Our ancestors sought to understand and extend the human lifespan. In the 16th century, conquistadors searched the jungles of Florida for a Fountain of Youth. Francis Bacon wrote that “the prolongation of life” should be considered its own branch of medicine—and the noblest. In the 1660s, Robert Boyle placed life extension (along with “the Recovery of Youth”) atop his famous wish list for the future of science. Whether through geographic exploration or laboratory research, the best minds of the Renaissance thought of death as something to defeat. (Some resisters were killed in action: Bacon caught pneumonia and died in 1626 while experimenting to see if he could extend a chicken’s life by freezing it in the snow.)
+
+We haven’t yet uncovered the secrets of life, but insurers and statisticians in the 19th century successfully revealed a secret about death that still governs our thinking today: they discovered how to reduce it to a mathematical probability. “Life tables” tell us our chances of dying in any given year, something previous generations didn’t know. However, in exchange for better insurance contracts, we seem to have given up the search for secrets about longevity. Systematic knowledge of the current range of human lifespans has made that range seem natural. Today our society is permeated by the twin ideas that death is both inevitable and random.
+
+Meanwhile, probabilistic attitudes have come to shape the agenda of biology itself. In 1928, Scottish scientist Alexander Fleming found that a mysterious antibacterial fungus had grown on a petri dish he’d forgotten to cover in his laboratory: he discovered penicillin by accident. Scientists have sought to harness the power of chance ever since. Modern drug discovery aims to amplify Fleming’s serendipitous circumstances a millionfold: pharmaceutical companies search through combinations of molecular compounds at random, hoping to find a hit.
+
+But it’s not working as well as it used to. Despite dramatic advances over the past two centuries, in recent decades biotechnology hasn’t met the expectations of investors—or patients. Eroom’s law—that’s Moore’s law backward—observes that the number of new drugs approved per billion dollars spent on R&D has halved every nine years since 1950. Since information technology accelerated faster than ever during those same years, the big question for biotech today is whether it will ever see similar progress. Compare biotech startups to their counterparts in computer software:
+
+
+
+
+
+Biotech startups are an extreme example of indefinite thinking. Researchers experiment with things that just might work instead of refining definite theories about how the body’s systems operate. Biologists say they need to work this way because the underlying biology is hard. According to them, IT startups work because we created computers ourselves and designed them to reliably obey our commands. Biotech is difficult because we didn’t design our bodies, and the more we learn about them, the more complex they turn out to be.
+
+But today it’s possible to wonder whether the genuine difficulty of biology has become an excuse for biotech startups’ indefinite approach to business in general. Most of the people involved expect some things to work eventually, but few want to commit to a specific company with the level of intensity necessary for success. It starts with the professors who often become part-time consultants instead of full-time employees—even for the biotech startups that begin from their own research. Then everyone else imitates the professors’ indefinite attitude. It’s easy for libertarians to claim that heavy regulation holds biotech back—and it does—but indefinite optimism may pose an even greater challenge for the future of biotech.
+
+
+
+
+
+IS INDEFINITE OPTIMISM EVEN POSSIBLE?
+
+
+What kind of future will our indefinitely optimistic decisions bring about? If American households were saving, at least they could expect to have money to spend later. And if American companies were investing, they could expect to reap the rewards of new wealth in the future. But U.S. households are saving almost nothing. And U.S. companies are letting cash pile up on their balance sheets without investing in new projects because they don’t have any concrete plans for the future.
+
+
+
+
+
+The other three views of the future can work. Definite optimism works when you build the future you envision. Definite pessimism works by building what can be copied without expecting anything new. Indefinite pessimism works because it’s self-fulfilling: if you’re a slacker with low expectations, they’ll probably be met. But indefinite optimism seems inherently unsustainable: how can the future get better if no one plans for it?
+
+Actually, most everybody in the modern world has already heard an answer to this question: progress without planning is what we call “evolution.” Darwin himself wrote that life tends to “progress” without anybody intending it. Every living thing is just a random iteration on some other organism, and the best iterations win.
+
+Darwin’s theory explains the origin of trilobites and dinosaurs, but can it be extended to domains that are far removed? Just as Newtonian physics can’t explain black holes or the Big Bang, it’s not clear that Darwinian biology should explain how to build a better society or how to create a new business out of nothing. Yet in recent years Darwinian (or pseudo-Darwinian) metaphors have become common in business. Journalists analogize literal survival in competitive ecosystems to corporate survival in competitive markets. Hence all the headlines like “Digital Darwinism,” “Dot-com Darwinism,” and “Survival of the Clickiest.”
+
+Even in engineering-driven Silicon Valley, the buzzwords of the moment call for building a “lean startup” that can “adapt” and “evolve” to an ever-changing environment. Would-be entrepreneurs are told that nothing can be known in advance: we’re supposed to listen to what customers say they want, make nothing more than a “minimum viable product,” and iterate our way to success.
+
+But leanness is a methodology, not a goal. Making small changes to things that already exist might lead you to a local maximum, but it won’t help you find the global maximum. You could build the best version of an app that lets people order toilet paper from their iPhone. But iteration without a bold plan won’t take you from 0 to 1. A company is the strangest place of all for an indefinite optimist: why should you expect your own business to succeed without a plan to make it happen? Darwinism may be a fine theory in other contexts, but in startups, intelligent design works best.
+
+
+
+
+
+THE RETURN OF DESIGN
+
+
+What would it mean to prioritize design over chance? Today, “good design” is an aesthetic imperative, and everybody from slackers to yuppies carefully “curates” their outward appearance. It’s true that every great entrepreneur is first and foremost a designer. Anyone who has held an iDevice or a smoothly machined MacBook has felt the result of Steve Jobs’s obsession with visual and experiential perfection. But the most important lesson to learn from Jobs has nothing to do with aesthetics. The greatest thing Jobs designed was his business. Apple imagined and executed definite multi-year plans to create new products and distribute them effectively. Forget “minimum viable products”—ever since he started Apple in 1976, Jobs saw that you can change the world through careful planning, not by listening to focus group feedback or copying others’ successes.
+
+Long-term planning is often undervalued by our indefinite short-term world. When the first iPod was released in October 2001, industry analysts couldn’t see much more than “a nice feature for Macintosh users” that “doesn’t make any difference” to the rest of the world. Jobs planned the iPod to be the first of a new generation of portable post-PC devices, but that secret was invisible to most people. One look at the company’s stock chart shows the harvest of this multi-year plan:
+
+
+
+
+
+The power of planning explains the difficulty of valuing private companies. When a big company makes an offer to acquire a successful startup, it almost always offers too much or too little: founders only sell when they have no more concrete visions for the company, in which case the acquirer probably overpaid; definite founders with robust plans don’t sell, which means the offer wasn’t high enough. When Yahoo! offered to buy Facebook for $1 billion in July 2006, I thought we should at least consider it. But Mark Zuckerberg walked into the board meeting and announced: “Okay, guys, this is just a formality, it shouldn’t take more than 10 minutes. We’re obviously not going to sell here.” Mark saw where he could take the company, and Yahoo! didn’t. A business with a good definite plan will always be underrated in a world where people see the future as random.
+
+
+
+
+
+YOU ARE NOT A LOTTERY TICKET
+
+
+We have to find our way back to a definite future, and the Western world needs nothing short of a cultural revolution to do it.
+
+Where to start? John Rawls will need to be displaced in philosophy departments. Malcolm Gladwell must be persuaded to change his theories. And pollsters have to be driven from politics. But the philosophy professors and the Gladwells of the world are set in their ways, to say nothing of our politicians. It’s extremely hard to make changes in those crowded fields, even with brains and good intentions.
+
+A startup is the largest endeavor over which you can have definite mastery. You can have agency not just over your own life, but over a small and important part of the world. It begins by rejecting the unjust tyranny of Chance. You are not a lottery ticket.
+
+
+
+
+

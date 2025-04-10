@@ -1,0 +1,106 @@
+Zero to one：notes on startups, or how to build the future by Peter Thiel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phil Knight、Peter Thiel with Blake Masters、Gary
+
+
+
+
+
+
+
+Copyright © 2014 by Peter Thiel
+
+All rights reserved.
+
+Published in the United States by Crown Business, an imprint of the Crown Publishing Group, a division of Random House LLC, a Penguin Random House Company, New York.
+
+www.crownpublishing.com
+
+CROWN BUSINESS is a trademark and CROWN and the Rising Sun colophon are registered trademarks of Random House LLC.
+
+Crown Business books are available at special discounts for bulk purchases for sales promotions or corporate use. Special editions, including personalized covers, excerpts of existing books, or books with corporate logos, can be created in large quantities for special needs. For more information, contact Premium Sales at (212) 572-2232 or e-mail specialmarkets@randomhouse.com.
+
+Library of Congress Cataloging-in-Publication Data
+
+Thiel, Peter A.
+
+Zero to one: notes on startups, or how to build the future / Peter Thiel with Blake Masters.
+
+pages cm
+
+1. New business enterprises. 2. New products. 3. Entrepreneurship. 4. Diffusion of innovations. I. Title.
+
+HD62.5.T525 2014
+
+685.11—dc23 2014006653
+
+Hardcover ISBN: 978-0-8041-3929-8
+
+eBook ISBN: 978-0-8041-3930-4
+
+Book design by Ralph Fowler / rlfdesign
+
+Graphics by Rodrigo Corral Design
+
+Illustrations by Matt Buck
+
+Cover design by Michael Nagin
+
+Additional credits appear on this page, which constitutes a continuation of this copyright page.
+
+v3.1
+
+
+
+
+
+
+
+
+Preface
+
+
+ZERO TO ONE
+
+
+EVERY MOMENT IN BUSINESS happens only once. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. And the next Mark Zuckerberg won’t create a social network. If you are copying these guys, you aren’t learning from them.
+
+Of course, it’s easier to copy a model than to make something new. Doing what we already know how to do takes the world from 1 to n, adding more of something familiar. But every time we create something new, we go from 0 to 1. The act of creation is singular, as is the moment of creation, and the result is something fresh and strange.
+
+Unless they invest in the difficult task of creating new things, American companies will fail in the future no matter how big their profits remain today. What happens when we’ve gained everything to be had from fine-tuning the old lines of business that we’ve inherited? Unlikely as it sounds, the answer threatens to be far worse than the crisis of 2008. Today’s “best practices” lead to dead ends; the best paths are new and untried.
+
+In a world of gigantic administrative bureaucracies both public and private, searching for a new path might seem like hoping for a miracle. Actually, if American business is going to succeed, we are going to need hundreds, or even thousands, of miracles. This would be depressing but for one crucial fact: humans are distinguished from other species by our ability to work miracles. We call these miracles technology.
+
+Technology is miraculous because it allows us to do more with less, ratcheting up our fundamental capabilities to a higher level. Other animals are instinctively driven to build things like dams or honeycombs, but we are the only ones that can invent new things and better ways of making them. Humans don’t decide what to build by making choices from some cosmic catalog of options given in advance; instead, by creating new technologies, we rewrite the plan of the world. These are the kind of elementary truths we teach to second graders, but they are easy to forget in a world where so much of what we do is repeat what has been done before.
+
+Zero to One is about how to build companies that create new things. It draws on everything I’ve learned directly as a co-founder of PayPal and Palantir and then an investor in hundreds of startups, including Facebook and SpaceX. But while I have noticed many patterns, and I relate them here, this book offers no formula for success. The paradox of teaching entrepreneurship is that such a formula necessarily cannot exist; because every innovation is new and unique, no authority can prescribe in concrete terms how to be innovative. Indeed, the single most powerful pattern I have noticed is that successful people find value in unexpected places, and they do this by thinking about business from first principles instead of formulas.
+
+This book stems from a course about startups that I taught at Stanford in 2012. College students can become extremely skilled at a few specialties, but many never learn what to do with those skills in the wider world. My primary goal in teaching the class was to help my students see beyond the tracks laid down by academic specialties to the broader future that is theirs to create. One of those students, Blake Masters, took detailed class notes, which circulated far beyond the campus, and in Zero to One I have worked with him to revise the notes for a wider audience. There’s no reason why the future should happen only at Stanford, or in college, or in Silicon Valley.
+
+
+
+
+

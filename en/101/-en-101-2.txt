@@ -1,0 +1,123 @@
+2 Party Like It’s 1999
+
+
+OUR CONTRARIAN QUESTION—What important truth do very few people agree with you on?—is difficult to answer directly. It may be easier to start with a preliminary: what does everybody agree on? “Madness is rare in individuals—but in groups, parties, nations, and ages it is the rule,” Nietzsche wrote (before he went mad). If you can identify a delusional popular belief, you can find what lies hidden behind it: the contrarian truth.
+
+Consider an elementary proposition: companies exist to make money, not to lose it. This should be obvious to any thinking person. But it wasn’t so obvious to many in the late 1990s, when no loss was too big to be described as an investment in an even bigger, brighter future. The conventional wisdom of the “New Economy” accepted page views as a more authoritative, forward-looking financial metric than something as pedestrian as profit.
+
+Conventional beliefs only ever come to appear arbitrary and wrong in retrospect; whenever one collapses, we call the old belief a bubble. But the distortions caused by bubbles don’t disappear when they pop. The internet craze of the ’90s was the biggest bubble since the crash of 1929, and the lessons learned afterward define and distort almost all thinking about technology today. The first step to thinking clearly is to question what we think we know about the past.
+
+
+
+
+
+A QUICK HISTORY OF THE ’90S
+
+
+The 1990s have a good image. We tend to remember them as a prosperous, optimistic decade that happened to end with the internet boom and bust. But many of those years were not as cheerful as our nostalgia holds. We’ve long since forgotten the global context for the 18 months of dot-com mania at decade’s end.
+
+The ’90s started with a burst of euphoria when the Berlin Wall came down in November ’89. It was short-lived. By mid-1990, the United States was in recession. Technically the downturn ended in March ’91, but recovery was slow and unemployment continued to rise until July ’92. Manufacturing never fully rebounded. The shift to a service economy was protracted and painful.
+
+1992 through the end of 1994 was a time of general malaise. Images of dead American soldiers in Mogadishu looped on cable news. Anxiety about globalization and U.S. competitiveness intensified as jobs flowed to Mexico. This pessimistic undercurrent drove then-president Bush 41 out of office and won Ross Perot nearly 20% of the popular vote in ’92—the best showing for a third-party candidate since Theodore Roosevelt in 1912. And whatever the cultural fascination with Nirvana, grunge, and heroin reflected, it wasn’t hope or confidence.
+
+Silicon Valley felt sluggish, too. Japan seemed to be winning the semiconductor war. The internet had yet to take off, partly because its commercial use was restricted until late 1992 and partly due to the lack of user-friendly web browsers. It’s telling that when I arrived at Stanford in 1985, economics, not computer science, was the most popular major. To most people on campus, the tech sector seemed idiosyncratic or even provincial.
+
+The internet changed all this. The Mosaic browser was officially released in November 1993, giving regular people a way to get online. Mosaic became Netscape, which released its Navigator browser in late 1994. Navigator’s adoption grew so quickly—from about 20% of the browser market in January 1995 to almost 80% less than 12 months later—that Netscape was able to IPO in August ’95 even though it wasn’t yet profitable. Within five months, Netscape stock had shot up from $28 to $174 per share. Other tech companies were booming, too. Yahoo! went public in April ’96 with an $848 million valuation. Amazon followed suit in May ’97 at $438 million. By spring of ’98, each company’s stock had more than quadrupled. Skeptics questioned earnings and revenue multiples higher than those for any non-internet company. It was easy to conclude that the market had gone crazy.
+
+This conclusion was understandable but misplaced. In December ’96—more than three years before the bubble actually burst—Fed chairman Alan Greenspan warned that “irrational exuberance” might have “unduly escalated asset values.” Tech investors were exuberant, but it’s not clear that they were so irrational. It is too easy to forget that things weren’t going very well in the rest of the world at the time.
+
+The East Asian financial crises hit in July 1997. Crony capitalism and massive foreign debt brought the Thai, Indonesian, and South Korean economies to their knees. The ruble crisis followed in August ’98 when Russia, hamstrung by chronic fiscal deficits, devalued its currency and defaulted on its debt. American investors grew nervous about a nation with 10,000 nukes and no money; the Dow Jones Industrial Average plunged more than 10% in a matter of days.
+
+People were right to worry. The ruble crisis set off a chain reaction that brought down Long-Term Capital Management, a highly leveraged U.S. hedge fund. LTCM managed to lose $4.6 billion in the latter half of 1998, and still had over $100 billion in liabilities when the Fed intervened with a massive bailout and slashed interest rates in order to prevent systemic disaster. Europe wasn’t doing that much better. The euro launched in January 1999 to great skepticism and apathy. It rose to $1.19 on its first day of trading but sank to $0.83 within two years. In mid-2000, G7 central bankers had to prop it up with a multibillion-dollar intervention.
+
+So the backdrop for the short-lived dot-com mania that started in September 1998 was a world in which nothing else seemed to be working. The Old Economy couldn’t handle the challenges of globalization. Something needed to work—and work in a big way—if the future was going to be better at all. By indirect proof, the New Economy of the internet was the only way forward.
+
+
+
+
+
+MANIA: SEPTEMBER 1998–MARCH 2000
+
+
+Dot-com mania was intense but short—18 months of insanity from September 1998 to March 2000. It was a Silicon Valley gold rush: there was money everywhere, and no shortage of exuberant, often sketchy people to chase it. Every week, dozens of new startups competed to throw the most lavish launch party. (Landing parties were much more rare.) Paper millionaires would rack up thousand-dollar dinner bills and try to pay with shares of their startup’s stock—sometimes it even worked. Legions of people decamped from their well-paying jobs to found or join startups. One 40-something grad student that I knew was running six different companies in 1999. (Usually, it’s considered weird to be a 40-year-old graduate student. Usually, it’s considered insane to start a half-dozen companies at once. But in the late ’90s, people could believe that was a winning combination.) Everybody should have known that the mania was unsustainable; the most “successful” companies seemed to embrace a sort of anti-business model where they lost money as they grew. But it’s hard to blame people for dancing when the music was playing; irrationality was rational given that appending “.com” to your name could double your value overnight.
+
+
+
+
+
+PAYPAL MANIA
+
+
+When I was running PayPal in late 1999, I was scared out of my wits—not because I didn’t believe in our company, but because it seemed like everyone else in the Valley was ready to believe anything at all. Everywhere I looked, people were starting and flipping companies with alarming casualness. One acquaintance told me how he had planned an IPO from his living room before he’d even incorporated his company—and he didn’t think that was weird. In this kind of environment, acting sanely began to seem eccentric.
+
+At least PayPal had a suitably grand mission—the kind that post-bubble skeptics would later describe as grandiose: we wanted to create a new internet currency to replace the U.S. dollar. Our first product let people beam money from one PalmPilot to another. However, nobody had any use for that product except the journalists who voted it one of the 10 worst business ideas of 1999. PalmPilots were still too exotic then, but email was already commonplace, so we decided to create a way to send and receive payments over email.
+
+By the fall of ’99, our email payment product worked well—anyone could log in to our website and easily transfer money. But we didn’t have enough customers, growth was slow, and expenses mounted. For PayPal to work, we needed to attract a critical mass of at least a million users. Advertising was too ineffective to justify the cost. Prospective deals with big banks kept falling through. So we decided to pay people to sign up.
+
+We gave new customers $10 for joining, and we gave them $10 more every time they referred a friend. This got us hundreds of thousands of new customers and an exponential growth rate. Of course, this customer acquisition strategy was unsustainable on its own—when you pay people to be your customers, exponential growth means an exponentially growing cost structure. Crazy costs were typical at that time in the Valley. But we thought our huge costs were sane: given a large user base, PayPal had a clear path to profitability by taking a small fee on customers’ transactions.
+
+We knew we’d need more funding to reach that goal. We also knew that the boom was going to end. Since we didn’t expect investors’ faith in our mission to survive the coming crash, we moved fast to raise funds while we could. On February 16, 2000, the Wall Street Journal ran a story lauding our viral growth and suggesting that PayPal was worth $500 million. When we raised $100 million the next month, our lead investor took the Journal’s back-of-the-envelope valuation as authoritative. (Other investors were in even more of a hurry. A South Korean firm wired us $5 million without first negotiating a deal or signing any documents. When I tried to return the money, they wouldn’t tell me where to send it.) That March 2000 financing round bought us the time we needed to make PayPal a success. Just as we closed the deal, the bubble popped.
+
+
+
+
+
+LESSONS LEARNED
+
+
+’Cause they say 2,000 zero zero party over, oops! Out of time!
+
+So tonight I’m gonna party like it’s 1999!
+
+—PRINCE
+
+
+
+The NASDAQ reached 5,048 at its peak in the middle of March 2000 and then crashed to 3,321 in the middle of April. By the time it bottomed out at 1,114 in October 2002, the country had long since interpreted the market’s collapse as a kind of divine judgment against the technological optimism of the ’90s. The era of cornucopian hope was relabeled as an era of crazed greed and declared to be definitely over.
+
+Everyone learned to treat the future as fundamentally indefinite, and to dismiss as an extremist anyone with plans big enough to be measured in years instead of quarters. Globalization replaced technology as the hope for the future. Since the ’90s migration “from bricks to clicks” didn’t work as hoped, investors went back to bricks (housing) and BRICs (globalization). The result was another bubble, this time in real estate.
+
+
+
+
+
+The entrepreneurs who stuck with Silicon Valley learned four big lessons from the dot-com crash that still guide business thinking today:
+
+1. Make incremental advances
+
+Grand visions inflated the bubble, so they should not be indulged. Anyone who claims to be able to do something great is suspect, and anyone who wants to change the world should be more humble. Small, incremental steps are the only safe path forward.
+
+2. Stay lean and flexible
+
+All companies must be “lean,” which is code for “unplanned.” You should not know what your business will do; planning is arrogant and inflexible. Instead you should try things out, “iterate,” and treat entrepreneurship as agnostic experimentation.
+
+3. Improve on the competition
+
+Don’t try to create a new market prematurely. The only way to know you have a real business is to start with an already existing customer, so you should build your company by improving on recognizable products already offered by successful competitors.
+
+4. Focus on product, not sales
+
+If your product requires advertising or salespeople to sell it, it’s not good enough: technology is primarily about product development, not distribution. Bubble-era advertising was obviously wasteful, so the only sustainable growth is viral growth.
+
+
+
+These lessons have become dogma in the startup world; those who would ignore them are presumed to invite the justified doom visited upon technology in the great crash of 2000. And yet the opposite principles are probably more correct:
+
+1. It is better to risk boldness than triviality.
+
+2. A bad plan is better than no plan.
+
+3. Competitive markets destroy profits.
+
+4. Sales matters just as much as product.
+
+
+
+It’s true that there was a bubble in technology. The late ’90s was a time of hubris: people believed in going from 0 to 1. Too few startups were actually getting there, and many never went beyond talking about it. But people understood that we had no choice but to find ways to do more with less. The market high of March 2000 was obviously a peak of insanity; less obvious but more important, it was also a peak of clarity. People looked far into the future, saw how much valuable new technology we would need to get there safely, and judged themselves capable of creating it.
+
+We still need new technology, and we may even need some 1999-style hubris and exuberance to get it. To build the next generation of companies, we must abandon the dogmas created after the crash. That doesn’t mean the opposite ideas are automatically true: you can’t escape the madness of crowds by dogmatically rejecting them. Instead ask yourself: how much of what you know about business is shaped by mistaken reactions to past mistakes? The most contrarian thing of all is not to oppose the crowd but to think for yourself.
+
+
+
+
+

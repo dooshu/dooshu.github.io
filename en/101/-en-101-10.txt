@@ -1,0 +1,88 @@
+10 The Mechanics of Mafia
+
+
+START WITH A THOUGHT EXPERIMENT: what would the ideal company culture look like? Employees should love their work. They should enjoy going to the office so much that formal business hours become obsolete and nobody watches the clock. The workspace should be open, not cubicled, and workers should feel at home: beanbag chairs and Ping-Pong tables might outnumber file cabinets. Free massages, on-site sushi chefs, and maybe even yoga classes would sweeten the scene. Pets should be welcome, too: perhaps employees’ dogs and cats could come and join the office’s tankful of tropical fish as unofficial company mascots.
+
+What’s wrong with this picture? It includes some of the absurd perks Silicon Valley has made famous, but none of the substance—and without substance perks don’t work. You can’t accomplish anything meaningful by hiring an interior decorator to beautify your office, a “human resources” consultant to fix your policies, or a branding specialist to hone your buzzwords. “Company culture” doesn’t exist apart from the company itself: no company has a culture; every company is a culture. A startup is a team of people on a mission, and a good culture is just what that looks like on the inside.
+
+
+
+
+
+BEYOND PROFESSIONALISM
+
+
+The first team that I built has become known in Silicon Valley as the “PayPal Mafia” because so many of my former colleagues have gone on to help each other start and invest in successful tech companies. We sold PayPal to eBay for $1.5 billion in 2002. Since then, Elon Musk has founded SpaceX and co-founded Tesla Motors; Reid Hoffman co-founded LinkedIn; Steve Chen, Chad Hurley, and Jawed Karim together founded YouTube; Jeremy Stoppelman and Russel Simmons founded Yelp; David Sacks co-founded Yammer; and I co-founded Palantir. Today all seven of those companies are worth more than $1 billion each. PayPal’s office amenities never got much press, but the team has done extraordinarily well, both together and individually: the culture was strong enough to transcend the original company.
+
+We didn’t assemble a mafia by sorting through résumés and simply hiring the most talented people. I had seen the mixed results of that approach firsthand when I worked at a New York law firm. The lawyers I worked with ran a valuable business, and they were impressive individuals one by one. But the relationships between them were oddly thin. They spent all day together, but few of them seemed to have much to say to each other outside the office. Why work with a group of people who don’t even like each other? Many seem to think it’s a sacrifice necessary for making money. But taking a merely professional view of the workplace, in which free agents check in and out on a transactional basis, is worse than cold: it’s not even rational. Since time is your most valuable asset, it’s odd to spend it working with people who don’t envision any long-term future together. If you can’t count durable relationships among the fruits of your time at work, you haven’t invested your time well—even in purely financial terms.
+
+From the start, I wanted PayPal to be tightly knit instead of transactional. I thought stronger relationships would make us not just happier and better at work but also more successful in our careers even beyond PayPal. So we set out to hire people who would actually enjoy working together. They had to be talented, but even more than that they had to be excited about working specifically with us. That was the start of the PayPal Mafia.
+
+
+
+
+
+RECRUITING CONSPIRATORS
+
+
+Recruiting is a core competency for any company. It should never be outsourced. You need people who are not just skilled on paper but who will work together cohesively after they’re hired. The first four or five might be attracted by large equity stakes or high-profile responsibilities. More important than those obvious offerings is your answer to this question: Why should the 20th employee join your company?
+
+Talented people don’t need to work for you; they have plenty of options. You should ask yourself a more pointed version of the question: Why would someone join your company as its 20th engineer when she could go work at Google for more money and more prestige?
+
+Here are some bad answers: “Your stock options will be worth more here than elsewhere.” “You’ll get to work with the smartest people in the world.” “You can help solve the world’s most challenging problems.” What’s wrong with valuable stock, smart people, or pressing problems? Nothing—but every company makes these same claims, so they won’t help you stand out. General and undifferentiated pitches don’t say anything about why a recruit should join your company instead of many others.
+
+The only good answers are specific to your company, so you won’t find them in this book. But there are two general kinds of good answers: answers about your mission and answers about your team. You’ll attract the employees you need if you can explain why your mission is compelling: not why it’s important in general, but why you’re doing something important that no one else is going to get done. That’s the only thing that can make its importance unique. At PayPal, if you were excited by the idea of creating a new digital currency to replace the U.S. dollar, we wanted to talk to you; if not, you weren’t the right fit.
+
+However, even a great mission is not enough. The kind of recruit who would be most engaged as an employee will also wonder: “Are these the kind of people I want to work with?” You should be able to explain why your company is a unique match for him personally. And if you can’t do that, he’s probably not the right match.
+
+Above all, don’t fight the perk war. Anybody who would be more powerfully swayed by free laundry pickup or pet day care would be a bad addition to your team. Just cover the basics like health insurance and then promise what no others can: the opportunity to do irreplaceable work on a unique problem alongside great people. You probably can’t be the Google of 2014 in terms of compensation or perks, but you can be like the Google of 1999 if you already have good answers about your mission and team.
+
+
+
+
+
+WHAT’S UNDER SILICON VALLEY’S HOODIES
+
+
+From the outside, everyone in your company should be different in the same way.
+
+Unlike people on the East Coast, who all wear the same skinny jeans or pinstripe suits depending on their industry, young people in Mountain View and Palo Alto go to work wearing T-shirts. It’s a cliché that tech workers don’t care about what they wear, but if you look closely at those T-shirts, you’ll see the logos of the wearers’ companies—and tech workers care about those very much. What makes a startup employee instantly distinguishable to outsiders is the branded T-shirt or hoodie that makes him look the same as his co-workers. The startup uniform encapsulates a simple but essential principle: everyone at your company should be different in the same way—a tribe of like-minded people fiercely devoted to the company’s mission.
+
+Max Levchin, my co-founder at PayPal, says that startups should make their early staff as personally similar as possible. Startups have limited resources and small teams. They must work quickly and efficiently in order to survive, and that’s easier to do when everyone shares an understanding of the world. The early PayPal team worked well together because we were all the same kind of nerd. We all loved science fiction: Cryptonomicon was required reading, and we preferred the capitalist Star Wars to the communist Star Trek. Most important, we were all obsessed with creating a digital currency that would be controlled by individuals instead of governments. For the company to work, it didn’t matter what people looked like or which country they came from, but we needed every new hire to be equally obsessed.
+
+
+
+
+
+DO ONE THING
+
+
+On the inside, every individual should be sharply distinguished by her work.
+
+When assigning responsibilities to employees in a startup, you could start by treating it as a simple optimization problem to efficiently match talents with tasks. But even if you could somehow get this perfectly right, any given solution would quickly break down. Partly that’s because startups have to move fast, so individual roles can’t remain static for long. But it’s also because job assignments aren’t just about the relationships between workers and tasks; they’re also about relationships between employees.
+
+The best thing I did as a manager at PayPal was to make every person in the company responsible for doing just one thing. Every employee’s one thing was unique, and everyone knew I would evaluate him only on that one thing. I had started doing this just to simplify the task of managing people. But then I noticed a deeper result: defining roles reduced conflict. Most fights inside a company happen when colleagues compete for the same responsibilities. Startups face an especially high risk of this since job roles are fluid at the early stages. Eliminating competition makes it easier for everyone to build the kinds of long-term relationships that transcend mere professionalism. More than that, internal peace is what enables a startup to survive at all. When a startup fails, we often imagine it succumbing to predatory rivals in a competitive ecosystem. But every company is also its own ecosystem, and factional strife makes it vulnerable to outside threats. Internal conflict is like an autoimmune disease: the technical cause of death may be pneumonia, but the real cause remains hidden from plain view.
+
+
+
+
+
+OF CULTS AND CONSULTANTS
+
+
+In the most intense kind of organization, members hang out only with other members. They ignore their families and abandon the outside world. In exchange, they experience strong feelings of belonging, and maybe get access to esoteric “truths” denied to ordinary people. We have a word for such organizations: cults. Cultures of total dedication look crazy from the outside, partly because the most notorious cults were homicidal: Jim Jones and Charles Manson did not make good exits.
+
+But entrepreneurs should take cultures of extreme dedication seriously. Is a lukewarm attitude to one’s work a sign of mental health? Is a merely professional attitude the only sane approach? The extreme opposite of a cult is a consulting firm like Accenture: not only does it lack a distinctive mission of its own, but individual consultants are regularly dropping in and out of companies to which they have no long-term connection whatsoever.
+
+Every company culture can be plotted on a linear spectrum:
+
+
+
+
+
+The best startups might be considered slightly less extreme kinds of cults. The biggest difference is that cults tend to be fanatically wrong about something important. People at a successful startup are fanatically right about something those outside it have missed. You’re not going to learn those kinds of secrets from consultants, and you don’t need to worry if your company doesn’t make sense to conventional professionals. Better to be called a cult—or even a mafia.
+
+
+
+
+

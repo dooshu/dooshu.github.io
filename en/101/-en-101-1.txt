@@ -1,0 +1,67 @@
+1 The Challenge of the Future
+
+
+WHENEVER I INTERVIEW someone for a job, I like to ask this question: “What important truth do very few people agree with you on?”
+
+This question sounds easy because it’s straightforward. Actually, it’s very hard to answer. It’s intellectually difficult because the knowledge that everyone is taught in school is by definition agreed upon. And it’s psychologically difficult because anyone trying to answer must say something she knows to be unpopular. Brilliant thinking is rare, but courage is in even shorter supply than genius.
+
+Most commonly, I hear answers like the following:
+
+“Our educational system is broken and urgently needs to be fixed.”
+
+“America is exceptional.”
+
+“There is no God.”
+
+
+
+Those are bad answers. The first and the second statements might be true, but many people already agree with them. The third statement simply takes one side in a familiar debate. A good answer takes the following form: “Most people believe in x, but the truth is the opposite of x.” I’ll give my own answer later in this chapter.
+
+What does this contrarian question have to do with the future? In the most minimal sense, the future is simply the set of all moments yet to come. But what makes the future distinctive and important isn’t that it hasn’t happened yet, but rather that it will be a time when the world looks different from today. In this sense, if nothing about our society changes for the next 100 years, then the future is over 100 years away. If things change radically in the next decade, then the future is nearly at hand. No one can predict the future exactly, but we know two things: it’s going to be different, and it must be rooted in today’s world. Most answers to the contrarian question are different ways of seeing the present; good answers are as close as we can come to looking into the future.
+
+
+
+
+
+ZERO TO ONE: THE FUTURE OF PROGRESS
+
+
+When we think about the future, we hope for a future of progress. That progress can take one of two forms. Horizontal or extensive progress means copying things that work—going from 1 to n. Horizontal progress is easy to imagine because we already know what it looks like. Vertical or intensive progress means doing new things—going from 0 to 1. Vertical progress is harder to imagine because it requires doing something nobody else has ever done. If you take one typewriter and build 100, you have made horizontal progress. If you have a typewriter and build a word processor, you have made vertical progress.
+
+
+
+
+
+At the macro level, the single word for horizontal progress is globalization—taking things that work somewhere and making them work everywhere. China is the paradigmatic example of globalization; its 20-year plan is to become like the United States is today. The Chinese have been straightforwardly copying everything that has worked in the developed world: 19th-century railroads, 20th-century air conditioning, and even entire cities. They might skip a few steps along the way—going straight to wireless without installing landlines, for instance—but they’re copying all the same.
+
+The single word for vertical, 0 to 1 progress is technology. The rapid progress of information technology in recent decades has made Silicon Valley the capital of “technology” in general. But there is no reason why technology should be limited to computers. Properly understood, any new and better way of doing things is technology.
+
+
+
+
+
+Because globalization and technology are different modes of progress, it’s possible to have both, either, or neither at the same time. For example, 1815 to 1914 was a period of both rapid technological development and rapid globalization. Between the First World War and Kissinger’s trip to reopen relations with China in 1971, there was rapid technological development but not much globalization. Since 1971, we have seen rapid globalization along with limited technological development, mostly confined to IT.
+
+This age of globalization has made it easy to imagine that the decades ahead will bring more convergence and more sameness. Even our everyday language suggests we believe in a kind of technological end of history: the division of the world into the so-called developed and developing nations implies that the “developed” world has already achieved the achievable, and that poorer nations just need to catch up.
+
+But I don’t think that’s true. My own answer to the contrarian question is that most people think the future of the world will be defined by globalization, but the truth is that technology matters more. Without technological change, if China doubles its energy production over the next two decades, it will also double its air pollution. If every one of India’s hundreds of millions of households were to live the way Americans already do—using only today’s tools—the result would be environmentally catastrophic. Spreading old ways to create wealth around the world will result in devastation, not riches. In a world of scarce resources, globalization without new technology is unsustainable.
+
+New technology has never been an automatic feature of history. Our ancestors lived in static, zero-sum societies where success meant seizing things from others. They created new sources of wealth only rarely, and in the long run they could never create enough to save the average person from an extremely hard life. Then, after 10,000 years of fitful advance from primitive agriculture to medieval windmills and 16th-century astrolabes, the modern world suddenly experienced relentless technological progress from the advent of the steam engine in the 1760s all the way up to about 1970. As a result, we have inherited a richer society than any previous generation would have been able to imagine.
+
+Any generation excepting our parents’ and grandparents’, that is: in the late 1960s, they expected this progress to continue. They looked forward to a four-day workweek, energy too cheap to meter, and vacations on the moon. But it didn’t happen. The smartphones that distract us from our surroundings also distract us from the fact that our surroundings are strangely old: only computers and communications have improved dramatically since midcentury. That doesn’t mean our parents were wrong to imagine a better future—they were only wrong to expect it as something automatic. Today our challenge is to both imagine and create the new technologies that can make the 21st century more peaceful and prosperous than the 20th.
+
+
+
+
+
+STARTUP THINKING
+
+
+New technology tends to come from new ventures—startups. From the Founding Fathers in politics to the Royal Society in science to Fairchild Semiconductor’s “traitorous eight” in business, small groups of people bound together by a sense of mission have changed the world for the better. The easiest explanation for this is negative: it’s hard to develop new things in big organizations, and it’s even harder to do it by yourself. Bureaucratic hierarchies move slowly, and entrenched interests shy away from risk. In the most dysfunctional organizations, signaling that work is being done becomes a better strategy for career advancement than actually doing work (if this describes your company, you should quit now). At the other extreme, a lone genius might create a classic work of art or literature, but he could never create an entire industry. Startups operate on the principle that you need to work with other people to get stuff done, but you also need to stay small enough so that you actually can.
+
+Positively defined, a startup is the largest group of people you can convince of a plan to build a different future. A new company’s most important strength is new thinking: even more important than nimbleness, small size affords space to think. This book is about the questions you must ask and answer to succeed in the business of doing new things: what follows is not a manual or a record of knowledge but an exercise in thinking. Because that is what a startup has to do: question received ideas and rethink business from scratch.
+
+
+
+
+

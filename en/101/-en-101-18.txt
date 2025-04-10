@@ -1,0 +1,1180 @@
+Index
+
+
+Page numbers in italics refer to illustrations.
+
+
+
+
+
+Abound Solar
+
+Accenture
+
+advertising, 3.1, 11.1, 11.2, 11.3
+
+Afghanistan
+
+Airbnb
+
+airline industry
+
+Allen, Paul
+
+Amazon, 2.1, 5.1, 5.2, 6.1, 12.1
+
+Amundsen, Roald
+
+Andreessen, Horowitz
+
+Andreessen, Marc
+
+Anna Karenina (Tolstoy)
+
+antitrust
+
+Apollo Program
+
+Apple, 4.1, 5.1, 5.2, 6.1, 14.1
+
+branding of
+
+monopoly profits of
+
+Aristotle
+
+Army Corps of Engineers
+
+AT&T
+
+Aztecs
+
+
+Baby Boomers
+
+Bacon, Francis
+
+Bangladesh
+
+Barnes & Noble
+
+Beijing
+
+Bell Labs
+
+Berlin Wall
+
+Better Place
+
+Bezos, Jeff, 5.1, 6.1
+
+big data
+
+Bill of Rights, U.S.
+
+bin Laden, Osama
+
+biotechnology
+
+biotech startups, 6.1, 6.2
+
+board of directors
+
+Bostrom, Nick
+
+Box, 9.1, 11.1
+
+Boyle, Robert
+
+branding
+
+Branson, Richard
+
+Brin, Sergey
+
+bubbles
+
+financial, 2.1, 8.1
+
+see also specific bubbles
+
+Buffett, Warren
+
+bureaucracy, prf.1, 1.1, 9.1
+
+Bush, George H. W., 2.1, 12.1
+
+Bush, George W.
+
+business:
+
+Darwinian metaphors in
+
+value of
+
+war metaphors in
+
+
+Capablanca, José Raúl
+
+cap-and-trade legislation
+
+capitalism, and competition, 3.1, 8.1
+
+cash flows, 5.1, 5.2, 5.3
+
+celebrities
+
+Centers for Disease Control and Prevention
+
+Central Intelligence Agency (CIA)
+
+CEO compensation
+
+Chen, Steve
+
+China, 1.1, 6.1, 12.1, 13.1
+
+globalization and
+
+cleantech
+
+distribution question for
+
+durability question for
+
+engineering question for
+
+monopoly question for
+
+people question for
+
+secret question for
+
+social entrepreneurship and
+
+timing question for
+
+cleantech bubble, 13.1, 13.2, 13.3
+
+clean technology
+
+Clinton, Bill
+
+cloud computing
+
+Cobain, Kurt
+
+Cohen, Stephen
+
+companies:
+
+value created by
+
+valuing of
+
+company culture
+
+Compaq
+
+compensation
+
+competition, 3.1, 5.1, 13.1, bm1.1
+
+and capitalism, 3.1, 8.1
+
+ideology of
+
+imitative
+
+lies of
+
+as relic of history
+
+ruthlessness in
+
+as war
+
+complacency
+
+complementarity
+
+substitution vs.
+
+technology and
+
+compound interest
+
+computers, 12.1, 12.2
+
+competition from
+
+humans and
+
+computer science, ideology of
+
+Confinity
+
+Congress, U.S., 6.1, 11.1, 13.1
+
+Constitutional Convention
+
+consultants
+
+consulting
+
+contrarian thinking
+
+control
+
+conventional truths, 8.1, 8.2
+
+courage
+
+credit card fraud
+
+cults, 8.1, 10.1
+
+Customer Acquisition Cost (CAC), 11.1, 11.2
+
+Customer Lifetime Value (CLV), 11.1, 11.2
+
+
+Daimler
+
+Darwin, Charles
+
+Deep Blue
+
+definite optimism, 6.1, 6.2
+
+definite pessimism, 6.1, 6.2
+
+Dell, Michael
+
+Department of Motor Vehicles (DMV)
+
+design
+
+DeskJet 500C
+
+DiCaprio, Leonardo
+
+disruption
+
+distribution, 11.1, 11.2, 11.3, 11.4
+
+power law of
+
+at Tesla
+
+Doerr, John
+
+Doohan, James
+
+Dorsey, Jack
+
+dot-com crash, 4.1, 4.2
+
+dot-com mania, 2.1, 2.2
+
+lessons learned from
+
+Dow Jones Industrial Average
+
+Dunn, Patricia
+
+Dylan, Bob
+
+
+Earnhardt, Dale, Jr.
+
+East Asian financial crises
+
+eBay, 4.1, 5.1, 5.2, 5.3, 9.1, 10.1, 11.1
+
+economies of scale
+
+educational system
+
+efficient markets
+
+Einstein, Albert
+
+electric cars, 13.1, 13.2
+
+Ellison, Larry
+
+email
+
+Emerson, Ralph Waldo
+
+Empire State Building
+
+Energy Conversion Devices
+
+Energy Department, U.S.
+
+Energy Innovations
+
+Engels, Friedrich
+
+entitlement spending
+
+entrepreneurs, 3.1, 5.1, 6.1, 6.2, 7.1, 10.1
+
+short-term growth focus of
+
+entrepreneurship, serial
+
+Epicurus
+
+equity compensation
+
+Eroom’s law
+
+ethics
+
+euro
+
+Europe, 2.1, 6.1
+
+European Central Bank
+
+Evergreen Solar, 13.1, 13.2
+
+evolution
+
+exploration
+
+extinction, bm1.1, bm1.2
+
+
+Facebook, prf.1, 5.1, 6.1, 6.2, 7.1, 11.1, 14.1
+
+Fairchild Semiconductor
+
+Fanning, Shawn
+
+Faust
+
+Federal Bureau of Investigation (FBI), 8.1, 12.1, 14.1
+
+Fermat, Pierre de
+
+Fermat’s Last Theorem
+
+finance, indefinite
+
+financial bubbles, 2.1, 8.1
+
+first mover advantage
+
+flatness
+
+Fleming, Alexander
+
+Forbes, 12.1, 12.2
+
+Ford
+
+fossil fuels
+
+foundations
+
+co-founders
+
+compensation structure
+
+equity
+
+ownership, possession and control
+
+startups
+
+founders, 14.1, bm1.1
+
+origins of
+
+traits of
+
+Founders Fund, 7.1, 7.2, 9.1, 11.1, 13.1
+
+Fountain of Youth
+
+fracking
+
+fraud detection
+
+free marketeers
+
+free trade
+
+fundamentalists
+
+future:
+
+challenge of
+
+controlling of
+
+four possible patterns for
+
+
+Gaga, Lady, 14.1, 14.2
+
+Gates, Bill, prf.1, 6.1, 6.2, 6.3, 14.1
+
+General Motors, 9.1, 13.1
+
+genius
+
+Gladwell, Malcolm, 6.1, 6.2, 6.3
+
+globalization, 1.1, 1.2, 2.1, 2.2, 2.3, 8.1, 12.1, bm1.1
+
+substitution as
+
+technology and
+
+global warming
+
+goals
+
+Golden Gate Bridge
+
+Google, 3.1, 3.2, 3.3, 4.1, 5.1, 7.1, 10.1, 12.1, 12.2
+
+as monopoly, 3.1, 3.2
+
+motto of
+
+Google Translate
+
+Gore, Al
+
+government, indefinite
+
+Great Depression
+
+Greenspan, Alan, 2.1, 8.1
+
+Gross, Bill
+
+Groupon
+
+Guardian, 12.1
+
+
+Hamlet
+
+Harrison, Brian, 13.1
+
+Hegel, Georg Wilhelm Friedrich
+
+Hendrix, Jimi
+
+Hewlett, Bill
+
+Hewlett-Packard
+
+hipsterdom
+
+Hitchhiker’s Guide to the Galaxy, The
+
+Hoffman, Reid
+
+horizontal progress
+
+housing bubble, 2.1, 8.1
+
+Howery, Ken
+
+HP Services
+
+Hughes, Howard
+
+Hurley, Chad
+
+Hyundai
+
+
+IBM, 3.1, 12.1
+
+Igor
+
+incentive pay
+
+income inequality
+
+incrementalism, 8.1, 14.1
+
+indefinite finance
+
+indefinite life
+
+indefinite optimism, 6.1, 6.2
+
+indefinite pessimism, 6.1, 6.2
+
+India
+
+Indonesia
+
+information technology, 1.1, 6.1, 12.1
+
+Informix
+
+innovation, prf.1, 3.1
+
+insider trading
+
+Instagram
+
+Intel
+
+internet, 2.1, 2.2
+
+internet bubble, 2.1, 2.2, 2.3, 8.1, 13.1
+
+Interstate Highway System
+
+Intuit
+
+investment
+
+iPad, 5.1, 14.1
+
+iPhone, 3.1, 4.1, 5.1, 14.1
+
+iPod, 6.1, 14.1
+
+irrational exuberance
+
+Italy
+
+IT startups
+
+Ivan, Hurricane
+
+
+Jackson, Michael
+
+Japan
+
+Jennings, Ken
+
+Jennings, Peter
+
+Jeopardy!
+
+Jobs, Steve, 5.1, 5.2, 6.1, 6.2, 14.1
+
+Jones, Jim
+
+Joplin, Janis
+
+justice
+
+Justice Department, U.S.
+
+
+Kaczynski, Ted
+
+Karim, Jawed
+
+Karp, Alex, 11.1, 12.1
+
+Kasparov, Garry
+
+Katrina, Hurricane
+
+Kennedy, Anthony
+
+Kesey, Ken
+
+Kessler, Andy
+
+Kurzweil, Ray
+
+
+last mover, 11.1, 13.1
+
+last mover advantage
+
+lean startup, 2.1, 6.1, 6.2
+
+Levchin, Max, 4.1, 10.1, 12.1, 14.1
+
+Levie, Aaron
+
+lifespan
+
+life tables
+
+LinkedIn, 5.1, 10.1, 12.1
+
+Loiseau, Bernard
+
+Long-Term Capital Management (LTCM)
+
+Lord of the Rings (Tolkien)
+
+luck, 6.1, 6.2, 6.3, 6.4
+
+Lucretius
+
+Lyft
+
+
+MacBook
+
+machine learning
+
+Madison, James
+
+Madrigal, Alexis
+
+Manhattan Project
+
+Manson, Charles
+
+manufacturing
+
+marginal cost
+
+marketing
+
+Marx, Karl, 4.1, 6.1, 6.2, 6.3
+
+Masters, Blake, prf.1, 11.1
+
+Mayer, Marissa
+
+Medicare
+
+Mercedes-Benz
+
+MiaSolé, 13.1, 13.2
+
+Michelin
+
+Microsoft, 3.1, 3.2, 3.3, 4.1, 5.1, 14.1
+
+mobile computing
+
+mobile credit card readers
+
+Mogadishu
+
+monopoly, monopolies, 3.1, 3.2, 3.3, 5.1, 7.1, 8.1
+
+building of
+
+characteristics of
+
+in cleantech
+
+creative
+
+dynamism of new
+
+lies of
+
+profits of
+
+progress and
+
+sales and
+
+of Tesla
+
+Morrison, Jim
+
+Mosaic browser
+
+music recording industry
+
+Musk, Elon, 4.1, 6.1, 11.1, 13.1, 13.2, 13.3
+
+
+Napster, 5.1, 14.1
+
+NASA, 6.1, 11.1
+
+NASDAQ, 2.1, 13.1
+
+National Security Agency (NSA)
+
+natural gas
+
+natural secrets
+
+Navigator browser
+
+Netflix
+
+Netscape
+
+NetSecure
+
+network effects, 5.1, 5.2
+
+New Economy, 2.1, 2.2
+
+New York Times, 13.1, 14.1
+
+New York Times
+
+Nietzsche, Friedrich
+
+Nokia
+
+nonprofits, 13.1, 13.2
+
+Nosek, Luke, 9.1, 14.1
+
+Nozick, Robert
+
+nutrition
+
+
+Oedipus, 14.1, 14.2
+
+OfficeJet
+
+OmniBook
+
+online pet store market
+
+Oracle
+
+Outliers (Gladwell)
+
+ownership
+
+
+Packard, Dave
+
+Page, Larry
+
+Palantir, prf.1, 7.1, 10.1, 11.1, 12.1
+
+PalmPilots, 2.1, 5.1, 11.1
+
+Pan, Yu
+
+Panama Canal
+
+Pareto, Vilfredo
+
+Pareto principle
+
+Parker, Sean, 5.1, 14.1
+
+Part-time employees
+
+patents
+
+path dependence
+
+PayPal, prf.1, 2.1, 3.1, 4.1, 4.2, 4.3, 5.1, 5.2, 5.3, 8.1, 9.1, 9.2, 10.1, 10.2, 10.3, 10.4, 11.1, 11.2, 12.1, 12.2, 14.1
+
+founders of, 14.1
+
+future cash flows of
+
+investors in
+
+“PayPal Mafia”
+
+PCs
+
+Pearce, Dave
+
+penicillin
+
+perfect competition, 3.1, 3.2
+
+equilibrium of
+
+Perkins, Tom
+
+perk war
+
+Perot, Ross, 2.1, 12.1, 12.2
+
+pessimism
+
+Petopia.com
+
+Pets.com, 4.1, 4.2
+
+PetStore.com
+
+pharmaceutical companies
+
+philanthropy
+
+philosophy, indefinite
+
+physics
+
+planning, 2.1, 6.1, 6.2
+
+progress without
+
+Plato
+
+politics, 6.1, 11.1
+
+indefinite
+
+polling
+
+pollsters
+
+pollution
+
+portfolio, diversified
+
+possession
+
+power law, 7.1, 7.2, 7.3
+
+of distribution
+
+of venture capital
+
+Power Sellers (eBay)
+
+Presley, Elvis
+
+Priceline.com
+
+Prince
+
+Procter & Gamble
+
+profits, 2.1, 3.1, 3.2, 3.3
+
+progress, 6.1, 6.2
+
+future of
+
+without planning
+
+proprietary technology, 5.1, 5.2, 13.1
+
+public opinion
+
+public relations
+
+Pythagoras
+
+
+Q-Cells
+
+
+Rand, Ayn
+
+Rawls, John, 6.1, 6.2
+
+Reber, John
+
+recession, of mid-1990
+
+recruiting, 10.1, 12.1
+
+recurrent collapse, bm1.1, bm1.2
+
+renewable energy industrial index
+
+research and development
+
+resources, 12.1, bm1.1
+
+restaurants, 3.1, 3.2, 5.1
+
+risk
+
+risk aversion
+
+Romeo and Juliet (Shakespeare)
+
+Romulus and Remus
+
+Roosevelt, Theodore
+
+Royal Society
+
+Russia
+
+
+Sacks, David
+
+sales, 2.1, 11.1, 13.1
+
+complex
+
+as hidden
+
+to non-customers
+
+personal
+
+Sandberg, Sheryl
+
+San Francisco Bay Area
+
+savings
+
+scale, economies of
+
+Scalia, Antonin
+
+scaling up
+
+scapegoats
+
+Schmidt, Eric
+
+search engines, prf.1, 3.1, 5.1
+
+secrets, 8.1, 13.1
+
+about people
+
+case for
+
+finding of
+
+looking for
+
+using
+
+self-driving cars
+
+service businesses
+
+service economy
+
+Shakespeare, William, 4.1, 7.1
+
+Shark Tank
+
+Sharma, Suvi
+
+Shatner, William
+
+Siebel, Tom
+
+Siebel Systems
+
+Silicon Valley, 1.1, 2.1, 2.2, 2.3, 5.1, 5.2, 6.1, 7.1, 10.1, 11.1
+
+Silver, Nate
+
+Simmons, Russel, 10.1, 14.1
+
+singularity
+
+smartphones, 1.1, 12.1
+
+social entrepreneurship
+
+Social Network, The
+
+social networks, prf.1, 5.1
+
+Social Security
+
+software engineers
+
+software startups, 5.1, 6.1
+
+solar energy, 13.1, 13.2, 13.3, 13.4
+
+Solaria
+
+Solyndra, 13.1, 13.2, 13.3, 13.4, 13.5
+
+South Korea
+
+space shuttle
+
+SpaceX, prf.1, 10.1, 11.1
+
+Spears, Britney
+
+SpectraWatt, 13.1, 13.2
+
+Spencer, Herbert, 6.1, 6.2
+
+Square, 4.1, 6.1
+
+Stanford Sleep Clinic
+
+startups, prf.1, 1.1, 5.1, 6.1, 6.2, 7.1
+
+assigning responsibilities in
+
+cash flow at
+
+as cults
+
+disruption by
+
+during dot-com mania
+
+economies of scale and
+
+foundations of
+
+founder’s paradox in
+
+lessons of dot-com mania for
+
+power law in
+
+public relations in
+
+sales and
+
+staff of
+
+target market for
+
+uniform of
+
+venture capital and
+
+steam engine
+
+Stoppelman, Jeremy
+
+string theory
+
+strong AI
+
+substitution, complementarity vs.
+
+Suez Canal
+
+
+tablet computing
+
+technological advance
+
+technology, prf.1, 1.1, 1.2, 2.1, 2.2, 2.3
+
+American fear of
+
+complementarity and
+
+globalization and
+
+proprietary
+
+technology companies
+
+terrorism
+
+Tesla Motors, 10.1, 13.1, 13.2
+
+Thailand
+
+Theory of Justice, A (Rawls)
+
+Timberlake, Justin
+
+Time magazine
+
+Tolkien, J.R.R.
+
+Tolstoy, Leo
+
+Tom Sawyer (char.)
+
+Toyota
+
+Tumblr
+
+27 Club
+
+Twitter, 5.1, 6.1
+
+
+Uber
+
+Unabomber
+
+
+VCs, rules of
+
+“veil of ignorance”
+
+venture capital
+
+power law in
+
+venture fund, J-curve of successful, 7.1
+
+vertical progress
+
+viral marketing
+
+Virgin Atlantic Airways
+
+Virgin Group
+
+Virgin Records
+
+
+Wagner
+
+Wall Street Journal
+
+Warby Parker
+
+Watson
+
+web browsers
+
+Western Union
+
+White, Phil
+
+Wiles, Andrew
+
+Wilson, Andrew
+
+Winehouse, Amy
+
+World Wide Web
+
+
+Xanadu
+
+X.com
+
+
+Yahoo!, 2.1, 3.1, 3.2, 5.1, 6.1
+
+Yammer
+
+Yelp
+
+YouTube, 10.1, 12.1
+
+
+ZocDoc
+
+Zuckerberg, Mark, prf.1, 5.1, 6.1, 14.1
+
+Zynga
+
+
+
+
+

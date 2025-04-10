@@ -1,0 +1,117 @@
+2. Define
+
+
+
+
+
+
+
+
+
+WHO, EXACTLY, IS AN ENTREPRENEUR?
+
+As I travel the world talking about the Lean Startup, I’m consistently surprised that I meet people in the audience who seem out of place. In addition to the more traditional startup entrepreneurs I meet, these people are general managers, mostly working in very large companies, who are tasked with creating new ventures or product innovations. They are adept at organizational politics: they know how to form autonomous divisions with separate profit and loss statements (P&Ls) and can shield controversial teams from corporate meddling. The biggest surprise is that they are visionaries. Like the startup founders I have worked with for years, they can see the future of their industries and are prepared to take bold risks to seek out new and innovative solutions to the problems their companies face.
+
+Mark, for example, is a manager for an extremely large company who came to one of my lectures. He is the leader of a division that recently had been chartered to bring his company into the twenty-first century by building a new suite of products designed to take advantage of the Internet. When he came to talk to me afterward, I started to give him the standard advice about how to create innovation teams inside big companies, and he stopped me in midstream: “Yeah, I’ve read The Innovator’s Dilemma.1 I’ve got that all taken care of.” He was a long-term employee of the company and a successful manager to boot, so managing internal politics was the least of his problems. I should have known; his success was a testament to his ability to navigate the company’s corporate policies, personnel, and processes to get things done.
+
+Next, I tried to give him some advice about the future, about cool new highly leveraged product development technologies. He interrupted me again: “Right. I know all about the Internet, and I have a vision for how our company needs to adapt to it or die.”
+
+Mark has all the entrepreneurial prerequisites nailed—proper team structure, good personnel, a strong vision for the future, and an appetite for risk taking—and so it finally occurred to me to ask why he was coming to me for advice. He said, “It’s as if we have all of the raw materials: kindling, wood, paper, flint, even some sparks. But where’s the fire?” The theories of management that Mark had studied treat innovation like a “black box” by focusing on the structures companies need to put in place to form internal startup teams. But Mark found himself working inside the black box—and in need of guidance.
+
+What Mark was missing was a process for converting the raw materials of innovation into real-world breakthrough successes. Once a team is set up, what should it do? What process should it use? How should it be held accountable to performance milestones? These are questions the Lean Startup methodology is designed to answer.
+
+My point? Mark is an entrepreneur just like a Silicon Valley high-tech founder with a garage startup. He needs the principles of the Lean Startup just as much as the folks I thought of as classic entrepreneurs do.
+
+Entrepreneurs who operate inside an established organization sometimes are called “intrapreneurs” because of the special circumstances that attend building a startup within a larger company. As I have applied Lean Startup ideas in an ever-widening variety of companies and industries, I have come to believe that intrapreneurs have much more in common with the rest of the community of entrepreneurs than most people believe. Thus, when I use the term entrepreneur, I am referring to the whole startup ecosystem regardless of company size, sector, or stage of development.
+
+This book is for entrepreneurs of all stripes: from young visionaries with little backing but great ideas to seasoned visionaries within larger companies such as Mark—and the people who hold them accountable.
+
+
+IF I’M AN ENTREPRENEUR, WHAT’S A STARTUP?
+
+The Lean Startup is a set of practices for helping entrepreneurs increase their odds of building a successful startup. To set the record straight, it’s important to define what a startup is:
+
+A startup is a human institution designed to create a new product or service under conditions of extreme uncertainty.
+
+
+
+I’ve come to realize that the most important part of this definition is what it omits. It says nothing about size of the company, the industry, or the sector of the economy. Anyone who is creating a new product or business under conditions of extreme uncertainty is an entrepreneur whether he or she knows it or not and whether working in a government agency, a venture-backed company, a nonprofit, or a decidedly for-profit company with financial investors.
+
+Let’s take a look at each of the pieces. The word institution connotes bureaucracy, process, even lethargy. How can that be part of a startup? Yet successful startups are full of activities associated with building an institution: hiring creative employees, coordinating their activities, and creating a company culture that delivers results.
+
+We often lose sight of the fact that a startup is not just about a product, a technological breakthrough, or even a brilliant idea. A startup is greater than the sum of its parts; it is an acutely human enterprise.
+
+The fact that a startup’s product or service is a new innovation is also an essential part of the definition and a tricky part too. I prefer to use the broadest definition of product, one that encompasses any source of value for the people who become customers. Anything those customers experience from their interaction with a company should be considered part of that company’s product. This is true of a grocery store, an e-commerce website, a consulting service, and a nonprofit social service agency. In every case, the organization is dedicated to uncovering a new source of value for customers and cares about the impact of its product on those customers.
+
+It’s also important that the word innovation be understood broadly. Startups use many kinds of innovation: novel scientific discoveries, repurposing an existing technology for a new use, devising a new business model that unlocks value that was hidden, or simply bringing a product or service to a new location or a previously underserved set of customers. In all these cases, innovation is at the heart of the company’s success.
+
+There is one more important part of this definition: the context in which the innovation happens. Most businesses—large and small alike—are excluded from this context. Startups are designed to confront situations of extreme uncertainty. To open up a new business that is an exact clone of an existing business all the way down to the business model, pricing, target customer, and product may be an attractive economic investment, but it is not a startup because its success depends only on execution—so much so that this success can be modeled with high accuracy. (This is why so many small businesses can be financed with simple bank loans; the level of risk and uncertainty is understood well enough that a loan officer can assess its prospects.)
+
+Most tools from general management are not designed to flourish in the harsh soil of extreme uncertainty in which startups thrive. The future is unpredictable, customers face a growing array of alternatives, and the pace of change is ever increasing. Yet most startups—in garages and enterprises alike—still are managed by using standard forecasts, product milestones, and detailed business plans.
+
+
+THE SNAPTAX STORY
+
+In 2009, a startup decided to try something really audacious. They wanted to liberate taxpayers from expensive tax stores by automating the process of collecting information typically found on W-2 forms (the end-of-year statement that most employees receive from their employer that summarizes their taxable wages for the year). The startup quickly ran into difficulties. Even though many consumers had access to a printer/scanner in their home or office, few knew how to use those devices. After numerous conversations with potential customers, the team lit upon the idea of having customers take photographs of the forms directly from their cell phone. In the process of testing this concept, customers asked something unexpected: would it be possible to finish the whole tax return right on the phone itself?
+
+That was not an easy task. Traditional tax preparation requires consumers to wade through hundreds of questions, many forms, and a lot of paperwork. This startup tried something novel by deciding to ship an early version of its product that could do much less than a complete tax package. The initial version worked only for consumers with a very simple return to file, and it worked only in California.
+
+Instead of having consumers fill out a complex form, they allowed the customers to use the phone’s camera to take a picture of their W-2 forms. From that single picture, the company developed the technology to compile and file most of the 1040 EZ tax return. Compared with the drudgery of traditional tax filing, the new product—called SnapTax—provides a magical experience. From its modest beginning, SnapTax grew into a significant startup success story. Its nationwide launch in 2011 showed that customers loved it, to the tune of more than 350,000 downloads in the first three weeks.
+
+This is the kind of amazing innovation you’d expect from a new startup.
+
+However, the name of this company may surprise you. SnapTax was developed by Intuit, America’s largest producer of finance, tax, and accounting tools for individuals and small businesses. With more than 7,700 employees and annual revenues in the billions, Intuit is not a typical startup.2
+
+The team that built SnapTax doesn’t look much like the archetypal image of entrepreneurs either. They don’t work in a garage or eat ramen noodles. Their company doesn’t lack for resources. They are paid a full salary and benefits. They come into a regular office every day. Yet they are entrepreneurs.
+
+Stories like this one are not nearly as common inside large corporations as they should be. After all, SnapTax competes directly with one of Intuit’s flagship products: the fully featured TurboTax desktop software. Usually, companies like Intuit fall into the trap described in Clayton Christensten’s The Innovator’s Dilemma: they are very good at creating incremental improvements to existing products and serving existing customers, which Christensen called sustaining innovation, but struggle to create breakthrough new products—disruptive innovation—that can create new sustainable sources of growth.
+
+One remarkable part of the SnapTax story is what the team leaders said when I asked them to account for their unlikely success. Did they hire superstar entrepreneurs from outside the company? No, they assembled a team from within Intuit. Did they face constant meddling from senior management, which is the bane of innovation teams in many companies? No, their executive sponsors created an “island of freedom” where they could experiment as necessary. Did they have a huge team, a large budget, and lots of marketing dollars? Nope, they started with a team of five.
+
+What allowed the SnapTax team to innovate was not their genes, destiny, or astrological signs but a process deliberately facilitated by Intuit’s senior management. Innovation is a bottoms-up, decentralized, and unpredictable thing, but that doesn’t mean it cannot be managed. It can, but to do so requires a new management discipline, one that needs to be mastered not just by practicing entrepreneurs seeking to build the next big thing but also by the people who support them, nurture them, and hold them accountable. In other words, cultivating entrepreneurship is the responsibility of senior management. Today, a cutting-edge company such as Intuit can point to success stories like SnapTax because it has recognized the need for a new management paradigm. This is a realization that was years in the making.3
+
+
+A SEVEN-THOUSAND-PERSON LEAN STARTUP
+
+In 1983, Intuit’s founder, the legendary entrepreneur Scott Cook, had the radical notion (with cofounder Tom Proulx) that personal accounting should happen by computer. Their success was far from inevitable; they faced numerous competitors, an uncertain future, and an initially tiny market. A decade later, the company went public and subsequently fended off well-publicized attacks from larger incumbents, including the software behemoth Microsoft. Partly with the help of famed venture capitalist John Doerr, Intuit became a fully diversified enterprise, a member of the Fortune 1000 that now provides dozens of market-leading products across its major divisions.
+
+This is the kind of entrepreneurial success we’re used to hearing about: a ragtag team of underdogs who eventually achieve fame, acclaim, and significant riches.
+
+Flash-forward to 2002. Cook was frustrated. He had just tabulated ten years of data on all of Intuit’s new product introductions and had concluded that the company was getting a measly return on its massive investments. Simply put, too many of its new products were failing. By traditional standards, Intuit is an extremely well-managed company, but as Scott dug into the root causes of those failures, he came to a difficult conclusion: the prevailing management paradigm he and his company had been practicing was inadequate to the problem of continuous innovation in the modern economy.
+
+By fall 2009, Cook had been working to change Intuit’s management culture for several years. He came across my early work on the Lean Startup and asked me to give a talk at Intuit. In Silicon Valley this is not the kind of invitation you turn down. I admit I was curious. I was still at the beginning of my Lean Startup journey and didn’t have much appreciation for the challenges faced by a Fortune 1000 company like his.
+
+My conversations with Cook and Intuit chief executive officer (CEO) Brad Smith were my initiation into the thinking of modern general managers, who struggle with entrepreneurship every bit as much as do venture capitalists and founders in a garage. To combat these challenges, Scott and Brad are going back to Intuit’s roots. They are working to build entrepreneurship and risk taking into all their divisions.
+
+For example, consider one of Intuit’s flagship products. Because TurboTax does most of its sales around tax season in the United States, it used to have an extremely conservative culture. Over the course of the year, the marketing and product teams would conceive one major initiative that would be rolled out just in time for tax season. Now they test over five hundred different changes in a two-and-a-half-month tax season. They’re running up to seventy different tests per week. The team can make a change live on its website on Thursday, run it over the weekend, read the results on Monday, and come to conclusions starting Tuesday; then they rebuild new tests on Thursday and launch the next set on Thursday night.
+
+As Scott put it, “Boy, the amount of learning they get is just immense now. And what it does is develop entrepreneurs, because when you have only one test, you don’t have entrepreneurs, you have politicians, because you have to sell. Out of a hundred good ideas, you’ve got to sell your idea. So you build up a society of politicians and salespeople. When you have five hundred tests you’re running, then everybody’s ideas can run. And then you create entrepreneurs who run and learn and can retest and relearn as opposed to a society of politicians. So we’re trying to drive that throughout our organization, using examples which have nothing to do with high tech, like the website example. Every business today has a website. You don’t have to be high tech to use fast-cycle testing.”
+
+This kind of change is hard. After all, the company has a significant number of existing customers who continue to demand exceptional service and investors who expect steady, growing returns.
+
+Scott says,
+
+
+
+It goes against the grain of what people have been taught in business and what leaders have been taught. The problem isn’t with the teams or the entrepreneurs. They love the chance to quickly get their baby out into the market. They love the chance to have the customer vote instead of the suits voting. The real issue is with the leaders and the middle managers. There are many business leaders who have been successful because of analysis. They think they’re analysts, and their job is to do great planning and analyzing and have a plan.
+
+
+
+The amount of time a company can count on holding on to market leadership to exploit its earlier innovations is shrinking, and this creates an imperative for even the most entrenched companies to invest in innovation. In fact, I believe a company’s only sustainable path to long-term economic growth is to build an “innovation factory” that uses Lean Startup techniques to create disruptive innovations on a continuous basis. In other words, established companies need to figure out how to accomplish what Scott Cook did in 1983, but on an industrial scale and with an established cohort of managers steeped in traditional management culture.
+
+Ever the maverick, Cook asked me to put these ideas to the test, and so I gave a talk that was simulcast to all seven thousand–plus Intuit employees during which I explained the theory of the Lean Startup, repeating my definition: an organization designed to create new products and services under conditions of extreme uncertainty.
+
+What happened next is etched in my memory. CEO Brad Smith had been sitting next to me as I spoke. When I was done, he got up and said before all of Intuit’s employees, “Folks, listen up. You heard Eric’s definition of a startup. It has three parts, and we here at Intuit match all three parts of that definition.”
+
+Scott and Brad are leaders who realize that something new is needed in management thinking. Intuit is proof that this kind of thinking can work in established companies. Brad explained to me how they hold themselves accountable for their new innovation efforts by measuring two things: the number of customers using products that didn’t exist three years ago and the percentage of revenue coming from offerings that did not exist three years ago.
+
+Under the old model, it took an average of 5.5 years for a successful new product to start generating $50 million in revenue. Brad explained to me, “We’ve generated $50 million in offerings that did not exist twelve months ago in the last year. Now it’s not one particular offering. It’s a combination of a whole bunch of innovation happening, but that’s the kind of stuff that’s creating some energy for us, that we think we can truly short-circuit the ramp by killing things that don’t make sense fast and doubling down on the ones that do.” For a company as large as Intuit, these are modest results and early days. They have decades of legacy systems and legacy thinking to overcome. However, their leadership in adopting entrepreneurial management is starting to pay off.
+
+Leadership requires creating conditions that enable employees to do the kinds of experimentation that entrepreneurship requires. For example, changes in TurboTax enabled the Intuit team to develop five hundred experiments per tax season. Before that, marketers with great ideas couldn’t have done those tests even if they’d wanted to, because they didn’t have a system in place through which to change the website rapidly. Intuit invested in systems that increased the speed at which tests could be built, deployed, and analyzed.
+
+As Cook says, “Developing these experimentation systems is the responsibility of senior management; they have to be put in by the leadership. It’s moving leaders from playing Caesar with their thumbs up and down on every idea to—instead—putting in the culture and the systems so that teams can move and innovate at the speed of the experimentation system.”
+
+
+
+
+

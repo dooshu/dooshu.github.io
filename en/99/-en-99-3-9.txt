@@ -1,0 +1,214 @@
+9. Batch
+
+
+
+
+
+In the book Lean Thinking, James Womack and Daniel Jones recount a story of stuffing newsletters into envelopes with the assistance of one of the author’s two young children. Every envelope had to be addressed, stamped, filled with a letter, and sealed. The daughters, age six and nine, knew how they should go about completing the project: “Daddy, first you should fold all of the newsletters. Then you should attach the seal. Then you should put on the stamps.” Their father wanted to do it the counterintuitive way: complete each envelope one at a time. They—like most of us—thought that was backward, explaining to him “that wouldn’t be efficient!” He and his daughters each took half the envelopes and competed to see who would finish first.
+
+The father won the race, and not just because he is an adult. It happened because the one envelope at a time approach is a faster way of getting the job done even though it seems inefficient. This has been confirmed in many studies, including one that was recorded on video.1
+
+The one envelope at a time approach is called “single-piece flow” in lean manufacturing. It works because of the surprising power of small batches. When we do work that proceeds in stages, the “batch size” refers to how much work moves from one stage to the next at a time. For example, if we were stuffing one hundred envelopes, the intuitive way to do it—folding one hundred letters at a time—would have a batch size of one hundred. Single-piece flow is so named because it has a batch size of one.
+
+Why does stuffing one envelope at a time get the job done faster even though it seems like it would be slower? Because our intuition doesn’t take into account the extra time required to sort, stack, and move around the large piles of half-complete envelopes when it’s done the other way.2 It seems more efficient to repeat the same task over and over, in part because we expect that we will get better at this simple task the more we do it. Unfortunately, in process-oriented work like this, individual performance is not nearly as important as the overall performance of the system.
+
+Even if the amount of time that each process took was exactly the same, the small batch production approach still would be superior, and for even more counterintuitive reasons. For example, imagine that the letters didn’t fit in the envelopes. With the large-batch approach, we wouldn’t find that out until nearly the end. With small batches, we’d know almost immediately. What if the envelopes are defective and won’t seal? In the large-batch approach, we’d have to unstuff all the envelopes, get new ones, and restuff them. In the small-batch approach, we’d find this out immediately and have no rework required.
+
+All these issues are visible in a process as simple as stuffing envelopes, but they are of real and much greater consequence in the work of every company, large or small. The small-batch approach produces a finished product every few seconds, whereas the large-batch approach must deliver all the products at once, at the end. Imagine what this might look like if the time horizon was hours, days, or weeks. What if it turns out that the customers have decided they don’t want the product? Which process would allow a company to find this out sooner?
+
+Lean manufacturers discovered the benefits of small batches decades ago. In the post–World War II economy, Japanese carmakers such as Toyota could not compete with huge American factories that used the latest mass production techniques. Following the intuitively efficient way of building, mass production factories built cars by using ever-larger batch sizes. They would spend huge amounts of money buying machines that could produce car parts by the tens, hundreds, or thousands. By keeping those machines running at peak speed, they could drive down the unit cost of each part and produce cars that were incredibly inexpensive so long as they were completely uniform.
+
+The Japanese car market was far too small for companies such as Toyota to employ those economies of scale; thus, Japanese companies faced intense pressure from mass production. Also, in the war-ravaged Japanese economy, capital was not available for massive investments in large machines.
+
+It was against this backdrop that innovators such as Taiichi Ohno, Shigeo Shingo, and others found a way to succeed by using small batches. Instead of buying large specialized machines that could produce thousands of parts at a time, Toyota used smaller general-purpose machines that could produce a wide variety of parts in small batches. This required figuring out ways to reconfigure each machine rapidly to make the right part at the right time. By focusing on this “changeover time,” Toyota was able to produce entire automobiles by using small batches throughout the process.
+
+This rapid changing of machines was no easy feat. As in any lean transformation, existing systems and tools often need to be reinvented to support working in smaller batches. Shigeo Shingo created the concept of SMED (Single-Minute Exchange of Die) in order to enable a smaller batch size of work in early Toyota factories. He was so relentless in rethinking the way machines were operated that he was able to reduce changeover times that previously took hours to less than ten minutes. He did this, not by asking workers to work faster, but by reimagining and restructuring the work that needed to be done. Every investment in better tools and process had a corresponding benefit in terms of shrinking the batch size of work.
+
+Because of its smaller batch size, Toyota was able to produce a much greater diversity of products. It was no longer necessary that each product be exactly the same to gain the economies of scale that powered mass production. Thus, Toyota could serve its smaller, more fragmented markets and still compete with the mass producers. Over time, that capability allowed Toyota to move successfully into larger and larger markets until it became the world’s largest automaker in 2008.
+
+The biggest advantage of working in small batches is that quality problems can be identified much sooner. This is the origin of Toyota’s famous andon cord, which allows any worker to ask for help as soon as they notice any problem, such as a defect in a physical part, stopping the entire production line if it cannot be corrected immediately. This is another very counterintuitive practice. An assembly line works best when it is functioning smoothly, rolling car after car off the end of the line. The andon cord can interrupt this careful flow as the line is halted repeatedly. However, the benefits of finding and fixing problems faster outweigh this cost. This process of continuously driving out defects has been a win-win for Toyota and its customers. It is the root cause of Toyota’s historic high quality ratings and low costs.
+
+
+SMALL BATCHES IN ENTREPRENEURSHIP
+
+When I teach entrepreneurs this method, I often begin with stories about manufacturing. Before long, I can see the questioning looks: what does this have to do with my startup? The theory that is the foundation of Toyota’s success can be used to dramatically improve the speed at which startups find validated learning.
+
+Toyota discovered that small batches made their factories more efficient. In contrast, in the Lean Startup the goal is not to produce more stuff efficiently. It is to—as quickly as possible—learn how to build a sustainable business.
+
+Think back to the example of envelope stuffing. What if it turns out that the customer doesn’t want the product we’re building? Although this is never good news for an entrepreneur, finding out sooner is much better than finding out later. Working in small batches ensures that a startup can minimize the expenditure of time, money, and effort that ultimately turns out to have been wasted.
+
+
+Small Batches at IMVU
+
+At IMVU, we applied these lessons from manufacturing to the way we work. Normally, new versions of products like ours are released to customers on a monthly, quarterly, or yearly cycle.
+
+Take a look at your cell phone. Odds are, it is not the very first version of its kind. Even innovative companies such as Apple produce a new version of their flagship phones about once a year. Bundled up in that product release are dozens of new features (at the release of iPhone 4, Apple boasted more than 1,500 changes).
+
+Ironically, many high-tech products are manufactured in advanced facilities that follow the latest in lean thinking, including small batches and single-piece flow. However, the process that is used to design the product is stuck in the era of mass production. Think of all the changes that are made to a product such as the iPhone; all 1,500 of them are released to customers in one giant batch.
+
+Behind the scenes, in the development and design of the product itself, large batches are still the rule. The work that goes into the development of a new product proceeds on a virtual assembly line. Product managers figure out what features are likely to please customers; product designers then figure out how those features should look and feel. These designs are passed to engineering, which builds something new or modifies an existing product and, once this is done, hands it off to somebody responsible for verifying that the new product works the way the product managers and designers intended. For a product such as the iPhone, these internal handoffs may happen on a monthly or quarterly basis.
+
+Think back one more time to the envelope-stuffing exercise. What is the most efficient way to do this work?
+
+At IMVU, we attempted to design, develop, and ship our new features one at a time, taking advantage of the power of small batches. Here’s what it looked like.
+
+Instead of working in separate departments, engineers and designers would work together side by side on one feature at a time. Whenever that feature was ready to be tested with customers, they immediately would release a new version of the product, which would go live on our website for a relatively small number of people. The team would be able immediately to assess the impact of their work, evaluate its effect on customers, and decide what to do next. For tiny changes, the whole process might be repeated several times per day. In fact, in the aggregate, IMVU makes about fifty changes to its product (on average) every single day.
+
+Just as with the Toyota Production System, the key to being able to operate this quickly is to check for defects immediately, thus preventing bigger problems later. For example, we had an extensive set of automated tests that assured that after every change our product still worked as designed. Let’s say an engineer accidentally removed an important feature, such as the checkout button on one of our e-commerce pages. Without this button, customers no longer could buy anything from IMVU. It’s as if our business instantly became a hobby. Analogously to the Toyota andon cord, IMVU used an elaborate set of defense mechanisms that prevented engineers from accidentally breaking something important.
+
+We called this our product’s immune system because those automatic protections went beyond checking that the product behaved as expected. We also continuously monitored the health of our business itself so that mistakes were found and removed automatically.
+
+Going back to our business-to-hobby example of the missing checkout button, let’s make the problem a little more interesting. Imagine that instead of removing the button altogether, an engineer makes a mistake and changes the button’s color so that it is now white on a white background. From the point of view of automated functional tests, the button is still there and everything is working normally; from the customer’s point of view, the button is gone, and so nobody can buy anything. This class of problems is hard to detect solely with automation but is still catastrophic from a business point of view. At IMVU, our immune system is programmed to detect these business consequences and automatically invoke our equivalent of the andon cord.
+
+When our immune system detects a problem, a number of things happen immediately:
+
+1. The defective change is removed immediately and automatically.
+
+2. Everyone on the relevant team is notified of the problem.
+
+3. The team is blocked from introducing any further changes, preventing the problem from being compounded by future mistakes …
+
+4. … until the root cause of the problem is found and fixed. (This root cause analysis is discussed in greater detail in Chapter 11.)
+
+At IMVU, we called this continuous deployment, and even in the fast-moving world of software development it is still considered controversial.3 As the Lean Startup movement has gained traction, it has come to be embraced by more and more startups, even those that operate mission-critical applications. Among the most cutting edge examples is Wealthfront, whose pivot was described in Chapter 8. The company practices true continuous deployment—including more than a dozen releases to customers every day—in an SEC-regulated environment.4
+
+
+Continuous Deployment Beyond Software
+
+When I tell this story to people who work in a slower-moving industry, they think I am describing something futuristic. But increasingly, more and more industries are seeing their design process accelerated by the same underlying forces that make this kind of rapid iteration possible in the software industry. There are three ways in which this is happening:
+
+
+1. Hardware becoming software. Think about what has happened in consumer electronics. The latest phones and tablet computers are little more than a screen connected to the Internet. Almost all of their value is determined by their software. Even old-school products such as automobiles are seeing ever-larger parts of their value being generated by the software they carry inside, which controls everything from the entertainment system to tuning the engine to controlling the brakes. What can be built out of software can be modified much faster than a physical or mechanical device can.
+
+
+2. Fast production changes. Because of the success of the lean manufacturing movement, many assembly lines are set up to allow each new product that comes off the line to be customized completely without sacrificing quality or cost-effectiveness. Historically, this has been used to offer the customer many choices of product, but in the future, this capability will allow the designers of products to get much faster feedback about new versions. When the design changes, there is no excess inventory of the old version to slow things down. Since machines are designed for rapid changeovers, as soon as the new design is ready, new versions can be produced quickly.
+
+
+3. 3D printing and rapid prototyping tools. As just one example, most products and parts that are made out of plastic today are mass produced using a technique called injection molding. This process is extremely expensive and time-consuming to set up, but once it is up and running, it can reproduce hundreds of thousands of identical individual items at an extremely low cost. It is a classic large-batch production process. This has put entrepreneurs who want to develop a new physical product at a disadvantage, since in general only large companies can afford these large production runs for a new product. However, new technologies are allowing entrepreneurs to build small batches of products that are of the same quality as products made with injection molding, but at much lower cost and much, much faster.
+
+
+The essential lesson is not that everyone should be shipping fifty times per day but that by reducing batch size, we can get through the Build-Measure-Learn feedback loop more quickly than our competitors can. The ability to learn faster from customers is the essential competitive advantage that startups must possess.
+
+
+SMALL BATCHES IN ACTION
+
+To see this process in action, let me introduce you to a company in Boise, Idaho, called SGW Designworks. SGW’s specialty is rapid production techniques for physical products. Many of its clients are startups.
+
+SGW Designworks was engaged by a client who had been asked by a military customer to build a complex field x-ray system to detect explosives and other destructive devices at border crossings and in war zones.
+
+Conceptually, the system consisted of an advanced head unit that read x-ray film, multiple x-ray film panels, and the framework to hold the panels while the film was being exposed. The client already had the technology for the x-ray panels and the head unit, but to make the product work in rugged military settings, SGW needed to design and deliver the supporting structure that would make the technology usable in the field. The framework had to be stable to ensure a quality x-ray image, durable enough for use in a war zone, easy to deploy with minimal training, and small enough to collapse into a backpack.
+
+This is precisely the kind of product we are accustomed to thinking takes months or years to develop, yet new techniques are shrinking that time line. SGW immediately began to generate the visual prototypes by using 3D computer-aided design (CAD) software. The 3D models served as a rapid communication tool between the client and the SGW team to make early design decisions.
+
+The team and client settled on a design that used an advanced locking hinge to provide the collapsibility required without compromising stability. The design also integrated a suction cup/pump mechanism to allow for fast, repeatable attachment to the x-ray panels. Sounds complicated, right?
+
+Three days later, the SGW team delivered the first physical prototypes to the client. The prototypes were machined out of aluminum directly from the 3D model, using a technique called computer numerical control (CNC) and were hand assembled by the SGW team.
+
+The client immediately took the prototypes to its military contact for review. The general concept was accepted with a number of minor design modifications. In the next five days, another full cycle of design iteration, prototyping, and design review was completed by the client and SGW. The first production run of forty completed units was ready for delivery three and a half weeks after the initiation of the development project.
+
+SGW realized that this was a winning model because feedback on design decisions was nearly instantaneous. The team used the same process to design and deliver eight products, serving a wide range of functions, in a twelve-month period. Half of those products are generating revenue today, and the rest are awaiting initial orders, all thanks to the power of working in small batches.
+
+
+
+THE PROJECT TIME LINE
+
+Design and engineering of the initial virtual prototype 1 day
+
+Production and assembly of initial hard prototypes 3 days
+
+Design iteration: two additional cycles 5 days
+
+Initial production run and assembly of initial forty units 15 days
+
+
+Small Batches in Education
+
+Not every type of product—as it exists today—allows for design change in small batches. But that is no excuse for sticking to outdated methods. A significant amount of work may be needed to enable innovators to experiment in small batches. As was pointed out in Chapter 2, for established companies looking to accelerate their innovation teams, building this platform for experimentation is the responsibility of senior management.
+
+Imagine that you are a schoolteacher in charge of teaching math to middle school students. Although you may teach concepts in small batches, one day at a time, your overall curriculum cannot change very often. Because you must set up the curriculum in advance and teach the same concepts in the same order to every student in the classroom, you can try a new curriculum at most only once a year.
+
+How could a math teacher experiment with small batches? Under the current large-batch system for educating students, it would be quite difficult; our current educational system was designed in the era of mass production and uses large batches extensively.
+
+A new breed of startups is working hard to change all that. In School of One, students have daily “playlists” of their learning tasks that are attuned to each student’s learning needs, based on that student’s readiness and learning style. For example, Julia is way ahead of grade level in math and learns best in small groups, so her playlist might include three or four videos matched to her aptitude level, a thirty-minute one-on-one tutoring session with her teacher, and a small group activity in which she works on a math puzzle with three peers at similar aptitude levels. There are assessments built into each activity so that data can be fed back to the teacher to choose appropriate tasks for the next playlist. This data can be aggregated across classes, schools, or even whole districts.
+
+Now imagine trying to experiment with a curriculum by using a tool such as School of One. Each student is working at his or her own pace. Let’s say you are a teacher who has a new sequence in mind for how math concepts should be taught. You can see immediately the impact of the change on those of your students who are at that point in the curriculum. If you judge it to be a good change, you could roll it out immediately for every single student; when they get to that part of the curriculum, they will get the new sequence automatically. In other words, tools like School of One enable teachers to work in much smaller batches, to the benefit of their students. (And, as tools reach wide-scale adoption, successful experiments by individual teachers can be rolled out district-, city-, or even nationwide.) This approach is having an impact and earning accolades. Time magazine recently included School of One in its “most innovative ideas” list; it was the only educational organization to make the list.5
+
+
+THE LARGE-BATCH DEATH SPIRAL
+
+Small batches pose a challenge to managers steeped in traditional notions of productivity and progress, because they believe that functional specialization is more efficient for expert workers.
+
+Imagine you’re a product designer overseeing a new product and you need to produce thirty individual design drawings. It probably seems that the most efficient way to work is in seclusion, by yourself, producing the designs one by one. Then, when you’re done with all of them, you pass the drawings on to the engineering team and let them work. In other words, you work in large batches.
+
+From the point of view of individual efficiency, working in large batches makes sense. It also has other benefits: it promotes skill building, makes it easier to hold individual contributors accountable, and, most important, allows experts to work without interruption. At least that’s the theory. Unfortunately, reality seldom works out that way.
+
+Consider our hypothetical example. After passing thirty design drawings to engineering, the designer is free to turn his or her attention to the next project. But remember the problems that came up during the envelope-stuffing exercise. What happens when engineering has questions about how the drawings are supposed to work? What if some of the drawings are unclear? What if something goes wrong when engineering attempts to use the drawings?
+
+These problems inevitably turn into interruptions for the designer, and now those interruptions are interfering with the next large batch the designer is supposed to be working on. If the drawings need to be redone, the engineers may become idle while they wait for the rework to be completed. If the designer is not available, the engineers may have to redo the designs themselves. This is why so few products are actually built the way they are designed.
+
+When I work with product managers and designers in companies that use large batches, I often discover that they have to redo their work five or six times for every release. One product manager I worked with was so inundated with interruptions that he took to coming into the office in the middle of the night so that he could work uninterrupted. When I suggested that he try switching the work process from large-batch to single-piece flow, he refused—because that would be inefficient! So strong is the instinct to work in large batches, that even when a large-batch system is malfunctioning, we have a tendency to blame ourselves.
+
+Large batches tend to grow over time. Because moving the batch forward often results in additional work, rework, delays, and interruptions, everyone has an incentive to do work in ever-larger batches, trying to minimize this overhead. This is called the large-batch death spiral because, unlike in manufacturing, there are no physical limits on the maximum size of a batch.6 It is possible for batch size to keep growing and growing. Eventually, one batch will become the highest-priority project, a “bet the company” new version of the product, because the company has taken such a long time since the last release. But now the managers are incentivized to increase batch size rather than ship the product. In light of how long the product has been in development, why not fix one more bug or add one more feature? Who really wants to be the manager who risked the success of this huge release by failing to address a potentially critical flaw?
+
+I worked at a company that entered this death spiral. We had been working for months on a new version of a really cool product. The original version had been years in the making, and expectations for the next release were incredibly high. But the longer we worked, the more afraid we became of how customers would react when they finally saw the new version. As our plans became more ambitious, so too did the number of bugs, conflicts, and problems we had to deal with. Pretty soon we got into a situation in which we could not ship anything. Our launch date seemed to recede into the distance. The more work we got done, the more work we had to do. The lack of ability to ship eventually precipitated a crisis and a change of management, all because of the trap of large batches.
+
+These misconceptions about batch size are incredibly common. Hospital pharmacies often deliver big batches of medications to patient floors once a day because it’s efficient (a single trip, right?). But many of those meds get sent back to the pharmacy when a patient’s orders have changed or the patient is moved or discharged, causing the pharmacy staff to do lots of rework and reprocessing (or trashing) of meds. Delivering smaller batches every four hours reduces the total workload for the pharmacy and ensures that the right meds are at the right place when needed.
+
+Hospital lab blood collections often are done in hourly batches; phlebotomists collect blood for an hour from multiple patients and then send or take all the samples to the lab. This adds to turnaround time for test results and can harm test quality. It has become common for hospitals to bring small batches (two patients) or a single-patient flow of specimens to the lab even if they have to hire an extra phlebotomist or two to do so, because the total system cost is lower.7
+
+
+PULL, DON’T PUSH
+
+Let’s say you are out for a drive, pondering the merits of small batches, and find yourself accidentally putting a dent in your new 2011 blue Toyota Camry. You take it into the dealership for repair and wait to hear the bad news. The repair technician tells you that you need to have the bumper replaced. He goes to check their inventory levels and tells you he has a new bumper in stock and they can complete your repair immediately. This is good news for everyone—you because you get your car back sooner and the dealership because they have a happy customer and don’t run the risk of your taking the car somewhere else for repair. Also, they don’t have to store your car or give you a loaner while they wait for the part to come in.
+
+In traditional mass production, the way to avoid stockouts—not having the product the customer wants—is to keep a large inventory of spares just in case. It may be that the blue 2011 Camry bumper is quite popular, but what about last year’s model or the model from five years ago? The more inventory you keep, the greater the likelihood you will have the right product in stock for every customer. But large inventories are expensive because they have to be transported, stored, and tracked. What if the 2011 bumper turns out to have a defect? All the spares in all the warehouses instantly become waste.
+
+Lean production solves the problem of stockouts with a technique called pull. When you bring a car into the dealership for repair, one blue 2011 Camry bumper gets used. This creates a “hole” in the dealer’s inventory, which automatically causes a signal to be sent to a local restocking facility called the Toyota Parts Distribution Center (PDC). The PDC sends the dealer a new bumper, which creates another hole in inventory. This sends a similar signal to a regional warehouse called the Toyota Parts Redistribution Center (PRC), where all parts suppliers ship their products. That warehouse signals the factory where the bumpers are made to produce one more bumper, which is manufactured and shipped to the PRC.
+
+The ideal goal is to achieve small batches all the way down to single-piece flow along the entire supply chain. Each step in the line pulls the parts it needs from the previous step. This is the famous Toyota just-in-time production method.8
+
+When companies switch to this kind of production, their warehouses immediately shrink, as the amount of just-in-case inventory [called work-in-progress (WIP) inventory] is reduced dramatically. This almost magical shrinkage of WIP is where lean manufacturing gets its name. It’s as if the whole supply chain suddenly went on a diet.
+
+Startups struggle to see their work-in-progress inventory. When factories have excess WIP, it literally piles up on the factory floor. Because most startup work is intangible, it’s not nearly as visible. For example, all the work that goes into designing the minimum viable product is—until the moment that product is shipped—just WIP inventory. Incomplete designs, not-yet-validated assumptions, and most business plans are WIP. Almost every Lean Startup technique we’ve discussed so far works its magic in two ways: by converting push methods to pull and reducing batch size. Both have the net effect of reducing WIP.
+
+In manufacturing, pull is used primarily to make sure production processes are tuned to levels of customer demand. Without this, factories can wind up making much more—or much less—of a product than customers really want. However, applying this approach to developing new products is not straightforward. Some people misunderstand the Lean Startup model as simply applying pull to customer wants. This assumes that customers could tell us what products to build and that this would act as the pull signal to product development to make them.9
+
+As was mentioned earlier, this is not the way the Lean Startup model works, because customers often don’t know what they want. Our goal in building products is to be able to run experiments that will help us learn how to build a sustainable business. Thus, the right way to think about the product development process in a Lean Startup is that it is responding to pull requests in the form of experiments that need to be run.
+
+As soon as we formulate a hypothesis that we want to test, the product development team should be engineered to design and run this experiment as quickly as possible, using the smallest batch size that will get the job done. Remember that although we write the feedback loop as Build-Measure-Learn because the activities happen in that order, our planning really works in the reverse order: we figure out what we need to learn and then work backwards to see what product will work as an experiment to get that learning. Thus, it is not the customer, but rather our hypothesis about the customer, that pulls work from product development and other functions. Any other work is waste.
+
+
+Hypothesis Pull in Clean Tech
+
+To see this in action, let’s take a look at Berkeley-based startup Alphabet Energy. Any machine or process that generates power, whether it is a motor in a factory or a coal-burning power plant, generates heat as a by-product. Alphabet Energy has developed a product that can generate electricity from this waste heat, using a new kind of material called a thermoelectric. Alphabet Energy’s thermoelectric material was developed over ten years by scientists at the Lawrence Berkeley National Laboratories.
+
+As with many clean technology products, there are huge challenges in bringing a product like this to market. While working through its leap-of-faith assumptions, Alphabet figured out early that developing a solution for waste thermoelectricity required building a heat exchanger and a generic device to transfer heat from one medium to another as well as doing project-specific engineering. For instance, if Alphabet wanted to build a solution for a utility such as Pacific Gas and Electric, the heat exchanger would have to be configured, shaped, and installed to capture the heat from a power plant’s exhaust system.
+
+What makes Alphabet Energy unique is that the company made a savvy decision early on in the research process. Instead of using relatively rare elements as materials, they decided to base their research on silicon wafers, the same physical substance that computer central processing units (CPUs) are made from. As CEO Matthew Scullin explains, “Our thermoelectric is the only one that can use low-cost semiconductor infrastructure for manufacturing.” This has enabled Alphabet Energy to design and build its products in small batches.
+
+By contrast, most successful clean technology startups have had to make substantial early investments. The solar panel provider SunPower had to build in factories to manufacture its panels and partner with installers before becoming fully operational. Similarly, BrightSource raised $291 million to build and operate large-scale solar plants without delivering a watt to a single customer.
+
+Instead of having to invest time and money in expensive fabrication facilities, Alphabet is able to take advantage of the massive existing infrastructure that produces silicon wafers for computer electronics. As a result, Alphabet can go from a product concept to holding a physical version in its hand in just six weeks from end to end. Alphabet’s challenge has been to find the combination of performance, price, and physical shape that is a match for early customers. Although its technology has revolutionary potential, early adopters will deploy it only if they can see a clear return on investment.
+
+It might seem that the most obvious market for Alphabet’s technology would be power plants, and indeed, that was the team’s initial hypothesis. Alphabet hypothesized that simple cycle gas turbines would be an ideal application; these turbines, which are similar to jet engines strapped to the ground, are used by power generators to provide energy for peak demand. Alphabet believed that attaching its semiconductors to those turbines would be simple and cheap.
+
+The company went about testing this hypothesis in small batches by building small-scale solutions for its customers as a way of learning. As with many initial ideas, their hypothesis was disproved quickly. Power companies have a low tolerance for risk, making them unlikely to become early adopters. Because it wasn’t weighed down by a large-batch approach, Alphabet was ready to pivot after just three months of investigation.
+
+Alphabet has eliminated many other potential markets as well, leading to a series of customer segment pivots. The company’s current efforts are focused on manufacturing firms, which have the ability to experiment with new technologies in separate parts of their factory; this allows early adopters to evaluate the real-world benefits before committing to a larger deployment. These early deployments are putting more of Alphabet’s assumptions to the test. Unlike in the computer hardware business, customers are not willing to pay top dollar for maximum performance. This has required significant changes in Alphabet’s product, configuring it to achieve the lowest cost per watt possible.
+
+All this experimentation has cost the company a tiny fraction of what other energy startups have consumed. To date, Alphabet has raised approximately $1 million. Only time will tell if they will prevail, but thanks to the power of small batches, they will be able to discover the truth much faster.10
+
+
+
+The Toyota Production System is probably the most advanced system of management in the world, but even more impressive is the fact that Toyota has built the most advanced learning organization in history. It has demonstrated an ability to unleash the creativity of its employees, achieve consistent growth, and produce innovative new products relentlessly over the course of nearly a century.11
+
+This is the kind of long-term success to which entrepreneurs should aspire. Although lean production techniques are powerful, they are only a manifestation of a high-functioning organization that is committed to achieving maximum performance by employing the right measures of progress over the long term. Process is only the foundation upon which a great company culture can develop. But without this foundation, efforts to encourage learning, creativity, and innovation will fall flat—as many disillusioned directors of HR can attest.
+
+The Lean Startup works only if we are able to build an organization as adaptable and fast as the challenges it faces. This requires tackling the human challenges inherent in this new way of working; that is the subject of the remainder of Part Three.
+
+THE STARTUP WAY
+
+
+
+
+

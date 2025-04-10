@@ -1,0 +1,191 @@
+12. Innovate
+
+
+
+
+
+Conventional wisdom holds that when companies become larger, they inevitably lose the capacity for innovation, creativity, and growth. I believe this is wrong. As startups grow, entrepreneurs can build organizations that learn how to balance the needs of existing customers with the challenges of finding new customers to serve, managing existing lines of business, and exploring new business models—all at the same time. And, if they are willing to change their management philosophy, I believe even large, established companies can make this shift to what I call portfolio thinking.
+
+
+HOW TO NURTURE DISRUPTIVE INNOVATION
+
+Successful innovation teams must be structured correctly in order to succeed. Venture-backed and bootstrapped startups naturally have some of these structural attributes as a consequence of being small, independent companies. Internal startup teams require support from senior management to create these structures. Internal or external, in my experience startup teams require three structural attributes: scarce but secure resources, independent authority to develop their business, and a personal stake in the outcome. Each of these requirements is different from those of established company divisions. Keep in mind that structure is merely a prerequisite—it does not guarantee success. But getting the structure wrong can lead to almost certain failure.
+
+
+Scarce but Secure Resources
+
+Division leaders in large, established organizations are adept at using politics to enlarge their budgets but know that those budgets are somewhat loose. They often acquire as large a budget as possible and prepare to defend it against incursions from other departments. Politics means that they sometimes win and sometimes lose: if a crisis emerges elsewhere in the organization, their budget might suddenly be reduced by 10 percent. This is not a catastrophe; teams will have to work harder and do more with less. Most likely, the budget has some padding in anticipation of this kind of eventuality.
+
+Startups are different: too much budget is as harmful as too little—as countless dot-com failures can attest—and startups are extremely sensitive to midcourse budgetary changes. It is extremely rare for a stand-alone startup company to lose 10 percent of its cash on hand suddenly. In a large number of cases, this would be a fatal blow, as independent startups are run with little margin for error. Thus, startups are both easier and more demanding to run than traditional divisions: they require much less capital overall, but that capital must be absolutely secure from tampering.
+
+
+Independent Development Authority
+
+Startup teams need complete autonomy to develop and market new products within their limited mandate. They have to be able to conceive and execute experiments without having to gain an excessive number of approvals.
+
+I strongly recommend that startup teams be completely cross-functional, that is, have full-time representation from every functional department in the company that will be involved in the creation or launch of their early products. They have to be able to build and ship actual functioning products and services, not just prototypes. Handoffs and approvals slow down the Build-Measure-Learn feedback loop and inhibit both learning and accountability. Startups require that they be kept to an absolute minimum.
+
+Of course, this level of development autonomy is liable to raise fears in a parent organization. Alleviating those fears is a major goal of the method recommended below.
+
+
+A Personal Stake in the Outcome
+
+Third, entrepreneurs need a personal stake in the outcome of their creations. In stand-alone new ventures, this usually is achieved through stock options or other forms of equity ownership. Where a bonus system must be used instead, the best incentives are tied to the long-term performance of the new innovation.
+
+However, I do not believe that a personal stake has to be financial. This is especially important in organizations, such as nonprofits and government, in which the innovation is not tied to financial objectives. In these cases, it is still possible for teams to have a personal stake. The parent organization has to make it clear who the innovator is and make sure the innovator receives credit for having brought the new product to life—if it is successful. As one entrepreneur who ran her own division at a major media company told me, “Financial incentives aside, I always felt that because my name was on the door, I had more to lose and more to prove than someone else. That sense of ownership is not insignificant.”
+
+This formula is effective in for-profit companies as well. At Toyota, the manager in charge of developing a new vehicle from start to finish is called the shusa, or chief engineer:
+
+Shusa are often called heavy-weight project managers in the U.S. literature, but this name understates their real roles as design leaders. Toyota employees translate the term as chief engineer, and they refer to the vehicle under development as the shusa’s car. They assured us that the shusa has final, absolute authority over every aspect of vehicle development.1
+
+
+
+On the flip side, I know an extremely high-profile technology company that has a reputation for having an innovative culture, yet its track record of producing new products is disappointing. The company boasts an internal reward system that is based on large financial and status awards to teams that do something extraordinary, but those awards are handed out by senior management on the basis of—no one knows what. There are no objective criteria by which a team can gauge whether it will win this coveted lottery. Teams have little confidence that they will receive any long-term ownership of their innovations. Thus, teams rarely are motivated to take real risks, instead focusing their energies on projects that are expected to win the approval of senior management.
+
+
+CREATING A PLATFORM FOR EXPERIMENTATION
+
+Next, it is important to focus on establishing the ground rules under which autonomous startup teams operate: how to protect the parent organization, how to hold entrepreneurial managers accountable, and how to reintegrate an innovation back into the parent organization if it is successful. Recall the “island of freedom” that enabled the SnapTax team—in Chapter 2—to successfully create a startup within Intuit. That’s what a platform for experimentation can do.
+
+
+Protecting the Parent Organization
+
+Conventionally, advice about internal innovators focuses on protecting the startup from the parent organization. I believe it is necessary to turn this model on its head.
+
+Let me begin by describing a fairly typical meeting from one of my consulting clients, a large company. Senior management had gathered to make decisions about what to include in the next version of its product. As part of the company’s commitment to being data-driven, it had tried to conduct an experiment on pricing. The first part of the meeting was taken up with interpreting the data from the experiment.
+
+One problem was that nobody could agree on what the data meant. Many custom reports had been created for the meeting; the data warehouse team was at the meeting too. The more they were asked to explain the details of each row on the spreadsheet, the more evident it became that nobody understood how those numbers had been derived. What we were left looking at was the number of gross sales of the product at a variety of different price points, broken down by quarter and by customer segment. It was a lot of data to try to comprehend.
+
+Worse, nobody was sure which customers had been exposed to the experiment. Different teams had been responsible for implementing it, and so different parts of the product had been updated at different times. The whole process had taken many months, and by this point, the people who had conceived the experiment had been moved to a division separate from that of the people who had executed it.
+
+You should be able to spot the many problems with this situation: the use of vanity metrics instead of actionable metrics, an overly long cycle time, the use of large batch sizes, an unclear growth hypothesis, a weak experimental design, a lack of team ownership, and therefore very little learning.
+
+Listening in, I assumed this would be the end of the meeting. With no agreed-on facts to help make the decision, I thought nobody would have any basis for making the case for a particular action. I was wrong. Each department simply took whatever interpretation of the data supported its position best and started advocating on its own behalf. Other departments would chime in with alternative interpretations that supported their positions, and so on. In the end, decisions were not made based on data. Instead, the executive running the meeting was forced to base decisions on the most plausible-sounding arguments.
+
+It seemed wasteful to me how much of the meeting had been spent debating the data because, in the end, the arguments that carried the day could have been made right at the start. It was as if each advocate sensed that he or she was about to be ambushed; if another team managed to bring clarity to the situation, it might undermine that person, and so the rational response was to obfuscate as much as possible. What a waste.
+
+Ironically, meetings like this had given data-driven decision making and experimentation a bad name inside the company, and for good reason. The data warehousing team was producing reports that nobody read or understood. The project teams felt the experiments were a waste of time, since they involved building features halfway, which meant they were never any good. “Running an experiment” seemed to them to be code for postponing a hard decision. Worst of all, the executive team experienced the meetings as chronic headaches. Their old product prioritization meetings might have been little more than a battle of opinions, but at least the executives understood what was going on. Now they had to go through a ritual that involved complex math and reached no definite outcome, and then they ended up having a battle of opinions anyway.
+
+
+Rational Fears
+
+However, at the heart of this departmental feud was a very rational fear. This company served two customer segments: a business-to-business enterprise segment and a consumer segment. In the B2B segment, the company employed sales staff to sell large volumes of the product to other companies, whereas the consumer segment was driven mostly by one-off purchases made by individuals. The bulk of the company’s current revenue came from B2B sales, but growth in that segment had been slowing. Everyone agreed there was tremendous potential for growth in the consumer segment, but so far little had materialized.
+
+Part of the cause of this lack of growth was the current pricing structure. Like many companies that sell to large enterprises, this one published a high list price and then provided heavy discounts to “favored” corporate clients who bought in bulk. Naturally, every salesperson was encouraged to make all of his or her clients feel favored. Unfortunately, the published list price was much too high for the consumer segment.
+
+The team in charge of growing the consumer segment wanted to run experiments with a lower price structure. The team in charge of the enterprise segment was nervous that this would cannibalize or otherwise diminish its existing relationships with its customers. What if those customers discovered that individuals were getting a lower price than they were?
+
+Anyone who has been in a multisegment business will recognize that there are many possible solutions to this problem, such as creating tiered feature sets so that different customers are able to purchase different “levels” of the product (as in airline seating) or even supporting different products under separate brand names. Yet the company was struggling to implement any of those solutions. Why? Out of fear of endangering the current business, each proposed experiment would be delayed, sabotaged, and obfuscated.
+
+It’s important to emphasize that this fear is well founded. Sabotage is a rational response from managers whose territory is threatened. This company is not a random, tiny startup with nothing to lose. An established company has a lot to lose. If the revenue from the core business goes down, heads will roll. This is not something to be taken lightly.
+
+
+The Dangers of Hiding Innovation inside the Black Box
+
+The imperative to innovate is unrelenting. Without the ability to experiment in a more agile manner, this company eventually would suffer the fate described in The Innovator’s Dilemma: ever-higher profits and margins year after year until the business suddenly collapsed.
+
+We often frame internal innovation challenges by asking, How can we protect the internal startup from the parent organization? I would like to reframe and reverse the question: How can we protect the parent organization from the startup? In my experience, people defend themselves when they feel threatened, and no innovation can flourish if defensiveness is given free rein. In fact, this is why the common suggestion to hide the innovation team is misguided. There are examples of one-time successes using a secret skunkworks or off-site innovation team, such as the building of the original IBM PC in Boca Raton, Florida, completely separate from mainline IBM. But these examples should serve mostly as cautionary tales, because they have rarely led to sustainable innovation.2 Hiding from the parent organization can have long-term negative consequences.
+
+Consider it from the point of view of the managers who have the innovation sprung on them. They are likely to feel betrayed and more than a little paranoid. After all, if something of this magnitude could be hidden, what else is waiting in the shadows? Over time, this leads to more politics as managers are incentivized to ferret out threats to their power, influence, and careers. The fact that the innovation was a success is no justification for this dishonest behavior. From the point of view of established managers, the message is clear: if you are not on the inside, you are liable to be blindsided by this type of secret.
+
+It is unfair to criticize these managers for their response; the criticism should be aimed at senior executives who failed to design a supportive system in which to operate and innovate. I believe this is one reason why companies such as IBM lost their leadership position in the new markets that they developed using a black box such as the PC business; they are unable to re-create and sustain the culture that led to the innovation in the first place.
+
+
+Creating an Innovation Sandbox
+
+The challenge here is to create a mechanism for empowering innovation teams out in the open. This is the path toward a sustainable culture of innovation over time as companies face repeated existential threats. My suggested solution is to create a sandbox for innovation that will contain the impact of the new innovation but not constrain the methods of the startup team. It works as follows:
+
+1. Any team can create a true split-test experiment that affects only the sandboxed parts of the product or service (for a multipart product) or only certain customer segments or territories (for a new product). However:
+
+2. One team must see the whole experiment through from end to end.
+
+3. No experiment can run longer than a specified amount of time (usually a few weeks for simple feature experiments, longer for more disruptive innovations).
+
+4. No experiment can affect more than a specified number of customers (usually expressed as a percentage of the company’s total mainstream customer base).
+
+5. Every experiment has to be evaluated on the basis of a single standard report of five to ten (no more) actionable metrics.
+
+6. Every team that works inside the sandbox and every product that is built must use the same metrics to evaluate success.
+
+7. Any team that creates an experiment must monitor the metrics and customer reactions (support calls, social media reaction, forum threads, etc.) while the experiment is in progress and abort it if something catastrophic happens.
+
+At the beginning, the sandbox has to be quite small. In the company above, the sandbox initially contained only the pricing page. Depending on the types of products the company makes, the size of the sandbox can be defined in different ways. For example, an online service might restrict it to certain pages or user flows. A retail operation might restrict it to certain stores or geographic areas. Companies trying to bring an entirely new product to market might build the restriction around customers in certain segments.
+
+Unlike in a concept test or market test, customers in the sandbox are considered real and the innovation team is allowed to attempt to establish a long-term relationship with them. After all, they may be experimenting with those early adopters for a long time before their learning milestones are accomplished.
+
+Whenever possible, the innovation team should be cross-functional and have a clear team leader, like the Toyota shusa. It should be empowered to build, market, and deploy products or features in the sandbox without prior approval. It should be required to report on the success or failure of those efforts by using standard actionable metrics and innovation accounting.
+
+This approach can work even for teams that have never before worked cross-functionally. The first few changes, such as a price change, may not require great engineering effort, but they require coordination across departments: engineering, marketing, customer service. Teams that work this way are more productive as long as productivity is measured by their ability to create customer value and not just stay busy.
+
+True experiments are easy to classify as successes or failures because top-level metrics either move or they don’t. Either way, the team learns immediately whether its assumptions about how customers will behave are correct. By using the same metrics each time, the team builds literacy about those metrics across the company. Because the innovation team is reporting on its progress by using the system of innovation accounting described in Part Two, anyone who reads those reports is getting an implicit lesson in the power of actionable metrics. This effect is extremely powerful. Even if someone wants to sabotage the innovation team, he or she will have to learn all about actionable metrics and learning milestones to do it.
+
+The sandbox also promotes rapid iteration. When people have a chance to see a project through from end to end and the work is done in small batches and delivers a clear verdict quickly, they benefit from the power of feedback. Each time they fail to move the numbers, they have a real opportunity to act on their findings immediately. Thus, these teams tend to converge on optimal solutions rapidly even if they start out with really bad ideas.
+
+As we saw earlier, this is a manifestation of the principle of small batches. Functional specialists, especially those steeped in waterfall or stage-gate development, have been trained to work in extremely large batches. This causes even good ideas to get bogged down by waste. By making the batch size small, the sandbox method allows teams to make cheap mistakes quickly and start learning. As we’ll see below, these small initial experiments can demonstrate that a team has a viable new business that can be integrated back into the parent company.
+
+
+Holding Internal Teams Accountable
+
+We already discussed learning milestones in detail in Chapter 7. With an internal startup team, the sequence of accountability is the same: build an ideal model of the desired disruption that is based on customer archetypes, launch a minimum viable product to establish a baseline, and then attempt to tune the engine to get it closer to the ideal.
+
+Operating in this framework, internal teams essentially act as startups. As they demonstrate success, they need to become integrated into the company’s overall portfolio of products and services.
+
+
+CULTIVATING THE MANAGEMENT PORTFOLIO
+
+There are four major kinds of work that companies must manage.3 As an internal startup grows, the entrepreneurs who created the original concept must tackle the challenge of scale. As new mainstream customers are acquired and new markets are conquered, the product becomes part of the public face of the company, with important implications for PR, marketing, sales, and business development. In most cases, the product will attract competitors: copycats, fast followers, and imitators of all stripes.
+
+Once the market for the new product is well established, procedures become more routine. To combat the inevitable commoditization of the product in its market, line extensions, incremental upgrades, and new forms of marketing are essential. In this phase, operational excellence takes on a greater role, as an important way to increase margins is to lower costs. This may require a different type of manager: one who excels in optimization, delegation, control, and execution. Company stock prices depend on this kind of predictable growth.
+
+There is a fourth phase as well, one dominated by operating costs and legacy products. This is the domain of outsourcing, automation, and cost reduction. Nonetheless, infrastructure is still mission-critical. Failure of facilities or important infrastructure or the abandonment of loyal customers could derail the whole company. However, unlike the growth and optimization phase, investments in this area will not help the company achieve top-line growth. Managers of this kind of organization suffer the fate of baseball umpires: criticized when something goes wrong, unappreciated when things are going well.
+
+We tend to speak of these four phases of businesses from the perspective of large companies, in which they may represent entire divisions and hundreds or even thousands of people. That’s logical, as the evolution of the business in these kinds of extreme cases is the easiest to observe. However, all companies engage in all four phases of work all the time. As soon as a product hits the marketplace, teams of people work hard to advance it to the next phase. Every successful product or feature began life in research and development (R&D), eventually became a part of the company’s strategy, was subject to optimization, and in time became old news.
+
+The problem for startups and large companies alike is that employees often follow the products they develop as they move from phase to phase. A common practice is for the inventor of a new product or feature to manage the subsequent resources, team, or division that ultimately commercializes it. As a result, strong creative managers wind up getting stuck working on the growth and optimization of products rather than creating new ones.
+
+This tendency is one of the reasons established companies struggle to find creative managers to foster innovation in the first place. Every new innovation competes for resources with established projects, and one of the scarcest resources is talent.
+
+
+Entrepreneur Is a Job Title
+
+The way out of this dilemma is to manage the four kinds of work differently, allowing strong cross-functional teams to develop around each area. When products move from phase to phase, they are handed off between teams. Employees can choose to move with the product as part of the handoff or stay behind and begin work on something new. Neither choice is necessarily right or wrong; it depends on the temperament and skills of the person in question.
+
+Some people are natural inventors who prefer to work without the pressure and expectations of the later business phases. Others are ambitious and see innovation as a path toward senior management. Still others are particularly skilled at the management of running an established business, outsourcing, and bolstering efficiencies and wringing out cost reductions. People should be allowed to find the kinds of jobs that suit them best.
+
+In fact, entrepreneurship should be considered a viable career path for innovators inside large organizations. Managers who can lead teams by using the Lean Startup methodology should not have to leave the company to reap the rewards of their skills or have to pretend to fit into the rigid hierarchies of established functional departments. Instead, they should have a business card that says simply “Entrepreneur” under the name. They should be held accountable via the system of innovation accounting and promoted and rewarded accordingly.
+
+After an entrepreneur has incubated a product in the innovation sandbox, it has to be reintegrated into the parent organization. A larger team eventually will be needed to grow it, commercialize it, and scale it. At first, this team will require the continued leadership of the innovators who worked in the sandbox. In fact, this is a positive part of the process in that it gives the innovators a chance to train new team members in the new style of working that they mastered in the original sandbox.
+
+Ideally, the sandbox will grow over time; that is, rather than move the team out of the sandbox and into the company’s standard routines, there may be opportunities to enlarge the scope of the sandbox. For example, if only certain aspects of the product were subject to experimentation in the sandbox, new features can be added. In the online service described earlier, this could be accomplished by starting with a sandbox that encompassed the product pricing page. When those experiments succeeded, the company could add the website’s home page to the sandbox. It subsequently might add the search functionality or the overall web design. If only certain customers or certain numbers of customers were targeted initially, the product’s reach could be increased. When such changes are contemplated, it’s important that senior management consider whether the teams working in the sandbox can fend for themselves politically in the parent organization. The sandbox was designed to protect them and the parent organization, and any expansion needs to take this into account.
+
+Working in the innovation sandbox is like developing startup muscles. At first, the team will be able to take on only modest experiments. The earliest experiments may fail to produce much learning and may not lead to scalable success. Over time, those teams are almost guaranteed to improve as long as they get the constant feedback of small-batch development and actionable metrics and are held accountable to learning milestones.
+
+Of course, any innovation system eventually will become the victim of its own success. As the sandbox expands and the company’s revenue grows as a result of the sandbox’s innovations, the cycle will have to begin again. The former innovators will become guardians of the status quo. When the product makes up the whole sandbox, it inevitably will become encumbered with the additional rules and controls needed for mission-critical operation. New innovation teams will need a new sandbox within which to play.
+
+
+Becoming the Status Quo
+
+This last transition is especially hard for innovators to accept: their transformation from radical outsiders to the embodiment of the status quo. I have found it disturbing in my career. As you can guess from the techniques I advocate as part of the Lean Startup, I have always been a bit of a troublemaker at the companies at which I have worked, pushing for rapid iteration, data-driven decision making, and early customer involvement. When these ideas were not part of the dominant culture, it was simple (if frustrating) to be an advocate. All I had to do was push as hard as humanly possible for my ideas. Since the dominant culture found them heretical, they would compromise with me a “reasonable” amount. Thanks to the psychological phenomenon of anchoring, this led to a perverse incentive: the more radical my suggestion was, the more likely it was that the reasonable compromise would be closer to my true goal.
+
+Fast-forward several years to when I was running product development. When we’d hire new people, they had to be indoctrinated into the Lean Startup culture. Split testing, continuous deployment, and customer testing were all standard practice. I needed to continue to be a strong advocate for my ideas, making sure each new employee was ready to give them a try. But for the people who had been working there awhile, those ideas had become part of the status quo.
+
+Like many entrepreneurs, I was caught between constant evangelizing for my ideas and constantly entertaining suggestions for ways they could be improved. My employees faced the same incentive I had exploited years before: the more radical the suggestion is, the more likely it is that the compromise will move in the direction they desire. I heard it all: suggestions that we go back to waterfall development, use more quality assurance (QA), use less QA, have more or less customer involvement, use more vision and less data, or interpret data in a more statistically rigorous way.
+
+It took a constant effort to consider these suggestions seriously. However, responding dogmatically is unhelpful. Compromising by automatically splitting the difference doesn’t work either.
+
+I’ve found that every suggestion should be subjected to the same rigorous scientific inquiry that led to the creation of the Lean Startup in the first place. Can we use the theory to predict the results of the proposed change? Can we incubate the change in a small team and see what happens? Can we measure its impact? Whenever they could be implemented, these approaches have allowed me to increase my own learning and, more important, the productivity of the companies I have worked with. Many of the Lean Startup techniques that we pioneered at IMVU are not my original contributions. Rather, they were conceived, incubated, and executed by employees who brought their own creativity and talent to the task.
+
+Above all, I faced this common question: How do we know that “your way” of building a company will work? What other companies are using it? Who has become rich and famous as a result? These questions are sensible. The titans of our industry are all working in a slower, more linear way. Why are we doing something different?
+
+It is these questions that require the use of theory to answer. Those who look to adopt the Lean Startup as a defined set of steps or tactics will not succeed. I had to learn this the hard way. In a startup situation, things constantly go wrong. When that happens, we face the age-old dilemma summarized by Deming: How do we know that the problem is due to a special cause versus a systemic cause? If we’re in the middle of adopting a new way of working, the temptation will always be to blame the new system for the problems that arise. Sometimes that tendency is correct, sometimes not. Learning to tell the difference requires theory. You have to be able to predict the outcome of the changes you make to tell if the problems that result are really problems.
+
+For example, changing the definition of productivity for a team from functional excellence—excellence in marketing, sales, or product development—to validated learning will cause problems. As was indicated earlier, functional specialists are accustomed to measuring their efficiency by looking at the proportion of time they are busy doing their work. A programmer expects to be coding all day long, for example. That is why many traditional work environments frustrate these experts: the constant interruption of meetings, cross-functional handoffs, and explanations for endless numbers of bosses all act as a drag on efficiency. However, the individual efficiency of these specialists is not the goal in a Lean Startup. Instead, we want to force teams to work cross-functionally to achieve validated learning. Many of the techniques for doing this—actionable metrics, continuous deployment, and the overall Build-Measure-Learn feedback loop—necessarily cause teams to suboptimize for their individual functions. It does not matter how fast we can build. It does not matter how fast we can measure. What matters is how fast we can get through the entire loop.
+
+In my years teaching this system, I have noticed this pattern every time: switching to validated learning feels worse before it feels better. That’s the case because the problems caused by the old system tend to be intangible, whereas the problems of the new system are all too tangible. Having the benefit of theory is the antidote to these challenges. If it is known that this loss of productivity is an inevitable part of the transition, it can be managed actively. Expectations can be set up front. In my consulting practice, for example, I have learned to raise these issues from day one; otherwise, they are liable to derail the whole effort once it is under way. As the change progresses, we can use the root cause analysis and fast response techniques to figure out which problems need prevention. Ultimately, the Lean Startup is a framework, not a blueprint of steps to follow. It is designed to be adapted to the conditions of each specific company. Rather than copy what others have done, techniques such as the Five Whys allow you to build something that is perfectly suited to your company.
+
+The best way to achieve mastery of and explore these ideas is to embed oneself in a community of practice. There is a thriving community of Lean Startup meetups around the world as well as online, and suggestions for how you can take advantage of these resources listed in the last chapter of this book, “Join the Movement.”
+
+
+
+
+

@@ -1,0 +1,147 @@
+14. Join the Movement
+
+
+
+
+
+In the past few years, the Lean Startup movement has gone global. The number of resources available for aspiring entrepreneurs is incredible. Here, I’ll do my best to list just a few of the best events, books, and blogs for further reading and further practice. The rest is up to you. Reading is good, action is better.
+
+The most important resources are local. Gone are the days where you had to be in Silicon Valley to find other entrepreneurs to share ideas and struggles with. However, being embedded in a startup ecosystem is still an important part of entrepreneurship. What’s changed is that these ecosystems are springing up in more and more startup hubs around the world.
+
+I maintain an official website for The Lean Startup at http://theleanstartup.com, where you can find additional resources, including case studies and links to further reading. You will also find links there to my blog, Startup Lessons Learned, as well as videos, slides, and audio from my past presentations.
+
+
+Lean Startup Meetups
+
+Chances are there is a Lean Startup meetup group near you. As of this writing, there are over a hundred, with the largest in San Francisco, Boston, New York, Chicago, and Los Angeles. You can find a real-time map of groups here: http://lean-startup.meetup.com/. You can also find a list of cities where people are interested in starting a new group, and tools to set one up yourself.
+
+
+The Lean Startup Wiki
+
+Not every Lean Startup group uses Meetup.com to organize, and a comprehensive list of events and other resources is maintained by volunteers on the Lean Startup Wiki: http://leanstartup.pbworks.com/
+
+
+The Lean Startup Circle
+
+The largest community of practice around the Lean Startup is happening online, right now, on the Lean Startup Circle mailing list. Founded by Rich Collins, the list has thousands of entrepreneurs sharing tips, resources, and stories every day. If you have a question about how Lean Startup might apply to your business or industry, it’s a great place to start: http://leanstartupcircle.com/
+
+
+The Startup Lessons Learned Conference
+
+For the past two years, I have run a conference called Startup Lessons Learned. More details are available here: http://sllconf.com
+
+
+REQUIRED READING
+
+Steve Blank’s book The Four Steps to the Epiphany is the original book about customer development. When I was building IMVU, a dog-eared copy of this book followed me everywhere. It is an indispensable guide. You can get a copy here: http://ericri.es/FourSteps or read my review of it here: http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html. Steve also maintains an active and excellent blog at http://steveblank.com/
+
+Brant Cooper and Patrick Vlaskovits have created a short but excellent book called The Entrepreneur’s Guide to Customer Development, which provides a gentle introduction to the topic. You can buy it here: http://custdev.com or read my review here: http://www.startuplessonslearned.com/2010/07/entrepreneurs-guide-to-customer.html
+
+
+When I first began blogging about entrepreneurship, it was not nearly as common an occupation as it is now. Very few bloggers were actively working on new ideas about entrepreneurship, and together we debated and refined these ideas online.
+
+Dave McClure, founder of the venture firm 500 Startups, writes a blog at http://500hats.typepad.com/. 500 Startups has an excellent blog as well: http://blog.500startups.com/. Dave’s “Startup Metrics for Pirates” presentation laid out a framework for thinking about and measuring online services that greatly influenced the concept of “engines of growth.” You can see the original presentation here: http://500hats.typepad.com/500blogs/2008/09/startup-metri-2.html as well as my original reaction here: http://www.startuplessonslearned.com/2008/09/three-drivers-of-growth-for-your.html
+
+Sean Ellis writes the Startup Marketing Blog, which has been influential in my thinking about how to integrate marketing into startups: http://startup-marketing.com/
+
+Andrew Chen’s blog Futuristic Play is one of the best sources for thoughts on viral marketing, startup metrics, and design: http://andrewchenblog.com/
+
+Babak Nivi writes the excellent blog Venture Hacks and was an early Lean Startup evangelist: http://venturehacks.com/. He’s since gone on to create Angel List, which matches startups and investors around the world: http://angel.co/
+
+
+Other fantastic Lean Startup blogs include:
+
+• Ash Maurya has emerged as a leader in helping bootstrapped online businesses apply Lean Startup ideas. His blog is called Running Lean, and he also has released an eBook of the same name. Both can be found here: http://www.runningleanhq.com/
+
+• Sean Murphy on early-stage software startups: http://www.skmurphy.com/blog/
+
+• Brant Cooper’s Market by Numbers: http://market-by-numbers.com/
+
+• Patrick Vlaskovits on technology, customer development, and pricing: http://vlaskovits.com/
+
+• The KISSmetrics Marketing Blog: http://blog.kissmetrics.com/ and Hiten Shah’s http://hitenism.com
+
+
+FURTHER READING
+
+Clayton M. Christensen’s The Innovator’s Dilemma and The Innovator’s Solution are classics. In addition, Christensen’s more recent work is also extremely helpful for seeing the theory of disruptive innovation in practice, including The Innovator’s Prescription (about disrupting health care) and Disrupting Class (about education).
+
+http://ericri.es/ClaytonChristensen
+
+
+Geoffrey A. Moore’s early work is famous among all entrepreneurs, especially Crossing the Chasm and Inside the Tornado. But he has continued to refine his thinking, and I have found his latest work, Dealing with Darwin: How Great Companies Innovate at Every Phase of Their Evolution, especially useful.
+
+http://ericri.es/DealingWithDarwin
+
+
+The Principles of Product Development Flow: Second Generation Lean Product Development by Donald G. Reinertsen. http://ericri.es/pdflow
+
+
+The Toyota Way by Jeffrey Liker.
+
+http://ericri.es/thetoyotaway
+
+
+Lean Thinking: Banish Waste and Create Wealth in Your Corporation, Revised and Updated by James P. Womack and Daniel T. Jones.
+
+http://ericri.es/LeanThinking
+
+
+The People’s Tycoon: Henry Ford and the American Century by Steven Watts.
+
+http://ericri.es/ThePeoplesTycoon
+
+
+The One Best Way: Frederick Winslow Taylor and the Enigma of Efficiency by Robert Kanigel.
+
+http://ericri.es/OneBestWay
+
+
+The Principles of Scientific Management by Frederick Winslow Taylor.
+
+http://ericri.es/ScientificManagement
+
+
+Extreme Programming Explained: Embrace Change by Kent Beck and Cynthia Andres.
+
+http://ericri.es/EmbraceChange
+
+
+Toyota Production System: Beyond Large-Scale Production by Taiichi Ohno.
+
+http://ericri.es/TaiichiOhno
+
+
+The idea of the Build-Measure-Learn feedback loop owes a lot to ideas from maneuver warfare, especially John Boyd’s OODA (Observe-Orient-Decide-Act) Loop. The most accessible introduction to Boyd’s ideas is Certain to Win: The Strategy of John Boyd, Applied to Business by Chet Richards.
+
+http://ericri.es/CertainToWin
+
+
+Out of the Crisis by W. Edwards Deming.
+
+http://ericri.es/OutOfTheCrisis
+
+
+My Years with General Motors by Alfred Sloan.
+
+http://ericri.es/MyYears
+
+
+Billy, Alfred, and General Motors: The Story of Two Unique Men, a Legendary Company, and a Remarkable Time in American History by William Pelfrey.
+
+http://ericri.es/BillyAlfred
+
+
+The Practice of Management by Peter F. Drucker.
+
+http://ericri.es/PracticeOfManagement
+
+
+Getting to Plan B: Breaking Through to a Better Business Model by John Mullins and Randy Komisar.
+
+http://ericri.es/GettingToPlanB
+
+
+
+
+

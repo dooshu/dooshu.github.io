@@ -1,0 +1,38 @@
+Part Three ACCELERATE
+
+
+
+
+
+Start Your Engines
+
+
+
+
+
+Most of the decisions startups face are not clear-cut. How often should you release a product? Is there a reason to release weekly rather than daily or quarterly or annually? Product releases incur overhead, and so from an efficiency point of view, releasing often leaves less time to devote to building the product. However, waiting too long to release can lead to the ultimate waste: making something that nobody wants.
+
+How much time and energy should companies invest in infrastructure and planning early on in anticipation of success? Spend too much and you waste precious time that could have been spent learning. Spend too little and you may fail to take advantage of early success and cede market leadership to a fast follower.
+
+What should employees spend their days doing? How do we hold people accountable for learning at an organizational level? Traditional departments create incentive structures that keep people focused on excellence in their specialties: marketing, sales, product development. But what if the company’s best interests are served by cross-functional collaboration? Startups need organizational structures that combat the extreme uncertainty that is a startup’s chief enemy.
+
+The lean manufacturing movement faced similar questions on the factory floor. Their answers are relevant for startups as well, with some modifications.
+
+The critical first question for any lean transformation is: which activities create value and which are a form of waste? Once you understand this distinction, you can begin using lean techniques to drive out waste and increase the efficiency of the value-creating activities. For these techniques to be used in a startup, they must be adapted to the unique circumstances of entrepreneurship. Recall from Chapter 3 that value in a startup is not the creation of stuff, but rather validated learning about how to build a sustainable business. What products do customers really want? How will our business grow? Who is our customer? Which customers should we listen to and which should we ignore? These are the questions that need answering as quickly as possible to maximize a startup’s chances of success. That is what creates value for a startup.
+
+In Part Three, we will develop techniques that allow Lean Startups to grow without sacrificing the speed and agility that are the lifeblood of every startup. Contrary to common belief, lethargy and bureaucracy are not the inevitable fate of companies as they achieve maturity. I believe that with the proper foundation, Lean Startups can grow to become lean enterprises that maintain their agility, learning orientation, and culture of innovation even as they scale.
+
+In Chapter 9, we will see how Lean Startups take advantage of the counterintuitive power of small batches. Just as lean manufacturing has pursued a just-in-time approach to building products, reducing the need for in-process inventory, Lean Startups practice just-in-time scalability, conducting product experiments without making massive up-front investments in planning and design.
+
+Chapter 10 will explore the metrics startups should use to understand their growth as they add new customers and discover new markets. Sustainable growth follows one of three engines of growth: paid, viral, or sticky. By identifying which engine of growth a startup is using, it can then direct energy where it will be most effective in growing the business. Each engine requires a focus on unique metrics to evaluate the success of new products and prioritize new experiments. When used with the innovation accounting method described in Part Two, these metrics allow startups to figure out when their growth is at risk of running out and pivot accordingly.
+
+Chapter 11 shows how to build an adaptive organization by investing in the right amount of process to keep teams nimble as they grow. We will see how techniques from the tool kit of lean manufacturing, such as the Five Whys, help startup teams grow without becoming bureaucratic or dysfunctional. We also will see how lean disciplines set the stage for a startup to transition into an established company driven by operational excellence.
+
+In Chapter 12, we’ll come full circle. As startups grow into established companies, they face the same pressures that make it necessary for today’s enterprises to find new ways to invest in disruptive innovation. In fact, we’ll see that an advantage of a successful startup’s rapid growth is that the company can keep its entrepreneurial DNA even as it matures. Today’s companies must learn to master a management portfolio of sustainable and disruptive innovation. It is an obsolete view that sees startups as going through discrete phases that leave earlier kinds of work—such as innovation—behind. Rather, modern companies must excel at doing multiple kinds of work in parallel. To do so, we’ll explore techniques for incubating innovation teams within the context of an established company.
+
+I have included an epilogue called “Waste Not” in which I consider some of the broader implications of the success of the Lean Startup movement, place it in historical context (including cautionary lessons from past movements), and make suggestions for its future direction.
+
+
+
+
+

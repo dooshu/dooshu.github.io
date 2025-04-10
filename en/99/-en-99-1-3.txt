@@ -1,0 +1,172 @@
+3. Learn
+
+
+
+
+
+As an entrepreneur, nothing plagued me more than the question of whether my company was making progress toward creating a successful business. As an engineer and later as a manager, I was accustomed to measuring progress by making sure our work proceeded according to plan, was high quality, and cost about what we had projected.
+
+After many years as an entrepreneur, I started to worry about measuring progress in this way. What if we found ourselves building something that nobody wanted? In that case what did it matter if we did it on time and on budget? When I went home at the end of a day’s work, the only things I knew for sure were that I had kept people busy and spent money that day. I hoped that my team’s efforts took us closer to our goal. If we wound up taking a wrong turn, I’d have to take comfort in the fact that at least we’d learned something important.
+
+Unfortunately, “learning” is the oldest excuse in the book for a failure of execution. It’s what managers fall back on when they fail to achieve the results we promised. Entrepreneurs, under pressure to succeed, are wildly creative when it comes to demonstrating what we have learned. We can all tell a good story when our job, career, or reputation depends on it.
+
+However, learning is cold comfort to employees who are following an entrepreneur into the unknown. It is cold comfort to the investors who allocate precious money, time, and energy to entrepreneurial teams. It is cold comfort to the organizations—large and small—that depend on entrepreneurial innovation to survive. You can’t take learning to the bank; you can’t spend it or invest it. You cannot give it to customers and cannot return it to limited partners. Is it any wonder that learning has a bad name in entrepreneurial and managerial circles?
+
+Yet if the fundamental goal of entrepreneurship is to engage in organization building under conditions of extreme uncertainty, its most vital function is learning. We must learn the truth about which elements of our strategy are working to realize our vision and which are just crazy. We must learn what customers really want, not what they say they want or what we think they should want. We must discover whether we are on a path that will lead to growing a sustainable business.
+
+In the Lean Startup model, we are rehabilitating learning with a concept I call validated learning. Validated learning is not after-the-fact rationalization or a good story designed to hide failure. It is a rigorous method for demonstrating progress when one is embedded in the soil of extreme uncertainty in which startups grow. Validated learning is the process of demonstrating empirically that a team has discovered valuable truths about a startup’s present and future business prospects. It is more concrete, more accurate, and faster than market forecasting or classical business planning. It is the principal antidote to the lethal problem of achieving failure: successfully executing a plan that leads nowhere.
+
+
+VALIDATED LEARNING AT IMVU
+
+Let me illustrate this with an example from my career. Many audiences have heard me recount the story of IMVU’s founding and the many mistakes we made in developing our first product. I’ll now elaborate on one of those mistakes to illustrate validated learning clearly.
+
+Those of us involved in the founding of IMVU aspired to be serious strategic thinkers. Each of us had participated in previous ventures that had failed, and we were loath to repeat that experience. Our main concerns in the early days dealt with the following questions: What should we build and for whom? What market could we enter and dominate? How could we build durable value that would not be subject to erosion by competition?1
+
+
+Brilliant Strategy
+
+We decided to enter the instant messaging (IM) market. In 2004, that market had hundreds of millions of consumers actively participating worldwide. However, the majority of the customers who were using IM products were not paying for the privilege. Instead, large media and portal companies such as AOL, Microsoft, and Yahoo! operated their IM networks as a loss leader for other services while making modest amounts of money through advertising.
+
+IM is an example of a market that involves strong network effects. Like most communication networks, IM is thought to follow Metcalfe’s law: the value of a network as a whole is proportional to the square of the number of participants. In other words, the more people in the network, the more valuable the network. This makes intuitive sense: the value to each participant is driven primarily by how many other people he or she can communicate with. Imagine a world in which you own the only telephone; it would have no value. Only when other people also have a telephone does it become valuable.
+
+In 2004, the IM market was locked up by a handful of incumbents. The top three networks controlled more than 80 percent of the overall usage and were in the process of consolidating their gains in market share at the expense of a number of smaller players.2 The common wisdom was that it was more or less impossible to bring a new IM network to market without spending an extraordinary amount of money on marketing.
+
+The reason for that wisdom is simple. Because of the power of network effects, IM products have high switching costs. To switch from one network to another, customers would have to convince their friends and colleagues to switch with them. This extra work for customers creates a barrier to entry in the IM market: with all consumers locked in to an incumbent’s product, there are no customers left with whom to establish a beachhead.
+
+At IMVU we settled on a strategy of building a product that would combine the large mass appeal of traditional IM with the high revenue per customer of three-dimensional (3D) video games and virtual worlds. Because of the near impossibility of bringing a new IM network to market, we decided to build an IM add-on product that would interoperate with the existing networks. Thus, customers would be able to adopt the IMVU virtual goods and avatar communication technology without having to switch IM providers, learn a new user interface, and—most important—bring their friends with them.
+
+In fact, we thought this last point was essential. For the add-on product to be useful, customers would have to use it with their existing friends. Every communication would come embedded with an invitation to join IMVU. Our product would be inherently viral, spreading throughout the existing IM networks like an epidemic. To achieve that viral growth, it was important that our add-on product support as many of the existing IM networks as possible and work on all kinds of computers.
+
+
+Six Months to Launch
+
+With this strategy in place, my cofounders and I began a period of intense work. As the chief technology officer, it was my responsibility, among other things, to write the software that would support IM interoperability across networks. My cofounders and I worked for months, putting in crazy hours struggling to get our first product released. We gave ourselves a hard deadline of six months—180 days—to launch the product and attract our first paying customers. It was a grueling schedule, but we were determined to launch on time.
+
+The add-on product was so large and complex and had so many moving parts that we had to cut a lot of corners to get it done on time. I won’t mince words: the first version was terrible. We spent endless hours arguing about which bugs to fix and which we could live with, which features to cut and which to try to cram in. It was a wonderful and terrifying time: we were full of hope about the possibilities for success and full of fear about the consequences of shipping a bad product.
+
+Personally, I was worried that the low quality of the product would tarnish my reputation as an engineer. People would think I didn’t know how to build a quality product. All of us feared tarnishing the IMVU brand; after all, we were charging people money for a product that didn’t work very well. We all envisioned the damning newspaper headlines: “Inept Entrepreneurs Build Dreadful Product.”
+
+As launch day approached, our fears escalated. In our situation, many entrepreneurial teams give in to fear and postpone the launch date. Although I understand this impulse, I am glad we persevered, since delay prevents many startups from getting the feedback they need. Our previous failures made us more afraid of another, even worse, outcome than shipping a bad product: building something that nobody wants. And so, teeth clenched and apologies at the ready, we released our product to the public.
+
+
+Launch
+
+And then—nothing happened! It turned out that our fears were unfounded, because nobody even tried our product. At first I was relieved because at least nobody was finding out how bad the product was, but soon that gave way to serious frustration. After all the hours we had spent arguing about which features to include and which bugs to fix, our value proposition was so far off that customers weren’t getting far enough into the experience to find out how bad our design choices were. Customers wouldn’t even download our product.
+
+Over the ensuing weeks and months, we labored to make the product better. We brought in a steady flow of customers through our online registration and download process. We treated each day’s customers as a brand-new report card to let us know how we were doing. We eventually learned how to change the product’s positioning so that customers at least would download it. We were making improvements to the underlying product continuously, shipping bug fixes and new changes daily. However, despite our best efforts, we were able to persuade only a pathetically small number of people to buy the product.
+
+In retrospect, one good decision we made was to set clear revenue targets for those early days. In the first month we intended to make $300 in total revenue, and we did—barely. Many friends and family members were asked (okay, begged). Each month our small revenue targets increased, first to $350 and then to $400. As they rose, our struggles increased. We soon ran out of friends and family; our frustration escalated. We were making the product better every day, yet our customers’ behavior remained unchanged: they still wouldn’t use it.
+
+Our failure to move the numbers prodded us to accelerate our efforts to bring customers into our office for in-person interviews and usability tests. The quantitative targets created the motivation to engage in qualitative inquiry and guided us in the questions we asked; this is a pattern we’ll see throughout this book.
+
+I wish I could say that I was the one to realize our mistake and suggest the solution, but in truth, I was the last to admit the problem. In short, our entire strategic analysis of the market was utterly wrong. We figured this out empirically, through experimentation, rather than through focus groups or market research. Customers could not tell us what they wanted; most, after all, had never heard of 3D avatars. Instead, they revealed the truth through their action or inaction as we struggled to make the product better.
+
+
+Talking to Customers
+
+Out of desperation, we decided to talk to some potential customers. We brought them into our office, and said, “Try this new product; it’s IMVU.” If the person was a teenager, a heavy user of IM, or a tech early adopter, he or she would engage with us. In constrast, if it was a mainstream person, the response was, “Right. So exactly what would you like me to do?” We’d get nowhere with the mainstream group; they thought IMVU was too weird.
+
+Imagine a seventeen-year-old girl sitting down with us to look at this product. She chooses her avatar and says, “Oh, this is really fun.” She’s customizing the avatar, deciding how she’s going to look. Then we say, “All right, it’s time to download the instant messaging add-on,” and she responds, “What’s that?”
+
+“Well, it’s this thing that interoperates with the instant messaging client.” She’s looking at us and thinking, “I’ve never heard of that, my friends have never heard of that, why do you want me to do that?” It required a lot of explanation; an instant messaging add-on was not a product category that existed in her mind.
+
+But since she was in the room with us, we were able to talk her into doing it. She downloads the product, and then we say, “Okay, invite one of your friends to chat.” And she says, “No way!” We say, “Why not?” And she says, “Well, I don’t know if this thing is cool yet. You want me to risk inviting one of my friends? What are they going to think of me? If it sucks, they’re going to think I suck, right?” And we say, “No, no, it’s going to be so much fun once you get the person in there; it’s a social product.” She looks at us, her face filled with doubt; you can see that this is a deal breaker. Of course, the first time I had that experience, I said, “It’s all right, it’s just this one person, send her away and get me a new one.” Then the second customer comes in and says the same thing. Then the third customer comes in, and it’s the same thing. You start to see patterns, and no matter how stubborn you are, there’s obviously something wrong.
+
+Customers kept saying, “I want to use it by myself. I want to try it out first to see if it’s really cool before I invite a friend.” Our team was from the video game industry, so we understood what that meant: single-player mode. So we built a single-player version. We’d bring new customers into our office. They’d customize the avatar and download the product like before. Then they would go into single-player mode, and we’d say, “Play with your avatar and dress it up; check out the cool moves it can make.” Followed by, “Okay, you did that by yourself; now it’s time to invite one of your friends.” You can see what’s coming. They’d say, “No way! This isn’t cool.” And we’d say, “Well, we told you it wasn’t going to be cool! What is the point of a single-player experience for a social product?” See, we thought we should get a gold star just for listening to our customers. Except our customers still didn’t like the product. They would look at us and say, “Listen, old man, you don’t understand. What is the deal with this crazy business of inviting friends before I know if it’s cool?” It was a total deal breaker.
+
+Out of further desperation, we introduced a feature called ChatNow that allows you to push a button and be randomly matched with somebody else anywhere in the world. The only thing you have in common is that you both pushed the button at the same time. All of a sudden, in our customer service tests, people were saying, “Oh, this is fun!”
+
+So we’d bring them in, they’d use ChatNow, and maybe they would meet somebody they thought was cool. They’d say, “Hey, that guy was neat; I want to add him to my buddy list. Where’s my buddy list?” And we’d say, “Oh, no, you don’t want a new buddy list; you want to use your regular AOL buddy list.” Remember, this was how we planned to harness the interoperability that would lead to network effects and viral growth. Picture the customer looking at us, asking, “What do you want me to do exactly?” And we’d say, “Well, just give the stranger your AIM screen name so you can put him on your buddy list.” You could see their eyes go wide, and they’d say, “Are you kidding me? A stranger on my AIM buddy list?” To which we’d respond, “Yes; otherwise you’d have to download a whole new IM client with a new buddy list.” And they’d say, “Do you have any idea how many IM clients I already run?”
+
+“No. One or two, maybe?” That’s how many clients each of us in the office used. To which the teenager would say, “Duh! I run eight.” We had no idea how many instant messaging clients there were in the world.
+
+We had the incorrect preconception that it’s a challenge to learn new software and it’s tricky to move your friends over to a new buddy list. Our customers revealed that this was nonsense. We wanted to draw diagrams on the whiteboard that showed why our strategy was brilliant, but our customers didn’t understand concepts like network effects and switching costs. If we tried to explain why they should behave the way we predicted, they’d just shake their heads at us, bewildered.
+
+We had a mental model for how people used software that was years out of date, and so eventually, painfully, after dozens of meetings like that, it started to dawn on us that the IM add-on concept was fundamentally flawed.3
+
+Our customers did not want an IM add-on; they wanted a stand-alone IM network. They did not consider having to learn how to use a new IM program a barrier; on the contrary, our early adopters used many different IM programs simultaneously. Our customers were not intimidated by the idea of having to take their friends with them to a new IM network; it turned out that they enjoyed that challenge. Even more surprising, our assumption that customers would want to use avatar-based IM primarily with their existing friends was also wrong. They wanted to make new friends, an activity that 3D avatars are particularly well suited to facilitating. Bit by bit, customers tore apart our seemingly brilliant initial strategy.
+
+
+Throwing My Work Away
+
+Perhaps you can sympathize with our situation and forgive my obstinacy. After all, it was my work over the prior months that needed to be thrown away. I had slaved over the software that was required to make our IM program interoperate with other networks, which was at the heart of our original strategy. When it came time to pivot and abandon that original strategy, almost all of my work—thousands of lines of code—was thrown out. I felt betrayed. I was a devotee of the latest in software development methods (known collectively as agile development), which promised to help drive waste out of product development. However, despite that, I had committed the biggest waste of all: building a product that our customers refused to use. That was really depressing.
+
+I wondered: in light of the fact that my work turned out to be a waste of time and energy, would the company have been just as well off if I had spent the last six months on a beach sipping umbrella drinks? Had I really been needed? Would it have been better if I had not done any work at all?
+
+There is, as I mentioned at the beginning of this chapter, always one last refuge for people aching to justify their own failure. I consoled myself that if we hadn’t built this first product—mistakes and all—we never would have learned these important insights about customers. We never would have learned that our strategy was flawed. There is truth in this excuse: what we learned during those critical early months set IMVU on a path that would lead to our eventual breakout success.
+
+For a time, this “learning” consolation made me feel better, but my relief was short-lived. Here’s the question that bothered me most of all: if the goal of those months was to learn these important insights about customers, why did it take so long? How much of our effort contributed to the essential lessons we needed to learn? Could we have learned those lessons earlier if I hadn’t been so focused on making the product “better” by adding features and fixing bugs?
+
+
+VALUE VS. WASTE
+
+In other words, which of our efforts are value-creating and which are wasteful? This question is at the heart of the lean manufacturing revolution; it is the first question any lean manufacturing adherent is trained to ask. Learning to see waste and then systematically eliminate it has allowed lean companies such as Toyota to dominate entire industries. In the world of software, the agile development methodologies I had practiced until that time had their origins in lean thinking. They were designed to eliminate waste too.
+
+Yet those methods had led me down a road in which the majority of my team’s efforts were wasted. Why?
+
+The answer came to me slowly over the subsequent years. Lean thinking defines value as providing benefit to the customer; anything else is waste. In a manufacturing business, customers don’t care how the product is assembled, only that it works correctly. But in a startup, who the customer is and what the customer might find valuable are unknown, part of the very uncertainty that is an essential part of the definition of a startup. I realized that as a startup, we needed a new definition of value. The real progress we had made at IMVU was what we had learned over those first months about what creates value for customers.
+
+Anything we had done during those months that did not contribute to our learning was a form of waste. Would it have been possible to learn the same things with less effort? Clearly, the answer is yes.
+
+For one thing, think of all the debate and prioritization of effort that went into features that customers would never discover. If we had shipped sooner, we could have avoided that waste. Also consider all the waste caused by our incorrect strategic assumptions. I had built interoperability for more than a dozen different IM clients and networks. Was this really necessary to test our assumptions? Could we have gotten the same feedback from our customers with half as many networks? With only three? With only one? Since the customers of all IM networks found our product equally unattractive, the level of learning would have been the same, but our effort would have been dramatically less.
+
+Here’s the thought that kept me up nights: did we have to support any networks at all? Is it possible that we could have discovered how flawed our assumptions were without building anything? For example, what if we simply had offered customers the opportunity to download the product from us solely on the basis of its proposed features before building anything? Remember, almost no customers were willing to use our original product, so we wouldn’t have had to do much apologizing when we failed to deliver. (Note that this is different from asking customers what they want. Most of the time customers don’t know what they want in advance.) We could have conducted an experiment, offering customers the chance to try something and then measuring their behavior.
+
+Such thought experiments were extremely disturbing to me because they undermined my job description. As the head of product development, I thought my job was to ensure the timely delivery of high-quality products and features. But if many of those features were a waste of time, what should I be doing instead? How could we avoid this waste?
+
+I’ve come to believe that learning is the essential unit of progress for startups. The effort that is not absolutely necessary for learning what customers want can be eliminated. I call this validated learning because it is always demonstrated by positive improvements in the startup’s core metrics. As we’ve seen, it’s easy to kid yourself about what you think customers want. It’s also easy to learn things that are completely irrelevant. Thus, validated learning is backed up by empirical data collected from real customers.
+
+
+WHERE DO YOU FIND VALIDATION?
+
+As I can attest, anybody who fails in a startup can claim that he or she has learned a lot from the experience. They can tell a compelling story. In fact, in the story of IMVU so far, you might have noticed something missing. Despite my claims that we learned a lot in those early months, lessons that led to our eventual success, I haven’t offered any evidence to back that up. In hindsight, it’s easy to make such claims and sound credible (and you’ll see some evidence later in the book), but imagine us in IMVU’s early months trying to convince investors, employees, family members, and most of all ourselves that we had not squandered our time and resources. What evidence did we have?
+
+Certainly our stories of failure were entertaining, and we had fascinating theories about what we had done wrong and what we needed to do to create a more successful product. However, the proof did not come until we put those theories into practice and built subsequent versions of the product that showed superior results with actual customers.
+
+The next few months are where the true story of IMVU begins, not with our brilliant assumptions and strategies and whiteboard gamesmanship but with the hard work of discovering what customers really wanted and adjusting our product and strategy to meet those desires. We adopted the view that our job was to find a synthesis between our vision and what customers would accept; it wasn’t to capitulate to what customers thought they wanted or to tell customers what they ought to want.
+
+As we came to understand our customers better, we were able to improve our products. As we did that, the fundamental metrics of our business changed. In the early days, despite our efforts to improve the product, our metrics were stubbornly flat. We treated each day’s customers as a new report card. We’d pay attention to the percentage of new customers who exhibited product behaviors such as downloading and buying our product. Each day, roughly the same number of customers would buy the product, and that number was pretty close to zero despite the many improvements.
+
+However, once we pivoted away from the original strategy, things started to change. Aligned with a superior strategy, our product development efforts became magically more productive—not because we were working harder but because we were working smarter, aligned with our customers’ real needs. Positive changes in metrics became the quantitative validation that our learning was real. This was critically important because we could show our stakeholders—employees, investors, and ourselves—that we were making genuine progress, not deluding ourselves. It is also the right way to think about productivity in a startup: not in terms of how much stuff we are building but in terms of how much validated learning we’re getting for our efforts.4
+
+For example, in one early experiment, we changed our entire website, home page, and product registration flow to replace “avatar chat” with “3D instant messaging.” New customers were split automatically between these two versions of the site; half saw one, and half saw the other. We were able to measure the difference in behavior between the two groups. Not only were the people in the experimental group more likely to sign up for the product, they were more likely to become long-term paying customers.
+
+We had plenty of failed experiments too. During one period in which we believed that customers weren’t using the product because they didn’t understand its many benefits, we went so far as to pay customer service agents to act as virtual tour guides for new customers. Unfortunately, customers who got that VIP treatment were no more likely to become active or paying customers.
+
+Even after ditching the IM add-on strategy, it still took months to understand why it hadn’t worked. After our pivot and many failed experiments, we finally figured out this insight: customers wanted to use IMVU to make new friends online. Our customers intuitively grasped something that we were slow to realize. All the existing social products online were centered on customers’ real-life identity. IMVU’s avatar technology, however, was uniquely well suited to help people get to know each other online without compromising safety or opening themselves up to identity theft. Once we formed this hypothesis, our experiments became much more likely to produce positive results. Whenever we would change the product to make it easier for people to find and keep new friends, we discovered that customers were more likely to engage. This is true startup productivity: systematically figuring out the right things to build.
+
+These were just a few experiments among hundreds that we ran week in and week out as we started to learn which customers would use the product and why. Each bit of knowledge we gathered suggested new experiments to run, which moved our metrics closer and closer to our goal.
+
+
+THE AUDACITY OF ZERO
+
+Despite IMVU’s early success, our gross numbers were still pretty small. Unfortunately, because of the traditional way businesses are evaluated, this is a dangerous situation. The irony is that it is often easier to raise money or acquire other resources when you have zero revenue, zero customers, and zero traction than when you have a small amount. Zero invites imagination, but small numbers invite questions about whether large numbers will ever materialize. Everyone knows (or thinks he or she knows) stories of products that achieved breakthrough success overnight. As long as nothing has been released and no data have been collected, it is still possible to imagine overnight success in the future. Small numbers pour cold water on that hope.
+
+This phenomenon creates a brutal incentive: postpone getting any data until you are certain of success. Of course, as we’ll see, such delays have the unfortunate effect of increasing the amount of wasted work, decreasing essential feedback, and dramatically increasing the risk that a startup will build something nobody wants.
+
+However, releasing a product and hoping for the best is not a good plan either, because this incentive is real. When we launched IMVU, we were ignorant of this problem. Our earliest investors and advisers thought it was quaint that we had a $300-per-month revenue plan at first. But after several months with our revenue hovering around $500 per month, some began to lose faith, as did some of our advisers, employees, and even spouses. In fact, at one point, some investors were seriously recommending that we pull the product out of the market and return to stealth mode. Fortunately, as we pivoted and experimented, incorporating what we learned into our product development and marketing efforts, our numbers started to improve.
+
+But not by much! On the one hand, we were lucky to see a growth pattern that started to look like the famous hockey stick graph. On the other hand, the graph went up only to a few thousand dollars per month. These early graphs, although promising, were not by themselves sufficient to combat the loss of faith caused by our early failure, and we lacked the language of validated learning to provide an alternative concept to rally around. We were quite fortunate that some of our early investors understood its importance and were willing to look beyond our small gross numbers to see the real progress we were making. (You’ll see the exact same graphs they did in Chapter 7.)
+
+Thus, we can mitigate the waste that happens because of the audacity of zero with validated learning. What we needed to demonstrate was that our product development efforts were leading us toward massive success without giving in to the temptation to fall back on vanity metrics and “success theater”—the work we do to make ourselves look successful. We could have tried marketing gimmicks, bought a Super Bowl ad, or tried flamboyant public relations (PR) as a way of juicing our gross numbers. That would have given investors the illusion of traction, but only for a short time. Eventually, the fundamentals of the business would win out and the PR bump would pass. Because we would have squandered precious resources on theatrics instead of progress, we would have been in real trouble.
+
+Sixty million avatars later, IMVU is still going strong. Its legacy is not just a great product, an amazing team, and promising financial results but a whole new way of measuring the progress of startups.
+
+
+LESSONS BEYOND IMVU
+
+I have had many opportunities to teach the IMVU story as a business case ever since Stanford’s Graduate School of Business wrote an official study about IMVU’s early years.5 The case is now part of the entrepreneurship curriculum at several business schools, including Harvard Business School, where I serve as an entrepreneur in residence. I’ve also told these stories at countless workshops, lectures, and conferences.
+
+Every time I teach the IMVU story, students have an overwhelming temptation to focus on the tactics it illustrates: launching a low-quality early prototype, charging customers from day one, and using low-volume revenue targets as a way to drive accountability. These are useful techniques, but they are not the moral of the story. There are too many exceptions. Not every kind of customer will accept a low-quality prototype, for example. If the students are more skeptical, they may argue that the techniques do not apply to their industry or situation, but work only because IMVU is a software company, a consumer Internet business, or a non-mission-critical application.
+
+None of these takeaways is especially useful. The Lean Startup is not a collection of individual tactics. It is a principled approach to new product development. The only way to make sense of its recommendations is to understand the underlying principles that make them work. As we’ll see in later chapters, the Lean Startup model has been applied to a wide variety of businesses and industries: manufacturing, clean tech, restaurants, and even laundry. The tactics from the IMVU story may or may not make sense in your particular business.
+
+Instead, the way forward is to learn to see every startup in any industry as a grand experiment. The question is not “Can this product be built?” In the modern economy, almost any product that can be imagined can be built. The more pertinent questions are “Should this product be built?” and “Can we build a sustainable business around this set of products and services?” To answer those questions, we need a method for systematically breaking down a business plan into its component parts and testing each part empirically.
+
+In other words, we need the scientific method. In the Lean Startup model, every product, every feature, every marketing campaign—everything a startup does—is understood to be an experiment designed to achieve validated learning. This experimental approach works across industries and sectors, as we’ll see in Chapter 4.
+
+
+
+
+

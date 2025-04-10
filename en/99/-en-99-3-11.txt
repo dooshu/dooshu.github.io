@@ -1,0 +1,354 @@
+11. Adapt
+
+
+
+
+
+When I was the CTO of IMVU, I thought I was doing a good job most of the time. I had built an agile engineering organization, and we were successfully experimenting with the techniques that would come to be known as the Lean Startup. However, on a couple of occasions I suddenly realized that I was failing at my job. For an achievement-oriented person, that is incredibly disarming. Worst of all, you don’t get a memo. If you did, it would read something like this:
+
+Dear Eric,
+
+
+
+Congratulations! The job you used to do at this company is no longer available. However, you have been transferred to a new job in the company. Actually, it’s not the same company anymore, even though it has the same name and many of the same people. And although the job has the same title, too, and you used to be good at your old job, you’re already failing at the new one. This transfer is effective as of six months ago, so this is to alert you that you’ve already been failing at it for quite some time.
+
+
+
+
+
+Best of luck!
+
+
+
+Every time this happened to me, I struggled to figure out what to do. I knew that as the company grew, we would need additional processes and systems designed to coordinate the company’s operations at each larger size. And yet I had also seen many startups become ossified and bureaucratic out of a misplaced desire to become “professional.”
+
+Having no system at all was not an option for IMVU and is not an option for you. There are so many ways for a startup to fail. I’ve lived through the overarchitecture failure, in which attempting to prevent all the various kinds of problems that could occur wound up delaying the company from putting out any product. I’ve seen companies fail the other way from the so-called Friendster effect, suffering a high-profile technical failure just when customer adoption is going wild. As a department executive, this outcome is worst of all, because the failure is both high-profile and attributable to a single function or department—yours. Not only will the company fail, it will be your fault.
+
+Most of the advice I’ve heard on this topic has suggested a kind of split-the-difference approach (as in, “engage in a little planning, but not too much”). The problem with this willy-nilly approach is that it’s hard to give any rationale for why we should anticipate one particular problem but ignore another. It can feel like the boss is being capricious or arbitrary, and that feeds the common feeling that management’s decisions conceal an ulterior motive.
+
+For those being managed this way, their incentives are clear. If the boss tends to split the difference, the best way to influence the boss and get what you want is to take the most extreme position possible. For example, if one group is advocating for an extremely lengthy release cycle, say, an annual new product introduction, you might choose to argue for an equally extremely short release cycle (perhaps weekly or even daily), knowing that the two opinions will be averaged out. Then, when the difference is split, you’re likely to get an outcome closer to what you actually wanted in the first place. Unfortunately, this kind of arms race escalates. Rivals in another camp are likely to do the same thing. Over time, everyone will take the most polarized positions possible, which makes splitting the difference ever more difficult and ever less successful. Managers have to take responsibility for knowingly or inadvertently creating such incentives. Although it was not their intention to reward extreme polarization, that’s exactly what they are doing. Getting out of this trap requires a significant shift in thinking.
+
+
+BUILDING AN ADAPTIVE ORGANIZATION
+
+Should a startup invest in a training program for new employees? If you had asked me a few years ago, I would have laughed and said, “Absolutely not. Training programs are for big companies that can afford them.” Yet at IMVU we wound up building a training program that was so good, new hires were productive on their first day of employment. Within just a few weeks, those employees were contributing at a high level. It required a huge effort to standardize our work processes and prepare a curriculum of the concepts that new employees should learn. Every new engineer would be assigned a mentor, who would help the new employee work through a curriculum of systems, concepts, and techniques he or she would need to become productive at IMVU. The performance of the mentor and mentee were linked, so the mentors took this education seriously.
+
+What is interesting, looking back at this example, is that we never stopped work and decided that we needed to build a great training program. Instead, the training program evolved organically out of a methodical approach to evolving our own process. This process of orientation was subject to constant experimentation and revision so that it grew more effective—and less burdensome—over time.
+
+I call this building an adaptive organization, one that automatically adjusts its process and performance to current conditions.
+
+
+Can You Go Too Fast?
+
+So far this book has emphasized the importance of speed. Startups are in a life-or-death struggle to learn how to build a sustainable business before they run out of resources and die. However, focusing on speed alone would be destructive. To work, startups require built-in speed regulators that help teams find their optimal pace of work.
+
+We saw an example of speed regulation in Chapter 9 with the use of the andon cord in systems such as continuous deployment. It is epitomized in the paradoxical Toyota proverb, “Stop production so that production never has to stop.” The key to the andon cord is that it brings work to a stop as soon as an uncorrectable quality problem surfaces—which forces it to be investigated. This is one of the most important discoveries of the lean manufacturing movement: you cannot trade quality for time. If you are causing (or missing) quality problems now, the resulting defects will slow you down later. Defects cause a lot of rework, low morale, and customer complaints, all of which slow progress and eat away at valuable resources.
+
+So far I have used the language of physical products to describe these problems, but that is simply a matter of convenience. Service businesses have the same challenges. Just ask any manager of a training, staffing, or hospitality firm to show you the playbook that specifies how employees are supposed to deliver the service under various conditions. What might have started out as a simple guide tends to grow inexorably over time. Pretty soon, orientation is incredibly complex and employees have invested a lot of time and energy in learning the rules. Now consider an entrepreneurial manager in that kind of company trying to experiment with new rules or procedures. The higher-quality the existing playbook is, the easier it will be for it to evolve over time. By contrast, a low-quality playbook will be filled with contradictory or ambiguous rules that cause confusion when anything is changed.
+
+When I teach the Lean Startup approach to entrepreneurs with an engineering background, this is one of the hardest concepts to grasp. On the one hand, the logic of validated learning and the minimum viable product says that we should get a product into customers’ hands as soon as possible and that any extra work we do beyond what is required to learn from customers is waste. On the other hand, the Build-Measure-Learn feedback loop is a continuous process. We don’t stop after one minimum viable product but use what we have learned to get to work immediately on the next iteration.
+
+Therefore, shortcuts taken in product quality, design, or infrastructure today may wind up slowing a company down tomorrow. You can see this paradox in action at IMVU. Chapter 3 recounted how we wound up shipping a product to customers that was full of bugs, missing features, and bad design. The customers wouldn’t even try that product, and so most of that work had to be thrown away. It’s a good thing we didn’t waste a lot of time fixing those bugs and cleaning up that early version.
+
+However, as our learning allowed us to build products that customers did want, we faced slowdowns. Having a low-quality product can inhibit learning when the defects prevent customers from experiencing (and giving feedback on) the product’s benefits. In IMVU’s case, as we offered the product to more mainstream customers, they were much less forgiving than early adopters had been. Similarly, the more features we added to the product, the harder it became to add even more because of the risk that a new feature would interfere with an existing feature. The same dynamics happen in a service business, since any new rules may conflict with existing rules, and the more rules, the more possibilities for conflict.
+
+IMVU used the techniques of this chapter to achieve scale and quality in a just-in-time fashion.
+
+
+THE WISDOM OF THE FIVE WHYS
+
+To accelerate, Lean Startups need a process that provides a natural feedback loop. When you’re going too fast, you cause more problems. Adaptive processes force you to slow down and invest in preventing the kinds of problems that are currently wasting time. As those preventive efforts pay off, you naturally speed up again.
+
+Let’s return to the question of having a training program for new employees. Without a program, new employees will make mistakes while in their learning curve that will require assistance and intervention from other team members, slowing everyone down. How do you decide if the investment in training is worth the benefit of speed due to reduced interruptions? Figuring this out from a top-down perspective is challenging, because it requires estimating two completely unknown quantities: how much it will cost to build an unknown program against an unknown benefit you might reap. Even worse, the traditional way to make these kinds of decisions is decidedly large-batch thinking. A company either has an elaborate training program or it does not. Until they can justify the return on investment from building a full program, most companies generally do nothing.
+
+The alternative is to use a system called the Five Whys to make incremental investments and evolve a startup’s processes gradually. The core idea of Five Whys is to tie investments directly to the prevention of the most problematic symptoms. The system takes its name from the investigative method of asking the question “Why?” five times to understand what has happened (the root cause). If you’ve ever had to answer a precocious child who wants to know “Why is the sky blue?” and keeps asking “Why?” after each answer, you’re familiar with it. This technique was developed as a systematic problem-solving tool by Taiichi Ohno, the father of the Toyota Production System. I have adapted it for use in the Lean Startup model with a few changes designed specifically for startups.
+
+At the root of every seemingly technical problem is a human problem. Five Whys provides an opportunity to discover what that human problem might be. Taiichi Ohno gives the following example:
+
+When confronted with a problem, have you ever stopped and asked why five times? It is difficult to do even though it sounds easy. For example, suppose a machine stopped functioning:
+
+
+
+1. Why did the machine stop? (There was an overload and the fuse blew.)
+
+2. Why was there an overload? (The bearing was not sufficiently lubricated.)
+
+3. Why was it not lubricated sufficiently? (The lubrication pump was not pumping sufficiently.)
+
+4. Why was it not pumping sufficiently? (The shaft of the pump was worn and rattling.)
+
+5. Why was the shaft worn out? (There was no strainer attached and metal scrap got in.)
+
+Repeating “why” five times, like this, can help uncover the root problem and correct it. If this procedure were not carried through, one might simply replace the fuse or the pump shaft. In that case, the problem would recur within a few months. The Toyota production system has been built on the practice and evolution of this scientific approach. By asking and answering “why” five times, we can get to the real cause of the problem, which is often hidden behind more obvious symptoms.1
+
+
+
+Note that even in Ohno’s relatively simple example the root cause moves away from a technical fault (a blown fuse) and toward a human error (someone forgot to attach a strainer). This is completely typical of most problems that startups face no matter what industry they are in. Going back to our service business example, most problems that at first appear to be individual mistakes can be traced back to problems in training or the original playbook for how the service is to be delivered.
+
+Let me demonstrate how using the Five Whys allowed us to build the employee training system that was mentioned earlier. Imagine that at IMVU we suddenly start receiving complaints from customers about a new version of the product that we have just released.
+
+1. A new release disabled a feature for customers. Why? Because a particular server failed.
+
+2. Why did the server fail? Because an obscure subsystem was used in the wrong way.
+
+3. Why was it used in the wrong way? The engineer who used it didn’t know how to use it properly.
+
+4. Why didn’t he know? Because he was never trained.
+
+5. Why wasn’t he trained? Because his manager doesn’t believe in training new engineers because he and his team are “too busy.”
+
+What began as a purely technical fault is revealed quickly to be a very human managerial issue.
+
+
+Make a Proportional Investment
+
+Here’s how to use Five Whys analysis to build an adaptive organization: consistently make a proportional investment at each of the five levels of the hierarchy. In other words, the investment should be smaller when the symptom is minor and larger when the symptom is more painful. We don’t make large investments in prevention unless we’re coping with large problems.
+
+In the example above, the answer is to fix the server, change the subsystem to make it less error-prone, educate the engineer, and, yes, have a conversation with the engineer’s manager.
+
+This latter piece, the conversation with the manager, is always hard, especially in a startup. When I was a startup manager, if you told me I needed to invest in training my people, I would have told you it was a waste of time. There were always too many other things to do. I’d probably have said something sarcastic like “Sure, I’d be happy to do that—if you can spare my time for the eight weeks it’ll take to set up.” That’s manager-speak for “No way in hell.”
+
+That’s why the proportional investment approach is so important. If the outage is a minor glitch, it’s essential that we make only a minor investment in fixing it. Let’s do the first hour of the eight-week plan. That may not sound like much, but it’s a start. If the problem recurs, asking the Five Whys will require that we continue to make progress on it. If the problem does not occur again, an hour isn’t a big loss.
+
+I used the example of engineering training because that was something I was reluctant to invest in at IMVU. At the outset of our venture, I thought we needed to focus all of our energies on building and marketing our product. Yet once we entered a period of rapid hiring, repeated Five Whys sessions revealed that problems caused by lack of training were slowing down product development. At no point did we drop everything to focus solely on training. Instead, we made incremental improvements to the process constantly, each time reaping incremental benefits. Over time, those changes compounded, freeing up time and energy that previously had been lost to firefighting and crisis management.
+
+
+Automatic Speed Regulator
+
+The Five Whys approach acts as a natural speed regulator. The more problems you have, the more you invest in solutions to those problems. As the investments in infrastructure or process pay off, the severity and number of crises are reduced and the team speeds up again. With startups in particular, there is a danger that teams will work too fast, trading quality for time in a way that causes sloppy mistakes. Five Whys prevents that, allowing teams to find their optimal pace.
+
+The Five Whys ties the rate of progress to learning, not just execution. Startup teams should go through the Five Whys whenever they encounter any kind of failure, including technical faults, failures to achieve business results, or unexpected changes in customer behavior.
+
+Five Whys is a powerful organizational technique. Some of the engineers I have trained to use it believe that you can derive all the other Lean Startup techniques from the Five Whys. Coupled with working in small batches, it provides the foundation a company needs to respond quickly to problems as they appear, without overinvesting or overengineering.
+
+
+THE CURSE OF THE FIVE BLAMES
+
+When teams first adopt Five Whys as a problem-solving tool, they encounter some common pitfalls. We need systems like Five Whys to overcome our psychological limitations because we tend to overreact to what’s happening in the moment. We also tend to get frustrated if things happen that we did not anticipate.
+
+When the Five Whys approach goes awry, I call it the Five Blames. Instead of asking why repeatedly in an attempt to understand what went wrong, frustrated teammates start pointing fingers at each other, trying to decide who is at fault. Instead of using the Five Whys to find and fix problems, managers and employees can fall into the trap of using the Five Blames as a means for venting their frustrations and calling out colleagues for systemic failures. Although it’s human nature to assume that when we see a mistake, it’s due to defects in someone else’s department, knowledge, or character, the goal of the Five Whys is to help us see the objective truth that chronic problems are caused by bad process, not bad people, and remedy them accordingly.
+
+I recommend several tactics for escaping the Five Blames. The first is to make sure that everyone affected by the problem is in the room during the analysis of the root cause. The meeting should include anyone who discovered or diagnosed the problem, including customer service representatives who fielded the calls, if possible. It should include anyone who tried to fix the symptom as well as anyone who worked on the subsystems or features involved. If the problem was escalated to senior management, the decision makers who were involved in the escalation should be present as well.
+
+This may make for a crowded room, but it’s essential. In my experience, whoever is left out of the discussion ends up being the target for blame. This is just as damaging whether the scapegoat is a junior employee or the CEO. When it’s a junior employee, it’s all too easy to believe that that person is replaceable. If the CEO is not present, it’s all too easy to assume that his or her behavior is unchangeable. Neither presumption is usually correct.
+
+When blame inevitably arises, the most senior people in the room should repeat this mantra: if a mistake happens, shame on us for making it so easy to make that mistake. In a Five Whys analysis, we want to have a systems-level view as much as possible.
+
+Here’s a situation in which this mantra came in handy. Because of the training process we had developed at IMVU through the Five Whys, we routinely asked new engineers to make a change to the production environment on their first day. For engineers trained in traditional development methods, this was often frightening. They would ask, “What will happen to me if I accidentally disrupt or stop the production process?” In their previous jobs, that was a mistake that could get them fired. At IMVU we told new hires, “If our production process is so fragile that you can break it on your very first day of work, shame on us for making it so easy to do so.” If they did manage to break it, we immediately would have them lead the effort to fix the problem as well as the effort to prevent the next person from repeating their mistake.
+
+For new hires who came from companies with a very different culture, this was often a stressful initiation, but everyone came through it with a visceral understanding of our values. Bit by bit, system by system, those small investments added up to a robust product development process that allowed all our employees to work more creatively, with greatly reduced fear.
+
+
+Getting Started
+
+Here are a few tips on how to get started with the Five Whys that are based on my experience introducing this technique at many other companies.
+
+For the Five Whys to work properly, there are rules that must be followed. For example, the Five Whys requires an environment of mutual trust and empowerment. In situations in which this is lacking, the complexity of Five Whys can be overwhelming. In such situations, I’ve often used a simplified version that still allows teams to focus on analyzing root causes while developing the muscles they’ll need later to tackle the full-blown method.
+
+I ask teams to adopt these simple rules:
+
+1. Be tolerant of all mistakes the first time.
+
+2. Never allow the same mistake to be made twice.
+
+The first rule encourages people to get used to being compassionate about mistakes, especially the mistakes of others. Remember, most mistakes are caused by flawed systems, not bad people. The second rule gets the team started making proportional investments in prevention.
+
+This simplified system works well. In fact, we used it at IMVU in the days before I discovered the Five Whys and the Toyota Production System. However, such a simplified system does not work effectively over the long term, as I found out firsthand. In fact, that was one of the things that drove me to first learn about lean production.
+
+The strength and weakness of the simplified system is that it invites questions such as What counts as the same problem? What kinds of mistakes should we focus on? and Should we fix this individual problem or try to prevent a whole category of related problems? For a team that is just getting started, these questions are thought-provoking and can lay the groundwork for more elaborate methods to come. Ultimately, though, they do need answering. They need a complete adaptive process such as the Five Whys.
+
+
+Facing Unpleasant Truths
+
+You will need to be prepared for the fact that Five Whys is going to turn up unpleasant facts about your organization, especially at the beginning. It is going to call for investments in prevention that come at the expense of time and money that could be invested in new products or features. Under pressure, teams may feel that they don’t have time to waste on analyzing root causes even though it would give them more time in the long term. The process sometimes will devolve into the Five Blames. At all these junctures, it is essential that someone with sufficient authority be present to insist that the process be followed, that its recommendations be implemented, and to act as a referee if disagreements flare up. Building an adaptive organization, in other words, requires executive leadership to sponsor and support the process.
+
+Often, individual contributors at startups come to my workshops, eager to get started with the Five Whys. I caution against attempting to do that if they do not have the buy-in of the manager or team leader. Proceed cautiously if you find yourself in this situation. It may not be possible to get the entire team together for a true Five Whys inquiry, but you can always follow the simple two-rule version in your own work. Whenever something goes wrong, ask yourself: How could I prevent myself from being in this situation ever again?
+
+
+Start Small, Be Specific
+
+Once you are ready to begin, I recommend starting with a narrowly targeted class of symptoms. For example, the first time I used the Five Whys successfully, I used it to diagnose problems with one of our internal testing tools that did not affect customers directly. It may be tempting to start with something large and important because that is where most of the time is being wasted as a result of a flawed process, but it is also where the pressure will be greatest. When the stakes are high, the Five Whys can devolve into the Five Blames quickly. It’s better to give the team a chance to learn how to do the process first and then expand into higher-stakes areas later.
+
+The more specific the symptoms are, the easier it will be for everyone to recognize when it’s time to schedule a Five Whys meeting. Say you want to use the Five Whys to address billing complaints from customers. In that case, pick a date after which all billing complaints will trigger a Five Whys meeting automatically. Note that this requires that there be a small enough volume of complaints that having this meeting every time one comes in is practical. If there are already too many complaints, pick a subset on which you want to focus. Make sure that the rule that determines which kinds of complaints trigger a Five Whys meeting is simple and ironclad. For example, you might decide that every complaint involving a credit card transaction will be investigated. That’s an easy rule to follow. Don’t pick a rule that is ambiguous.
+
+At first, the temptation may be to make radical and deep changes to every billing system and process. Don’t. Instead, keep the meetings short and pick relatively simple changes at each of the five levels of the inquiry. Over time, as the team gets more comfortable with the process, you can expand it to include more and more types of billing complaints and then to other kinds of problems.
+
+
+Appoint a Five Whys Master
+
+To facilitate learning, I have found it helpful to appoint a Five Whys master for each area in which the method is being used. This individual is tasked with being the moderator for each Five Whys meeting, making decisions about which prevention steps to take, and assigning the follow-up work from that meeting. The master must be senior enough to have the authority to ensure that those assignments get done but should not be so senior that he or she will not be able to be present at the meetings because of conflicting responsibilities. The Five Whys master is the point person in terms of accountability; he or she is the primary change agent. People in this position can assess how well the meetings are going and whether the prevention investments that are being made are paying off.
+
+
+THE FIVE WHYS IN ACTION
+
+IGN Entertainment, a division of News Corporation, is an online video games media company with the biggest audience of video game players in the world. More than 45 million gamers frequent its portfolio of media properties. IGN was founded in the late 1990s, and News Corporation acquired it in 2005. IGN has grown to employ several hundred people, including almost a hundred engineers.
+
+Recently, I had the opportunity to speak to the product development team at IGN. They had been successful in recent years, but like all the established companies we’ve seen throughout this book, they were looking to accelerate new product development and find ways to be more innovative. They brought together their engineering, product, and design teams to talk through ways they could apply the Lean Startup model.
+
+This change initiative had the support of IGN’s senior management, including the CEO, the head of product development, the vice president of engineering, the publisher, and the head of product. Their previous efforts at Five Whys had not gone smoothly. They had attempted to tackle a laundry list of problem areas nominated by the product team. The issues varied from discrepancies in web analytics to partner data feeds that were not working. Their first Five Whys meeting took an hour, and although they came up with some interesting takeaways, as far as the Five Whys goes, it was a disaster. None of the people who were connected to and knew the most about the issues were at the meeting, and because this was the first time they were doing the Five Whys together, they didn’t stick to the format and went off on many tangents. It wasn’t a complete waste of time, but it didn’t have any of the benefits of the adaptive style of management discussed in this chapter.
+
+
+Don’t Send Your Baggage through the Five Whys Process
+
+IGN had the experience of trying to solve all of its “baggage” issues that had been causing wasted time for many years. Because this is an overwhelming set of problems, finding fixes quickly proves overwhelming.
+
+In their zeal to get started with the Five Whys, IGN neglected three important things:
+
+1. To introduce Five Whys to an organization, it is necessary to hold Five Whys sessions as new problems come up. Since baggage issues are endemic, they naturally come up as part of the Five Whys analysis and you can take that opportunity to fix them incrementally. If they don’t come up organically, maybe they’re not as big as they seem.
+
+2. Everyone who is connected to a problem needs to be at the Five Whys session. Many organizations face the temptation to save time by sparing busy people from the root cause analysis. This is a false economy, as IGN discovered the hard way.
+
+3. At the beginning of each Five Whys session, take a few minutes to explain what the process is for and how it works for the benefit of those who are new to it. If possible, use an example of a successful Five Whys session from the past. If you’re brand new, you can use my earlier example about the manager who doesn’t believe in training. IGN learned that, whenever possible, it helps to use something that has personal meaning for the team.
+
+After our meeting, the IGN leadership decided to give Five Whys another try. Following the advice laid out in this chapter, they appointed a Five Whys master named Tony Ford, a director of engineering. Tony was an entrepreneur who had come to IGN through an acquisition. He got his start with Internet technology, building websites about video games in the late 1990s. Eventually that led to an opportunity at a startup, TeamXbox, where he served as the lead software developer. TeamXbox was acquired by IGN Entertainment in 2003, and since that time Tony has been a technologist, leader of innovation, and proponent of agile and lean practices there.
+
+Unfortunately, Tony started without picking a narrow problem area on which to focus. This led to early setbacks and frustration. Tony relates, “As the new master I wasn’t very good at traversing through the Five Whys effectively, and the problems we were trying to solve were not great candidates in the first place. As you can imagine, these early sessions were awkward and in the end not very useful. I was getting quite discouraged and frustrated.” This is a common problem when one tries to tackle too much at once, but it is also a consequence of the fact that these skills take time to master. Luckily, Tony persevered: “Having a Five Whys master is critical in my opinion. Five Whys is easy in theory but difficult in practice, so you need someone who knows it well to shape the sessions for those who don’t.”
+
+The turnaround came when Tony led a Five Whys session involving a project that had been missing its deadlines. The session was fascinating and insightful and produced meaningful proportional investments. Tony explains: “The success had to do with a more experienced master and more experienced attendees. We all knew what the Five Whys was, and I did a really good job keeping us on track and away from tangents. This was a pivotal moment. Right then I knew the Five Whys was a new tool that was going to have a real impact on our overall success as a team and as a business.”
+
+On the surface, Five Whys seems to be about technical problems and preventing mistakes, but as teams drive out these superficial wastes, they develop a new understanding of how to work together. Tony put it this way: “I daresay that I discovered that the Five Whys transcends root cause analysis by revealing information that brings your team closer through a common understanding and perspective. A lot of times a problem can pull people apart; Five Whys does the opposite.”
+
+I asked Tony to provide an example of a recent successful Five Whys analysis from IGN. His account of it is listed in the sidebar.
+
+
+
+Why couldn’t you add or edit posts on the blogs?
+
+Answer: Any post request (write) to the article content api was returning a 500 error.
+
+Proportional investment: Jim—We’ll work on the API, but let’s make our CMS more forgiving for the user. Allow users to add and edit drafts without errors for a better user experience.
+
+
+Why was the content API returning 500 errors?
+
+Answer: The bson_ext gem was incompatible with other gems it depends upon.
+
+Proportional investment: King—Remove the gem (already done to resolve the outage).
+
+
+Why was the gem incompatible?
+
+Answer: We added a new version of the gem in addition to the existing version and the app started using it unexpectedly.
+
+Proportional investment: Bennett—Convert our rails app to use bundler for gem management.
+
+
+Why did we add a new version of a gem in production without testing?
+
+Answer: We didn’t think we needed a test in these cases.
+
+Proportional investment: Bennett and Jim—Write a unit or functional test in the API and CMS that will catch this in the future.
+
+
+Why do we add additional gems that we don’t intend to use right away?
+
+Answer: In preparation for a code push we wanted to get all new gems ready in the production environment. Even though our code deployments are fully automated, gems are not.
+
+Proportional investment: Bennett—Automate gem management and installation into Continuous Integration and Continuous Deployment process.
+
+
+Bonus—Why are we doing things in production on Friday nights?
+
+Answer: Because no one says we can’t and it was a convenient time for the developer to prepare for a deployment we’d be doing on Monday.
+
+
+Proportional investment: Tony—Make an announcement to the team. There will be no production changes on Friday, Saturday, or Sunday unless an exception has been made and approved by David (VP Engineering). We will reevaluate this policy when we have a fully automated continuous deployment process in place.
+
+
+As a result of this Five Whys session and the proportional investments we made, our deployments are easier, quicker, and never again will our process allow a developer to place gems into production systems with unintended consequences. Indeed, we have not had another issue like this. We strengthened our “cluster immune system” as you would say.
+
+Without the Five Whys, we would have never discovered all of the information we did here. My guess is that we would have told that one developer to not do stupid things on Friday nights and moved on. This is what I emphasized earlier, where a good Five Whys session has two outputs, learning and doing. The proportional investments that came out of this session are obviously valuable, but the learnings are much more subtle, but amazing for growing as developers and as a team.
+
+
+
+
+
+ADAPTING TO SMALLER BATCHES
+
+Before leaving the topic of building an adaptive organization, I want to introduce one more story. This one concerns a product that you’ve probably used if you’ve ever run your own business. It’s called QuickBooks, and it is one of Intuit’s flagship products.
+
+QuickBooks has been the leading product in its category for many years. As a result, it has a large and dedicated customer base, and Intuit expects it to contribute significantly to its bottom line. Like most personal computer (PC) software of the last two decades, QuickBooks has been launched on an annual cycle, in one giant batch. This was how it worked three years ago, when Greg Wright, the director of product marketing for QuickBooks, joined the team. As you can imagine, there were lots of existing processes in place to ensure a consistent product and an on-time release. The typical release approach was to spend significant up-front time to identify the customers’ need:
+
+Typically the first three to four months of each annual cycle was spent strategizing and planning, without building new features. Once a plan and milestones were established, the team would spend the next six to nine months building. This would culminate in a big launch, and then the team would get its first feedback on whether it had successfully delivered on customers’ needs at the end of the process.
+
+
+
+So here was the time line: start process in September, first beta release is in June, second beta is in July. The beta is essentially testing to make sure it doesn’t crash people’s computers or cause them to lose their data—by that time in the process, only major bugs can be fixed. The design of the product itself is locked.
+
+
+
+This is the standard “waterfall” development methodology that product development teams have used for years. It is a linear, large-batch system that relies for success on proper forecasting and planning. In other words, it is completely maladapted for today’s rapidly changing business environment.
+
+
+Year One: Achieving Failure
+
+Greg witnessed this breakdown in 2009, his first year on the QuickBooks team. That year, the company shipped an entirely new system in QuickBooks for online banking, one of its most important features. The team went through rounds of usability testing using mock-ups and nonfunctional prototypes, followed by significant beta testing using sample customer data. At the moment of the launch, everything looked good.
+
+The first beta release was in June, and customer feedback started coming in negative. Although customers were complaining, there wasn’t sufficient cause to stop the release because it was technically flawless—it didn’t crash computers. At that point, Greg was in a bind. He had no way of knowing how the feedback would translate to real customer behavior in the market. Were these just isolated complaints, or part of a widespread problem? He did know one thing for sure, though: that his team could not afford to miss the deadline.
+
+When the product finally shipped, the results were terrible. It took customers four to five times longer to reconcile their banking transactions than it had with the older version. In the end, Greg’s team had failed to deliver on the customer need they were trying to address (despite building the product to specification), and because the next release had to go through the same waterfall process, it took the team nine months to fix. This is a classic case of “achieving failure”—successfully executing a flawed plan.
+
+Intuit uses a tracking survey called the Net Promoter Score2 to evaluate customer satisfaction with its many products. This is a great source of actionable metrics about what customers really think about a product. In fact, I used it at IMVU, too. One thing that is nice about NPS is that it is very stable over time. Since it is measuring core customer satisfaction, it is not subject to minor fluctuations; it registers only major changes in customer sentiment. That year, the QuickBooks score dropped 20 points, the first time the company had ever moved the needle with the Net Promoter Score. That 20-point drop resulted in significant losses for Intuit and was embarrassing for the company—all because customer feedback came too late in the process, allowing no time to iterate.
+
+Intuit’s senior management, including the general manager of the small business division and the head of small business accounting, recognized the need for change. To their credit, they tasked Greg with driving that change. His mission: to achieve startup speed for the development and deployment of QuickBooks.
+
+
+Year Two: Muscle Memory
+
+The next chapter of this story illustrates how hard it is to build an adaptive organization. Greg set out to change the QuickBooks development process by using four principles:
+
+1. Smaller teams. Shift from large teams with uniform functional roles to smaller, fully engaged teams whose members take on different roles.
+
+2. Achieve shorter cycle times.
+
+3. Faster customer feedback, testing both whether it crashes customers’ computers and the performance of new features/customer experience.
+
+4. Enable and empower teams to make fast and courageous decisions.
+
+On the surface, these goals seem to be aligned with the methods and principles described in previous chapters, but Greg’s second year with QuickBooks was not a marked success. For example, he decreed that the team would move to a midyear release milestone, effectively cutting the cycle time and batch size in half. However, this was not successful. Through sheer determination, the team tried valiantly to get an alpha release out in January. However, the problems that afflict large-batch development were still present, and the team struggled to complete the alpha by April. That represented an improvement over the past system because issues could be brought to the surface two months earlier than under the old way, but it did not produce the dramatically better results Greg was looking for.
+
+In fact, over the course of the year, the team’s process kept looking more and more like it had in prior years. As Greg put it, “Organizations have muscle memory,” and it is hard for people to unlearn old habits. Greg was running up against a system, and making individual changes such as arbitrarily changing the release date were no match for it.
+
+
+Year Three: Explosion
+
+Frustrated by the limited progress in the previous year, Greg teamed up with the product development leader Himanshu Baxi. Together they tossed out all the old processes. They made a public declaration that their combined teams would be creating new processes and that they were not going to go back to the old way.
+
+Instead of focusing on new deadlines, Greg and Himanshu invested in process, product, and technology changes that enabled working in smaller batches. Those technical innovations helped them get the desktop product to customers faster for feedback. Instead of building a comprehensive road map at the beginning of the year, Greg kicked off the year with what they called idea/code/solution jams that brought engineers, product managers, and customers together to create a pipeline of ideas. It was scary for Greg as a product manager to start the year without a defined list of what would be in the product release, but he had confidence in his team and the new process.
+
+There were three differences in year three:
+
+• Teams were involved in creating new technologies, processes, and systems.
+
+• Cross-functional teams were formed around new great ideas.
+
+• Customers were involved from the inception of each feature concept.
+
+It’s important to understand that the old approach did not lack customer feedback or customer involvement in the planning process. In the true spirit of genchi gembutsu, Intuit product managers (PMs) would do “follow-me-homes” with customers to identify problems to solve in the next release. However, the PMs were responsible for all the customer research. They would bring it back to the team and say, “This is the problem we want to solve, and here are ideas for how we could solve it.”
+
+Changing to a cross-functional way of working was not smooth sailing. Some team members were skeptical. For example, some product managers felt that it was a waste of time for engineers to spend time in front of customers. The PMs thought that their job was to figure out the customer issue and define what needed to be built. Thus, the reaction of some PMs to the change was: “What’s my job? What am I supposed to be doing?” Similarly, some on the engineering side just wanted to be told what to do; they didn’t want to talk to customers. As is typically the case in large-batch development, both groups had been willing to sacrifice the team’s ability to learn in order to work more “efficiently.”
+
+Communication was critical for this change process to succeed. All the team leaders were open about the change they were driving and why they were driving it. Much of the skepticism they faced was based on the fact that they did not have concrete examples of where this had worked in the past; it was an entirely new process for Intuit. They had to explain clearly why the old process didn’t work and why the annual release “train” was not setting them up for success. Throughout the change they communicated the process outcomes they were shooting for: earlier customer feedback and a faster development cycle that was decoupled from the annual release time line. They repeatedly emphasized that the new approach was how startup competitors were working and iterating. They had to follow suit or risk becoming irrelevant.
+
+
+
+Historically, QuickBooks had been built with large teams and long cycle times. For example, in earlier years the ill-fated online banking team had been composed of fifteen engineers, seven quality assurance specialists, a product manager, and at times more than one designer. Now no team is bigger than five people. The focus of each team is iterating with customers as rapidly as possible, running experiments, and then using validated learning to make real-time investment decisions about what to work on. As a result, whereas they used to have five major “branches” of QuickBooks that merged features at the time of the launch, now there are twenty to twenty-five branches. This allows for a much larger set of experiments. Each team works on a new feature for approximately six weeks end to end, testing it with real customers throughout the process.
+
+Although the primary changes that are required in an adaptive organization are in the mind-set of its employees, changing the culture is not sufficient. As we saw in Chapter 9, lean management requires treating work as a system and then dealing with the batch size and cycle time of the whole process. Thus, to achieve lasting change, the QuickBooks team had to invest in tools and platform changes that would enable the new, faster way of working.
+
+For example, one of the major stress points in the attempt to release an early alpha version the previous year was that QuickBooks is a mission-critical product. Many small businesses use it as their primary repository for critical financial data. The team was extremely wary of releasing a minimum viable product that had any risk of corrupting customer data. Therefore, even if they worked in smaller teams with a smaller scope, the burden of all that risk would have made it hard to work in smaller batches.
+
+To get the batch size down, the QuickBooks team had to invest in new technology. They built a virtualization system that allowed them to run multiple versions of QuickBooks on a customer’s computer. The second version could access all the customer’s data but could not make permanent changes to it. Thus, there was no risk of the new version corrupting the customer’s data by accident. This allowed them to isolate new releases to allow selected real customers to test them and provide feedback.
+
+The results in year three were promising. The version of QuickBooks that shipped that year had significantly higher customer satisfaction ratings and sold more units. If you’re using QuickBooks right now, odds are you are using a version that was built in small batches. As Greg heads into his fourth year with the QuickBooks team, they are exploring even more ways to drive down batch size and cycle time. As usual, there are possibilities that go beyond technical solutions. For example, the annual sales cycle of boxed desktop software is a significant barrier to truly rapid learning, and so the team has begun experimenting with subscription-based products for the most active customers. With customers downloading updates online, Intuit can release software on a more frequent basis. Soon this program will see the QuickBooks team releasing to customers quarterly.3
+
+
+
+As Lean Startups grow, they can use adaptive techniques to develop more complex processes without giving up their core advantage: speed through the Build-Measure-Learn feedback loop. In fact, one of the primary benefits of using techniques that are derived from lean manufacturing is that Lean Startups, when they grow up, are well positioned to develop operational excellence based on lean principles. They already know how to operate with discipline, develop processes that are tailor-made to their situation, and use lean techniques such as the Five Whys and small batches. As a successful startup makes the transition to an established company, it will be well poised to develop the kind of culture of disciplined execution that characterizes the world’s best firms, such as Toyota.
+
+However, successfully growing into an established company is not the end of the story. A startup’s work is never done, because as was discussed in Chapter 2, even established companies must struggle to find new sources of growth through disruptive innovation. This imperative is coming earlier in companies’ lives. No longer can a successful startup expect to have years after its initial public offering to bask in market-leading success. Today successful companies face immediate pressure from new competitors, fast followers, and scrappy startups. As a result, it no longer makes sense to think of startups as going through discrete phases like the proverbial metamorphosis of a caterpillar to a butterfly. Both successful startups and established companies alike must learn to juggle multiple kinds of work at the same time, pursuing operational excellence and disruptive innovation. This requires a new kind of portfolio thinking, which is the subject of Chapter 12.
+
+
+
+
+

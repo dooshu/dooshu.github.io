@@ -1,0 +1,44 @@
+Acknowledgments
+
+
+
+
+
+I owe a tremendous debt of gratitude to the many people who have helped make The Lean Startup a reality. First and foremost are the thousands of entrepreneurs around the world who have tested these ideas, challenged them, refined them, and improved them. Without their relentless—and mostly unheralded—work every day, none of this would be possible. Thank you.
+
+Real startups involve failure, embarrassing mistakes, and constant chaos. In my research for this book, I discovered that most entrepreneurs and managers would prefer not to have the real story of their daily work told in public. Therefore, I am indebted to the courageous entrepreneurs who consented to have their stories told, many of whom spent hours in tedious interviews and fact-checking conversations. Thank you.
+
+I have been grateful throughout my career to have mentors and collaborators who have pushed me to accomplish more than I could have on my own. Will Harvey is responsible for both recruiting me to Silicon Valley in the first place and for trusting me with the opportunity to try out many of these ideas for the first time at IMVU. I am grateful to my other IMVU cofounders Marcus Gosling, Matt Danzig, and Mel Guymon as well as the many IMVU employees who did so much of the work I discussed. Of course, none of that would have been possible without the support of millions of IMVU customers over the years. I’d also like to thank David Millstone, Ken Duda, Fernando Paiz, Steve Weinstein, Owen Mahoney, Ray Ocampo, and Jason Altieri for their help along the way.
+
+We all owe Steve Blank a debt for the work he did developing the theory of customer development at a time when it was considered heretical in startup and VC circles. As I mentioned in the Introduction, Steve was an early investor in and adviser to IMVU. For the past seven years, he has been an adviser, mentor, and collaborator to me personally. I want to thank him for his encouragement, support, and friendship.
+
+The Lean Startup movement is made up of many more thinkers, practitioners, and writers than just me. I want to thank Dave McClure, Ash Maurya, Brant Cooper, Patrick Vlaskovits, Sean Ellis, Andrew Chen, Sean Murphy, Trevor Owens, Hiten Shah, and Kent Beck for their ideas, support, and evangelism. Several investors and venture capitalists were early supporters and adopters. I would like to thank Mike Maples and Ann Miura-Ko (Floodgate), Steve Anderson (Baseline), Josh Kopelman (First Round Capital), Ron Conway (SV Angel), and Jeff Clavier (SoftTech VC).
+
+As you can imagine, this book involved a tremendous amount of feedback, iteration, and testing. I received invaluable, in-depth early feedback from Laura Crescimano, Lee Hoffman, Professor Tom Eisenmann, and Sacha Judd. Thanks also to Mitch Kapor, Scott Cook, Shawn Fanning, Mark Graban, Jennifer Carolan, Manuel Rosso, Tim O’Reilly, and Reid Hoffman for their suggestions, feedback, and support. I owe a special note of thanks to Ruth Kaplan and Ira Fay for their wisdom and friendship.
+
+Throughout the process of writing the book, I had the benefit of a custom-built testing platform to run split-test experiments on everything from cover design to subtitles to actual bits of the book (you can see the results of these experiments at http://lean.st). Pivotal Labs built this software for me; they are the premier practitioners of agile development. Special thanks to Rob Mee, Ian McFarland, and—most important—Parker Thompson, who worked tirelessly to build, experiment, and learn with me.
+
+Thanks also to IMVU cofounder Marcus Gosling, one of the most talented designers I know, who designed this book’s cover, after countless iterations.
+
+One of the premier web and user experience design firms, Digital Telepathy, designed and built the website for http://theleanstartup.com, using their unique Iterative Performance Design process. It’s awesome. Learn more at http://www.dtelepathy.com/
+
+I was extremely fortunate to have the support of three legendary institutions at various points in my journey. Much of the research that went into this book was generously underwritten by the Kauffman Foundation. At Kauffman, I want to especially thank Bo Fishback and Nick Seguin for their support. I spent the past year as an entrepreneur-in-residence at Harvard Business School, where I enjoyed the opportunity to test my ideas against some of the brightest minds in business. I am especially grateful to Professors Tom Eisenmann and Mike Roberts for their sponsorship and support, as well as to the students of the HBS Startup Tribe. I also had the opportunity to spend a brief time with an office at the premier venture capital firm in Silicon Valley, Kleiner Perkins Caufield & Byers, where I received an in-depth education into how entrepreneurship is nurtured at the highest levels. Thanks to Chi-Hua Chien, Randy Komisar, Matt Murphy, Bing Gordon, Aileen Lee, and Ellen Pao, and to my officemate and EIR, Cyriac Roeding.
+
+My research team helped me document case studies, interview hundreds of startups, and filter thousands of stories. I want to thank Marisa Porzig, who logged countless hours documenting, cross-referencing, and investigating. Additional case studies were developed by Sara Gaviser Leslie and Sarah Milstein.
+
+Traditional publishing is a complicated and insular business. I benefited from advice and connections from many people. Tim Ferriss and Ramit Sethi set me straight early on. I am also grateful to Peter Sims, Paul Michelman, Mary Treseler, Joshua-Michéle Ross, Clara Shih, Sarah Milstein, Adam Penenberg, Gretchen Rubin, Kate Lee, Hollis Heimbouch, Bob Sutton, Frankie Jones, Randy Komisar, and Jeff Rosenthal.
+
+At Crown, the herculean task of turning this idea into the book you are reading fell to a huge team of people. My editor, Roger Scholl, saw the vision of this book from the very beginning and shepherded it through the entire process. I want to also thank Tina Constable, Tara Gilbride, and Meredith McGinnis and everyone else who worked on making this book a reality.
+
+Those who had the misfortune of reading an early draft know just how much gratitude I owe to Laureen Rowland, who provided essential editorial help on an unbelievably tight schedule. If you enjoyed any part of this book, she deserves your thanks.
+
+My adviser, partner, and consigliere throughout the publishing process has been my phenomenal agent, Christy Fletcher. She has the uncanny ability to predict the future, make things happen, and keep every stakeholder happy—all at the same time. She truly understands the modern media landscape and has helped me navigate its crazy waters at every turn. At Fletcher and Company, I also want to thank Alyssa Wolff, who has been a tireless advocate and gatekeeper, and Melissa Chinchillo, who is working to bring this book to new regions and languages.
+
+I know it is a cliché to say, “None of this would have been possible without the constant support of my loving family.” But in this case, it is simply the truth. My parents, Vivian Reznik and Andrew Ries, have always supported my love of technology while still insisting on the importance of a liberal arts education. Without their constant love and support, I would never have had the courage to step into the void of entrepreneurship or have found my own voice as a writer. I know my grandparents have been with me every step of this journey—they believed deeply in the power of writing and took supreme joy in my sisters’ and my every accomplishment. To my sisters Nicole and Amanda and my brother-in-law Dov, I can only say: thank you for supporting me all these years.
+
+My wife, Tara Sophia Mohr, has been a constant source of joy and comfort every step of the way. She has experienced every stress, every high, and every low through this very lengthy process. Tara, you are an incredibly brilliant, strong, and compassionate woman. Words cannot express how much I appreciate your steadfast support, your overwhelming love, and the daily adventure that is our life together. Thank you.
+
+
+
+
+

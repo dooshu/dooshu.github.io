@@ -1,0 +1,118 @@
+5. Leap
+
+
+
+
+
+In 2004, three college sophomores arrived in Silicon Valley with their fledgling college social network. It was live on a handful of college campuses. It was not the market-leading social network or even the first college social network; other companies had launched sooner and with more features. With 150,000 registered users, it made very little revenue, yet that summer they raised their first $500,000 in venture capital. Less than a year later, they raised an additional $12.7 million.
+
+Of course, by now you’ve guessed that these three college sophomores were Mark Zuckerberg, Dustin Moskovitz, and Chris Hughes of Facebook. Their story is now world famous. Many things about it are remarkable, but I’d like to focus on only one: how Facebook was able to raise so much money when its actual usage was so small.1
+
+By all accounts, what impressed investors the most were two facts about Facebook’s early growth. The first fact was the raw amount of time Facebook’s active users spent on the site. More than half of the users came back to the site every single day.2 This is an example of how a company can validate its value hypothesis—that customers find the product valuable. The second impressive thing about Facebook’s early traction was the rate at which it had taken over its first few college campuses. The rate of growth was staggering: Facebook launched on February 4, 2004, and by the end of that month almost three-quarters of Harvard’s undergraduates were using it, without a dollar of marketing or advertising having been spent. In other words, Facebook also had validated its growth hypothesis. These two hypotheses represent two of the most important leap-of-faith questions any new startup faces.3
+
+At the time, I heard many people criticize Facebook’s early investors, claiming that Facebook had “no business model” and only modest revenues relative to the valuation offered by its investors. They saw in Facebook a return to the excesses of the dot-com era, when companies with little revenue raised massive amounts of cash to pursue a strategy of “attracting eyeballs” and “getting big fast.” Many dot-com-era startups planned to make money later by selling the eyeballs they had bought to other advertisers. In truth, those dot-com failures were little more than middlemen, effectively paying money to acquire customers’ attention and then planning to resell it to others. Facebook was different, because it employed a different engine of growth. It paid nothing for customer acquisition, and its high engagement meant that it was accumulating massive amounts of customer attention every day. There was never any question that attention would be valuable to advertisers; the only question was how much they would pay.
+
+Many entrepreneurs are attempting to build the next Facebook, yet when they try to apply the lessons of Facebook and other famous startup success stories, they quickly get confused. Is the lesson of Facebook that startups should not charge customers money in the early days? Or is it that startups should never spend money on marketing? These questions cannot be answered in the abstract; there are an almost infinite number of counterexamples for any technique. Instead, as we saw in Part One, startups need to conduct experiments that help determine what techniques will work in their unique circumstances. For startups, the role of strategy is to help figure out the right questions to ask.
+
+
+STRATEGY IS BASED ON ASSUMPTIONS
+
+Every business plan begins with a set of assumptions. It lays out a strategy that takes those assumptions as a given and proceeds to show how to achieve the company’s vision. Because the assumptions haven’t been proved to be true (they are assumptions, after all) and in fact are often erroneous, the goal of a startup’s early efforts should be to test them as quickly as possible.
+
+What traditional business strategy excels at is helping managers identify clearly what assumptions are being made in a particular business. The first challenge for an entrepreneur is to build an organization that can test these assumptions systematically. The second challenge, as in all entrepreneurial situations, is to perform that rigorous testing without losing sight of the company’s overall vision.
+
+Many assumptions in a typical business plan are unexceptional. These are well-established facts drawn from past industry experience or straightforward deductions. In Facebook’s case, it was clear that advertisers would pay for customers’ attention. Hidden among these mundane details are a handful of assumptions that require more courage to state—in the present tense—with a straight face: we assume that customers have a significant desire to use a product like ours, or we assume that supermarkets will carry our product. Acting as if these assumptions are true is a classic entrepreneur superpower. They are called leaps of faith precisely because the success of the entire venture rests on them. If they are true, tremendous opportunity awaits. If they are false, the startup risks total failure.
+
+Most leaps of faith take the form of an argument by analogy. For example, one business plan I remember argued as follows: “Just as the development of progressive image loading allowed the widespread use of the World Wide Web over dial-up, so too our progressive rendering technology will allow our product to run on low-end personal computers.” You probably have no idea what progressive image loading or rendering is, and it doesn’t much matter. But you know the argument (perhaps you’ve even used it):
+
+Previous technology X was used to win market Y because of attribute Z. We have a new technology X2 that will enable us to win market Y2 because we too have attribute Z.
+
+
+
+The problem with analogies like this is that they obscure the true leap of faith. That is their goal: to make the business seem less risky. They are used to persuade investors, employees, or partners to sign on. Most entrepreneurs would cringe to see their leap of faith written this way:
+
+Large numbers of people already wanted access to the World Wide Web. They knew what it was, they could afford it, but they could not get access to it because the time it took to load images was too long. When progressive image loading was introduced, it allowed people to get onto the World Wide Web and tell their friends about it. Thus, company X won market Y.
+
+
+
+Similarly, there is already a large number of potential customers who want access to our product right now. They know they want it, they can afford it, but they cannot access it because the rendering is too slow. When we debut our product with progressive rendering technology, they will flock to our software and tell their friends, and we will win market Y2.
+
+
+
+There are several things to notice in this revised statement. First, it’s important to identify the facts clearly. Is it really true that progressive image loading caused the adoption of the World Wide Web, or was this just one factor among many? More important, is it really true that there are large numbers of potential customers out there who want our solution right now? The earlier analogy was designed to convince stakeholders that a reasonable first step is to build the new startup’s technology and see if customers will use it. The restated approach should make clear that what is needed is to do some empirical testing first: let’s make sure that there really are hungry customers out there eager to embrace our new technology.
+
+
+Analogs and Antilogs
+
+There is nothing intrinsically wrong with basing strategy on comparisons to other companies and industries. In fact, that approach can help you discover assumptions that are not really leaps of faith. For example, the venture capitalist Randy Komisar, whose book Getting to Plan B discussed the concept of leaps of faith in great detail, uses a framework of “analogs” and “antilogs” to plot strategy.
+
+He explains the analog-antilog concept by using the iPod as an example. “If you were looking for analogs, you would have to look at the Walkman,” he says. “It solved a critical question that Steve Jobs never had to ask himself: Will people listen to music in a public place using earphones? We think of that as a nonsense question today, but it is fundamental. When Sony asked the question, they did not have the answer. Steve Jobs had [the answer] in the analog [version]” Sony’s Walkman was the analog. Jobs then had to face the fact that although people were willing to download music, they were not willing to pay for it. “Napster was an antilog. That antilog had to lead him to address his business in a particular way,” Komisar says. “Out of these analogs and antilogs come a series of unique, unanswered questions. Those are leaps of faith that I, as an entrepreneur, am taking if I go through with this business venture. They are going to make or break my business. In the iPod business, one of those leaps of faith was that people would pay for music.” Of course that leap of faith turned out to be correct.4
+
+
+Beyond “The Right Place at the Right Time”
+
+There are any number of famous entrepreneurs who made millions because they seemed to be in the right place at the right time. However, for every successful entrepreneur who was in the right place in the right time, there are many more who were there, too, in that right place at the right time but still managed to fail. Henry Ford was joined by nearly five hundred other entrepreneurs in the early twentieth century. Imagine being an automobile entrepreneur, trained in state-of-the-art engineering, on the ground floor of one of the biggest market opportunities in history. Yet the vast majority managed to make no money at all.5 We saw the same phenomenon with Facebook, which faced early competition from other college-based social networks whose head start proved irrelevant.
+
+What differentiates the success stories from the failures is that the successful entrepreneurs had the foresight, the ability, and the tools to discover which parts of their plans were working brilliantly and which were misguided, and adapt their strategies accordingly.
+
+
+Value and Growth
+
+As we saw in the Facebook story, two leaps of faith stand above all others: the value creation hypothesis and the growth hypothesis. The first step in understanding a new product or service is to figure out if it is fundamentally value-creating or value-destroying. I use the language of economics in referring to value rather than profit, because entrepreneurs include people who start not-for-profit social ventures, those in public sector startups, and internal change agents who do not judge their success by profit alone. Even more confusing, there are many organizations that are wildly profitable in the short term but ultimately value-destroying, such as the organizers of Ponzi schemes, and fraudulent or misguided companies (e.g., Enron and Lehman Brothers).
+
+A similar thing is true for growth. As with value, it’s essential that entrepreneurs understand the reasons behind a startup’s growth. There are many value-destroying kinds of growth that should be avoided. An example would be a business that grows through continuous fund-raising from investors and lots of paid advertising but does not develop a value-creating product.
+
+Such businesses are engaged in what I call success theater, using the appearance of growth to make it seem that they are successful. One of the goals of innovation accounting, which is discussed in depth in Chapter 7, is to help differentiate these false startups from true innovators. Traditional accounting judges new ventures by the same standards it uses for established companies, but these indications are not reliable predictors of a startup’s future prospects. Consider companies such as Amazon.com that racked up huge losses on their way to breakthrough success.
+
+Like its traditional counterpart, innovation accounting requires that a startup have and maintain a quantitative financial model that can be used to evaluate progress rigorously. However, in a startup’s earliest days, there is not enough data to make an informed guess about what this model might look like. A startup’s earliest strategic plans are likely to be hunch- or intuition-guided, and that is a good thing. To translate those instincts into data, entrepreneurs must, in Steve Blank’s famous phrase, “get out of the building” and start learning.
+
+
+GENCHI GEMBUTSU
+
+The importance of basing strategic decisions on firsthand understanding of customers is one of the core principles that underlies the Toyota Production System. At Toyota, this goes by the Japanese term genchi gembutsu, which is one of the most important phrases in the lean manufacturing vocabulary. In English, it is usually translated as a directive to “go and see for yourself” so that business decisions can be based on deep firsthand knowledge. Jeffrey Liker, who has extensively documented the “Toyota Way,” explains it this way:
+
+In my Toyota interviews, when I asked what distinguishes the Toyota Way from other management approaches, the most common first response was genchi gembutsu—whether I was in manufacturing, product development, sales, distribution, or public affairs. You cannot be sure you really understand any part of any business problem unless you go and see for yourself firsthand. It is unacceptable to take anything for granted or to rely on the reports of others.6
+
+
+
+To demonstrate, take a look at the development of Toyota’s Sienna minivan for the 2004 model year. At Toyota, the manager responsible for the design and development of a new model is called the chief engineer, a cross-functional leader who oversees the entire process from concept to production. The 2004 Sienna was assigned to Yuji Yokoya, who had very little experience in North America, which was the Sienna’s primary market. To figure out how to improve the minivan, he proposed an audacious entrepreneurial undertaking: a road trip spanning all fifty U.S. states, all thirteen provinces and territories of Canada, and all parts of Mexico. In all, he logged more than 53,000 miles of driving. In small towns and large cities, Yokoya would rent a current-model Sienna, driving it in addition to talking to and observing real customers. From those firsthand observations, Yokoya was able to start testing his critical assumptions about what North American consumers wanted in a minivan.
+
+It is common to think of selling to consumers as easier than selling to enterprises, because customers lack the complexity of multiple departments and different people playing different roles in the purchasing process. Yokoya discovered this was untrue for his customers: “The parents and grandparents may own the minivan. But it’s the kids who rule it. It’s the kids who occupy the rear two-thirds of the vehicle. And it’s the kids who are the most critical—and the most appreciative of their environment. If I learned anything in my travels, it was the new Sienna would need kid appeal.”7 Identifying these assumptions helped guide the car’s development. For example, Yokoya spent an unusual amount of the Sienna’s development budget on internal comfort features, which are critical to a long-distance family road trip (such trips are much more common in America than in Japan).
+
+The results were impressive, boosting the Sienna’s market share dramatically. The 2004 model’s sales were 60 percent higher than those in 2003. Of course, a product like the Sienna is a classic sustaining innovation, the kind that the world’s best-managed established companies, such as Toyota, excel at. Entrepreneurs face a different set of challenges because they operate with much higher uncertainty. While a company working on a sustaining innovation knows enough about who and where their customers are to use genchi gembutsu to discover what customers want, startups’ early contact with potential customers merely reveals what assumptions require the most urgent testing.
+
+
+GET OUT OF THE BUILDING
+
+Numbers tell a compelling story, but I always remind entrepreneurs that metrics are people, too. No matter how many intermediaries lie between a company and its customers, at the end of the day, customers are breathing, thinking, buying individuals. Their behavior is measurable and changeable. Even when one is selling to large institutions, as in a business-to-business model, it helps to remember that those businesses are made up of individuals. All successful sales models depend on breaking down the monolithic view of organizations into the disparate people that make them up.
+
+As Steve Blank has been teaching entrepreneurs for years, the facts that we need to gather about customers, markets, suppliers, and channels exist only “outside the building.” Startups need extensive contact with potential customers to understand them, so get out of your chair and get to know them.
+
+The first step in this process is to confirm that your leap-of-faith questions are based in reality, that the customer has a significant problem worth solving.8 When Scott Cook conceived Intuit in 1982, he had a vision—at that time quite radical—that someday consumers would use personal computers to pay bills and keep track of expenses. When Cook left his consulting job to take the entrepreneurial plunge, he didn’t start with stacks of market research or in-depth analysis at the whiteboard. Instead, he picked up two phone books: one for Palo Alto, California, where he was living at the time, and the other for Winnetka, Illinois.
+
+Calling people at random, he inquired if he could ask them a few questions about the way they managed their finances. Those early conversations were designed to answer this leap-of-faith question: do people find it frustrating to pay bills by hand? It turned out that they did, and this early validation gave Cook the confirmation he needed to get started on a solution.9
+
+Those early conversations did not delve into the product features of a proposed solution; that attempt would have been foolish. The average consumers at that time were not conversant enough with personal computers to have an opinion about whether they’d want to use them in a new way. Those early conversations were with mainstream customers, not early adopters. Still, the conversations yielded a fundamental insight: if Intuit could find a way to solve this problem, there could be a large mainstream audience on which it could build a significant business.
+
+
+Design and the Customer Archetype
+
+The goal of such early contact with customers is not to gain definitive answers. Instead, it is to clarify at a basic, coarse level that we understand our potential customer and what problems they have. With that understanding, we can craft a customer archetype, a brief document that seeks to humanize the proposed target customer. This archetype is an essential guide for product development and ensures that the daily prioritization decisions that every product team must make are aligned with the customer to whom the company aims to appeal.
+
+There are many techniques for building an accurate customer archetype that have been developed over long years of practice in the design community. Traditional approaches such as interaction design or design thinking are enormously helpful. To me, it has always seemed ironic that many of these approaches are highly experimental and iterative, using techniques such as rapid prototyping and in-person customer observations to guide designers’ work. Yet because of the way design agencies traditionally have been compensated, all this work culminates in a monolithic deliverable to the client. All of a sudden, the rapid learning and experimentation stops; the assumption is that the designers have learned all there is to know. For startups, this is an unworkable model. No amount of design can anticipate the many complexities of bringing a product to life in the real world.
+
+In fact, a new breed of designers is developing brand-new techniques under the banner of Lean User Experience (Lean UX). They recognize that the customer archetype is a hypothesis, not a fact. The customer profile should be considered provisional until the strategy has shown via validated learning that we can serve this type of customer in a sustainable way.10
+
+
+ANALYSIS PARALYSIS
+
+There are two ever-present dangers when entrepreneurs conduct market research and talk to customers. Followers of the just-do-it school of entrepreneurship are impatient to get started and don’t want to spend time analyzing their strategy. They’d rather start building immediately, often after just a few cursory customer conversations. Unfortunately, because customers don’t really know what they want, it’s easy for these entrepreneurs to delude themselves that they are on the right path.
+
+Other entrepreneurs can fall victim to analysis paralysis, endlessly refining their plans. In this case, talking to customers, reading research reports, and whiteboard strategizing are all equally unhelpful. The problem with most entrepreneurs’ plans is generally not that they don’t follow sound strategic principles but that the facts upon which they are based are wrong. Unfortunately, most of these errors cannot be detected at the whiteboard because they depend on the subtle interactions between products and customers.
+
+If too much analysis is dangerous but none can lead to failure, how do entrepreneurs know when to stop analyzing and start building? The answer is a concept called the minimum viable product, the subject of Chapter 6.
+
+
+
+
+

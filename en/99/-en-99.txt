@@ -1,0 +1,235 @@
+The Lean Startup by Eric Ries
+
+
+
+
+
+
+
+
+
+
+How today's Entrepreneurs Use continuous Innovation to Create Radically Successful businesses
+
+
+
+
+
+Acclaim for THE LEAN STARTUP
+
+
+
+“The Lean Startup isn’t just about how to create a more successful entrepreneurial business; it’s about what we can learn from those businesses to improve virtually everything we do. I imagine Lean Startup principles applied to government programs, to health care, and to solving the world’s great problems. It’s ultimately an answer to the question How can we learn more quickly what works and discard what doesn’t?”
+
+—Tim O’Reilly, CEO, O’Reilly Media
+
+“Eric Ries unravels the mysteries of entrepreneurship and reveals that magic and genius are not the necessary ingredients for success but instead proposes a scientific process that can be learned and replicated. Whether you are a startup entrepreneur or corporate entrepreneur, there are important lessons here for you on your quest toward the new and unknown.”
+
+—Tim Brown, CEO, IDEO
+
+“The road map for innovation for the twenty-first century. The ideas in The Lean Startup will help create the next industrial revolution.”
+
+—Steve Blank, lecturer, Stanford University,
+
+UC Berkeley Hass Business School
+
+“Every founding team should stop for forty-eight hours and read The Lean Startup. Seriously, stop and read this book now.”
+
+—Scott Case, CEO, Startup America Partnership
+
+“The key lesson of this book is that startups happen in the present—that messy place between the past and the future where nothing happens according to PowerPoint. Ries’s ‘read and react’ approach to this sport, his relentless focus on validated learning, the never-ending anxiety of hovering between ‘persevere’ and ‘pivot,’ all bear witness to his appreciation for the dynamics of entrepreneurship.”
+
+—Geoffrey Moore, author, Crossing the Chasm
+
+“If you are an entrepreneur, read this book. If you are thinking about becoming an entrepreneur, read this book. If you are just curious about entrepreneurship, read this book. Starting Lean is today’s best practice for innovators. Do yourself a favor and read this book.”
+
+—Randy Komisar, founding director of TiVo and author of the bestselling The Monk and the Riddle
+
+“How do you apply the fifty-year-old ideas of Lean to the fast-paced, high-uncertainty world of startups? This book provides a brilliant, well-documented, and practical answer. It is sure to become a management classic.”
+
+—Don Reinertsen, author, The Principles of Product Development Flow
+
+“What would happen if businesses were built from the ground up to learn what their customers really wanted? The Lean Startup is the foundation for reimagining almost everything about how work works. Don’t let the word startup in the title confuse you. This is a cookbook for entrepreneurs in organizations of all sizes.”
+
+—Roy Bahat, president, IGN Entertainment
+
+“The Lean Startup is a foundational must-read for founders, enabling them to reduce product failures by bringing structure and science to what is usually informal and an art. It provides actionable ways to avoid product-learning mistakes, rigorously evaluate early signals from the market through validated learning, and decide whether to persevere or to pivot, all challenges that heighten the chance of entrepreneurial failure.”
+
+—Noam Wasserman, professor, Harvard Business School
+
+“One of the best and most insightful new books on entrepreneurship and management I’ve ever read. Should be required reading not only for the entrepreneurs that I work with, but for my friends and colleagues in various industries who have inevitably grappled with many of the challenges that The Lean Startup addresses.”
+
+—Eugene J. Huang, partner, True North Venture Partner
+
+“In business, a ‘lean’ enterprise is sustainable efficiency in action. Eric Ries’s revolutionary Lean Startup method will help bring your new business idea to an end result that is successful and sustainable. You’ll find innovative steps and strategies for creating and managing your own startup while learning from the real-life successes and collapses of others. This book is a must-read for entrepreneurs who are truly ready to start something great!”
+
+—Ken Blanchard, coauthor of The One Minute Manager®
+
+and The One Minute Entrepreneur
+
+
+
+
+
+Copyright © 2011 by Eric Ries
+
+All rights reserved.
+
+Published in the United States by Crown Business, an imprint of the Crown Publishing Group, a division of Random House, Inc., New York. www.crownpublishing.com
+
+CROWN BUSINESS is a trademark and CROWN and the Rising Sun colophon are registered trademarks of Random House, Inc.
+
+Library of Congress Cataloging-in-Publication Data
+
+Ries, Eric, 1978–
+
+The lean startup / Eric Ries. — 1st ed.
+
+p. cm.
+
+1. New business enterprises. 2. Consumers’ preferences. 3. Organizational effectiveness. I. Title.
+
+HD62.5.R545 2011
+
+658.1′1—dc22 2011012100
+
+eISBN: 978-0-307-88791-7
+
+Book design by Lauren Dong
+
+Illustrations by Fred Haynes
+
+Jacket design by Marcus Gosling
+
+v3.1
+
+
+
+
+
+For Tara
+
+
+
+
+
+
+Introduction
+
+
+
+
+
+Stop me if you’ve heard this one before. Brilliant college kids sitting in a dorm are inventing the future. Heedless of boundaries, possessed of new technology and youthful enthusiasm, they build a new company from scratch. Their early success allows them to raise money and bring an amazing new product to market. They hire their friends, assemble a superstar team, and dare the world to stop them.
+
+Ten years and several startups ago, that was me, building my first company. I particularly remember a moment from back then: the moment I realized my company was going to fail. My cofounder and I were at our wits’ end. The dot-com bubble had burst, and we had spent all our money. We tried desperately to raise more capital, and we could not. It was like a breakup scene from a Hollywood movie: it was raining, and we were arguing in the street. We couldn’t even agree on where to walk next, and so we parted in anger, heading in opposite directions. As a metaphor for our company’s failure, this image of the two of us, lost in the rain and drifting apart, is perfect.
+
+It remains a painful memory. The company limped along for months afterward, but our situation was hopeless. At the time, it had seemed we were doing everything right: we had a great product, a brilliant team, amazing technology, and the right idea at the right time. And we really were on to something. We were building a way for college kids to create online profiles for the purpose of sharing … with employers. Oops. But despite a promising idea, we were nonetheless doomed from day one, because we did not know the process we would need to use to turn our product insights into a great company.
+
+If you’ve never experienced a failure like this, it is hard to describe the feeling. It’s as if the world were falling out from under you. You realize you’ve been duped. The stories in the magazines are lies: hard work and perseverance don’t lead to success. Even worse, the many, many, many promises you’ve made to employees, friends, and family are not going to come true. Everyone who thought you were foolish for stepping out on your own will be proven right.
+
+It wasn’t supposed to turn out that way. In magazines and newspapers, in blockbuster movies, and on countless blogs, we hear the mantra of the successful entrepreneurs: through determination, brilliance, great timing, and—above all—a great product, you too can achieve fame and fortune.
+
+There is a mythmaking industry hard at work to sell us that story, but I have come to believe that the story is false, the product of selection bias and after-the-fact rationalization. In fact, having worked with hundreds of entrepreneurs, I have seen firsthand how often a promising start leads to failure. The grim reality is that most startups fail. Most new products are not successful. Most new ventures do not live up to their potential.
+
+Yet the story of perseverance, creative genius, and hard work persists. Why is it so popular? I think there is something deeply appealing about this modern-day rags-to-riches story. It makes success seem inevitable if you just have the right stuff. It means that the mundane details, the boring stuff, the small individual choices don’t matter. If we build it, they will come. When we fail, as so many of us do, we have a ready-made excuse: we didn’t have the right stuff. We weren’t visionary enough or weren’t in the right place at the right time.
+
+After more than ten years as an entrepreneur, I came to reject that line of thinking. I have learned from both my own successes and failures and those of many others that it’s the boring stuff that matters the most. Startup success is not a consequence of good genes or being in the right place at the right time. Startup success can be engineered by following the right process, which means it can be learned, which means it can be taught.
+
+Entrepreneurship is a kind of management. No, you didn’t read that wrong. We have wildly divergent associations with these two words, entrepreneurship and management. Lately, it seems that one is cool, innovative, and exciting and the other is dull, serious, and bland. It is time to look past these preconceptions.
+
+Let me tell you a second startup story. It’s 2004, and a group of founders have just started a new company. Their previous company had failed very publicly. Their credibility is at an all-time low. They have a huge vision: to change the way people communicate by using a new technology called avatars (remember, this was before James Cameron’s blockbuster movie). They are following a visionary named Will Harvey, who paints a compelling picture: people connecting with their friends, hanging out online, using avatars to give them a combination of intimate connection and safe anonymity. Even better, instead of having to build all the clothing, furniture, and accessories these avatars would need to accessorize their digital lives, the customers would be enlisted to build those things and sell them to one another.
+
+The engineering challenge before them is immense: creating virtual worlds, user-generated content, an online commerce engine, micropayments, and—last but not least—the three-dimensional avatar technology that can run on anyone’s PC.
+
+I’m in this second story, too. I’m a cofounder and chief technology officer of this company, which is called IMVU. At this point in our careers, my cofounders and I are determined to make new mistakes. We do everything wrong: instead of spending years perfecting our technology, we build a minimum viable product, an early product that is terrible, full of bugs and crash-your-computer-yes-really stability problems. Then we ship it to customers way before it’s ready. And we charge money for it. After securing initial customers, we change the product constantly—much too fast by traditional standards—shipping new versions of our product dozens of times every single day.
+
+We really did have customers in those early days—true visionary early adopters—and we often talked to them and asked for their feedback. But we emphatically did not do what they said. We viewed their input as only one source of information about our product and overall vision. In fact, we were much more likely to run experiments on our customers than we were to cater to their whims.
+
+Traditional business thinking says that this approach shouldn’t work, but it does, and you don’t have to take my word for it. As you’ll see throughout this book, the approach we pioneered at IMVU has become the basis for a new movement of entrepreneurs around the world. It builds on many previous management and product development ideas, including lean manufacturing, design thinking, customer development, and agile development. It represents a new approach to creating continuous innovation. It’s called the Lean Startup.
+
+Despite the volumes written on business strategy, the key attributes of business leaders, and ways to identify the next big thing, innovators still struggle to bring their ideas to life. This was the frustration that led us to try a radical new approach at IMVU, one characterized by an extremely fast cycle time, a focus on what customers want (without asking them), and a scientific approach to making decisions.
+
+
+ORIGINS OF THE LEAN STARTUP
+
+I am one of those people who grew up programming computers, and so my journey to thinking about entrepreneurship and management has taken a circuitous path. I have always worked on the product development side of my industry; my partners and bosses were managers or marketers, and my peers worked in engineering and operations. Throughout my career, I kept having the experience of working incredibly hard on products that ultimately failed in the marketplace.
+
+At first, largely because of my background, I viewed these as technical problems that required technical solutions: better architecture, a better engineering process, better discipline, focus, or product vision. These supposed fixes led to still more failure. So I read everything I could get my hands on and was blessed to have had some of the top minds in Silicon Valley as my mentors. By the time I became a cofounder of IMVU, I was hungry for new ideas about how to build a company.
+
+I was fortunate to have cofounders who were willing to experiment with new approaches. They were fed up—as I was—by the failure of traditional thinking. Also, we were lucky to have Steve Blank as an investor and adviser. Back in 2004, Steve had just begun preaching a new idea: the business and marketing functions of a startup should be considered as important as engineering and product development and therefore deserve an equally rigorous methodology to guide them. He called that methodology Customer Development, and it offered insight and guidance to my daily work as an entrepreneur.
+
+Meanwhile, I was building IMVU’s product development team, using some of the unorthodox methods I mentioned earlier. Measured against the traditional theories of product development I had been trained on in my career, these methods did not make sense, yet I could see firsthand that they were working. I struggled to explain the practices to new employees, investors, and the founders of other companies. We lacked a common language for describing them and concrete principles for understanding them.
+
+I began to search outside entrepreneurship for ideas that could help me make sense of my experience. I began to study other industries, especially manufacturing, from which most modern theories of management derive. I studied lean manufacturing, a process that originated in Japan with the Toyota Production System, a completely new way of thinking about the manufacturing of physical goods. I found that by applying ideas from lean manufacturing to my own entrepreneurial challenges—with a few tweaks and changes—I had the beginnings of a framework for making sense of them.
+
+This line of thought evolved into the Lean Startup: the application of lean thinking to the process of innovation.
+
+IMVU became a tremendous success. IMVU customers have created more than 60 million avatars. It is a profitable company with annual revenues of more than $50 million in 2011, employing more than a hundred people in our current offices in Mountain View, California. IMVU’s virtual goods catalog—which seemed so risky years ago—now has more than 6 million items in it; more than 7,000 are added every day, almost all created by customers.
+
+As a result of IMVU’s success, I began to be asked for advice by other startups and venture capitalists. When I would describe my experiences at IMVU, I was often met with blank stares or extreme skepticism. The most common reply was “That could never work!” My experience so flew in the face of conventional thinking that most people, even in the innovation hub of Silicon Valley, could not wrap their minds around it.
+
+Then I started to write, first on a blog called Startup Lessons Learned, and speak—at conferences and to companies, startups, and venture capitalists—to anyone who would listen. In the process of being called on to defend and explain my insights and with the collaboration of other writers, thinkers, and entrepreneurs, I had a chance to refine and develop the theory of the Lean Startup beyond its rudimentary beginnings. My hope all along was to find ways to eliminate the tremendous waste I saw all around me: startups that built products nobody wanted, new products pulled from the shelves, countless dreams unrealized.
+
+Eventually, the Lean Startup idea blossomed into a global movement. Entrepreneurs began forming local in-person groups to discuss and apply Lean Startup ideas. There are now organized communities of practice in more than a hundred cities around the world.1 My travels have taken me across countries and continents. Everywhere I have seen the signs of a new entrepreneurial renaissance. The Lean Startup movement is making entrepreneurship accessible to a whole new generation of founders who are hungry for new ideas about how to build successful companies.
+
+Although my background is in high-tech software entrepreneurship, the movement has grown way beyond those roots. Thousands of entrepreneurs are putting Lean Startup principles to work in every conceivable industry. I’ve had the chance to work with entrepreneurs in companies of all sizes, in different industries, and even in government. This journey has taken me to places I never imagined I’d see, from the world’s most elite venture capitalists, to Fortune 500 boardrooms, to the Pentagon. The most nervous I have ever been in a meeting was when I was attempting to explain Lean Startup principles to the chief information officer of the U.S. Army, who is a three-star general (for the record, he was extremely open to new ideas, even from a civilian like me).
+
+Pretty soon I realized that it was time to focus on the Lean Startup movement full time. My mission: to improve the success rate of new innovative products worldwide. The result is the book you are reading.
+
+
+THE LEAN STARTUP METHOD
+
+This is a book for entrepreneurs and the people who hold them accountable. The five principles of the Lean Startup, which inform all three parts of this book, are as follows:
+
+
+1. Entrepreneurs are everywhere. You don’t have to work in a garage to be in a startup. The concept of entrepreneurship includes anyone who works within my definition of a startup: a human institution designed to create new products and services under conditions of extreme uncertainty. That means entrepreneurs are everywhere and the Lean Startup approach can work in any size company, even a very large enterprise, in any sector or industry.
+
+
+2. Entrepreneurship is management. A startup is an institution, not just a product, and so it requires a new kind of management specifically geared to its context of extreme uncertainty. In fact, as I will argue later, I believe “entrepreneur” should be considered a job title in all modern companies that depend on innovation for their future growth.
+
+
+3. Validated learning. Startups exist not just to make stuff, make money, or even serve customers. They exist to learn how to build a sustainable business. This learning can be validated scientifically by running frequent experiments that allow entrepreneurs to test each element of their vision.
+
+
+4. Build-Measure-Learn. The fundamental activity of a startup is to turn ideas into products, measure how customers respond, and then learn whether to pivot or persevere. All successful startup processes should be geared to accelerate that feedback loop.
+
+
+5. Innovation accounting. To improve entrepreneurial outcomes and hold innovators accountable, we need to focus on the boring stuff: how to measure progress, how to set up milestones, and how to prioritize work. This requires a new kind of accounting designed for startups—and the people who hold them accountable.
+
+
+Why Startups Fail
+
+Why are startups failing so badly everywhere we look?
+
+The first problem is the allure of a good plan, a solid strategy, and thorough market research. In earlier eras, these things were indicators of likely success. The overwhelming temptation is to apply them to startups too, but this doesn’t work, because startups operate with too much uncertainty. Startups do not yet know who their customer is or what their product should be. As the world becomes more uncertain, it gets harder and harder to predict the future. The old management methods are not up to the task. Planning and forecasting are only accurate when based on a long, stable operating history and a relatively static environment. Startups have neither.
+
+The second problem is that after seeing traditional management fail to solve this problem, some entrepreneurs and investors have thrown up their hands and adopted the “Just Do It” school of startups. This school believes that if management is the problem, chaos is the answer. Unfortunately, as I can attest firsthand, this doesn’t work either.
+
+It may seem counterintuitive to think that something as disruptive, innovative, and chaotic as a startup can be managed or, to be accurate, must be managed. Most people think of process and management as boring and dull, whereas startups are dynamic and exciting. But what is actually exciting is to see startups succeed and change the world. The passion, energy, and vision that people bring to these new ventures are resources too precious to waste. We can—and must—do better. This book is about how.
+
+
+
+
+
+HOW THIS BOOK IS ORGANIZED
+
+This book is divided into three parts: “Vision,” “Steer,” and “Accelerate.”
+
+“Vision” makes the case for a new discipline of entrepreneurial management. I identify who is an entrepreneur, define a startup, and articulate a new way for startups to gauge if they are making progress, called validated learning. To achieve that learning, we’ll see that startups—in a garage or inside an enterprise—can use scientific experimentation to discover how to build a sustainable business.
+
+“Steer” dives into the Lean Startup method in detail, showing one major turn through the core Build-Measure-Learn feedback loop. Beginning with leap-of-faith assumptions that cry out for rigorous testing, you’ll learn how to build a minimum viable product to test those assumptions, a new accounting system for evaluating whether you’re making progress, and a method for deciding whether to pivot (changing course with one foot anchored to the ground) or persevere.
+
+In “Accelerate,” we’ll explore techniques that enable Lean Startups to speed through the Build-Measure-Learn feedback loop as quickly as possible, even as they scale. We’ll explore lean manufacturing concepts that are applicable to startups, too, such as the power of small batches. We’ll also discuss organizational design, how products grow, and how to apply Lean Startup principles beyond the proverbial garage, even inside the world’s largest companies.
+
+
+MANAGEMENT’S SECOND CENTURY
+
+As a society, we have a proven set of techniques for managing big companies and we know the best practices for building physical products. But when it comes to startups and innovation, we are still shooting in the dark. We are relying on vision, chasing the “great men” who can make magic happen, or trying to analyze our new products to death. These are new problems, born of the success of management in the twentieth century.
+
+This book attempts to put entrepreneurship and innovation on a rigorous footing. We are at the dawn of management’s second century. It is our challenge to do something great with the opportunity we have been given. The Lean Startup movement seeks to ensure that those of us who long to build the next big thing will have the tools we need to change the world.
+
+
+
+
+

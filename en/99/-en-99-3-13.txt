@@ -1,0 +1,128 @@
+13. Epilogue: Waste Not
+
+
+
+
+
+This year marks the one hundredth anniversary of Frederick Winslow Taylor’s The Principles of Scientific Management, first published in 1911. The movement for scientific management changed the course of the twentieth century by making possible the tremendous prosperity that we take for granted today. Taylor effectively invented what we now consider simply management: improving the efficiency of individual workers, management by exception (focusing only on unexpectedly good or bad results), standardizing work into tasks, the task-plus-bonus system of compensation, and—above all—the idea that work can be studied and improved through conscious effort. Taylor invented modern white-collar work that sees companies as systems that must be managed at more than the level of the individual. There is a reason all past management revolutions have been led by engineers: management is human systems engineering.
+
+In 1911 Taylor wrote: “In the past, the man has been first; in the future, the system must be first.” Taylor’s prediction has come to pass. We are living in the world he imagined. And yet, the revolution that he unleashed has been—in many ways—too successful. Whereas Taylor preached science as a way of thinking, many people confused his message with the rigid techniques he advocated: time and motion studies, the differential piece-rate system, and—most galling of all—the idea that workers should be treated as little more than automatons. Many of these ideas proved extremely harmful and required the efforts of later theorists and managers to undo. Critically, lean manufacturing rediscovered the wisdom and initiative hidden in every factory worker and redirected Taylor’s notion of efficiency away from the individual task and toward the corporate organism as a whole. But each of these subsequent revolutions has embraced Taylor’s core idea that work can be studied scientifically and can be improved through a rigorous experimental approach.
+
+In the twenty-first century, we face a new set of problems that Taylor could not have imagined. Our productive capacity greatly exceeds our ability to know what to build. Although there was a tremendous amount of invention and innovation in the early twentieth century, most of it was devoted to increasing the productivity of workers and machines in order to feed, clothe, and house the world’s population. Although that project is still incomplete, as the millions who live in poverty can attest, the solution to that problem is now strictly a political one. We have the capacity to build almost anything we can imagine. The big question of our time is not Can it be built? but Should it be built? This places us in an unusual historical moment: our future prosperity depends on the quality of our collective imaginations.
+
+In 1911, Taylor wrote:
+
+We can see our forests vanishing, our water-powers going to waste, our soil being carried by floods into the sea; and the end of our coal and our iron is in sight. But our larger wastes of human effort, which go on every day through such of our acts as are blundering, ill-directed, or inefficient … are less visible, less tangible, and are but vaguely appreciated.
+
+
+
+We can see and feel the waste of material things. Awkward, inefficient, or ill-directed movements of men, however, leave nothing visible or tangible behind them. Their appreciation calls for an act of memory, an effort of the imagination. And for this reason, even though our daily loss from this source is greater than from our waste of material things, the one has stirred us deeply, while the other has moved us but little.1
+
+
+
+A century on, what can we say about those words? On the one hand, they feel archaic. We of the twenty-first century are hyperaware of the importance of efficiency and the economic value of productivity gains. Our workplaces are—at least when it comes to the building of material objects—incredibly well organized compared with those of Taylor’s day.
+
+On the other hand, Taylor’s words strike me as completely contemporary. For all of our vaunted efficiency in the making of things, our economy is still incredibly wasteful. This waste comes not from the inefficient organization of work but rather from working on the wrong things—and on an industrial scale. As Peter Drucker said, “There is surely nothing quite so useless as doing with great efficiency what should not be done at all.”2
+
+And yet we are doing the wrong things efficiently all the time. It is hard to come by a solid estimate of just how wasteful modern work is, but there is no shortage of anecdotes. In my consulting and travels talking about the Lean Startup, I hear the same message consistently from employees of companies big and small. In every industry we see endless stories of failed launches, ill-conceived projects, and large-batch death spirals. I consider this misuse of people’s time a criminally negligent waste of human creativity and potential.
+
+What percentage of all this waste is preventable? I think a much larger proportion than we currently realize. Most people I meet believe that in their industry at least, projects fail for good reasons: projects are inherently risky, market conditions are unpredictable, “big company people” are intrinsically uncreative. Some believe that if we just slowed everything down and used a more careful process, we could reduce the failure rate by doing fewer projects of higher quality. Others believe that certain people have an innate gift of knowing the right thing to build. If we can find enough of these visionaries and virtuosos, our problems will be solved. These “solutions” were once considered state of the art in the nineteenth century, too, before people knew about modern management.
+
+The requirements of an ever-faster world make these antique approaches unworkable, and so the blame for failed projects and businesses often is heaped on senior management, which is asked to do the impossible. Alternatively, the finger of blame is pointed at financial investors or the public markets for overemphasizing quick fixes and short-term results. We have plenty of blame to go around, but far too little theory to guide the actions of leaders and investors alike.
+
+The Lean Startup movement stands in contrast to this hand-wringing. We believe that most forms of waste in innovation are preventable once their causes are understood. All that is required is that we change our collective mind-set concerning how this work is to be done.
+
+It is insufficient to exhort workers to try harder. Our current problems are caused by trying too hard—at the wrong things. By focusing on functional efficiency, we lose sight of the real goal of innovation: to learn that which is currently unknown. As Deming taught, what matters is not setting quantitative goals but fixing the method by which those goals are attained. The Lean Startup movement stands for the principle that the scientific method can be brought to bear to answer the most pressing innovation question: How can we build a sustainable organization around a new set of products or services?
+
+
+ORGANIZATIONAL SUPERPOWERS
+
+A participant at one of my workshops came up to me a few months afterward to relate the following story, which I am paraphrasing: “Knowing Lean Startup principles makes me feel like I have superpowers. Even though I’m just a junior employee, when I meet with corporate VPs and GMs in my large company, I ask them simple questions and very quickly help them see how their projects are based on fundamental hypotheses that are testable. In minutes, I can lay out a plan they could follow to scientifically validate their plans before it’s too late. They consistently respond with ‘Wow, you are brilliant. We’ve never thought to apply that level of rigor to our thinking about new products before.’ ”
+
+As a result of these interactions, he has developed a reputation within his large company as a brilliant employee. This has been good for his career but very frustrating for him personally. Why? Because although he is quite brilliant, his insights into flawed product plans are due not to his special intelligence but to having a theory that allows him to predict what will happen and propose alternatives. He is frustrated because the managers he is pitching his ideas to do not see the system. They wrongly conclude that the key to success is finding brilliant people like him to put on their teams. They are failing to see the opportunity he is really presenting them: to achieve better results systematically by changing their beliefs about how innovation happens.
+
+
+Putting the System First: Some Dangers
+
+Like Taylor before us, our challenge is to persuade the managers of modern corporations to put the system first. However, Taylorism should act as a cautionary tale, and it is important to learn the lessons of history as we bring these new ideas to a more mainstream audience.
+
+Taylor is remembered for his focus on systematic practice rather than individual brilliance. Here is the full quote from The Principles of Scientific Management that includes the famous line about putting the system first:
+
+In the future it will be appreciated that our leaders must be trained right as well as born right, and that no great man can (with the old system of personal management) hope to compete with a number of ordinary men who have been properly organized so as efficiently to cooperate.
+
+
+
+In the past the man has been first; in the future the system must be first. This in no sense, however, implies that great men are not needed. On the contrary, the first object of any good system must be that of developing first-class men; and under systematic management the best man rises to the top more certainly and more rapidly than ever before.3
+
+
+
+Unfortunately, Taylor’s insistence that scientific management does not stand in opposition to finding and promoting the best individuals was quickly forgotten. In fact, the productivity gains to be had through the early scientific management tactics, such as time and motion study, task-plus-bonus, and especially functional foremanship (the forerunner of today’s functional departments), were so significant that subsequent generations of managers lost sight of the importance of the people who were implementing them.
+
+This has led to two problems: (1) business systems became overly rigid and thereby failed to take advantage of the adaptability, creativity, and wisdom of individual workers, and (2) there has been an overemphasis on planning, prevention, and procedure, which enable organizations to achieve consistent results in a mostly static world. On the factory floor, these problems have been tackled head on by the lean manufacturing movement, and those lessons have spread throughout many modern corporations. And yet in new product development, entrepreneurship, and innovation work in general we are still using an outdated framework.
+
+My hope is that the Lean Startup movement will not fall into the same reductionist trap. We are just beginning to uncover the rules that govern entrepreneurship, a method that can improve the odds of startup success, and a systematic approach to building new and innovative products. This in no way diminishes the traditional entrepreneurial virtues: the primacy of vision, the willingness to take bold risks, and the courage required in the face of overwhelming odds. Our society needs the creativity and vision of entrepreneurs more than ever. In fact, it is precisely because these are such precious resources that we cannot afford to waste them.
+
+
+Product Development Pseudoscience
+
+I believe that if Taylor were alive today, he would chuckle at what constitutes the management of entrepreneurs and innovators. Although we harness the labor of scientists and engineers who would have dazzled any early-twentieth-century person with their feats of technical wizardry, the management practices we use to organize them are generally devoid of scientific rigor. In fact, I would go so far as to call them pseudoscience.
+
+We routinely green-light new projects more on the basis of intuition than facts. As we’ve seen throughout this book, that is not the root cause of the problem. All innovation begins with vision. It’s what happens next that is critical. As we’ve seen, too many innovation teams engage in success theater, selectively finding data that support their vision rather than exposing the elements of the vision to true experiments, or, even worse, staying in stealth mode to create a data-free zone for unlimited “experimentation” that is devoid of customer feedback or external accountability of any kind. Anytime a team attempts to demonstrate cause and effect by placing highlights on a graph of gross metrics, it is engaging in pseudoscience. How do we know that the proposed cause and effect is true? Anytime a team attempts to justify its failures by resorting to learning as an excuse, it is engaged in pseudoscience as well.
+
+If learning has taken place in one iteration cycle, let us demonstrate it by turning it into validated learning in the next cycle. Only by building a model of customer behavior and then showing our ability to use our product or service to change it over time can we establish real facts about the validity of our vision.
+
+Throughout our celebration of the success of the Lean Startup movement, a note of caution is essential. We cannot afford to have our success breed a new pseudoscience around pivots, MVPs, and the like. This was the fate of scientific management, and in the end, I believe, that set back its cause by decades. Science came to stand for the victory of routine work over creative work, mechanization over humanity, and plans over agility. Later movements had to be spawned to correct those deficiencies.
+
+Taylor believed in many things that he dubbed scientific but that our modern eyes perceive as mere prejudice. He believed in the inherent superiority in both intelligence and character of aristocratic men over the working classes and the superiority of men over women; he also thought that lower-status people should be supervised strictly by their betters. These beliefs are part and parcel of Taylor’s time, and it is tempting to forgive him for having been blind to them.
+
+Yet when our time is viewed through the lens of future practice, what prejudices will be revealed? In what forces do we place undue faith? What might we risk losing sight of with this initial success of our movement?
+
+It is with these questions that I wish to close. As gratifying as it is for me to see the Lean Startup movement gain fame and recognition, it is far more important that we be right in our prescriptions. What is known so far is just the tip of the iceberg. What is needed is a massive project to discover how to unlock the vast stores of potential that are hidden in plain sight in our modern workforce. If we stopped wasting people’s time, what would they do with it? We have no real concept of what is possible.
+
+Starting in the late 1880s, Taylor began a program of experimentation to discover the optimal way to cut steel. In the course of that research, which lasted more than twenty-five years, he and his colleagues performed more than twenty thousand individual experiments. What is remarkable about this project is that it had no academic backing, no government R&D budget. Its entire cost was paid by industry out of the immediate profits generated from the higher productivity the experiments enabled. This was only one experimental program to uncover the hidden productivity in just one kind of work. Other scientific management disciples spent years investigating bricklaying, farming, and even shoveling. They were obsessed with learning the truth and were not satisfied with the folk wisdom of craftspersons or the parables of experts.
+
+Can any of us imagine a modern knowledge-work manager with the same level of interest in the methods his or her employees use? How much of our current innovation work is guided by catchphrases that lack a scientific foundation?
+
+
+A New Research Program
+
+What comparable research programs could we be engaged in to discover how to work more effectively?
+
+For one thing, we have very little understanding of what stimulates productivity under conditions of extreme uncertainty. Luckily, with cycle times falling everywhere, we have many opportunities to test new approaches. Thus, I propose that we create startup testing labs that could put all manner of product development methodologies to the test.
+
+How might those tests be conducted? We could bring in small cross-functional teams, perhaps beginning with product and engineering, and have them work to solve problems by using different development methodologies. We could begin with problems with clear right answers, perhaps drawn from the many international programming competitions that have developed databases of well-defined problems with clear solutions. These competitions also provide a clear baseline of how long it should take for various problems to be solved so that we could establish clearly the individual problem-solving prowess of the experimental subjects.
+
+Using this kind of setup for calibration, we could begin to vary the conditions of the experiments. The challenge will be to increase the level of uncertainty about what the right answer is while still being able to measure the quality of the outcome objectively. Perhaps we could use real-world customer problems and then have real consumers test the output of the teams’ work. Or perhaps we could go so far as to build minimum viable products for solving the same set of problems over and over again to quantify which produces the best customer conversion rates.
+
+We also could vary the all-important cycle time by choosing more or less complex development platforms and distribution channels to test the impact of those factors on the true productivity of the teams.
+
+Most of all, we need to develop clear methods for holding teams accountable for validated learning. I have proposed one method in this book: innovation accounting using a well-defined financial model and engine of growth. However, it is naive to assume that this is the best possible method. As it is adopted in more and more companies, undoubtedly new techniques will be suggested, and we need to be able to evaluate the new ideas as rigorously as possible.
+
+All these questions raise the possibilities of public-private partnerships between research universities and the entrepreneurial communities they seek to foster. It also suggests that universities may be able to add value in more ways than by being simply financial investors or creators of startup incubators, as is the current trend. My prediction is that wherever this research is conducted will become an epicenter of new entrepreneurial practice, and universities conducting this research therefore may be able to achieve a much higher level of commercialization of their basic research activities.4
+
+
+THE LONG-TERM STOCK EXCHANGE
+
+Beyond simple research, I believe our goal should be to change the entire ecosystem of entrepreneurship. Too much of our startup industry has devolved into a feeder system for giant media companies and investment banks. Part of the reason established companies struggle to invest consistently in innovation is intense pressure from public markets to hit short-term profitability and growth targets. Mostly, this is a consequence of the accounting methods we have developed for evaluating managers, which focus on the kinds of gross “vanity” metrics discussed in Chapter 7. What is needed is a new kind of stock exchange, designed to trade in the stocks of companies that are organized to sustain long-term thinking. I propose that we create a Long-Term Stock Exchange (LTSE).
+
+In addition to quarterly reports on profits and margins, companies on the LTSE would report using innovation accounting on their internal entrepreneurship efforts. Like Intuit, they would report on the revenue they were generating from products that did not exist a few years earlier. Executive compensation in LTSE companies would be tied to the company’s long-term performance. Trading on the LTSE would have much higher transaction costs and fees to minimize day trading and massive price swings. In exchange, LTSE companies would be allowed to structure their corporate governance to facilitate greater freedom for management to pursue long-term investments. In addition to support for long-term thinking, the transparency of the LTSE will provide valuable data about how to nurture innovation in the real world. Something like the LTSE would accelerate the creation of the next generation of great companies, built from the ground up for continuous innovation.
+
+
+IN CONCLUSION
+
+As a movement, the Lean Startup must avoid doctrines and rigid ideology. We must avoid the caricature that science means formula or a lack of humanity in work. In fact, science is one of humanity’s most creative pursuits. I believe that applying it to entrepreneurship will unlock a vast storehouse of human potential.
+
+What would an organization look like if all of its employees were armed with Lean Startup organizational superpowers?
+
+For one thing, everyone would insist that assumptions be stated explicitly and tested rigorously not as a stalling tactic or a form of make-work but out of a genuine desire to discover the truth that underlies every project’s vision.
+
+We would not waste time on endless arguments between the defenders of quality and the cowboys of reckless advance; instead, we would recognize that speed and quality are allies in the pursuit of the customer’s long-term benefit. We would race to test our vision but not to abandon it. We would look to eliminate waste not to build quality castles in the sky but in the service of agility and breakthrough business results.
+
+We would respond to failures and setbacks with honesty and learning, not with recriminations and blame. More than that, we would shun the impulse to slow down, increase batch size, and indulge in the curse of prevention. Instead, we would achieve speed by bypassing the excess work that does not lead to learning. We would dedicate ourselves to the creation of new institutions with a long-term mission to build sustainable value and change the world for the better.
+
+Most of all, we would stop wasting people’s time.
+
+
+
+
+

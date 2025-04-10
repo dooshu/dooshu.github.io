@@ -1,0 +1,416 @@
+2 Value Networks and the Impetus to Innovate
+
+
+From the earliest studies of the problems of innovation, scholars, consultants, and managers have tried to explain why leading firms frequently stumble when confronting technology change. Most explanations either zero in on managerial, organizational, and cultural responses to technological change or focus on the ability of established firms to deal with radically new technology; doing the latter requires a very different set of skills from those that an established firm historically has developed. Both approaches, useful in explaining why some companies stumble in the face of technological change, are summarized below. The primary purpose of this chapter, however, is to propose a third theory of why good companies can fail, based upon the concept of a value network. The value network concept seems to have much greater power than the other two theories in explaining what we observed in the disk drive industry.
+
+
+
+
+
+ORGANIZATIONAL AND MANAGERIAL EXPLANATIONS OF FAILURE
+
+
+One explanation for why good companies fail points to organizational impediments as the source of the problem. While many analyses of this type stop with such simple rationales as bureaucracy, complacency, or “risk-averse” culture, some remarkably insightful studies exist in this tradition. Henderson and Clark, 1 for example, conclude that companies’ organizational structures typically facilitate component-level innovations, because most product development organizations consist of subgroups that correspond to a product’s components. Such systems work very well as long as the product’s fundamental architecture does not require change. But, say the authors, when architectural technology change is required, this type of structure impedes innovations that require people and groups to communicate and work together in new ways.
+
+This notion has considerable face validity. In one incident recounted in Tracy Kidder’s Pulitzer Prize–winning narrative, The Soul of a New Machine, Data General engineers developing a next-generation minicomputer intended to leapfrog the product position of Digital Equipment Corporation were allowed by a friend of one team member into his facility in the middle of the night to examine Digital’s latest computer, which his company had just bought. When Tom West, Data General’s project leader and a former long-time Digital employee, removed the cover of the DEC minicomputer and examined its structure, he saw “Digital’s organization chart in the design of the product.” 2
+
+Because an organization’s structure and how its groups work together may have been established to facilitate the design of its dominant product, the direction of causality may ultimately reverse itself: The organization’s structure and the way its groups learn to work together can then affect the way it can and cannot design new products.
+
+
+
+
+
+CAPABILITIES AND RADICAL TECHNOLOGY AS AN EXPLANATION
+
+
+In assessing blame for the failure of good companies, the distinction is sometimes made between innovations requiring very different technological capabilities, that is, so-called radical change, and those that build upon well-practiced technological capabilities, often called incremental innovations. 3 The notion is that the magnitude of the technological change relative to the companies’ capabilities will determine which firms triumph after a technology invades an industry. Scholars who support this view find that established firms tend to be good at improving what they have long been good at doing, and that entrant firms seem better suited for exploiting radically new technologies, often because they import the technology into one industry from another, where they had already developed and practiced it.
+
+Clark, for example, has reasoned that companies build the technological capabilities in a product such as an automobile hierarchically and experientially. 4 An organization’s historical choices about which technological problems it would solve and which it would avoid determine the sorts of skills and knowledge it accumulates. When optimal resolution of a product or process performance problem demands a very different set of knowledge than a firm has accumulated, it may very well stumble. The research of Tushman, Anderson, and their associates supports Clark’s hypothesis. 5 They found that firms failed when a technological change destroyed the value of competencies previously cultivated and succeeded when new technologies enhanced them.
+
+The factors identified by these scholars undoubtedly affect the fortunes of firms confronted with new technologies. Yet the disk drive industry displays a series of anomalies accounted for by neither set of theories. Industry leaders first introduced sustaining technologies of every sort, including architectural and component innovations that rendered prior competencies irrelevant and made massive investments in skills and assets obsolete. Nevertheless, these same firms stumbled over technologically straightforward but disruptive changes such as the 8-inch drive.
+
+The history of the disk drive industry, indeed, gives a very different meaning to what constitutes a radical innovation among leading, established firms. As we saw, the nature of the technology involved (components versus architecture and incremental versus radical), the magnitude of the risk, and the time horizon over which the risks needed to be taken had little relationship to the patterns of leadership and followership observed. Rather, if their customers needed an innovation, the leading firms somehow mustered the resources and wherewithal to develop and adopt it. Conversely, if their customers did not want or need an innovation, these firms found it impossible to commercialize even technologically simple innovations.
+
+
+
+
+
+VALUE NETWORKS AND NEW PERSPECTIVE ON THE DRIVERS OF FAILURE
+
+
+What, then, does account for the success and failure of entrant and established firms? The following discussion synthesizes from the history of the disk drive industry a new perspective on the relation between success or failure and changes in technology and market structure. The concept of the value network—the context within which a firm identifies and responds to customers’ needs, solves problems, procures input, reacts to competitors, and strives for profit—is central to this synthesis. 6 Within a value network, each firm’s competitive strategy, and particularly its past choices of markets, determines its perceptions of the economic value of a new technology. These perceptions, in turn, shape the rewards different firms expect to obtain through pursuit of sustaining and disruptive innovations. 7 In established firms, expected rewards, in their turn, drive the allocation of resources toward sustaining innovations and away from disruptive ones. This pattern of resource allocation accounts for established firms’ consistent leadership in the former and their dismal performance in the latter.
+
+
+
+
+
+Value Networks Mirror Product Architecture
+
+
+Companies are embedded in value networks because their products generally are embedded, or nested hierarchically, as components within other products and eventually within end systems of use. 8 Consider a 1980s-vintage management information system (MIS) for a large organization, as illustrated in Figure 2.1. The architecture of the MIS ties together various components—a mainframe computer; peripherals such as line printers and tape and disk drives; software; a large, air-conditioned room with cables running under a raised floor; and so on. At the next level, the mainframe computer is itself an architected system, comprising such components as a central processing unit, multi-chip packages and circuit boards, RAM circuits, terminals, controllers, and disk drives. Telescoping down still further, the disk drive is a system whose components include a motor, actuator, spindle, disks, heads, and controller. In turn, the disk itself can be analyzed as a system composed of an aluminum platter, magnetic material, adhesives, abrasives, lubricants, and coatings.
+
+Although the goods and services constituting such a system of use may all be produced within a single, extensively integrated corporation such as AT&T or IBM, most are tradable, especially in more mature markets. This means that, while Figure 2.1 is drawn to describe the nested physical architecture of a product system, it also implies the existence of a nested network of producers and markets through which the components at each level are made and sold to integrators at the next higher level in the system. Firms that design and assemble disk drives, for example, such as Quantum and Maxtor, procure read-write heads from firms specializing in the manufacture of those heads, and they buy disks from other firms and spin motors, actuator motors, and integrated circuitry from still others. At the next higher level, firms that design and assemble computers may buy their integrated circuits, terminals, disk drives, IC packaging, and power supplies from various firms that manufacture those particular products. This nested commercial system is a value network.
+
+Figure 2.1 A Nested, or Telescoping, System of Product Architectures
+
+
+
+
+
+Source: Reprinted from Research Policy 24, Clayton M. Christensen and Richard S. Rosenbloom, “Explaining the Attacker’s Advantage: Technological Paradigms, Organizational Dynamics, and the Value Network,” 233–257, 1995 with kind permission of Elsevier Science–NL, Sara Burgerhartstraat 25, 1055 KV Amsterdam, The Netherlands.
+
+Figure 2.2 illustrates three value networks for computing applications: Reading top to bottom they are the value network for a corporate MIS system-of-use, for portable personal computing products, and for computer-automated design (CAD). Drawn only to convey the concept of how networks are bounded and may differ from each other, these depictions are not meant to represent complete structures.
+
+
+
+
+
+Metrics of Value
+
+
+The way value is measured differs across networks. 9 In fact, the unique rank-ordering of the importance of various product performance attributes defines, in part, the boundaries of a value network. Examples in Figure 2.2, listed to the right of the center column of component boxes, show how each value network exhibits a very different rank-ordering of important product attributes, even for the same product. In the top-most value network, disk drive performance is measured in terms of capacity, speed, and reliability, whereas in the portable computing value network, the important performance attributes are ruggedness, low power consumption, and small size. Consequently, parallel value networks, each built around a different definition of what makes a product valuable, may exist within the same broadly defined industry.
+
+Although many components in different systems-of-use may carry the same labels (for example, each network in Figure 2.2 involves read-write heads, disk drives, RAM circuits, printers, software, and so on), the nature of components used may be quite different. Generally, a set of competing firms, each with its own value chain, 10 is associated with each box in a network diagram, and the firms supplying the products and services used in each network often differ (as illustrated in Figure 2.2 by the firms listed to the left of the center column of component boxes).
+
+As firms gain experience within a given network, they are likely to develop capabilities, organizational structures, and cultures tailored to their value network’s distinctive requirements. Manufacturing volumes, the slope of ramps to volume production, product development cycle times, and organizational consensus identifying the customer and the customer’s needs may differ substantially from one value network to the next.
+
+Figure 2.2 Examples of Three Value Networks
+
+
+
+
+
+Source: Reprinted from Research Policy 24, Clayton M. Christensen and Richard S. Rosenbloom, “Explaining the Attacker’s Advantage: Technological Paradigms, Organizational Dynamics, and the Value Network,” 233–257, 1995 with kind permission of Elsevier Science—NL, Sara Burgerhartstraat 25, 1055 KV Amsterdam, The Netherlands.
+
+Given the data on the prices, attributes, and performance characteristics of thousands of disk drive models sold between 1976 and 1989, we can use a technique called hedonic regression analysis to identify how markets valued individual attributes and how those attribute values changed over time. Essentially, hedonic regression analysis expresses the total price of a product as the sum of individual so-called shadow prices (some positive, others negative) that the market places on each of the product’s characteristics. Figure 2.3 shows some results of this analysis to illustrate how different value networks can place very different values on a given performance attribute. Customers in the mainframe computer value network in 1988 were willing on average to pay $1.65 for an incremental megabyte of capacity; but moving across the minicomputer, desktop, and portable computing value networks, the shadow price of an incremental megabyte of capacity declines to $1.50, $1.45, and $1.17, respectively. Conversely, portable and desktop computing customers were willing to pay a high price in 1988 for a cubic inch of size reduction, while customers in the other networks placed no value on that attribute at all. 11
+
+Figure 2.3 Difference in the Valuation of Attributes Across Different Value Networks
+
+
+
+
+
+Cost Structures and Value Networks
+
+
+The definition of a value network goes beyond the attributes of the physical product. For example, competing within the mainframe computer network shown in Figure 2.2 entails a particular cost structure. Research, engineering, and development costs are substantial. Manufacturing overheads are high relative to direct costs because of low unit volumes and customized product configurations. Selling directly to end users involves significant sales force costs, and the field service network to support the complicated machines represents a substantial ongoing expense. All these costs must be incurred in order to provide the types of products and services customers in this value network require. For these reasons, makers of mainframe computers, and makers of the 14-inch disk drives sold to them, historically needed gross profit margins of between 50 percent and 60 percent to cover the overhead cost structure inherent to the value network in which they competed.
+
+Competing in the portable computer value network, however, entails a very different cost structure. These computer makers incur little expense researching component technologies, preferring to build their machines with proven component technologies procured from vendors. Manufacturing involves assembling millions of standard products in low-labor-cost regions. Most sales are made through national retail chains or by mail order. As a result, companies in this value network can be profitable with gross margins of 15 percent to 20 percent. Hence, just as a value network is characterized by a specific rank-ordering of product attributes valued by customers, it is also characterized by a specific cost structure required to provide the valued products and services.
+
+Each value network’s unique cost structure is illustrated in Figure 2.4. Gross margins typically obtained by manufacturers of 14-inch disk drives, about 60 percent, are similar to those required by mainframe computer makers: 56 percent. Likewise, the margins 8-inch drive makers earned were similar to those earned by minicomputer companies (about 40 percent), and the margins typical of the desktop value network, 25 percent, also typified both the computer makers and their disk drive suppliers.
+
+The cost structures characteristic of each value network can have a powerful effect on the sorts of innovations firms deem profitable. Essentially, innovations that are valued within a firm’s value network, or in a network where characteristic gross margins are higher, will be perceived as profitable. Those technologies whose attributes make them valuable only in networks with lower gross margins, on the other hand, will not be viewed as profitable, and are unlikely to attract resources or managerial interest. (We will explore the impact of each value network’s characteristic cost structures upon the established firms’ mobility and fortunes more fully in chapter 4.)
+
+Figure 2.4 Characteristic Cost Structures of Different Value Networks
+
+
+
+
+
+Source: Data are from company annual reports and personal interviews with executives from several representative companies in each network.
+
+In sum, the attractiveness of a technological opportunity and the degree of difficulty a producer will encounter in exploiting it are determined by, among other factors, the firm’s position in the relevant value network. As we shall see, the manifest strength of established firms in sustaining innovation and their weakness in disruptive innovation—and the opposite manifest strengths and weaknesses of entrant firms—are consequences not of differences in technological or organizational capabilities between incumbent and entrant firms, but of their positions in the industry’s different value networks.
+
+
+
+
+
+TECHNOLOGY S-CURVES AND VALUE NETWORKS
+
+
+The technology S-curve forms the centerpiece of thinking about technology strategy. It suggests that the magnitude of a product’s performance improvement in a given time period or due to a given amount of engineering effort is likely to differ as technologies mature. The theory posits that in the early stages of a technology, the rate of progress in performance will be relatively slow. As the technology becomes better understood, controlled, and diffused, the rate of technological improvement will accelerate. 12 But in its mature stages, the technology will asymptotically approach a natural or physical limit such that ever greater periods of time or inputs of engineering effort will be required to achieve improvements. Figure 2.5 illustrates the resulting pattern.
+
+Many scholars have asserted that the essence of strategic technology management is to identify when the point of inflection on the present technology’s S-curve has been passed, and to identify and develop whatever successor technology rising from below will eventually supplant the present approach. Hence, as depicted by the dotted curve in Figure 2.5, the challenge is to successfully switch technologies at the point where S-curves of old and new intersect. The inability to anticipate new technologies threatening from below and to switch to them in a timely way has often been cited as the cause of failure of established firms and as the source of advantage for entrant or attacking firms. 13
+
+How do the concepts of S-curves and of value networks relate to each other? 14 The typical framework of intersecting S-curves illustrated in Figure 2.5 is a conceptualization of sustaining technological changes within a single value network, where the vertical axis charts a single measure of product performance (or a rank-ordering of attributes). Note its similarity to Figure 1.4, which measured the sustaining impact of new recording head technologies on the recording density of disk drives. Incremental improvements within each technology drove improvements along each of the individual curves, while movement to new head technologies involved a more radical leap. Recall that there was not a single example in the history of technological innovation in the disk drive industry of an entrant firm leading the industry or securing a viable market position with a sustaining innovation. In every instance, the firms that anticipated the eventual flattening of the current technology and that led in identifying, developing, and implementing the new technology that sustained the overall pace of progress were the leading practitioners of the prior technology. These firms often incurred enormous financial risks, committing to new technologies a decade or more in advance and wiping out substantial bases of assets and skills. Yet despite these challenges, managers of the industry’s established firms navigated the dotted line course shown in Figure 2.5 with remarkable, consistent agility.
+
+Figure 2.5 The Conventional Technology S-Curve
+
+
+
+
+
+Source: Clayton M. Christensen, “Exploring the Limits of the Technology S-Curve. Part I: Component Technologies,” Production and Operations Management 1, no. 4 (Fall 1992): 340. Reprinted by permission.
+
+A disruptive innovation, however, cannot be plotted in a figure such as 2.5, because the vertical axis for a disruptive innovation, by definition, must measure different attributes of performance than those relevant in established value networks. Because a disruptive technology gets its commercial start in emerging value networks before invading established networks, an S-curve framework such as that in Figure 2.6 is needed to describe it. Disruptive technologies emerge and progress on their own, uniquely defined trajectories, in a home value network. If and when they progress to the point that they can satisfy the level and nature of performance demanded in another value network, the disruptive technology can then invade it, knocking out the established technology and its established practitioners, with stunning speed.
+
+Figures 2.5 and 2.6 illustrate clearly the innovator’s dilemma that precipitates the failure of leading firms. In disk drives (and in the other industries covered later in this book), prescriptions such as increased investments in R&D; longer investment and planning horizons; technology scanning, forecasting, and mapping; as well as research consortia and joint ventures are all relevant to the challenges posed by the sustaining innovations whose ideal pattern is depicted in Figure 2.5. Indeed, the evidence suggests that many of the best established firms have applied these remedies and that they can work when managed well in treating sustaining technologies. But none of these solutions addresses the situation in Figure 2.6, because it represents a threat of a fundamentally different nature.
+
+Figure 2.6 Disruptive Technology S-Curve
+
+
+
+
+
+Source: Clayton M. Christensen, “Exploring the Limits of the Technology S-Curve. Part I: Component Technologies,” Production and Operations Management 1, no. 4 (Fall 1992): 361. Reprinted by permission.
+
+
+
+
+
+MANAGERIAL DECISION MAKING AND DISRUPTIVE TECHNOLOGICAL CHANGE
+
+
+Competition within the value networks in which companies are embedded defines in many ways how the firms can earn their money. The network defines the customers’ problems to be addressed by the firm’s products and services and how much can be paid for solving them. Competition and customer demands in the value network in many ways shape the firms’ cost structure, the firm size required to remain competitive, and the necessary rate of growth. Thus, managerial decisions that make sense for companies outside a value network may make no sense at all for those within it, and vice versa.
+
+We saw, in chapter 1, a stunningly consistent pattern of successful implementation of sustaining innovations by established firms and their failure to deal with disruptive ones. The pattern was consistent because the managerial decisions that led to those outcomes made sense. Good managers do what makes sense, and what makes sense is primarily shaped by their value network.
+
+This decision-making pattern, outlined in the six steps below, emerged from my interviews with more than eighty managers who played key roles in the disk drive industry’s leading firms, both incumbents and entrants, at times when disruptive technologies had emerged. In these interviews I tried to reconstruct, as accurately and from as many points of view as possible, the forces that influenced these firms’ decision-making processes regarding the development and commercialization of technologies either relevant or irrelevant to the value networks in which the firms were at the time embedded. My findings consistently showed that established firms confronted with disruptive technology change did not have trouble developing the requisite technology: Prototypes of the new drives had often been developed before management was asked to make a decision. Rather, disruptive projects stalled when it came to allocating scarce resources among competing product and technology development proposals (allocating resources between the two value networks shown at right and left in Figure 2.6, for example). Sustaining projects addressing the needs of the firms’ most powerful customers (the new waves of technology within the value network depicted in Figure 2.5) almost always preempted resources from disruptive technologies with small markets and poorly defined customer needs.
+
+This characteristic pattern of decisions is summarized in the following pages. Because the experience was so archetypical, the struggle of Seagate Technology, the industry’s dominant maker of 5.25-inch drives, to successfully commercialize the disruptive 3.5-inch drive is recounted in detail to illustrate each of the steps in the pattern. 15
+
+
+
+
+
+
+
+
+
+Step 1: Disruptive Technologies Were First Developed within Established Firms
+
+
+Although entrants led in commercializing disruptive technologies, their development was often the work of engineers at established firms, using bootlegged resources. Rarely initiated by senior management, these architecturally innovative designs almost always employed off-the-shelf components. Thus, engineers at Seagate Technology, the leading 5.25-inch drive maker, were, in 1985, the second in the industry to develop working prototypes of 3.5-inch models. They made some eighty prototype models before the issue of formal project approval was raised with senior management. The same thing happened earlier at Control Data and Memorex, the dominant 14-inch drive makers, where engineers had designed working 8-inch drives internally, nearly two years before the product appeared in the market.
+
+
+
+
+
+Step 2: Marketing Personnel Then Sought Reactions from Their Lead Customers
+
+
+The engineers then showed their prototypes to marketing personnel, asking whether a market for the smaller, less expensive (and lower performance) drives existed. The marketing organization, using its habitual procedure for testing the market appeal of new drives, showed the prototypes to lead customers of the existing product line, asking them for an evaluation. 16 Thus, Seagate marketers tested the new 3.5-inch drives with IBM’s PC Division and other makers of XT-and AT-class desktop personal computers—even though the drives had significantly less capacity than the mainstream desktop market demanded.
+
+Not surprisingly, therefore, IBM showed no interest in Seagate’s disruptive 3.5-inch drives. IBM’s engineers and marketers were looking for 40 and 60 MB drives, and they already had a slot for 5.25-inch drives designed into their computer; they needed new drives that would take them further along their established performance trajectory. Finding little customer interest, Seagate’s marketers drew up pessimistic sales forecasts. In addition, because the products were simpler, with lower performance, forecast profit margins were lower than those for higher performance products, and Seagate’s financial analysts, therefore, joined their marketing colleagues in opposing the disruptive program. Working from such input, senior managers shelved the 3.5-inch drive—just as it was becoming firmly established in the laptop market.
+
+This was a complex decision, made in a context of competing proposals to expend the same resources to develop new products that marketers felt were critical to remaining competitive with current customers and achieving aggressive growth and profit targets. “We needed a new model,” recalled a former Seagate manager, “which could become the next ST412 [a very successful product generating $300 million sales annually in the desktop market that was near the end of its life cycle]. Our forecasts for the 3.5-inch drive were under $50 million because the laptop market was just emerging, and the 3.5-inch product just didn’t fit the bill.”
+
+Seagate managers made an explicit decision not to pursue the disruptive technology. In other cases, managers did approve resources for pursuing a disruptive product—but, in the day-to-day decisions about how time and money would actually be allocated, engineers and marketers, acting in the best interests of the company, consciously and unconsciously starved the disruptive project of resources necessary for a timely launch.
+
+When engineers at Control Data, the leading 14-inch drive maker, were officially chartered to develop CDC’s initial 8-inch drives, its customers were looking for an average of 300 MB per computer, whereas CDC’s earliest 8-inch drives offered less than 60 MB. The 8-inch project was given low priority, and engineers assigned to its development kept getting pulled off to work on problems with 14-inch drives being designed for more important customers. Similar problems plagued the belated launches of Quantum’s and Micropolis’s 5.25-inch products.
+
+
+
+
+
+Step 3: Established Firms Step Up the Pace of Sustaining Technological Development
+
+
+In response to the needs of current customers, the marketing managers threw impetus behind alternative sustaining projects, such as incorporating better heads or developing new recording codes. These gave customers what they wanted and could be targeted at large markets to generate the necessary sales and profits for maintaining growth. Although often involving greater development expense, such sustaining investments appeared far less risky than investments in the disruptive technology: The customers existed, and their needs were known.
+
+Seagate’s decision to shelve the 3.5-inch drive in 1985 to 1986, for example, seems starkly rational. Its view downmarket (in terms of the disk drive trajectory map) was toward a small total market forecast for 1987 for 3.5-inch drives. Gross margins in that market were uncertain, but manufacturing executives predicted that costs per megabyte for 3.5-inch drives would be much higher than for 5.25-inch drives. Seagate’s view upmarket was quite different. Volumes in 5.25-inch drives with capacities of 60 to 100 MB were forecast to be $500 million by 1987. Companies serving the 60 to 100 MB market were earning gross margins of between 35 and 40 percent, whereas Seagate’s margins in its high-volume 20 MB drives were between 25 and 30 percent. It simply did not make sense for Seagate to put its resources behind the 3.5-inch drive when competing proposals to move upmarket by developing its ST251 line of drives were also being actively evaluated.
+
+After Seagate executives shelved the 3.5-inch project, the firm began introducing new 5.25-inch models at a dramatically accelerated rate. In 1985, 1986, and 1987, the numbers of new models annually introduced as a percentage of the total number of its models on the market in the prior year were 57, 78, and 115 percent, respectively. And during the same period, Seagate incorporated complex and sophisticated new component technologies such as thin-film disks, voice-coil actuators, 17 RLL codes, and embedded SCSI interfaces. Clearly, the motivation in doing this was to win the competitive wars against other established firms, which were making similar improvements, rather than to prepare for an attack by entrants from below. 18
+
+
+
+
+
+Step 4: New Companies Were Formed, and Markets for the Disruptive Technologies Were Found by Trial and Error
+
+
+New companies, usually including frustrated engineers from established firms, were formed to exploit the disruptive product architecture. The founders of the leading 3.5-inch drive maker, Conner Peripherals, were disaffected employees from Seagate and Miniscribe, the two largest 5.25-inch manufacturers. The founders of 8-inch drive maker Micropolis came from Pertec, a 14-inch drive manufacturer, and the founders of Shugart and Quantum defected from Memorex. 19
+
+The start-ups, however, were as unsuccessful as their former employers in attracting established computer makers to the disruptive architecture. Consequently, they had to find new customers. The applications that emerged in this very uncertain, probing process were the minicomputer, the desktop personal computer, and the laptop computer. In retrospect, these were obvious markets for hard drives, but at the time, their ultimate size and significance were highly uncertain. Micropolis was founded before the emergence of the desk-side minicomputer and word processor markets in which its products came to be used. Seagate began when personal computers were simple toys for hobbyists, two years before IBM introduced its PC. And Conner Peripherals got its start before Compaq knew the potential size of the portable computer market. The founders of these firms sold their products without a clear marketing strategy— essentially selling to whoever would buy. Out of what was largely a trial-and-error approach to the market, the ultimately dominant applications for their products emerged.
+
+
+
+
+
+Step 5: The Entrants Moved Upmarket
+
+
+Once the start-ups had discovered an operating base in new markets, they realized that, by adopting sustaining improvements in new component technologies, 20 they could increase the capacity of their drives at a faster rate than their new market required. They blazed trajectories of 50 percent annual improvement, fixing their sights on the large, established computer markets immediately above them on the performance scale.
+
+The established firms’ views downmarket and the entrant firms’ views upmarket were asymmetrical. In contrast to the unattractive margins and market size that established firms saw when eyeing the new, emerging markets for simpler drives, the entrants saw the potential volumes and margins in the upscale, high-performance markets above them as highly attractive. Customers in these established markets eventually embraced the new architectures they had rejected earlier, because once their needs for capacity and speed were met, the new drives’ smaller size and architectural simplicity made them cheaper, faster, and more reliable than the older architectures. Thus, Seagate, which started in the desktop personal computer market, subsequently invaded and came to dominate the minicomputer, engineering workstation, and mainframe computer markets for disk drives. Seagate, in turn, was driven from the desktop personal computer market for disk drives by Conner and Quantum, the pioneering manufacturers of 3.5-inch drives.
+
+
+
+
+
+Step 6: Established Firms Belatedly Jumped on the Bandwagon to Defend Their Customer Base
+
+
+When the smaller models began to invade established market segments, the drive makers that had initially controlled those markets took their prototypes off the shelf (where they had been put in Step 3) and introduced them in order to defend their customer base in their own market. By this time, of course, the new architecture had shed its disruptive character and become fully performance-competitive with the larger drives in the established markets. Although some established manufacturers were able to defend their market positions through belated introduction of the new architecture, many found that the entrant firms had developed insurmountable advantages in manufacturing cost and design experience, and they eventually withdrew from the market. The firms attacking from value networks below brought with them cost structures set to achieve profitability at lower gross margins. The attackers therefore were able to price their products profitably, while the defending, established firms experienced a severe price war.
+
+For established manufacturers that did succeed in introducing the new architectures, survival was the only reward. None ever won a significant share of the new market; the new drives simply cannibalized sales of older products to existing customers. Thus, as of 1991, almost none of Seagate’s 3.5-inch drives had been sold to portable/laptop manufacturers: Its 3.5-inch customers still were desktop computer manufacturers, and many of its 3.5-inch drives continued to be shipped with frames permitting them to be mounted in XT-and AT-class computers designed to accommodate 5.25-inch drives.
+
+Control Data, the 14-inch leader, never captured even a 1 percent share of the minicomputer market. It introduced its 8-inch drives nearly three years after the pioneering start-ups did, and nearly all of its drives were sold to its existing mainframe customers. Miniscribe, Quantum, and Micropolis all had the same cannibalistic experience when they belatedly introduced disruptive technology drives. They failed to capture a significant share of the new market, and at best succeeded in defending a portion of their prior business.
+
+The popular slogan “stay close to your customers” appears not always to be robust advice. 21 One instead might expect customers to lead their suppliers toward sustaining innovations and to provide no leadership—or even to explicitly mislead—in instances of disruptive technology change. 22
+
+
+
+
+
+FLASH MEMORY AND THE VALUE NETWORK
+
+
+The predictive power of the value network framework is currently being tested with the emergence of flash memory: a solid-state semiconductor memory technology that stores data on silicon memory chips. Flash differs from conventional dynamic random access memory (DRAM) technology in that the chip retains the data even when the power is off. Flash memory is a disruptive technology. Flash chips consume less than 5 percent of the power that a disk drive of equivalent capacity would consume, and because they have no moving parts, they are far more rugged than disk memory. Flash chips have disadvantages, of course. Depending on the amount of memory, the cost per megabyte of flash can be between five and fifty times greater than disk memory. And flash chips are not as robust for writing: They can only be overwritten a few hundred thousand times before wearing out, rather than a few million times for disk drives.
+
+The initial applications for flash memory were in value networks quite distant from computing; they were in devices such as cellular phones, heart monitoring devices, modems, and industrial robots in which individually packaged flash chips were embedded. Disk drives were too big, too fragile, and used too much power to be used in these markets. By 1994, these applications for individually packaged flash chips—“socket flash” in industry parlance—accounted for $1.3 billion in industry revenues, having grown from nothing in 1987.
+
+In the early 1990s, the flash makers produced a new product format, called a flash card: credit card–sized devices on which multiple flash chips, linked and governed by controller circuitry, were mounted. The chips on flash cards were controlled by the same control circuitry, SCSI (Small Computer Standard Interface, an acronym first used by Apple), as was used in disk drives, meaning that in concept, a flash card could be used like a disk drive for mass storage. The flash card market grew from $45 million in 1993 to $80 million in 1994, and forecasters were eyeing a $230 million flash card market by 1996.
+
+Will flash cards invade the disk drive makers’ core markets and supplant magnetic memory? If they do, what will happen to the disk drive makers? Will they stay atop their markets, catching this new technological wave? Or will they be driven out?
+
+
+
+
+
+The Capabilities Viewpoint
+
+
+Clark’s concept of technological hierarchies (see note 4) focuses on the skills and technological understanding that a company accumulates as the result of the product and process technology problems it has addressed in the past. In evaluating the threat to the disk drive makers of flash memory, someone using Clark’s framework, or the related findings of Tushman and Anderson (see note 5), would focus on the extent to which disk drive makers have historically developed expertise in integrated circuit design and in the design and control of devices composed of multiple integrated circuits. These frameworks would lead us to expect that drive makers will stumble badly in their attempts to develop flash products if they have limited expertise in these domains and will succeed if their experience and expertise are deep.
+
+On its surface, flash memory involves radically different electronics technology than the core competence of disk drive makers (magnetics and mechanics). But such firms as Quantum, Seagate, and Western Digital have developed deep expertise in custom integrated circuit design through embedding increasingly intelligent control circuitry and cache memory in their drives. Consistent with the practice in much of the ASIC (application-specific integrated circuit) industry, their controller chips are fabricated by independent, third-party fabricators that own excess clean room semiconductor processing capacity.
+
+Each of today’s leading disk drive manufacturers got its start by designing drives, procuring components from independent suppliers, assembling them either in its own factories or by contract, and then selling them. The flash card business is very similar. Flash card makers design the card and procure the component flash chips; they design and have fabricated an interface circuit, such as SCSI, to govern the drive’s interaction with the computing device; they assemble them either in-house or by contract; and they then market them.
+
+In other words, flash memory actually builds upon important competencies that many drive makers have developed. The capabilities viewpoint, therefore, would lead us to expect that disk drive makers may not stumble badly in bringing flash storage technology to the market. More specifically, the viewpoint predicts that those firms with the deepest experience in IC design—Quantum, Seagate, and Western Digital—will bring flash products to market quite readily. Others, which historically outsourced much of their electronic circuit design, may face more of a struggle.
+
+This has, indeed, been the case to date. Seagate entered the flash market in 1993 via its purchase of a 25 percent equity stake in Sundisk Corporation. Seagate and SunDisk together designed the chips and cards; the chips were fabricated by Matsushita, and the cards were assembled by a Korean manufacturer, Anam. Seagate itself marketed the cards. Quantum entered with a different partner, Silicon Storage Technology, which designed the chips that were then fabricated and assembled by contract.
+
+
+
+
+
+The Organizational Structure Framework
+
+
+Flash technology is what Henderson and Clark would call radical technology. Its product architecture and fundamental technological concept are novel compared to disk drives. The organizational structure viewpoint would predict that, unless they created organizationally independent groups to design flash products, established firms would stumble badly. Seagate and Quantum did, indeed, rely on independent groups and did develop competitive products.
+
+
+
+
+
+The Technology S-Curve Framework
+
+
+The technology S-curve is often used to predict whether an emerging technology is likely to supplant an established one. The operative trigger is the slope of the curve of the established technology. If the curve has passed its point of inflection, so that its second derivative is negative (the technology is improving at a decreasing rate), then a new technology may emerge to supplant the established one. Figure 2.7 shows that the S-curve for magnetic disk recording still has not hit its point of inflection: Not only is the areal density improving, as of 1995, it was improving at an increasing rate.
+
+The S-curve framework would lead us to predict, therefore, that whether or not established disk drive companies possess the capability to design flash cards, flash memory will not pose a threat to them until the magnetic memory S-curve has passed its point of inflection and the rate of improvement in density begins to decline.
+
+
+
+
+
+Insights from the Value Network Framework
+
+
+The value network framework asserts that none of the foregoing frameworks is a sufficient predictor of success. Specifically, even where established firms did not possess the requisite technological skills to develop a new technology, they would marshal the resources to develop or acquire them if their customers demanded it. Furthermore, the value network suggests that technology S-curves are useful predictors only with sustaining technologies. Disruptive technologies generally improve at a parallel pace with established ones—their trajectories do not intersect. The S-curve framework, therefore, asks the wrong question when it is used to assess disruptive technology. What matters instead is whether the disruptive technology is improving from below along a trajectory that will ultimately intersect with what the market needs.
+
+Figure 2.7 Improvements in Areal Density of New Disk Drives (Densities in Millions of Bits per Square Inch)
+
+
+
+
+
+Source: Data are from various issues of Disk/Trend Report.
+
+The value network framework would assert that even though firms such as Seagate and Quantum are able technologically to develop competitive flash memory products, whether they invest the resources and managerial energy to build strong market positions in the technology will depend on whether flash memory can be initially valued and deployed within the value networks in which the firms make their money.
+
+As of 1996, flash memory can only be used in value networks different from those of the typical disk drive maker. This is illustrated in Figure 2.8, which plots the average megabytes of capacity of flash cards introduced each year between 1992 and 1995, compared with the capacities of 2.5-and 1.8-inch drives and with the capacity demanded in the notebook computer market. Even though they are rugged and consume little power, flash cards simply don’t yet pack the capacity to become the main mass storage devices in notebook computers. And the price of the flash capacity required to meet what the low end of the portable computing market demands (about 350 MB in 1995) is too high: The cost of that much flash capacity would be fifty times higher than comparable disk storage. 23
+
+Figure 2.8 Comparison of Disk Drive Memory Capacity to Flash Card
+
+
+
+
+
+Source: Data are from various issues of Disk/Trend Report.
+
+The low power consumption and ruggedness of flash certainly have no value and command no price premium on the desktop. There is, in other words, no way to use flash today in the markets where firms such as Quantum and Seagate make their money.
+
+Hence, because flash cards are being used in markets completely different from those Quantum and Seagate typically engage—palmtop computers, electronic clipboards, cash registers, electronic cameras, and so on—the value network framework would predict that firms similar to Quantum and Seagate are not likely to build market-leading positions in flash memory. This is not because the technology is too difficult or their organizational structures impede effective development, but because their resources will become absorbed in fighting for and defending larger chunks of business in the mainstream disk drive value networks in which they currently make their money.
+
+Indeed, the marketing director for a leading flash card producer observed, “We’re finding that as hard disk drive manufacturers move up to the gigabyte range, they are unable to be cost competitive at the lower capacities. As a result, disk drive makers are pulling out of markets in the 10 to 40 megabyte range and creating a vacuum into which flash can move.” 24
+
+The drive makers’ efforts to build flash card businesses have in fact floundered. By 1995, neither Quantum nor Seagate had built market shares of even 1 percent of the flash card market. Both companies subsequently concluded that the opportunity in flash cards was not yet substantial enough, and withdrew their products from the market the same year. Seagate retained its minority stake in SunDisk (renamed SanDisk), however, a strategy which, as we shall see, is an effective way to address disruptive technology.
+
+
+
+
+
+
+
+IMPLICATIONS OF THE VALUE NETWORK FRAMEWORK FOR INNOVATION
+
+
+Value networks strongly define and delimit what companies within them can and cannot do. This chapter closes with five propositions about the nature of technological change and the problems successful incumbent firms encounter, which the value network perspective highlights.
+
+1. The context, or value network, in which a firm competes has a profound influence on its ability to marshal and focus the necessary resources and capabilities to overcome the technological and organizational hurdles that impede innovation. The boundaries of a value network are determined by a unique definition of product performance—a rank-ordering of the importance of various performance attributes differing markedly from that employed in other systems-of-use in a broadly defined industry. Value networks are also defined by particular cost structures inherent in addressing customers’ needs within the network.
+
+2. A key determinant of the probability of an innovative effort’s commercial success is the degree to which it addresses the well-understood needs of known actors within the value network. Incumbent firms are likely to lead their industries in innovations of all sorts—architecture and components—that address needs within their value network, regardless of intrinsic technological character or difficulty. These are straightforward innovations; their value and application are clear. Conversely, incumbent firms are likely to lag in the development of technologies—even those in which the technology involved is intrinsically simple—that only address customers’ needs in emerging value networks. Disruptive innovations are complex because their value and application are uncertain, according to the criteria used by incumbent firms.
+
+3. Established firms’ decisions to ignore technologies that do not address their customers’ needs become fatal when two distinct trajectories interact. The first defines the performance demanded over time within a given value network, and the second traces the performance that technologists are able to provide within a given technological paradigm. The trajectory of performance improvement that technology is able to provide may have a distinctly different slope from the trajectory of performance improvement demanded in the system-of-use by downstream customers within any given value network. When the slopes of these two trajectories are similar, we expect the technology to remain relatively contained within its initial value network. But when the slopes differ, new technologies that are initially performance-competitive only within emerging or commercially remote value networks may migrate into other networks, providing a vehicle for innovators in new networks to attack established ones. When such an attack occurs, it is because technological progress has diminished the relevance of differences in the rank-ordering of performance attributes across different value networks. For example, the disk drive attributes of size and weight were far more important in the desktop computing value network than they were in the mainframe and minicomputer value networks. When technological progress in 5.25-inch drives enabled manufacturers to satisfy the attribute prioritization in the mainframe and minicomputer networks, which prized total capacity and high speed, as well as that in the desktop network, the boundaries between the value networks ceased to be barriers to entry for 5.25-inch drive makers.
+
+4. Entrant firms have an attacker’s advantage over established firms in those innovations—generally new product architectures involving little new technology per se—that disrupt or redefine the level, rate, and direction of progress in an established technological trajectory. This is so because such technologies generate no value within the established network. The only way established firms can lead in commercializing such technologies is to enter the value network in which they create value. As Richard Tedlow noted in his history of retailing in America (in which supermarkets and discount retailing play the role of disruptive technologies), “the most formidable barrier the established firms faced is that they did not want to do this.” 25
+
+5. In these instances, although this “attacker’s advantage” is associated with a disruptive technology change, the essence of the attacker’s advantage is in the ease with which entrants, relative to incumbents, can identify and make strategic commitments to attack and develop emerging market applications, or value networks. At its core, therefore, the issue may be the relative flexibility of successful established firms versus entrant firms to change strategies and cost structures, not technologies.
+
+These propositions provide new dimensions for analyzing technological innovation. In addition to the required capabilities inherent in new technologies and in the innovating organization, firms faced with disruptive technologies must examine the implications of innovation for their relevant value networks. The key considerations are whether the performance attributes implicit in the innovation will be valued within the networks already served by the innovator; whether other networks must be addressed or new ones created in order to realize value for the innovation; and whether market and technological trajectories may eventually intersect, carrying technologies that do not address customers’ needs today to squarely address their needs in the future.
+
+These considerations apply not simply to firms grappling with the most modern technologies, such as the fast-paced, complex advanced electronic, mechanical, and magnetics technologies covered in this chapter. Chapter 3 examines them in the context of a very different industry: earthmoving equipment.
+
+
+
+
+
+NOTES
+
+
+1. See Rebecca M. Henderson and Kim B. Clark, “Architectural Innovation: The Reconfiguration of Existing Systems and the Failure of Established Firms” Administrative Science Quarterly (35), 1990, 9–30.
+
+2. Tracy Kidder, The Soul of a New Machine (New York: Avon Books, Inc., 1981).
+
+3. A few scholars have sought to measure the proportion of technological progress attributable to radical versus incremental advances. In an empirical study of a series of novel processes in petroleum refining, for example, John Enos found that half the economic benefits of new technology came from process improvements introduced after a new technology was commercially established. See J. L. Enos, “Invention and Innovation in the Petroleum Refining Industry,” in The Rate and Direction of Inventive Activity: Economic and Social Factors, National Bureau of Economic Research Report (Princeton, NJ: Princeton University Press, 1962), 299–321. My study of the disk drive industry has shown the same result. Half the advance in areal density (megabits per square inch of disk surface) can be attributed to new component technologies and half to incremental improvements in existing components and refinements in system design. See Clayton M. Christensen, “Exploring the Limits of the Technology S-Curve,” Production and Operations Management (1), 1992, 334–366.
+
+4. See Kim B. Clark, “The Interaction of Design Hierarchies and Market Concepts in Technological Evolution,” Research Policy (14), 1985, 235–251. Clark suggests, for example, that the early selections by automotive engineers of gasoline over steam or electrically powered engines defined the technical agenda for subsequent generations of engineers, who consequently did not pursue refinements in electric or steam propulsion. Clark has thus shown that the design skills and technological knowledge resident in companies today result from the cumulative choices engineers have made of what to tackle versus what to leave alone. Clark posits that technological improvements requiring that companies build upon or extend an existing cumulative body of knowledge favor an industry’s established firms. Conversely, when changes require a completely different body of knowledge, established firms will be at a disadvantage compared to firms that had already accumulated a different hierarchically structured body of knowledge, most likely in another industry.
+
+5. See, for example, Michael L. Tushman and Philip Anderson, “Technological Discontinuities and Organizational Environments,” Administrative Science Quarterly (31), 1986, 439–465; and Philip Anderson and Michael Tushman, “Technological Discontinuities and Dominant Designs,” Administrative Science Quarterly (35), 1990, 604–633.
+
+6. The concept of value network builds on Giovanni Dosi’s concept of technological paradigms. See Giovanni Dosi, “Technological Paradigms and Technological Trajectories, Research Policy (11), 1982, 147–162. Dosi characterizes a technological paradigm as a “pattern of solution of selected technological problems, based on selected principles derived from natural sciences and on selected material technologies” (152). New paradigms represent discontinuities in trajectories of progress as defined within earlier paradigms. They tend to redefine the very meaning of progress, and point technologists toward new classes of problems as the targets of ensuing normal technology development. The question examined by Dosi—how new technologies are selected and retained—is closely related to the question of why firms succeed or fail as beneficiaries of such changes.
+
+7. Value network, as presented here, draws heavily on ideas I developed jointly with Professor Richard S. Rosenbloom and which are summarized in two journal articles: Clayton M. Christensen and Richard S. Rosenbloom, “Explaining the Attacker’s Advantage: The Technological Paradigms, Organizational Dynamics, and the Value Network,” Research Policy (24), 1995, 233–257; and Richard S. Rosenbloom and Clayton M. Christensen, “Technological Discontinuities, Organizational Capabilities, and Strategic Commitments,” Industrial and Corporate Change (3), 1994, 655–685. I am heavily indebted to Professor Rosenbloom for his contributions to the development of these perspectives.
+
+8. See D. L. Marples, “The Decisions of Engineering Design,” IEEE Transactions on Engineering Management EM8, 1961, 55–71; and C. Alexander, Notes on the Synthesis of Form (Cambridge, MA: Harvard University Press, 1964).
+
+9. On this point, too, correspondence between the concept of the value network and Dosi’s concept of technological paradigms is strong. (See note 6.) The scope and boundaries of a value network are defined by the dominant technological paradigm and the corresponding technological trajectory employed at the higher levels of the network. As Dosi suggests, value can be defined as a function of the dominant technological paradigm in the ultimate system of use in the value network.
+
+10. Michael Porter, Competitive Advantage (New York: The Free Press, 1985).
+
+11. A more complete report of this analysis can be found in chapter 7 of Clayton M. Christensen, The Innovator’s Challenge: Understanding the Influence of Market Environment on Processes of Technology Development in the Rigid Disk Drive Industry, thesis, Harvard University Graduate School of Business Administration, 1992.
+
+12. D. Sahal, Patterns of Technological Innovation (London: Addison Wesley, 1981).
+
+13. The most widely read proponent of this view is Richard Foster; see, for example, his Innovation: The Attacker’s Advantage (New York: Summit Books, 1986).
+
+14. The insights summarized here are articulated more completely in C. M. Christensen, “Exploring the Limits of the Technology S-Curve,” Production and Operations Management (1), 1992, 334–366.
+
+15. A fuller account of similar decisions made in other firms can be found in Clayton M. Christensen, The Innovator’s Challenge: Understanding the Influence of Market Environment on Processes of Technology Development in the Rigid Disk Drive Industry, thesis, Harvard University Graduate School of Business Administration, 1992.
+
+16. This procedure is consistent with Robert Burgelman’s observation that one of the greatest difficulties encountered by corporate entrepreneurs is in finding the right “beta test sites,” where products can be interactively developed and refined with customers. Generally, the entrée to the customer was provided by the salesperson who sold the firm’s established product lines. This helped the firm develop new products for established markets, but not identify new applications for its new technology. See Robert Burgelman and Leonard Sayles, Inside Corporate Innovation (New York: The Free Press, 1986) 76–80. Professor Rebecca Henderson pointed out to me that this tendency always to take new technologies to mainstream customers reflects a rather narrow marketing competence—that although many scholars tend to frame the issue as one of technological competence, such inability to find new markets for new technologies may be a firm’s most serious handicap in innovation.
+
+17. Voice coil motors were more expensive than the stepper motors that Seagate had previously used. While not new to the market, they were new to Seagate.
+
+18. This is consistent with the findings reported by Arnold Cooper and Dan Schendel in “Strategic Responses to Technological Threats,” Business Horizons (19), February, 1976, 61–69.
+
+19. Ultimately, nearly all North American disk drive manufacturers can trace their founders’ genealogy to IBM’s San Jose division, which developed and manufactured its magnetic recording products. See Clayton M. Christensen, “The Rigid Disk Drive Industry: A History of Commercial and Technological Turbulence,” Business History Review (67), Winter, 1993, 531–588.
+
+20. In general, these component technologies were developed within the largest of the established firms that dominated the established markets above these entrants. This is because new components generally (but not always) have a sustaining impact on technology trajectories. These high-end, established firms typically were engaged in the hottest pursuit of sustaining innovations.
+
+21. The research of Eric von Hippel, frequently cited as evidence of the value of listening to customers, indicates that customers originate a large majority of new product ideas (see Eric von Hippel, The Sources of Innovation [New York: Oxford University Press, 1988]). One fruitful avenue for future research would be to revisit von Hippel’s data in light of the framework presented here. The value network framework would predict that the innovations toward which the customers in von Hippel’s study led their suppliers would have been sustaining innovations. We would expect disruptive innovations to have come from other sources.
+
+22. Henderson saw similar potential danger for being misled by customers in her study of photolithographic aligner equipment manufacturers. See Rebecca M. Henderson, “Keeping Too Close to Your Customers,” Massachusetts Institute of Technology Sloan School of Management working paper, 1993.
+
+23. Many industry observers have noted that there seems to be a floor on the cost of making a disk drive, somewhere around $120 per device, below which even the best manufacturers cannot plunge. This is the basic cost of designing, producing, and assembling the requisite components. Drive makers keep reducing costs per megabyte by continuously increasing the number of megabytes available in that basic $120 box. The effect of this floor on the competition between disk drives and flash cards may be profound. It means that in low-capacity applications, as the price of flash memory falls, flash will become cost-competitive with disk memory. The frontier above which magnetic disk drives have lower costs per megabyte than flash will keep moving upmarket, in a manner perfectly analogous to the upmarket movement of larger disk drive architectures. Experts predicted, in fact, that by 1997, a 40 MB flash card would be priced comparably to a 40 MB disk drive.
+
+24. Lewis H. Young, “Samsung Banks on Tiny Flash Cell,” Electronic Business Buyer (21), July, 1995, 28.
+
+25. Richard Tedlow, New and Improved: A History of Mass Marketing in America (Boston: Harvard Business School Press, 1994).
+
+
+
+
+

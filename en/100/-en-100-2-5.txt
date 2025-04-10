@@ -1,0 +1,260 @@
+5 Give Responsibility for Disruptive Technologies to Organizations Whose Customers Need Them
+
+
+Most executives would like to believe that they’re in charge of their organizations, that they make the crucial decisions and that when they decide that something should be done everyone snaps to and executes. This chapter expands on the view already introduced: that in practice, it is a company’s customers who effectively control what it can and cannot do. As we have seen in the disk drive industry, companies were willing to bet enormous amounts on technologically risky projects when it was clear that their customers needed the resulting products. But they were unable to muster the wherewithal to execute much simpler disruptive projects if existing, profitable customers didn’t need the products.
+
+This observation supports a somewhat controversial theory called resource dependence, propounded by a minority of management scholars, 1 which posits that companies’ freedom of action is limited to satisfying the needs of those entities outside the firm (customers and investors, primarily) that give it the resources it needs to survive. Drawing heavily upon concepts from biological evolution, resource dependence theorists assert that organizations will survive and prosper only if their staffs and systems serve the needs of customers and investors by providing them with the products, services, and profit they require. Organizations that do not will ultimately die off, starved of the revenues they need to survive. 2 Hence, through this survival-of-the-fittest mechanism, those firms that rise to prominence in their industries generally will be those whose people and processes are most keenly tuned to giving their customers what they want. The controversy with this theory arises when its proponents conclude that managers are powerless to change the courses of their firms against the dictates of their customers. Even if a manager has a bold vision to take her or his company in a very different direction, the power of the customer-focused people and processes in any company well-adapted to survival in its competitive environment will reject the manager’s attempts to change direction. Therefore, because they provide the resources upon which the firm is dependent, it is the customers, rather than the managers, who really determine what a firm will do. It is forces outside the organization, rather than the managers within it, that dictate the company’s course. Resource dependence theorists conclude that the real role of managers in companies whose people and systems are well-adapted to survival is, therefore, only a symbolic one.
+
+For those of us who have managed companies, consulted for management, or taught future managers, this is a most disquieting thought. We are there to manage, to make a difference, to formulate and implement strategy, to accelerate growth and improve profits. Resource dependence violates our very reason for being. Nonetheless, the findings reported in this book provide rather stunning support for the theory of resource dependence—especially for the notion that the customer-focused resource allocation and decision-making processes of successful companies are far more powerful in directing investments than are executives’ decisions.
+
+Clearly, customers wield enormous power in directing a firm’s investments. What, then, should managers do when faced with a disruptive technology that the company’s customers explicitly do not want? One option is to convince everyone in the firm that the company should pursue it anyway, that it has long-term strategic importance despite rejection by the customers who pay the bills and despite lower profitability than the upmarket alternatives. The other option would be to create an independent organization and embed it among emerging customers that do need the technology. Which works best?
+
+Managers who choose the first option essentially are picking a fight with a powerful tendency of organizational nature—that customers, not managers, essentially control the investment patterns of a company. By contrast, managers who choose the second option align themselves with this tendency, harnessing rather than fighting its power. The cases presented in this chapter provide strong evidence that the second option offers far higher probabilities of success than the first.
+
+
+
+
+
+INNOVATION AND RESOURCE ALLOCATION
+
+
+The mechanism through which customers control the investments of a firm is the resource allocation process—the process that determines which initiatives get staff and money and which don’t. Resource allocation and innovation are two sides of the same coin: Only those new product development projects that do get adequate funding, staffing, and management attention have a chance to succeed; those that are starved of resources will languish. Hence, the patterns of innovation in a company will mirror quite closely the patterns in which resources are allocated.
+
+Good resource allocation processes are designed to weed out proposals that customers don’t want. When these decision-making processes work well, if customers don’t want a product, it won’t get funded; if they do want it, it will. This is how things must work in great companies. They must invest in things customers want—and the better they become at doing this, the more successful they will be.
+
+As we saw in chapter 4, resource allocation is not simply a matter of top-down decision making followed by implementation. Typically, senior managers are asked to decide whether to fund a project only after many others at lower levels in the organization have already decided which types of project proposals they want to package and send on to senior management for approval and which they don’t think are worth the effort. Senior managers typically see only a well-screened subset of the innovative ideas generated. 3
+
+And even after senior management has endorsed funding for a particular project, it is rarely a “done deal.” Many crucial resource allocation decisions are made after project approval—indeed, after product launch—by mid-level managers who set priorities when multiple projects and products compete for the time of the same people, equipment, and vendors. As management scholar Chester Barnard has noted:
+
+From the point of view of the relative importance of specific decisions, those of executives properly call for first attention. But from the point of view of aggregate importance, it is not decisions of executives, but of non-executive participants in organizations which should enlist major interest. [Italics added.] 4
+
+So how do non-executive participants make their resource allocation decisions? They decide which projects they will propose to senior management and which they will give priority to, based upon their understanding of what types of customers and products are most profitable to the company. Tightly coupled with this is their view of how their sponsorship of different proposals will affect their own career trajectories within the company, a view that is formed heavily by their understanding of what customers want and what types of products the company needs to sell more of in order to be more profitable. Individuals’ career trajectories can soar when they sponsor highly profitable innovation programs. It is through these mechanisms of seeking corporate profit and personal success, therefore, that customers exert a profound influence on the process of resource allocation, and hence on the patterns of innovation, in most companies.
+
+
+
+
+
+SUCCESS IN DISRUPTIVE DISK DRIVE TECHNOLOGY
+
+
+It is possible to break out of this system of customer control, however. Three cases in the history of the disk drive industry demonstrate how managers can develop strong market positions in a disruptive technology. In two cases, managers harnessed, rather than fought, the forces of resource dependence: They spun out independent companies to commercialize the disruptive technology. In the third, the manager chose to fight these forces, and survived the project, exhausted.
+
+
+
+
+
+Quantum and Plus Development
+
+
+As we have seen, Quantum Corporation, a leading maker of 8-inch drives sold in the minicomputer market in the early 1980s, completely missed the advent of 5.25-inch drives: It introduced its first versions nearly four years after those drives first appeared in the market. As the 5.25-inch pioneers began to invade the minicomputer market from below, for all the reasons already described, Quantum’s sales began to sag.
+
+In 1984 several Quantum employees saw a potential market for a thin 3.5-inch drive plugged into an expansion slot in IBM XT-and AT-class desktop computers—drives that would be sold to personal computer users rather than the OEM minicomputer manufacturers that had accounted for all of Quantum’s revenue. They determined to leave Quantum and start a new firm to commercialize their idea.
+
+Rather than let them leave unencumbered, however, Quantum’s executives financed and retained 80 percent ownership of this spinoff venture, called Plus Development Corporation, and set the company up in different facilities. It was a completely self-sufficient organization, with its own executive staff and all of the functional capabilities required in an independent company. Plus was extremely successful. It designed and marketed its drives but had them manufactured under contract by Matsushita Kotobuki Electronics (MKE) in Japan.
+
+As sales of Quantum’s line of 8-inch drives began to evaporate in the mid-1980s, they were offset by Plus’s growing “Hardcard” revenues. By 1987, sales of Quantum’s 8-and 5.25-inch products had largely disappeared. Quantum then purchased the remaining 20 percent of Plus, essentially closed down the old corporation, and installed Plus’s executives in Quantum’s most senior positions. They then reconfigured Plus’s 3.5-inch products to appeal to OEM desktop computer makers, such as Apple, just as the capacity vector for 3.5-inch drives was invading the desktop market, as shown in the disk drive trajectory map in Figure 1.7. Quantum, thus reconstituted as a 3.5-inch drive maker, has aggressively adopted sustaining component technology innovations, moving upmarket toward engineering workstations, and has also successfully negotiated the sustaining architectural innovation into 2.5-inch drives. By 1994 the new Quantum had become the largest unit-volume producer of disk drives in the world. 5
+
+
+
+
+
+Control Data in Oklahoma
+
+
+Control Data Corporation (CDC) effected the same self-reconstitution— once. CDC was the dominant manufacturer of 14-inch drives sold into the OEM market between 1965 and 1982; its market share fluctuated between 55 and 62 percent. When the 8-inch architecture emerged in the late 1970s, however, CDC missed it—by three years. The company never captured more than a fraction of the 8-inch market, and those 8-inch drives that it did sell were sold almost exclusively to defend its established customer base of mainframe computer manufacturers. The reason was resources and managerial emphasis: Engineers and marketers at the company’s principal Minneapolis facility kept getting pulled off the 8-inch program to resolve problems in the launch of next-generation 14-inch products for CDC’s mainstream customers.
+
+CDC launched its first 5.25-inch model two years after Seagate’s pioneering product appeared in 1980. This time, however, CDC located its 5.25-inch effort in Oklahoma City. This was done, according to one manager, “not to escape CDC’s Minneapolis engineering culture, but to isolate the [5.25-inch product] group from the company’s mainstream customers.” Although it was late in the market and never regained its former dominant position, CDC’s foray into 5.25-inch drives was profitable, and at times the firm commanded a 20 percent share of higher-capacity 5.25-inch drives.
+
+
+
+
+
+Micropolis: Transition by Managerial Force
+
+
+Micropolis Corporation, an early disk drive leader founded in 1978 to make 8-inch drives, was the only other industry player to successfully make the transition to a disruptive platform. It did not use the spin-out strategy that had worked for Quantum and Control Data, however, choosing instead to manage the change from within the mainstream company. But even this exception supports the rule that customers exert exceptionally powerful influence over the investments that firms can undertake successfully.
+
+Micropolis began to change in 1982, when founder and CEO Stuart Mabon intuitively perceived the trajectories of market demand and technology supply mapped in Figure 1.7 and decided that the firm should become primarily a maker of 5.25-inch drives. While initially hoping to keep adequate resources focused on developing its next generation of 8-inch drives so that Micropolis could straddle both markets, 6 he assigned the company’s premier engineers to the 5.25-inch program. Mabon recalls that it took “100 percent of my time and energy for eighteen months” to keep adequate resources focused on the 5.25-inch program, because the organization’s own mechanisms allocated resources to where the customers were—8-inch drives.
+
+By 1984, Micropolis had failed to keep pace with competition in the minicomputer market for disk drives and withdrew its remaining 8-inch models. With Herculean effort, however, it did succeed in its 5.25-inch programs. Figure 5.1 shows why this struggle occurred: In making the transition, Micropolis assumed a position on a very different technological trajectory. It had to walk away from every one of its major customers and replace the lost revenues with sales of the new product line to an entirely different group of desktop computer makers. Mabon remembers the experience as the most exhausting of his life.
+
+Figure 5.1 Technology Transition and Market Position at Micropolis Corporation
+
+
+
+
+
+Source: Data are from various issues of Disk/Trend Report.
+
+Micropolis finally introduced a 3.5-inch product in 1993. That was the point at which the product had progressed to pack more than 1 gigabyte in the 3.5-inch platform. At that level, Micropolis could sell the 3.5-inch drive to its existing customers.
+
+
+
+
+
+DISRUPTIVE TECHNOLOGIES AND THE THEORY OF RESOURCE DEPENDENCE
+
+
+The struggles recounted earlier of Seagate Technology’s attempts to sell 3.5-inch drives and of Bucyrus Erie’s failed attempt to sell its early Hydrohoe only to its mainstream customers illustrate how the theory of resource dependence can be applied to cases of disruptive technologies. In both instances, Seagate and Bucyrus were among the first in their industries to develop these disruptive products. But despite senior managers’ decisions to introduce them, the impetus or organizational energy required to launch the products aggressively into the appropriate value networks simply did not coalesce—until customers needed them.
+
+Should we then accept the corollary stipulated by resource-dependence theorists that managers are merely powerless individuals? Hardly. In the Introduction, exploring the image of how people learned to fly, I noted that all attempts had ended in failure as long as they consisted of fighting fundamental laws of nature. But once laws such as gravity, Bernoulli’s principle, and the notions of lift, drag and resistance began to be understood, and flying machines were designed that accounted for or harnessed those laws, people flew quite successfully. By analogy, this is what Quantum and Control Data did. By embedding independent organizations within an entirely different value network, where they were dependent upon the appropriate set of customers for survival, those managers harnessed the powerful forces of resource dependence. The CEO of Micro-polis fought them, but he won a rare and costly victory.
+
+Disruptive technologies have had deadly impact in many industries besides disk drives, mechanical excavators, and steel. 7 The following pages summarize the effect of disruptive technologies in three other industries— computers, retailing, and printers—to highlight how the only companies in those industries that established strong market positions in the disruptive technologies were those which, like Quantum and Control Data, harnessed rather than fought the forces of resource dependence.
+
+
+
+
+
+DEC, IBM, AND THE PERSONAL COMPUTER
+
+
+Quite naturally, the computer industry and the disk drive industry have parallel histories, because value networks of the latter are embedded in those of the former. In fact, if the axes and intersecting trajectories depicted on the disk drive trajectory map in Figure 1.7 were relabeled with computer-relevant terms, it would summarize equally well the failure of leading computer industry firms. IBM, the industry’s first leader, sold its mainframe computers to the central accounting and data processing departments of large organizations. The emergence of the minicomputer represented a disruptive technology to IBM and its competitors. Their customers had no use for it; it promised lower, not higher, margins; and the market initially was significantly smaller. As a result, the makers of mainframes ignored the minicomputer for years, allowing a set of entrants—Digital Equipment, Data General, Prime, Wang, and Nixdorf—to create and dominate that market. IBM ultimately introduced its own line of minicomputers, but it did so primarily as a defensive measure, when the capabilities of minicomputers had advanced to the point that they were performance-competitive with the computing needs of some of IBM’s customers.
+
+Similarly, none of the makers of minicomputers became a significant factor in the desktop personal computer market, because to them the desktop computer was a disruptive technology. The PC market was created by another set of entrants, including Apple, Commodore, Tandy, and IBM. The minicomputer makers were exceptionally prosperous and highly regarded by investors, the business press, and students of good manage-ment—until the late 1980s, when the technological trajectory of the desktop computer intersected with the performance demanded by those who had previously bought minicomputers. The missile-like attack of the desktop computer from below severely wounded every minicomputer maker. Several of them failed. None established a viable position in the desktop personal computer value network.
+
+A similar sequence of events characterized the emergence of the portable computer, where the market was created and dominated by a set of entrants like Toshiba, Sharp, and Zenith. Apple and IBM, the leading desktop makers, did not introduce portable models until the portables’ performance trajectory intersected with the computing needs of their customers.
+
+Probably none of these firms has been so deeply wounded by disruptive technology as Digital Equipment. DEC fell from fortune to folly in just a few years, as stand-alone workstations and networked desktop computers obviated most customers’ needs for minicomputers almost overnight.
+
+DEC didn’t stumble for lack of trying, of course. Four times between 1983 and 1995 it introduced lines of personal computers targeted at consumers, products that were technologically much simpler than DEC’s minicomputers. But four times it failed to build businesses in this value network that were perceived within the company as profitable. Four times it withdrew from the personal computer market. Why? DEC launched all four forays from within the mainstream company. 8 For all of the reasons so far recounted, even though executive-level decisions lay behind the move into the PC business, those who made the day-to-day resource allocation decisions in the company never saw the sense in investing the necessary money, time, and energy in low-margin products that their customers didn’t want. Higher-performance initiatives that promised up-scale margins, such as DEC’s super-fast Alpha microprocessor and its adventure into mainframe computers, captured the resources instead.
+
+In trying to enter the desktop personal computing business from within its mainstream organization, DEC was forced to straddle the two different cost structures intrinsic to two different value networks. It simply couldn’t hack away enough overhead cost to be competitive in low-end personal computers because it needed those costs to remain competitive in its higher-performance products.
+
+Yet IBM’s success in the first five years of the personal computing industry stands in stark contrast to the failure of the other leading mainframe and minicomputer makers to catch the disruptive desktop computing wave. How did IBM do it? It created an autonomous organization in Florida, far away from its New York state headquarters, that was free to procure components from any source, to sell through its own channels, and to forge a cost structure appropriate to the technological and competitive requirements of the personal computing market. The organization was free to succeed along metrics of success that were relevant to the personal computing market. In fact, some have argued that IBM’s subsequent decision to link its personal computer division much more closely to its mainstream organization was an important factor in IBM’s difficulties in maintaining its profitability and market share in the personal computer industry. It seems to be very difficult to manage the peaceful, unambiguous coexistence of two cost structures, and two models for how to make money, within a single company.
+
+The conclusion that a single organization might simply be incapable of competently pursuing disruptive technology, while remaining competitive in mainstream markets, bothers some “can-do” managers—and, in fact, most managers try to do exactly what Micropolis and DEC did: maintain their competitive intensity in the mainstream, while simultaneously trying to pursue disruptive technology. The evidence is strong that such efforts rarely succeed; position in one market will suffer unless two separate organizations, embedded within the appropriate value networks, pursue their separate customers.
+
+
+
+
+
+KRESGE, WOOLWORTH, AND DISCOUNT RETAILING
+
+
+In few industries has the impact of disruptive technology been felt so pervasively as in retailing, where discounters seized dominance from traditional department and variety stores. The technology of discount retailing was disruptive to traditional operations because the quality of service and selection offered by discounters played havoc with the accustomed metrics of quality retailing. Moreover, the cost structure required to compete profitably in discount retailing was fundamentally different than that which department stores had developed to compete within their value networks.
+
+The first discount store was Korvette’s, which began operating a number of outlets in New York in the mid-1950s. Korvette’s and its imitators operated at the very low end of retailing’s product line, selling nationally known brands of standard hard goods at 20 to 40 percent below department store prices. They focused on products that “sold themselves” because customers already knew how to use them. Relying on national brand image to establish the value and quality of their products, these discounters eliminated the need for knowledgeable salespeople; they also focused on the group of customers least attractive to mainstream retailers: “young wives of blue collar workers with young children.” 9 This was counter to the upscale formulas department stores historically had used to define quality retailing and to improve profits.
+
+Discounters didn’t accept lower profits than those of traditional retailers, however; they just earned their profits through a different formula. In the simplest terms, retailers cover their costs through the gross margin, or markup, they charge over the cost of the merchandise they sell. Traditional department stores historically marked merchandise up by 40 percent and turned their inventory over four times in a year—that is, they earned 40 percent on the amount they invested in inventory, four times during the year, for a total return on inventory investment of 160 percent. Variety stores earned somewhat lower profits through a formula similar to that used by the department stores. Discount retailers earned a return on inventory investment similar to that of department stores, but through a different model: low gross margins and high inventory turns. Table 5.1 summarizes the three positions.
+
+The history of discount retailing vividly recalls the history of minimill steel making. Just like the minimills, discounters took advantage of their cost structure to move upmarket and seize share from competing traditional retailers at a stunning rate: first at the low end, in brand-name hard goods such as hardware, small appliances, and luggage, and later in territory further to the northeast such as home furnishings and clothing. Figure 5.2 illustrates how stunning the discounters’ invasion was: Their share of retailing revenues in the categories of goods they sold rose from 10 percent in 1960 to nearly 40 percent a scant six years later.
+
+Table 5.1 Different Pathways to Profits
+
+
+
+
+
+* Calculated as Margins x Turns, in other words, the total of the margins earned through successive turnovers each year. Source: Annual corporate reports of many companies in each category for various years.
+
+Figure 5.2 Gains in Discount Retailers’ Market Share, 1960–1966
+
+
+
+
+
+Source: Data are from various issues of Discount Merchandiser.
+
+Just as in disk drives and excavators, a few of the leading traditional retailers—notably S. S. Kresge, F. W. Woolworth, and Dayton Hudson— saw the disruptive approach coming and invested early. None of the other major retail chains, including Sears, Montgomery Ward, J. C. Penney, and R. H. Macy, made a significant attempt to create a business in discount retailing. Kresge (with its Kmart chain) and Dayton Hudson (with the Target chain) succeeded. 10 They both created focused discount retailing organizations that were independent from their traditional business. They recognized and harnessed the forces of resource dependence. By contrast, Woolworth failed in its venture (Woolco), trying to launch it from within the F. W. Woolworth variety store company. A detailed comparison of the approaches of Kresge and Woolworth, which started from very similar positions, lends additional insight into why establishing independent organizations to pursue disruptive technology seems to be a necessary condition for success.
+
+S. S. Kresge, then the world’s second largest variety store chain, began studying discount retailing in 1957, while discounting was still in its infancy. By 1961, both Kresge and its rival F. W. Woolworth (the world’s largest variety store operator) had announced initiatives to enter discount retailing. Both firms opened stores in 1962, within three months of each other. The performance of the Woolco and Kmart ventures they launched, however, subsequently differed dramatically. A decade later, Kmart’s sales approached $3.5 billion while Woolco’s sales were languishing unprofitably at $0.9 billion. 11
+
+In making its commitment to discount retailing, Kresge decided to exit the variety store business entirely: In 1959 it hired a new CEO, Harry Cunningham, whose sole mission was to convert Kresge into a discounting powerhouse. Cunningham, in turn, brought in an entirely new management team, so that by 1961 there “was not a single operating vice president, regional manager, assistant regional manager, or regional merchandise manager who was not new on the job.” 12 In 1961 Cunningham stopped opening any new variety stores, embarking instead on a program of closing about 10 percent of Kresge’s existing variety operations each year. This represented a wholesale refocusing of the company on discount retailing.
+
+Woolworth, on the other hand, attempted to support a program of sustaining improvements in technology, capacity, and facilities in its core variety store businesses while simultaneously investing in disruptive discounting. The managers charged with improving the performance of Woolworth’s variety stores were also charged with building “the largest chain of discount houses in America.” CEO Robert Kirkwood asserted that Woolco “would not conflict with the company’s plans for growth and expansion in the regular variety store operations,” and that no existing stores would be converted to a discount format. 13 Indeed, as discount retailing hit its most frenzied expansion phase in the 1960s, Woolworth was opening new variety stores at the pace it had set in the 1950s.
+
+Unfortunately (but predictably), Woolworth proved unable to sustain within a single organization the two different cultures, and two different models of how to make a profit, that were required to be successful in variety and discount retailing. By 1967 it had dropped the term “discount” from all Woolco advertising, adopting the term “promotional department store” instead. Although initially Woolworth had set up a separate administrative staff for its Woolco operation, by 1971 more rational, cost-conscious heads had prevailed.
+
+In a move designed to increase sales per square foot in both Woolco and Woolworth divisions, the two subsidiaries have been consolidated operationally on a regional basis. Company officials say the consolidation—which involves buying offices, distribution facilities and management personnel at the regional level—will help both to develop better merchandise and more efficient stores. Woolco will gain the benefits of Woolworth’s buying resources, distribution facilities and additional expertise in developing specialty departments. In return, Woolworth will gain Woolco’s knowhow in locating, designing, promoting and operating large stores over 100,000 sq. ft. 14
+
+What was the impact of this cost-saving consolidation? It provided more evidence that two models for how to make money cannot peacefully coexist within a single organization. Within a year of this consolidation, Woolco had increased its markups such that its gross margins were the highest in the discount industry—about 33 percent. In the process, its inventory turns fell from the 7x it originally had achieved to 4x. The formula for profit that had long sustained F. W. Woolworth (35 percent margins for four inventory turns or 140 percent return on inventory investment) was ultimately demanded of Woolco as well. (See Figure 5.3.) Woolco was no longer a discounter—in name or in fact. Not surprisingly, Woolworth’s venture into discount retailing failed: It closed its last Woolco store in 1982.
+
+Woolworth’s organizational strategy for succeeding in disruptive discount retailing was the same as Digital Equipment’s strategy for launching its personal computer business. Both founded new ventures within the mainstream organization that had to earn money by mainstream rules, and neither could achieve the cost structure and profit model required to succeed in the mainstream value network.
+
+Figure 5.3 Impact of the Integration of Woolco, and F. W. Woolworth on the Way
+
+
+
+
+
+Source: Data are from various annual reports of F. W. Woolworth Company and from various issues of Discount Merchandiser.
+
+
+
+
+
+SURVIVAL BY SUICIDE: HEWLETT-PACKARD’S LASER JET AND INK-JET PRINTERS
+
+
+Hewlett-Packard’s experience in the personal computer printer business illustrates how a company’s pursuit of a disruptive technology by spinning out an independent organization might entail, in the end, killing another of its business units.
+
+Hewlett-Packard’s storied success in manufacturing printers for personal computers becomes even more remarkable when one considers its management of the emergence of bubble-jet or ink-jet technology. Beginning in the mid-1980s, HP began building a huge and successful business around laser jet printing technology. The laser jet was a discontinuous improvement over dot-matrix printing, the previously dominant personal computer printing technology, and HP built a commanding market lead.
+
+When an alternative way of translating digital signals into images on paper (ink-jet technology) first appeared, there were vigorous debates about whether laser jet or ink jet would emerge as the dominant design in personal printing. Experts lined up on both sides of the question, offering HP extensive advice on which technology would ultimately become the printer of choice on the world’s desktops. 15
+
+Although it was never framed as such in the debates of the time, inkjet printing was a disruptive technology. It was slower than the laser jet, its resolution was worse, and its cost per printed page was higher. But the printer itself was smaller and potentially much less expensive than the laser jet. At these lower prices, it promised lower gross margin dollars per unit than the laser jet. Thus, the ink-jet printer was a classic disruptive product, relative to the laser jet business.
+
+Rather than place its bet exclusively with one or the other, and rather than attempt to commercialize the disruptive ink-jet from within the existing printer division in Boise, Idaho, HP created a completely autonomous organizational unit, located in Vancouver, Washington, with responsibility for making the ink-jet printer a success. It then let the two businesses compete against each other. Each has behaved classically. As shown in Figure 5.4, the laser jet division has moved sharply upmarket, in a strategy reminiscent of 14-inch drives, mainframe computers, and integrated steel mills. HP’s laser jet printers can print at high speeds with exceptional resolution; handle hundreds of fonts and complicated graphics; print on two sides of the page; and serve multiple users on a network. They have also gotten larger physically.
+
+The ink-jet printer isn’t as good as the laser jet and may never be. But the critical question is whether the ink jet could ever be as good a printer as the personal desktop computing market demands. The answer appears to be yes. The resolution and speed of ink-jet printers, while still inferior to those of laser jets, are now clearly good enough for many students, professionals, and other un-networked users of desktop computers.
+
+HP’s ink-jet printer business is now capturing many of those who would formerly have been laser jet users. Ultimately, the number of users at the highest-performance end of the market, toward which the laser jet division is headed, will probably become small. One of HP’s businesses may, in the end, have killed another. But had HP not set up its ink-jet business as a separate organization, the ink-jet technology would probably have languished within the mainstream laser jet business, leaving one of the other companies now actively competing in the ink-jet printer business, such as Canon, as a serious threat to HP’s printer business. And by staying in the laser business, as well, HP has joined IBM’s mainframe business and the integrated steel companies in making a lot of money while executing an upmarket retreat. 16
+
+Figure 5.4 Speed Improvement in InkJet and LaserJet Printers
+
+
+
+
+
+Source: Hewlett-Packard product brochures, various years.
+
+
+
+
+
+NOTES
+
+
+1. The theory of resource dependence has been most thoroughly argued by Jeffrey Pfeffer and Gerald R. Salancik in The External Control of Organizations: A Resource Dependence Perspective (New York: Harper & Row, 1978).
+
+2. This implies that, in managing business under both normal conditions and conditions of assault by a disruptive technology, the choice of which customers the firm will serve has enormous strategic consequences.
+
+3. Joseph L. Bower, in Managing the Resource Allocation Process (Homewood, IL: Richard D. Irwin, 1972), presents an elegant and compelling picture of the resource allocation process.
+
+4. Chester Barnard, The Functions of the Executive (Cambridge, MA: Harvard University Press, 1938), 190–191.
+
+5. Quantum’s spin-out of the Hardcard effort and its subsequent strategic reorientation is an example of the processes of strategy change described by Robert Burgelman, in “Intraorganizational Ecology of Strategy-Making and Organizational Adaptation: Theory and Field Research,” Organization Science (2), 1991, 239–262, as essentially a process of natural selection through which suboptimal strategic initiatives lose out to optimal ones in the internal competition for corporate resources.
+
+6. The failure of Micropolis to maintain simultaneous competitive commitments to both its established technology and the new 5.25-inch technology is consistent with the technological histories recounted by James Utterback, in Mastering the Dynamics of Innovation (Boston: Harvard Business School Press, 1994). Utterback found that firms that attempted to develop radically new technology almost always tried to maintain simultaneous commitment to the old and that they almost always failed.
+
+7. A set of industries in which disruptive technologies are believed to have played a role in toppling leading firms is presented by Richard S. Rosenbloom and Clayton M. Christensen in “Technological Discontinuities, Organizational Capabilities, and Strategic Commitments,” Industrial and Corporate Change (3), 1994, 655–685.
+
+8. In the 1990s, DEC finally set up a Personal Computer Division in its attempt to build a significant personal computer business. It was not as autonomous from DEC’s mainstream business; however, the Quantum and Control Data spin-outs were. Although DEC set up specific performance metrics for the PC division, it was still held, de facto, to corporate standards for gross margins and revenue growth.
+
+9. “Harvard Study on Discount Shoppers,” Discount Merchandiser, September, 1963, 71.
+
+10. When this book was being written, Kmart was a crippled company, having been beaten in a game of strategy and operational excellence by WalMart. Nonetheless, during the preceding two decades, Kmart had been a highly successful retailer, creating extraordinary value for Kresge shareholders. Kmart’s present competitive struggles are unrelated to Kresge’s strategy in meeting the original disruptive threat of discounting.
+
+11. A detailed contrast between the Woolworth and Kresge approaches to discount retailing can be found in the Harvard Business School teaching case. “The Discount Retailing Revolution in America,” No. 695-081.
+
+12. See Robert Drew-Bear, “S. S. Kresge’s Kmarts,” Mass Merchandising: Revolution and Evolution (New York: Fairchild Publications, 1970), 218.
+
+13. F. W. Woolworth Company Annual Report, 1981, p. 8.
+
+14. “Woolco Gets Lion’s Share of New Space,” Chain Store Age, November, 1972, E27. This was an extraordinarily elegant, rational argument for the consolidation, clearly crafted by a corporate spin-doctor extraordinaire. Never mind that no Woolworth stores approached 100,000 square feet in size!
+
+15. See, for example, “The Desktop Printer Industry in 1990,” Harvard Business School, Case No. 9-390-173.
+
+16. Business historian Richard Tedlow noted that the same dilemma had confronted A&P’s executives as they deliberated whether to adopt the disruptive supermarket retailing format:
+
+The supermarket entrepreneurs competed against A&P not by doing better what A&P was the best company in the world at doing, but by doing something that A&P did not want to do at all. The greatest entrepreneurial failure in this story is Kroger. This company was second in the market, and one of its own employees (who left to found the world’s first supermarket) knew how to make it first. Kroger executives did not listen. Perhaps it was lack of imagination or perhaps, like the executives at A&P, those at Kroger also had too much invested in the standard way of doing business. If the executives at A&P endorsed the supermarket revolution, they were ruining their own distribution system. That is why they sat by paralyzed, unable to act until it was almost too late. In the end, A&P had little choice. The company could ruin its own system, or see others do it.
+
+
+
+See Richard Tedlow, New and Improved: The Story of Mass Marketing in America (Boston: Harvard Business School Press, 1996).
+
+
+
+
+
+

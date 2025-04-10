@@ -1,0 +1,107 @@
+The Innovator’s Dilemma Book Group Guide
+
+
+The summary and questions in this guide are designed to stimulate thinking and discussion about The Innovator’s Dilemma, how its findings are manifest in many industries today, and the implications of those findings for the future.
+
+
+
+
+
+Thesis of the Book
+
+
+In The Innovator’s Dilemma, Professor Clayton Christensen asks the question: Why do well-managed companies fail? He concludes that they often fail because the very management practices that have allowed them to become industry leaders also make it extremely difficult for them to develop the disruptive technologies that ultimately steal away their markets.
+
+Well-managed companies are excellent at developing the sustaining technologies that improve the performance of their products in the ways that matter to their customers. This is because their management practices are biased toward:
+
+Listening to customers
+
+Investing aggressively in technologies that give those customers what they say they want
+
+Seeking higher margins
+
+Targeting larger markets rather than smaller ones
+
+
+
+Disruptive technologies, however, are distinctly different from sustaining technologies. Disruptive technologies change the value proposition in a market. When they first appear, they almost always offer lower performance in terms of the attributes that mainstream customers care about. In computer disk drives, for example, disruptive technologies have always had less capacity than the old technologies. But disruptive technologies have other attributes that a few fringe (generally new) customers value. They are typically cheaper, smaller, simpler, and frequently more convenient to use. Therefore, they open new markets. Further, because with experience and sufficient investment, the developers of disruptive technologies will always improve their products’ performance, they eventually are able to take over the older markets. This is because they are able to deliver sufficient performance on the old attributers, and they add some new ones.
+
+The Innovator’s Dilemma describes both the processes through which disruptive technologies supplant older technologies and the powerful forces within well-managed companies that make them unlikely to develop those technologies themselves. Professor Christensen offers a framework of four Principles of Disruptive Technology to explain why the management practices that are the most productive for exploiting existing technologies are antiproductive when it comes to developing disruptive ones. And, finally, he suggests ways that managers can harness these principles so that their companies can become more effective at developing for themselves the new technologies that are going to capture their markets in the future.
+
+
+
+
+
+Principles of Disruptive Technology
+
+
+Companies Depend on Customers and Investors for Resources In order to survive, companies must provide customers and investors with the products, services, and profits that they require. The highest performing companies, therefore, have well-developed systems for killing ideas that their customers don’t want. As a result, these companies find it very difficult to invest adequate resources in disruptive technologies—lower-margin opportunities that their customers don’t want—until their customers want them. And by then, it is too late.
+
+Small Markets Don’t Solve the Growth Needs of Large Companies To maintain their share prices and create internal opportunities for their employees, successful companies need to grow. It isn’t necessary that they increase their growth rates, but they must maintain them. And as they get larger, they need increasing amounts of new revenue just to maintain the same growth rate. Therefore, it becomes progressively more difficult for them to enter the newer, smaller markets that are destined to become the large markets of the future. To maintain their growth rates, they must focus on large markets.
+
+Markets That Don’t Exist Can’t Be Analyzed Sound market research and good planning followed by execution according to plan are the hallmarks of good management. But companies whose investment processes demand quantification of market size and financial returns before they can enter a market get paralyzed when faced with disruptive technologies because they demand data on markets that don’t yet exist.
+
+Technology Supply May Not Equal Market Demand Although disruptive technologies can initially be used only in small markets, they eventually become competitive in mainstream markets. This is because the pace of technological progress often exceeds the rate of improvement that mainstream customers want or can absorb. As a result, the products that are currently in the mainstream eventually will overshoot the performance that mainstream markets demand, while the disruptive technologies that underperform relative to customer expectations in the mainstream market today may become directly competitive tomorrow. Once two or more products are offering adequate performance, customers will find other criteria for choosing. These criteria tend to move toward reliability, convenience, and price, all of which are areas in which the newer technologies often have advantages.
+
+
+
+A big mistake that managers make in dealing with new technologies is that they try to fight or overcome the Principles of Disruptive Technology. Applying the traditional management practices that lead to success with sustaining technologies always leads to failure with disruptive technologies, says Professor Christensen. The more productive route, which often leads to success, he says, is to understand the natural laws that apply to disruptive technologies and to use them to create new markets and new products. Only by recognizing the dynamics of how disruptive technologies develop can managers respond effectively to the opportunities that they present.
+
+Specifically, he advises managers faced with disruptive technologies to:
+
+Give responsibility for disruptive technologies to organizations whose customers need them so that resources will flow to them.
+
+Set up a separate organization small enough to get excited by small gains.
+
+Plan for failure. Don’t bet all your resources on being right the first time. Think of your initial efforts at commercializing a disruptive technology as learning opportunities. Make revisions as you gather data.
+
+Don’t count on breakthroughs. Move ahead early and find the market for the current attributes of the technology. You will find it outside the current mainstream market. You will also find that the attributes that make disruptive technologies unattractive to mainstream markets are the attributes on which the new markets will be built.
+
+
+
+
+
+Questions for Discussion
+
+
+The characteristics of a disruptive technology are: They are simpler and cheaper and lower performing.
+
+They generally promise lower margins, not higher profits.
+
+Leading firms’ most profitable customers generally can’t use and don’t want them.
+
+They are first commercialized in emerging or insignificant markets.
+
+The Innovator’s Dilemma discusses disruptive innovations in the disk-drive, excavator, steel, and auto industries. Looking back through history, can you identify some disruptive technologies that eventually replaced older products and industries? Can you think of others that are emerging today, maybe even ones that could threaten your business?
+
+
+
+There is a tendency in all markets for companies to move upmarket toward more complicated products with higher prices. Why is it difficult for companies to enter markets for simpler, cheaper products? Can you think of companies that have upscaled themselves out of business? How might they have avoided that?
+
+The same tendency for companies to move upmarket that can be fatal for established companies also accounts for the eventual development of emerging markets into mainstream markets. Besides the examples in the book, can you think of companies that have upscaled themselves to success?
+
+In attempting to commercialize a disruptive technology, why is it important to begin investing on the assumption that your expectations will be wrong? Besides the motorcycle, excavator, and disk-drive examples in the book, can you think of other examples in which a company began marketing a product for one application but the big market turned out to be for another application?
+
+One of the hallmarks of disruptive technologies is that initially they underperform the current technology on the attributes that matter most to mainstream customers. The companies that succeed in commercializing them, therefore, must find different customers for whom the new technology’s attributes are most valuable. Can you think of any markets that are emerging today based on attributes or qualities that seemed unimportant to the mainstream markets when they were introduced? What older, mainstream products or companies are threatened?
+
+When two or more products meet the minimum specifications for the functionality of a product, customers begin to look for other deciding factors. According to a Windermere Associates study cited in the book, the progression usually is from functionality to reliability to convenience to price. What are some current markets that have recently moved one or more steps along this progression?
+
+Most people think that senior executives make the important decisions about where a company will go and how it will invest its resources, but the real power lies with the people deeper in the organization who decide which proposals will be presented to senior management. What are the corporate factors that lead midlevel employees to ignore or kill disruptive technologies? Should well-managed companies change these practices and policies?
+
+What are the personal career considerations that lead ambitious employees in large corporations to ignore or kill disruptive technologies? Should well-managed companies change the policies that encourage employees to think this way?
+
+What do the findings in this book suggest about how companies will be organized in the future? Should large organizations with structures created around functionalities redesign themselves into interconnected teams, as some management theorists currently believe? Or, recognizing that different technologies and different markets have differing needs, should they try to have distinct organizational structures and management practices for different circumstances? Is this realistically possible?
+
+The CEO of a disk-drive maker is quoted in chapter 4 as saying that “We got way ahead of the market” in explaining why his company failed to commercialize a 1.8-inch disk drive that it had developed. At the time, however, there was a burgeoning market for 1.8-inch drives among new users that his company hadn’t discovered. Professor Christensen argues that “disruptive technology should be framed as a marketing challenge, not a technological one.” Do you think there is a market somewhere for all technologies? If not, how would you as a manager go about figuring out which technologies to shelve and which ones to pursue aggressively?
+
+Similarly, Professor Christensen argues that companies should not wait for new breakthroughs to improve a technology’s performance. Instead, they need to find customers who value the very attributes that others consider to be shortcomings. As a manager, how do you decide when a technology—or idea—needs more development and when it’s time to aggressively put it on the market?
+
+The primary thesis of The Innovator’s Dilemma is that the management practices that allow companies to be leaders in mainstream markets are the same practices that cause them to miss the opportunities offered by disruptive technologies. In other words, well-managed companies fail because they are well managed. Do you think that the definition of what constitutes “good management” is changing? In the future, will listening to customers, investing aggressively in producing what those customers say they want, and carefully analyzing markets become “bad management”? What kind of system might combine the best of both worlds?
+
+
+
+
+
+
+
+

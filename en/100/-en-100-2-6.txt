@@ -1,0 +1,256 @@
+6 Match the Size of the Organization to the Size of the Market
+
+
+Managers who confront disruptive technological change must be leaders, not followers, in commercializing disruptive technologies. Doing so requires implanting the projects that are to develop such technologies in commercial organizations that match in size the market they are to address. These assertions are based on two key findings of this study: that leadership is more crucial in coping with disruptive technologies than with sustaining ones, and that small, emerging markets cannot solve the near-term growth and profit requirements of large companies.
+
+The evidence from the disk drive industry shows that creating new markets is significantly less risky and more rewarding than entering established markets against entrenched competition. But as companies become larger and more successful, it becomes even more difficult to enter emerging markets early enough. Because growing companies need to add increasingly large chunks of new revenue each year just to maintain their desired rate of growth, it becomes less and less possible that small markets can be viable as vehicles through which to find these chunks of revenue. As we shall see, the most straightforward way of confronting this difficulty is to implant projects aimed at commercializing disruptive technologies in organizations small enough to get excited about small-market opportunities, and to do so on a regular basis even while the mainstream company is growing.
+
+
+
+
+
+ARE THE PIONEERS REALLY THE ONES WITH ARROWS IN THEIR BACKS?
+
+
+A crucial strategic decision in the management of innovation is whether it is important to be a leader or acceptable to be a follower. Volumes have been written on first-mover advantages, and an offsetting amount on the wisdom of waiting until the innovation’s major risks have been resolved by the pioneering firms. “You can always tell who the pioneers were,” an old management adage goes. “They’re the ones with the arrows in their backs.” As with most disagreements in management theory, neither position is always right. Indeed, some findings from the study of the disk drive industry give some insight into when leadership is critical and when followership makes better sense.
+
+
+
+
+
+Leadership in Sustaining Technologies May Not Be Essential
+
+
+One of the watershed technologies affecting the pace at which disk drive makers have increased the recording density of their drives was the thin-film read/write head. We saw in chapter 1 that despite the radically different, competence-destroying character of the technology, the $100 million and five-to-fifteen year expense of developing it, the firms that led in this technology were the leading, established disk drive manufacturers.
+
+Because of the risk involved in the technology’s development and its potential importance to the industry, the trade press began speculating in the late 1970s about which competitor would lead with thin-film heads. How far might conventional ferrite head technology be pushed? Would any drive makers get squeezed out of the industry race because they placed a late or wrong bet on the new head technology? Yet, it turned out, whether a firm led or followed in this innovation did not make a substantial difference in its competitive position. This is illustrated in Figures 6.1 and 6.2.
+
+Figure 6.1 shows when each of the leading firms introduced its first model employing thin-film head technology. The vertical axis measures the recording density of the drive. The bottom end of the line for each firm denotes the maximum recording density it had achieved before it introduced a model with a thin-film head. The top end of each line indicates the density of the first model each company introduced with a thin-film head. Notice the wide disparity in the points at which the firms felt it was important to introduce the new technology. IBM led the industry, introducing its new head when it had achieved 3 megabits (Mb) per square inch. Memorex and Storage Technology similarly took a leadership posture with respect to this technology. At the other end, Fujitsu and Hitachi pushed the performance of conventional ferrite heads nearly ten times beyond the point where IBM first introduced the technology, choosing to be followers, rather than leaders, in thin-film technology.
+
+Figure 6.1 Points at Which Thin-Film Technology Was Adopted by Leading Manufacturers, Relative to the Capabilities of Ferrite/Oxide Technology at the Time of the Switch
+
+
+
+
+
+Source: Data are from various issues of Disk/Trend Report.
+
+What benefit, if any, did leadership in this technology give to the pioneers? There is no evidence that the leaders gained any significant competitive advantage over the followers; none of the firms that pioneered thin-film technology gained significant market share on that account. In addition, pioneering firms appear not to have developed any sort of learning advantage enabling them to leverage their early lead to attain higher levels of density than did followers. Evidence of this is displayed in Figure 6.2. The horizontal axis shows the order in which the firms adopted thin-film heads. Hence, IBM was the first, Memorex, the second, and Fujitsu the fifteenth. The vertical axis gives the rank ordering of the recording density of the most advanced model marketed by each firm in 1989. If the early adopters of thin-film heads enjoyed some sort of experience-based advantage over the late adopters, then we would expect the points in the chart to slope generally from the upper left toward the lower right. The chart shows instead that there is no relationship between leadership and followership in thin-film heads and any subsequent technological edge. 1
+
+Each of the other sustaining technologies in the industry’s history present a similar picture. There is no evidence that any of the leaders in developing and adopting sustaining technologies developed a discernible competitive advantage over the followers. 2
+
+
+
+
+
+Leadership in Disruptive Technologies Creates Enormous Value
+
+
+In contrast to the evidence that leadership in sustaining technologies has historically conferred little advantage on the pioneering disk drive firms, there is strong evidence that leadership in disruptive technology has been very important. The companies that entered the new value networks enabled by disruptive generations of disk drives within the first two years after those drives appeared were six times more likely to succeed than those that entered later.
+
+Eighty-three companies entered the U.S. disk drive industry between 1976 and 1993. Thirty-five of these were diversified concerns, such as Memorex, Ampex, 3M, and Xerox, that made other computer peripheral equipment or other magnetic recording products. Forty-eight were independent startup companies, many being financed by venture capital and headed by people who previously had worked for other firms in the industry. These numbers represent the complete census of all firms that ever were incorporated and/or were known to have announced the design of a hard drive, whether or not they actually sold any. It is not a statistical sample of firms that might be biased in favor or against any type of firm.
+
+Figure 6.2 Relationship between Order of Adoption of Thin-Film Technology and Areal Density of Highest-Performance 1989 Model
+
+
+
+
+
+Source: Clayton M. Christensen, “Exploring the Limits of the Technology S-Curve. Part I: Component Technologies,” Production and Operations Management 1, no. 4 (Fall 1992): 347. Reprinted by permission.
+
+The entry strategies employed by each of these firms can be characterized along the two axes in Table 6.1. The vertical axis describes technology strategies, with firms at the bottom using only proven technologies in their initial products and those at the top using one or more new component technologies. 3 The horizontal axis charts market strategies, with firms at the left having entered already established value networks and those at the right having entered emerging value networks. 4 Another way to characterize this matrix is to note that companies that were agressive at entry in developing and adopting sustaining innovations appear in the two top boxes, left and right, while companies that led at entry in creating new value networks appear in the two right-hand boxes, top and bottom. The companies in the right boxes include all companies that attempted to create new value networks, even those networks that did not materialize into substantial markets (such as removable hard drives).
+
+Table 6.1 Disk Drive Companies Achieving $100 Million in Annual Revenues in at Least One Year Between 1976 and 1994
+
+
+
+
+
+Source: Data are from various issues of Disk/Trend Report.
+
+Note: S indicates success, F indicates failure, N indicates no, T indicates total.
+
+Each quadrant displays the number of companies that entered using the strategy represented. Under the S (for “success”) are the number of firms that successfully generated $100 million in revenues in at least one year, even if the firm subsequently failed; F (for “failure”) shows the number of firms that failed ever to reach the $100 million revenue threshold and that have subsequently exited the industry; N (for “no”) indicates the number of firms for which there is as yet no verdict because, while still operating in 1994, they had not yet reached $100 million in sales; and T (for “total”) lists the total number of firms that entered in each category. 5 The column labeled “% Success” indicates the percentage of the total number of firms that reached $100 million in sales. Finally, beneath the matrix are the sums of the data in the two quadrants above.
+
+The numbers beneath the matrix show that only three of the fifty-one firms (6 percent) that entered established markets ever reached the $100 million revenue benchmark. In contrast, 37 percent of the firms that led in disruptive technological innovation—those entering markets that were less than two years old—surpassed the $100 million level, as shown on the right side of Table 6.1. Whether a firm was a start-up or a diversified firm had little impact on its success rate. What mattered appears not to have been its organizational form, but whether it was a leader in introducing disruptive products and creating the markets in which they were sold. 6
+
+Only 13 percent of the firms that entered attempting to lead in sustaining component technologies (the top half of the matrix) succeeded, while 20 percent of the firms that followed were successful. Clearly, the lower-right quadrant offered the most fertile ground for success.
+
+The cumulative sales numbers in the right-most columns in each quadrant show the total, cumulative revenues logged by all firms pursuing each of the strategies; these are summarized below the matrix. The result is quite stunning. The firms that led in launching disruptive products together logged a cumulative total of $62 billion dollars in revenues between 1976 and 1994. 7 Those that followed into the markets later, after those markets had become established, logged only $3.3 billion in total revenue. It is, indeed, an innovator’s dilemma. Firms that sought growth by entering small, emerging markets logged twenty times the revenues of the firms pursuing growth in larger markets. The difference in revenues per firm is even more striking: The firms that followed late into the markets enabled by disruptive technology, on the left half of the matrix, generated an average cumulative total of $64.5 million per firm. The average company that led in disruptive technology generated $1.9 billion in revenues. The firms on the left side seem to have made a sour bargain. They exchanged a market risk, the risk that an emerging market for the disruptive technology might not develop after all, for a competitive risk, the risk of entering markets against entrenched competition. 8
+
+
+
+
+
+COMPANY SIZE AND LEADERSHIP IN DISRUPTIVE TECHNOLOGIES
+
+
+Despite evidence that leadership in disruptive innovation pays such huge dividends, established firms, as shown in the first four chapters of this book, often fail to take the lead. Customers of established firms can hold the organizations captive, working through rational, well-functioning resource allocation processes to keep them from commercializing disruptive technologies. One cruel additional disabling factor that afflicts established firms as they work to maintain their growth rate is that the larger and more successful they become, the more difficult it is to muster the rationale for entering an emerging market in its early stages, when the evidence above shows that entry is so crucial.
+
+Good managers are driven to keep their organizations growing for many reasons. One is that growth rates have a strong effect on share prices. To the extent that a company’s stock price represents the discounted present value of some consensus forecast of its future earnings stream, then the level of the stock price—whether it goes up or down—is driven by changes in the projected rate of growth in earnings. 9 In other words, if a company’s current share price is predicated on a consensus growth forecast of 20 percent, and the market’s consensus for growth is subsequently revised downward to 15 percent growth, then the company’s share price will likely fall—even though its revenues and earnings will still be growing at a healthy rate. A strong and increasing stock price, of course, gives a company access to capital on favorable terms; happy investors are a great asset to a company.
+
+Rising share prices make stock option plans an inexpensive way to provide incentive to and to reward valuable employees. When share prices stagnate or fall, options lose their value. In addition, company growth creates room at the top for high-performing employees to expand the scope of their responsibilities. When companies stop growing, they begin losing many of their most promising future leaders, who see less opportunity for advancement.
+
+Finally, there is substantial evidence that growing companies find it much easier to justify investments in new product and process technologies than do companies whose growth has stopped. 10
+
+Unfortunately, companies that become large and successful find that maintaining growth becomes progressively more difficult. The math is simple: A $40 million company that needs to grow profitably at 20 percent to sustain its stock price and organizational vitality needs an additional $8 million in revenues the first year, $9.6 million the following year, and so on; a $400 million company with a 20 percent targeted growth rate needs new business worth $80 million in the first year, $96 million in the next, and so on; and a $4 billion company with a 20 percent goal needs to find $800 million, $960 million, and so on, in each successive year.
+
+This problem is particularly vexing for big companies confronting disruptive technologies. Disruptive technologies facilitate the emergence of new markets, and there are no $800 million emerging markets. But it is precisely when emerging markets are small—when they are least attractive to large companies in search of big chunks of new revenue—that entry into them is so critical.
+
+How can a manager of a large, successful company deal with these realities of size and growth when confronted by disruptive change? I have observed three approaches in my study of this problem:
+
+Try to affect the growth rate of the emerging market, so that it becomes big enough, fast enough, to make a meaningful dent on the trajectory of profit and revenue growth of a large company.
+
+Wait until the market has emerged and become better defined, and then enter after it “has become large enough to be interesting.”
+
+Place responsibility to commercialize disruptive technologies in organizations small enough that their performance will be meaningfully affected by the revenues, profits, and small orders flowing from the disruptive business in its earliest years.
+
+
+
+As the following case studies show, the first two approaches are fraught with problems. The third has its share of drawbacks too, but offers more evidence of promise.
+
+
+
+
+
+CASE STUDY: PUSHING THE GROWTH RATE OF AN EMERGING MARKET
+
+
+The history of Apple Computer’s early entry into the hand-held computer, or personal digital assistant (PDA), market helps to clarify the difficulties confronting large companies in small markets.
+
+Apple Computer introduced its Apple I in 1976. It was at best a preliminary product with limited functionality, and the company sold a total of 200 units at $666 each before withdrawing it from the market. But the Apple I wasn’t a financial disaster. Apple had spent modestly on its development, and both Apple and its customers learned a lot about how desktop personal computers might be used. Apple incorporated this learning into its Apple II computer, introduced in 1977, which was highly successful. Apple sold 43,000 Apple II computers in the first two years they were on the market, 11 and the product’s success positioned the company as the leader in the personal computer industry. On the basis of the Apple II’s success Apple went public in 1980.
+
+A decade after the release of the Apple II, Apple Computer had grown into a $5 billion company, and like all large and successful companies, it found itself having to add large chunks of revenue each year to preserve its equity value and organizational vitality. In the early 1990s, the emerging market for hand-held PDAs presented itself as a potential vehicle for achieving that needed growth. In many ways, this opportunity, analogous to that in 1978 when the Apple II computer helped shape its industry, was a great fit for Apple. Apple’s distinctive design expertise was in user-friendly products, and user-friendliness and convenience were the basis of the PDA concept.
+
+How did Apple approach this opportunity? Aggressively. It invested scores of millions of dollars to develop its product, dubbed the “Newton.” The Newton’s features were defined through one of the most thoroughly executed market research efforts in corporate history; focus groups and surveys of every type were used to determine what features consumers would want. The PDA had many of the characteristics of a disruptive computing technology, and recognizing the potential problems, Apple CEO John Sculley made the Newton’s development a personal priority, promoting the product widely, and ensuring that the effort got the technical and financial resources it needed.
+
+Apple sold 140,000 Newtons in 1993 and 1994, its first two years on the market. Most observers, of course, viewed the Newton as a big flop. Technically, its handwriting recognition capabilities were disappointing, and its wireless communications technologies had made it expensive. But what was most damning was that while Sculley had publicly positioned the Newton as a key product to sustain the company’s growth, its first-year sales amounted to about 1 percent of Apple’s revenues. Despite all the effort, the Newton made hardly a dent in Apple’s need for new growth.
+
+But was the Newton a failure? The timing of Newton’s entry into the handheld market was akin to the timing of the Apple II into the desktop market. It was a market-creating, disruptive product targeted at an undefinable set of users whose needs were unknown to either themselves or Apple. On that basis, Newton’s sales should have been a pleasant surprise to Apple’s executives: It outsold the Apple II in its first two years by a factor of more than three to one. But while selling 43,000 units was viewed as an IPO-qualifying triumph in the smaller Apple of 1979, selling 140,000 Newtons was viewed as a failure in the giant Apple of 1994.
+
+As chapter 7 will show, disruptive technologies often enable something to be done that previously had been deemed impossible. Because of this, when they initially emerge, neither manufacturers nor customers know how or why the products will be used, and hence do not know what specific features of the product will and will not ultimately be valued. Building such markets entails a process of mutual discovery by customers and manufacturers—and this simply takes time. In Apple’s development of the desktop computer, for example, the Apple I failed, the first Apple II was lackluster, and the Apple II[H11501] succeeded. The Apple III was a market failure because of quality problems, and the Lisa was a failure. The first two generations of the Macintosh computer also stumbled. It wasn’t until the third iteration of the Macintosh that Apple and its customers finally found “it”: the standard for convenient, user-friendly computing to which the rest of the industry ultimately had to conform. 12
+
+In launching the Newton, however, Apple was desperate to short-circuit this coalescent process for defining the ultimate product and market. It assumed that its customers knew what they wanted and spent very aggressively to find out what this was. (As the next chapter will show, this is impossible.) Then to give customers what they thought they wanted, Apple had to assume the precarious role of a sustaining technology leader in an emerging industry. It spent enormous sums to push mobile data communications and handwriting recognition technologies beyond the state of the art. And finally, it spent aggressively to convince people to buy what it had designed.
+
+Because emerging markets are small by definition, the organizations competing in them must be able to become profitable at small scale. This is crucial because organizations or projects that are perceived as being profitable and successful can continue to attract financial and human resources both from their corporate parents and from capital markets. Initiatives perceived as failures have a difficult time attracting either. Unfortunately, the scale of the investments Apple made in its Newton in order to hasten the emergence of the PDA market made it very difficult to earn an attractive return. Hence, the Newton came to be broadly viewed as a flop.
+
+As with most business disappointments, hindsight reveals the faults in Apple’s Newton project. But I believe that the root cause of Apple’s struggle was not inappropriate management. The executives’ actions were a symptom of a deeper problem: Small markets cannot satisfy the near-term growth requirements of big organizations.
+
+
+
+
+
+CASE STUDY: WAITING UNTIL A MARKET IS LARGE ENOUGH TO BE INTERESTING
+
+
+A second way that many large companies have responded to the disruptive technology trap is to wait for emerging markets to “get large enough to be interesting” before they enter. Sometimes this works, as IBM’s well-timed 1981 entry into the desktop PC business demonstrated. But it is a seductive logic that can backfire, because the firms creating new markets often forge capabilities that are closely attuned to the requirements of those markets and that later entrants find difficult to replicate. Two examples from the disk drive industry illustrate this problem.
+
+Priam Corporation, which ascended to leadership of the market for 8-inch drives sold to minicomputer makers after its entry in 1978, had built the capability in that market to develop its drives on a two-year rhythm. This pace of new product introduction was consistent with the rhythm by which its customers, minicomputer makers, introduced their new products into the market.
+
+Seagate’s first 5.25-inch drive, introduced to the emerging desktop market in 1980, was disruptively slow compared to the performance of Priam’s drives in the minicomputer market. But by 1983, Seagate and the other firms that led in implementing the disruptive 5.25-inch technology had developed a one-year product introduction rhythm in their market. Because Seagate and Priam achieved similar percentage improvements in speed with each new product generation, Seagate, by introducing new generations on a one-year rhythm, quickly began to converge on Priam’s performance advantage.
+
+Priam introduced its first 5.25-inch drive in 1982. But the rhythm by which it introduced its subsequent 5.25-inch models was the two-year capability it had honed in the minicomputer market—not the one-year cycle required to compete in the desktop marketplace. As a consequence, it was never able to secure a single major OEM order from a desktop computer manufacturer: It just couldn’t hit their design windows with its new products. And Seagate, by taking many more steps forward than did Priam, was able to close the performance gap between them. Priam closed its doors in 1990.
+
+The second example occurred in the next disruptive generation. Seagate Technology was the second in the industry to develop a 3.5-inch drive in 1984. Analysts at one point had speculated that Seagate might ship 3.5-inch drives as early as 1985; and indeed, Seagate showed a 10 MB model at the fall 1985 Comdex Show. When Seagate still had not shipped a 3.5-inch drive by late 1986, CEO Al Shugart explained, “So far, there just isn’t a big enough market for it, as yet.” 13 In 1987, when the 3.5-inch market at $1.6 billion had gotten “big enough to be interesting,” Seagate finally launched its offering. By 1991, however, even though Seagate had by then built substantial volume in 3.5-inch drives, it had not yet succeeded in selling a single drive to a maker of portable computers: Its models were all sold into the desktop market, defensively cannibalizing its sales of 5.25-inch drives. Why?
+
+One likely reason for this phenomenon is that Conner Peripherals, which pioneered and maintained the lead in selling 3.5-inch drives to portable computer makers, fundamentally changed the way drive makers had to approach the portables market. As one Conner executive described it,
+
+From the beginning of the OEM disk drive industry, product development had proceeded in three sequential steps. First you designed the drive; then you made it; and then you sold it. We changed all that. We first sell the drives; then we design them; and then we build them. 14
+
+In other words, Conner set a pattern whereby drives for the portable computer market were custom-designed for major customers. And it refined a set of capabilities in its marketing, engineering, and manufacturing processes that were tailored to that pattern. 15 Said another Conner executive, “Seagate was never able to figure out how to sell drives in the portable market. They just never got it.” 16
+
+
+
+
+
+CASE STUDY: GIVING SMALL OPPORTUNITIES TO SMALL ORGANIZATIONS
+
+
+Every innovation is difficult. That difficulty is compounded immeasurably, however, when a project is embedded in an organization in which most people are continually questioning why the project is being done at all. Projects make sense to people if they address the needs of important customers, if they positively impact the organization’s needs for profit and growth, and if participating in the project enhances the career opportunities of talented employees. When a project doesn’t have these characteristics, its manager spends much time and energy justifying why it merits resources and cannot manage the project as effectively. Frequently in such circumstances, the best people do not want to be associated with the project—and when things get tight, projects viewed as nonessential are the first to be canceled or postponed.
+
+Executives can give an enormous boost to a project’s probability of success, therefore, when they ensure that it is being executed in an environment in which everyone involved views the endeavor as crucial to the organization’s future growth and profitability. Under these conditions, when the inevitable disappointments, unforeseen problems, and schedule slippages occur, the organization will be more likely to find ways to muster whatever is required to solve the problem.
+
+As we have seen, a project to commercialize a disruptive technology in a small, emerging market is very unlikely to be considered essential to success in a large company; small markets don’t solve the growth problems of big companies. Rather than continually working to convince and remind everyone that the small, disruptive technology might someday be significant or that it is at least strategically important, large companies should seek to embed the project in an organization that is small enough to be motivated by the opportunity offered by a disruptive technology in its early years. This can be done either by spinning out an independent organization or by acquiring an appropriately small company. Expecting achievement-driven employees in a large organization to devote a critical mass of resources, attention, and energy to a disruptive project targeted at a small and poorly defined market is equivalent to flapping one’s arms in an effort to fly: It denies an important tendency in the way organizations work. 17
+
+There are many success stories to the credit of this approach. Control Data, for example, which had essentially missed the 8-inch disk drive generation, sent a group to Oklahoma City to commercialize its 5.25-inch drive. In addition to CDC’s need to escape the power of its mainstream customers, the firm explicitly wanted to create an organization whose size matched the opportunity. “We needed an organization,” reflected one manager, “that could get excited about a $50,000 order. In Minneapolis [which derived nearly $1 billion from the sale of 14-inch drives in the mainframe market] you needed a million-dollar order just to turn anyone’s head.” CDC’s Oklahoma City venture proved to be a significant success.
+
+Another way of matching the size of an organization to the size of the opportunity is to acquire a small company within which to incubate the disruptive technology. This is how Allen Bradley negotiated its very successful disruptive transition from mechanical to electronic motor controls.
+
+For decades the Allen Bradley Company (AB) in Milwaukee has been the undisputed leader in the motor controls industry, making heavy-duty, sophisticated switches that turn large electric motors off and on and protect them from overloads and surges in current. AB’s customers were makers of machine tools and cranes as well as contractors who installed fans and pumps for industrial and commercial heating, ventilating, and air conditioning (HVAC) systems. Motor controls were electromechanical devices that operated on the same principle as residential light switches, although on a larger scale. In sophisticated machine tools and HVAC systems, electric motors and their controls were often linked, through systems of electromechanical relay switches, to turn on and off in particular sequences and under particular conditions. Because of the value of the equipment they controlled and the high cost of equipment downtime, controls were required to be rugged, capable of turning on and off millions of times and of withstanding the vibrations and dirt that characterized the environments in which they were used.
+
+In 1968, a startup company, Modicon, began selling electronic programmable motor controls—a disruptive technology from the point of view of mainstream users of electromechanical controls. Texas Instruments (TI) entered the fray shortly thereafter with its own electronic controller. Because early electronic controllers lacked the real and perceived ruggedness and robustness for harsh environments of the hefty AB-type controllers, Modicon and TI were unable to sell their products to mainstream machine tool makers and HVAC contractors. As performance was measured in the mainstream markets, electronic products underperformed conventional controllers, and few mainstream customers needed the programmable flexibility offered by electronic controllers.
+
+As a consequence, Modicon and TI were forced to cultivate an emerging market for programmable controllers: the market for factory automation. Customers in this emerging market were not equipment manufacturers, but equipment users, such as Ford and General Motors, who were just beginning their attempt to integrate pieces of automatic manufacturing equipment.
+
+Of the five leading manufacturers of electromechanical motor controls—Allen Bradley, Square D, Cutler Hammer, General Electric, and Westinghouse—only Allen Bradley retained a strong market position as programmable electronic controls improved in ruggedness and began to invade the core motor control markets. Allen Bradley entered the electronic controller market just two years after Modicon and built a market-leading position in the new technology within a few years, even as it kept its strength in its old electromechanical products. It subsequently transformed itself into a major supplier of electronic controllers for factory automation. The other four companies, by contrast, introduced electronic controllers much later and subsequently either exited the controller business or were reduced to weak positions. From a capabilities perspective this is a surprising outcome, because General Electric and Westinghouse had much deeper expertise in microelectronics technologies at that time than did Allen Bradley, which had no institutional experience in the technology.
+
+What did Allen Bradley do differently? In 1969, just one year after Modicon entered the market, AB executives bought a 25 percent interest in Information Instruments, Inc., a fledgling programmable controller start-up based in Ann Arbor, Michigan. The following year it purchased outright a nascent division of Bunker Ramo, which was focused on programmable electronic controls and their emerging markets. AB combined these acquisitions into a single unit and maintained it as a business separate from its mainstream electromechanical products operation in Milwaukee. Over time, the electronics products have significantly eaten into the electromechanical controller business, as one AB division attacked the other. 18 By contrast, each of the other four companies tried to manage its electronic controller businesses from within its mainstream electromechanical divisions, whose customers did not initially need or want electronic controls. Each failed to develop a viable position in the new technology.
+
+Johnson & Johnson has with great success followed a strategy similar to Allen Bradley’s in dealing with disruptive technologies such as endoscopic surgical equipment and disposable contact lenses. Though its total revenues amount to more than $20 billion, J&J comprises 160 autonomously operating companies, which range from its huge MacNeil and Janssen pharmaceuticals companies to small companies with annual revenues of less than $20 million. Johnson & Johnson’s strategy is to launch products of disruptive technologies through very small companies acquired for that purpose.
+
+
+
+
+
+SUMMARY
+
+
+It is not crucial for managers pursuing growth and competitive advantage to be leaders in every element of their business. In sustaining technologies, in fact, evidence strongly suggests that companies which focus on extending the performance of conventional technologies, and choose to be followers in adopting new ones, can remain strong and competitive. This is not the case with disruptive technologies, however. There are enormous returns and significant first-mover advantages associated with early entry into the emerging markets in which disruptive technologies are initially used. Disk drive manufacturers that led in commercializing disruptive technology grew at vastly greater rates than did companies that were disruptive technology followers.
+
+Despite the evidence that leadership in commercializing disruptive technologies is crucial, large, successful innovators encounter a significant dilemma in the pursuit of such leadership. In addition to dealing with the power of present customers as discussed in the last chapter, large, growth-oriented companies face the problem that small markets don’t solve the near-term growth needs of large companies. The markets whose emergence is enabled by disruptive technologies all began as small ones. The first orders that the pioneering companies received in those markets were small ones. And the companies that cultivated those markets had to develop cost structures enabling them to become profitable at small scale. Each of these factors argues for a policy of implanting projects to commercialize disruptive innovations in small organizations that will view the projects as being on their critical path to growth and success, rather than as being distractions from the main business of the company.
+
+This recommendation is not new, of course; a host of other management scholars have also argued that smallness and independence confer certain advantages in innovation. It is my hope that chapters 5 and 6 provide deeper insight about why and under what circumstances this strategy is appropriate.
+
+
+
+
+
+NOTES
+
+
+1. The benefits of persistently pursuing incremental improvements versus taking big strategic leaps have been capably argued by Robert Hayes in “Strategic Planning: Forward in Reverse?” Harvard Business Review, November– December, 1985, 190–197.
+
+I believe that there are some specific situations in which leadership in sustaining technology is crucial, however. In a private conversation, Professor Kim Clark characterized these situations as those affecting knife-edge businesses, that is, businesses in which the basis of competition is simple and unidimensional and there is little room for error. An example of such a knife-edge industry is the photolithographic aligner (PLA) industry, studied by Rebecca M. Henderson and Kim B. Clark, in “Architectural Innovation: The Reconfiguration of Existing Systems and the Failure of Established Firms,” Administrative Science Quarterly (35), March, 1990, 9–30. In this case, aligner manufacturers failed when they fell behind technologically in the face of sustaining architectural changes. This is because the basis of competition in the PLA industry was quite straightforward even though the products themselves were very complex: products either made the narrowest line width on silicon wafers of any in the industry or no one bought them. This is because PLA customers, makers of integrated circuits, simply had to have the fastest and most capable photolithographic alignment equipment or they could not remain competitive in their own markets. The knife-edge existed because product functionality was the only basis of competition: PLA manufacturers would either fall off one side to rapid success or off the other side to failure. Clearly, such knife-edge situations make leadership in sustaining technology very important.
+
+In most other sustaining situations, however, leadership is not crucial. This far more common situation is the subject of Richard S. Rosenbloom’s study of the transition by National Cash Register from electro-mechanical to electronic technology. (See Richard S. Rosenbloom, “From Gears to Chips: The Transformation of NCR and Harris in the Digital Era,” Working paper, Harvard Business School Business History Seminar, 1988). In this case, NCR was very late in its industry in developing and launching a line of electronic cash registers. So late was NCR with this technology, in fact, that its sales of new cash registers dropped essentially to zero for an entire year in the early 1980s. Nonetheless, the company had such a strong field service capability that it survived by serving its installed base for the year it took to develop and launch its electronic cash registers. NCR then leveraged the strength of its brand name and field sales presence to quickly recapture its share of the market.
+
+Even though a cash register is a simpler machine than a photolithographic aligner, I would characterize its market as complex, in that there are multiple bases of competition, and hence multiple ways to survive. As a general rule, the more complex a market, the less important is leadership in sustaining technological innovations. It is in dealing with knife-edge markets or with disruptive technologies that leadership appears to be crucial. I am indebted to Professors Kim B. Clark and Robert Hayes for their contributions to my thinking on this topic.
+
+2. This is not to say that firms whose product performance or product cost consistently lagged behind the competition were able to prosper. I assert that there is no evidence that leadership in sustaining technological innovation confers a discernible and enduring competitive advantage over companies that have adopted a follower strategy because there are numerous ways to “skin the cat” in improving the performance of a complex product such as a disk drive. Developing and adopting new component technologies, such as thin-film and magneto-resistive heads, is one way to improve performance, but there are innumerable other avenues for extending the performance of conventional technologies while waiting for new approaches to become better understood and more reliable. This argument is presented more fully in Clayton M. Christensen, “Exploring the Limits of the Technology S-Curve,” Production and Operations Management (1), 1992, 334–366.
+
+3. For the purposes of this analysis, a technology was classed as “new or unproven” if less than two years had elapsed from the time it had first appeared in a product that was manufactured and sold by a company somewhere in the world or if, even though it had been in the market for more than two years, less than 20 percent of the disk drive makers had used the technology in one of their products.
+
+4. In this analysis, emerging markets or value networks were those in which two years or less had elapsed since the first rigid disk drive had been used with that class of computers; established markets or value networks were those in which more than two years had elapsed since the first drive was used.
+
+5. Entry by acquisition was a rare route of entry in the disk drive industry. Xerox followed this strategy, acquiring Diablo, Century Data, and Shugart Associates. The performance of these companies after acquisition was so poor that few other companies followed Xerox’s lead. The only other example of entry by acquisition was the acquisition of Tandon by Western Digital, a manufacturer of controllers. In the case of Xerox and Western Digital, the entry strategy of the firms they acquired is recorded in Table 6.1. Similarly, the start-up of Plus Development Corporation, a spin-out of Quantum, appears in Table 6.1 as a separate company.
+
+6. The evidence summarized in this matrix may be of some use to venture capital investors, as a general way to frame the riskiness of proposed investments. It suggests that start-ups which propose to commercialize a breakthrough technology that is essentially sustaining in character have a far lower likelihood of success than start-ups whose vision is to use proven technology to disrupt an established industry with something that is simpler, more reliable, and more convenient. The established firms in an industry have every incentive to catch up with a supposed sustaining technological breakthrough, while they have strong disincentives to pursue disruptive initiatives.
+
+7. Not all of the small, emerging markets actually became large ones. The market for removable drive modules, for example, remained a small niche for more than a decade, only beginning to grow to significant size in the mid-1990s. The conclusion in the text that emerging markets offer a higher probability for success reflects the average, not an invariant result.
+
+8. The notions that one ought not accept the risks of innovating simultaneously along both market and technology dimensions are often discussed among venture capitalists. It is also a focus of chapter 5 in Lowell W. Steele, Managing Technology (New York: McGraw Hill, 1989). The study reported here of the posterior probabilities of success for different innovation strategies builds upon the concepts of Steele and Lyle Ochs (whom Steele cites). I was also stimulated by ideas presented in Allan N. Afuah and Nik Bahram, “The Hypercube of Innovation,” Research Policy (21), 1992.
+
+9. The simplest equation used by financial analysts to determine share price is P [H11505] D/(C-G), where P [H11505] price per share, D [H11505] dividends per share, C [H11505] the company’s cost of capital, and G [H11505] projected long-term growth rate.
+
+10. This evidence is summarized by Clayton M. Christensen in “Is Growth an Enabler of Good Management, or the Result of It?” Harvard Business School working paper, 1996.
+
+11. Scott Lewis, “Apple Computer, Inc.,” in Adele Hast, ed., International Directory of Company Histories (Chicago: St. James Press, 1991), 115–116.
+
+12. An insightful history of the emergence of the personal computer industry appears in Paul Frieberger and Michael Swaine, Fire in the Valley: The Making of the Personal Computer (Berkeley, CA: Osborne-McGraw Hill, 1984).
+
+13. “Can 3.5[H11033] Drives Displace 5.25s in Personal Computing?” Electronic Business, 1 August, 1986, 81–84.
+
+14. Personal interview with Mr. William Schroeder, Vice Chairman, Conner Peripherals Corporation, November 19, 1991.
+
+15. An insightful study on the linkage among a company’s historical experience, its capabilities, and what it consequently can and cannot do, appears in Dorothy Leonard-Barton, “Core Capabilities and Core Rigidities: A Paradox in Managing New Product Development,” Strategic Management Journal (13), 1992, 111–125.
+
+16. Personal interview with Mr. John Squires, cofounder and Executive Vice President, Conner Peripherals Corporation, April 27, 1992.
+
+17. See, for example, George Gilder, “The Revitalization of Everything: The Law of the Microcosm,” Harvard Business Review, March–April, 1988, 49–62.
+
+18. Much of this information about Allen Bradley has been taken from John Gurda, The Bradley Legacy (Milwaukee: The Lynde and Harry Bradley Foundation, 1992).
+
+
+
+
+

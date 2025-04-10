@@ -1,0 +1,191 @@
+3 Disruptive Technological Change in the Mechanical Excavator Industry
+
+
+Excavators and their steam shovel predecessors are huge pieces of capital equipment sold to excavation contractors. While few observers consider this a fast-moving, technologically dynamic industry, it has points in common with the disk drive industry: Over its history, leading firms have successfully adopted a series of sustaining innovations, both incremental and radical, in components and architecture, but almost the entire population of mechanical shovel manufacturers was wiped out by a disruptive technology—hydraulics—that the leaders’ customers and their economic structure had caused them initially to ignore. Although in disk drives such invasions of established markets occurred within a few years of the initial emergence of each disruptive technology, the triumph of hydraulic excavators took twenty years. Yet the disruptive invasion proved just as decisive and difficult to counter in excavators as those in the disk drive industry. 1
+
+
+
+
+
+LEADERSHIP IN SUSTAINING TECHNOLOGICAL CHANGE
+
+
+From William Smith Otis’ invention of the steam shovel in 1837 through the early 1920s, mechanical earthmoving equipment was steam-powered. A central boiler sent steam through pipes to small steam engines at each point where power was required in the machine. Through a system of pulleys, drums, and cables, these engines manipulated frontward-scooping buckets, as illustrated in Figure 3.1. Originally, steam shovels were mounted on rails and used to excavate earth in railway and canal construction. American excavator manufacturers were tightly clustered in northern Ohio and near Milwaukee.
+
+In the early 1920s, when there were more than thirty-two steam shovel manufacturers based in the United States, the industry faced a major technological upheaval, as gasoline-powered engines were substituted for steam power. 2 This transition to gasoline power falls into the category that Henderson and Clark label radical technological transition. The fundamental technological concept in a key component (the engine) changed from steam to internal combustion, and the basic architecture of the product changed. Where steam shovels used steam pressure to power a set of steam engines to extend and retract the cables that actuated their buckets, gasoline shovels used a single engine and a very different system of gearing, clutches, drums, and brakes to wind and unwind the cable. Despite the radical nature of the technological change, however, gasoline technology had a sustaining impact on the mechanical excavator industry. Gasoline engines were powerful enough to enable contractors to move earth faster, more reliably, and at lower cost than any but the very largest steam shovels.
+
+Figure 3.1 Cable-Actuated Mechanical Shovel Manufactured by Osgood General
+
+
+
+Source: Osgood General photo in Herbert L. Nichols, Jr., Moving the Earth: The Workbook of Excavation (Greenwich, CT: North Castle, 1955).
+
+The leading innovators in gasoline engine technology were the industry’s dominant firms, such as Bucyrus, Thew, and Marion. Twenty-three of the twenty-five largest makers of steam shovels successfully negotiated the transition to gasoline power. 3 As Figure 3.2 shows, there were a few entrant firms among the gasoline technology leaders in the 1920s, but the established firms dominated this transition.
+
+Beginning in about 1928, the established manufacturers of gasoline-powered shovels initiated the next major, but less radical, sustaining technological transition—to shovels powered by diesel engines and electric motors. A further transition, made after World War II, introduced the arched boom design, which allowed longer reach, bigger buckets, and better down-reaching flexibility. The established firms continued to embrace and succeed with each of these innovations.
+
+Figure 3.2 Manufacturers of Gasoline-Powered Cable Shovels, 1920–1934
+
+
+
+
+
+Source: Data are from the Historical Construction Equipment Association and from The Thomas Register, various years.
+
+Excavation contractors themselves actually pioneered a number of other important sustaining innovations, first modifying their own equipment in the field to make it perform better and then manufacturing excavators incorporating those features to sell to the broader market. 4
+
+
+
+
+
+THE IMPACT OF DISRUPTIVE HYDRAULICS TECHNOLOGY
+
+
+The next major technological change precipitated widespread failure in the industry. Beginning shortly after World War II and continuing through the late 1960s, while the dominant source of power remained the diesel engine, a new mechanism emerged for extending and lifting the bucket: hydraulically actuated systems replaced the cable-actuated systems. Only four of the thirty or so established manufacturers of cable-actuated equipment in business in the 1950s (Insley, Koehring, Little Giant, and Link Belt) had successfully transformed themselves into sustainable hydraulic excavator manufacturers by the 1970s. A few others survived by withdrawing into making such equipment as huge, cable-actuated draglines for strip mining and dredging. 5 Most of the others failed. The firms that overran the excavation equipment industry at this point were all entrants into the hydraulics generation: J. I. Case, John Deere, Drott, Ford, J. C. Bamford, Poclain, International Harvester, Caterpillar, O & K, Demag, Leibherr, Komatsu, and Hitachi. 6 Why did this happen?
+
+
+
+
+
+Performance Demanded in the Mechanical Excavator Market
+
+
+Excavators are one of many types of earthmoving equipment. Some equipment, such as bulldozers, loaders, graders, and scrapers, essentially push, smooth, and lift earth. Excavators 7 have been used to dig holes and trenches, primarily in three markets: first and largest, the general excavation market, composed of contractors who dig holes for basements or civil engineering projects such as canal construction; second, sewer and piping contractors, who generally dig long trenches; and third, open pit or strip mining. In each of these markets, contractors have tended to measure the functionality of mechanical excavators by their reach or extension distance and by the cubic yards of earth lifted in a single scoop. 8
+
+In 1945, sewer and piping contractors used machines whose bucket capacity averaged about 1 cubic yard (best for digging relatively narrow trenches), while the average general excavation contractor used excavators that hefted 212 cubic yards per scoop and mining contractors used shovels holding about 5 cubic yards. The average bucket capacity used in each of these markets increased at about 4 percent per year, a rate of increase constrained by other factors in the broader system-of-use. The logistical problems of transporting large machines into and out of typical construction sites, for example, helped limit the rate of increase demanded by contractors.
+
+
+
+
+
+The Emergence and Trajectory of Improvement of Hydraulic Excavation
+
+
+The first hydraulic excavator was developed by a British company, J. C. Bamford, in 1947. Similar products then emerged simultaneously in several American companies in the late 1940s, among them, the Henry Company, of Topeka, Kansas, and Sherman Products, Inc., of Royal Oak, Michigan. The approach was labeled “Hydraulically Operated Power Take-Off,” yielding an acronym that became the name of the third entrant to hydraulic excavating in the late 1940s, HOPTO. 9
+
+Their machines were called backhoes because they were mounted on the back of industrial or farm tractors. Backhoes excavated by extending the shovel out, pushing it down into the earth, 10 curling or articulating the shovel under the slice of earth, and lifting it up out of the hole. Limited by the power and strength of available hydraulic pumps’ seals, the capacity of these early machines was a mere ¼ cubic yard, as graphed in Figure 3.3. Their reach was also limited to about six feet. Whereas the best cable excavators could rotate a full 360 degrees on their track base, the most flexible backhoes could rotate only 180 degrees.
+
+Because their capacity was so small and their reach so short, hydraulic excavators were of no use to mining, general excavation, or sewer contractors, who were demanding machines with buckets that held 1 to 4 cubic yards. As a result, the entrant firms had to develop a new application for their products. They began to sell their excavators as attachments for the back of small industrial and farm tractors made by Ford, J. I. Case, John Deere, International Harvester, and Massey Ferguson. Small residential contractors purchased these units to dig narrow ditches from water and sewer lines in the street to the foundations of houses under construction. These very small jobs had never warranted the expense or time required to bring in a big, imprecise, cable-actuated, track-driven shovel, so the trenches had always been dug by hand. Hydraulic backhoes attached to highly mobile tractors could do these jobs in less than an hour per house, and they became extremely popular with contractors building large tract subdivisions during the housing booms that followed World War II and the Korean War. These early backhoes were sold through tractor and implement dealerships accustomed to dealing with small customers.
+
+Figure 3.3 Disruptive Impact of Hydraulics Technology in the Mechanical Excavator Market
+
+
+
+
+
+Source: Data are from the Historical Construction Equipment Association.
+
+The early users of hydraulic excavators were, in a word, very different from the mainstream customers of the cable shovel manufacturers—in size, in needs, and in the distribution channels through which they bought. They constituted a new value network for mechanical excavation. Interestingly, just as the performance of smaller-architecture disk drives was measured in different metrics than the performance of large drives (weight, ruggedness, and power consumption versus capacity and speed), the performance of the first backhoes was measured differently from the performance of cable-actuated equipment. The metrics featured most prominently in early product literature of hydraulic backhoes were shovel width (contractors wanted to dig narrow, shallow trenches) and the speed and maneuverability of the tractor. Figure 3.4, excerpted from an early product brochure from Sherman Products for its “Bobcat” hydraulic back-hoe, illustrates this. Sherman called its Bobcat a “digger,” showed it operating in tight quarters, and claimed it could travel over sod with minimum damage. The Bobcat was mounted on a Ford tractor. (Ford subsequently acquired the Sherman Bobcat line.) The featured attributes, of course, were simply irrelevant to contractors whose bread was buttered by big earthmoving projects. These differences in the rank-ordering of performance attributes defined the boundaries of the industry’s value networks.
+
+Figure 3.4 Hydraulic Backhoe Manufactured by Sherman Products
+
+
+
+Source: Brochure from Sherman Products, Inc., Royal Oak, Michigan, early 1950s.
+
+The solid line in Figure 3.3 charts the rate of improvement in bucket size that hydraulics engineers were able to provide in the new excavator architecture. The maximum available bucket size had reached 38 cubic yard by 1955, 12 cubic yard by 1960, and 2 cubic yards by 1965. By 1974, the largest hydraulic excavators had the muscle to lift 10 cubic yards. This trajectory of improvement, which was far more rapid than the rate of improvement demanded in any of the excavator markets, carried this disruptive hydraulics technology upward from its original market through the large, mainstream excavation markets. The use of hydraulic excavators in general contracting markets was given a boost in 1954 when another entrant firm in Germany, Demag, introduced a track-mounted model that could rotate on its base a full 360 degrees.
+
+
+
+
+
+THE RESPONSE TO HYDRAULICS BY THE ESTABLISHED EXCAVATOR MANUFACTURERS
+
+
+Just as Seagate Technology was one of the first firms to develop prototype 3.5-inch drives, Bucyrus Erie, the leading cable shovel maker, was keenly aware of the emergence of hydraulic excavating technology. By 1950 (about two years after the first backhoe appeared) Bucyrus purchased a fledgling hydraulic backhoe company, the Milwaukee Hydraulics Corporation. Bucyrus faced precisely the same problem in marketing its hydraulic backhoe as Seagate had faced with its 3.5-inch drives: Its most powerful mainstream customers had no use for it.
+
+Bucyrus Erie’s response was a new product, introduced in 1951, called the “Hydrohoe.” Instead of using three hydraulic cylinders, it used only two, one to curl the shovel into the earth and one to “crowd” or draw the shovel toward the cab; it used a cable mechanism to lift the shovel. The Hydrohoe was thus a hybrid of the two technologies, reminiscent of the early transoceanic steamships outfitted with sails. 11 There is no evidence, however, that the Hydrohoe’s hybrid design resulted from Bucyrus engineers’ being “stuck” in some sort of cable-based engineering paradigm. Rather, the cable lift mechanism was the only viable way at that time, based on the state of hydraulics technology, to give the Hydrohoe the bucket capacity and reach that Bucyrus marketers thought they needed to appeal to their existing customers’ needs.
+
+Figure 3.5 presents an excerpt from an early Hydrohoe product brochure. Note the differences from Sherman’s marketing approach: Bucyrus labeled the Hydrohoe a “dragshovel,” showed it in an open field, and claimed it could “get a heaping load on every pass”—all intended to appeal to general excavation contractors. Rather than commercialize the disruptive technology in the value network in which the current attributes of hydraulics were prized, Bucyrus tried to adapt the technology to fit its own value network. Despite this attempt, the Hydrohoe was still too limited in capacity and reach and did not sell well to Bucyrus’ customers. Bucyrus kept its Hydrohoe on the market for over a decade, attempting periodically to upgrade its performance to make it acceptable to its customers, but the machine was never commercially successful. Ultimately, the company returned to the cable shovels that its customers needed.
+
+Figure 3.5 Hydrohoe Manufactured by Bucyrus Erie
+
+
+
+Source: Brochure from Bucyrus Erie Company, South Milwaukee, Wisconsin, 1951.
+
+Bucyrus Erie was the only maker of cable-actuated shovels known to have launched a hydraulic excavator between 1948 and 1961: All of the other manufacturers continued serving their established customers, well and prosperously. 12 In fact, the largest makers of cable-actuated excavators, Bucyrus Erie and Northwest Engineering, logged record profits until 1966—the point at which the disruptive hydraulics technology had squarely intersected with customers’ needs in the sewer and piping segment. This is typical of industries facing a disruptive technology: The leading firms in the established technology remain financially strong until the disruptive technology is, in fact, in the midst of their mainstream market.
+
+Between 1947 and 1965, twenty-three companies entered the mechanical excavation market with hydraulic products. Figure 3.6, which measures the total number of active entrants and established firms offering hydraulic excavators (net of the companies that had exited), shows how completely the entrants dominated the hydraulic excavator market.
+
+In the 1960s, some of the strongest cable shovel makers introduced shovels with hydraulics. Almost all of these models were hybrids, however, like Bucyrus Erie’s Hydrohoe, generally employing a hydraulic cylinder to articulate or curl the bucket and using cables to extend the bucket out and to lift the boom. When used in this way in the 1960s, hydraulics had a sustaining impact on the established manufacturers’ products, improving their performance in the mainstream value networks. Some of the methods that engineers found to use hydraulics on the cable excavators were truly ingenious. All of this innovative energy, however, was targeted at existing customers.
+
+The strategies employed by the excavator manufacturers during this period highlight an important choice that confronts companies encountering disruptive technological change. In general, the successful entrants accepted the capabilities of hydraulics technology in the 1940s and 1950s as a given and cultivated new market applications in which the technology, as it existed, could create value. And as a general rule, the established firms saw the situation the other way around: They took the market’s needs as the given. They consequently sought to adapt or improve the technology in ways that would allow them to market the new technology to their existing customers as a sustaining improvement. The established firms steadfastly focused their innovative investments on their customers. Subsequent chapters will show that this strategic choice is present in most instances of disruptive innovation. Consistently, established firms attempt to push the technology into their established markets, while the successful entrants find a new market that values the technology.
+
+Figure 3.6 Manufacturers of Hydraulic Excavators, 1948–1965
+
+
+
+
+
+Source: Data are from the Historical Construction Equipment Association.
+
+Hydraulics technology ultimately did progress to the point where it could address the needs of mainstream excavation contractors. That progress was achieved, however, by the entrant companies, who had first found a market for the initial capabilities of the technology, accumulated design and manufacturing experience in that market, and then used that commercial platform to attack the value networks above them. The established firms lost this contest. Only four cable excavator companies—Insley, Koehring, Little Giant, and Link Belt—remained as viable suppliers to excavation contractors by successfully but belatedly introducing lines of hydraulic excavators to defend their markets. 13
+
+Aside from these, however, the other leading manufacturers of big cable machines in the mainstream excavation markets never introduced a commercially successful hydraulic excavator. Although some had employed hydraulics to a modest degree as a bucket-curling mechanism, they lacked the design expertise and volume-based manufacturing cost position to compete as hydraulics invaded the mainstream. By the early 1970s, all of these firms had been driven from the sewer, piping, and general excavation markets by the entrants, most of which had refined their technological capabilities initially in the small-contractor market. 14
+
+This contrast in strategies for profiting from change characterizes the approaches employed by entrant and established firms in many of the other industries affected by disruptive technologies—particularly disk drives, steel, computers, and electric cars.
+
+
+
+
+
+THE CHOICE BETWEEN CABLE AND HYDRAULICS
+
+
+In the trajectory map of Figure 3.3, when hydraulics technology became capable of addressing the bucket-size needs of sewer and piping contractors (and a similar trajectory could be sketched for arm-reach), the competitive dynamics in the industry changed, and the mainstream excavation contractors changed the criteria by which they purchased their equipment. Even today, the cable-actuated architecture can attain much longer reach and greater lift than can hydraulic excavators: They have roughly parallel technology trajectories. But once both cable-and hydraulics-actuated systems could satisfy mainstream market requirements, excavation contractors could no longer base their choice of equipment on which had longer reach and greater bucket capacity. Both were good enough, and the fact that cable was better ceased to have competitive relevance.
+
+Contractors found, however, that hydraulic machines were much less prone to breakdowns than cable-actuated excavators. In particular, those who had experienced the life-threatening snap of a cable while hefting a heavy bucket embraced reliable hydraulics quickly, as soon as it was capable of doing the job. Once both technologies were good enough in the basic capabilities demanded, therefore, the basis of product choice in the market shifted to reliability. Sewer and piping contractors began adopting hydraulic equipment rapidly beginning in the early 1960s, and general excavation contractors followed later in the decade.
+
+
+
+
+
+CONSEQUENCES AND IMPLICATIONS OF THE HYDRAULICS ERUPTION
+
+
+What went wrong within the companies that made cable-actuated excavators? Clearly, with the benefit of hindsight, they should have invested in hydraulics machines and embedded that piece of their organizations charged with making hydraulic products in the value network that needed them. But the dilemma in managing the disruptive technology in the heat of the battle is that nothing went wrong inside these companies. Hydraulics was a technology that their customers didn’t need—indeed, couldn’t use. Each cable shovel manufacturer was one of at least twenty manufacturers doing everything they could to steal each other’s customers: If they took their eyes off their customers’ next-generation needs, existing business would have been put at risk. Moreover, developing bigger, better, and faster cable excavators to steal share from existing competitors constituted a much more obvious opportunity for profitable growth than did a venture into hydraulic backhoes, given how small the backhoe market was when it appeared in the 1950s. So, as we have seen before, these companies did not fail because the technology wasn’t available. They did not fail because they lacked information about hydraulics or how to use it; indeed, the best of them used it as soon as it could help their customers. They did not fail because management was sleepy or arrogant. They failed because hydraulics didn’t make sense—until it was too late.
+
+The patterns of success and failure we see among firms faced with sustaining and disruptive technology change are a natural or systematic result of good managerial decisions. That is, in fact, why disruptive technologies confront innovators with such a dilemma. Working harder, being smarter, investing more aggressively, and listening more astutely to customers are all solutions to the problems posed by new sustaining technologies. But these paradigms of sound management are useless—even counterproductive, in many instances—when dealing with disruptive technology.
+
+
+
+
+
+NOTES
+
+
+1. A summary of how this same mechanism might have affected a broader range of industries can be found in Richard S. Rosenbloom and Clayton M. Christensen, “Technological Discontinuities, Organizational Capabilities, and Strategic Commitments,” Industrial and Corporate Change (3), 1994, 655–686.
+
+2. This information and the data used to calculate the graphs in this section were provided by Dimitrie Toth, Jr., and Keith Haddock, both National Directors of the Historical Construction Equipment Association. The association has a wealth of information about the earthmoving equipment industry in its archives, and Toth and Haddock were most gracious in sharing their knowledge and information with me. I am also indebted to them for their helpful comments on an earlier draft of this chapter. Other useful sources of information are Peter Grimshaw, Excavators (Poole, England: Blandford Press, 1985); The Olyslager Organisation, Inc., Earthmoving Vehicles (London: Frederick Warne & Co., Ltd., 1972); Harold F. Williamson and Kenneth H. Myers, Designed for Digging: The First 75 Years of Bucyrus Erie Company (Evanston, IL: Northwestern University Press, 1955); and J. L. Allhands, Tools of the Earthmover (Huntsville, TX: Sam Houston College Press, 1951).
+
+3. Interestingly, the high success rate was only amongst the industry’s twenty-five largest firms. Only one of the seven smallest steam shovel manufacturers survived this sustaining technology change to internal gasoline combustion. Almost no information is available about these companies other than what is provided by their product brochures. I suspect, however, that the fact that the large and mid-sized firms cruised through this transition while the small ones were killed indicates that resources played a part in the story, a conclusion that complements the theoretical perspectives summarized in chapter 2 above. Some sustaining technologies clearly are so expensive to develop and implement or so dependent on proprietary or scarce expertise that some companies simply cannot successfully manage the transition. I am indebted to Professor Richard Rosenbloom for sharing his perspective on this issue.
+
+4. An example of this is the development of the first dragline, by Page, a Chicago area contractor. Page dug Chicago’s system of canals, and invented the drag-line in 1903 to do that job more effectively. Page draglines were later used extensively in digging the Panama Canal, alongside steam shovels made by Bucyrus Erie and Marion. This finding that customers were significant sources of sustaining innovations is consistent with Professor Eric von Hippel’s findings; see The Sources of Innovation (New York: Oxford University Press, 1988).
+
+5. The companies that survived the invasion of hydraulics in this way found safe haven in a particular high-end market. Bucyrus Erie and Marion, for example, became the dominant makers of the huge stripping shovels used in strip mines. Marion’s model 6360 stripping shovel was the largest frontward-scooping shovel ever built, able to heft 180 cubic yards in its bucket. (An advertisement showing Paul Bunyan standing aside the 6360 is one of the most stunning pieces of advertising art I have seen.) Harnischfeger is the world’s largest maker of electric mining shovels, while Unit found a niche making the huge pedestal cranes used on offshore oil rigs. For a time, Northwest survived by making draglines for dredging ocean shipping lanes. P & H and Lorain made huge cranes and draglines (all cable-actuated).
+
+6. As the hydraulic excavator has matured, these companies have met with varying degrees of subsequent success. In 1996, the world’s highest-volume excavator companies, Demag and O & K, were based in Germany.
+
+7. Technically, excavators that scoop their buckets forward are power shovels. This was the dominant design from 1837 through the early 1900s, and persisted as a major market segment through much of this century. Excavators that pull earth backward toward the cab are backhoes. As the hydraulic excavator became the dominant design during the 1970s, both types came to be called excavators. Until hydraulic actuation required the booms to be permanently attached to the unit, contractors could attach different booms or arms to their basic power units so that the same unit could work as a shovel, backhoe, or crane. Similarly, different buckets, sometimes called dippers, could be attached to move different types of material.
+
+8. The true measure of performance in excavation was the number of cubic yards of earth that could be moved per minute. This measure was so dependent upon operator skill and upon the type of earth being dug, however, that contractors adopted bucket size as the more robust, verifiable metric.
+
+9. These British and American pioneers were followed by several European manufacturers, each of which was also an entrant to the excavator industry, including France’s Poclain and Italy’s Bruneri Brothers.
+
+10. The ability to push the shovel into the earth was a major advantage to the hydraulics approach. The cable-actuated excavators that pulled earth toward the operator all had to rely on gravity to drive the teeth of the heavy shovel into the earth.
+
+11. Makers of early hybrid ocean transports, which were steam-powered but still outfitted with sails, used the same rationale for their design as did the Bucyrus Erie engineers: Steam power still was not reliable enough for the transoceanic market, so steam power plants had to be backed up by conventional technology. The advent of steam-powered ships and their substitution for wind-powered ships in the transoceanic business is itself a classic study of disruptive technology. When Robert Fulton sailed the first steamship up the Hudson River in 1819, it underperformed transoceanic sailing ships on nearly every dimension of performance: It cost more per mile to operate; it was slower; and it was prone to frequent breakdowns. Hence, it could not be used in the transoceanic value network and could only be applied in a different value network, inland waterways, in which product performance was measured very differently. In rivers and lakes, the ability to move against the wind or in the absence of a wind was the attribute most highly valued by ship captains, and along that dimension, steam outperformed sail. Some scholars (see, for example, Richard Foster, in Innovation: The Attacker’s Advantage [New York: Summit Books, 1986]) have marveled at how myopic were the makers of sailing ships, who stayed with their aging technology until the bitter end, in the early 1900s, completely ignoring steam power. Indeed, not a single maker of sailing ships survived the industry’s transition to steam power. The value network framework offers a perspective on this problem that these scholars seem to have ignored, however. It was not a problem of knowing about steam power or of having access to technology. The problem was that the customers of the sailing ship manufacturers, who were transoceanic shippers, could not use steam-powered ships until the turn of the century. To cultivate a position in steamship building, the makers of sailing ships would have had to engineer a major strategic reorientation into the inland waterway market, because that was the only value network where steam-powered vessels were valued throughout most of the 1800s. Hence, it was these firms’ reluctance or inability to change strategy, rather than their inability to change technology, that lay at the root of their failure in the face of steam-powered vessels.
+
+12. An exception to this is an unusual product introduced by Koehring in 1957: the Skooper combined cables and hydraulics to dig earth away from a facing wall; it did not dig down into the earth.
+
+13. Bucyrus Erie does not fit easily into either of these groups. It introduced a large hydraulic excavator in the 1950s, but subsequently withdrew it from the market. In the late 1960s, it acquired the “Dynahoe” line of hydraulic loader-backhoes from Hy-Dynamic Corporation and sold them as utility machines to its general excavation customers, but, again, dropped this product line as well.
+
+14. Caterpillar was a very late (but successful) entrant into the hydraulic excavation equipment industry, introducing its first model in 1972. Excavators were an extension of its line of dozers, scrapers, and graders. Caterpillar never participated in the excavation machine market when cable actuation was the dominant design.
+
+
+
+
+
+
+

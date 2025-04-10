@@ -1,0 +1,226 @@
+9 Performance Provided, Market Demand, and the Product Life Cycle
+
+
+The graphs in this book showing the intersecting technology and market trajectories have proven useful in explaining how leading firms can stumble from positions of industry leadership. In each of the several industries explored, technologists were able to provide rates of performance improvement that have exceeded the rates of performance improvement that the market has needed or was able to absorb. Historically, when this performance oversupply occurs, it creates an opportunity for a disruptive technology to emerge and subsequently to invade established markets from below.
+
+As it creates this threat or opportunity for a disruptive technology, performance oversupply also triggers a fundamental change in the basis of competition in the product’s market: The rank-ordering of the criteria by which customers choose one product or service over another will change, signaling a transition from one phase (variously defined by management theorists) to the next of the product life cycle. In other words, the intersecting trajectories of performance supplied and performance demanded are fundamental triggers behind the phases in the product life cycle. Because of this, trajectory maps such as those used in this book usefully characterize how an industry’s competitive dynamics and its basis of competition are likely to change over time.
+
+As with past chapters, this discussion begins with an analysis from the disk drive industry of what can happen when the performance supplied exceeds the market’s demands. After seeing the same phenomenon played out in the markets for accounting software and for diabetes care products, the link between this pattern and the phases of the product life cycle will be clear.
+
+
+
+
+
+PERFORMANCE OVERSUPPLY AND CHANGING BASES OF COMPETITION
+
+
+The phenomenon of performance oversupply is charted in Figure 9.1, an extract from Figure 1.7. It shows that by 1988, the capacity of the average 3.5-inch drive had finally increased to equal the capacity demanded in the mainstream desktop personal computer market, and that the capacity of the average 5.25-inch drive had by that time surpassed what the mainstream desktop market demanded by nearly 300 percent. At this point, for the first time since the desktop market emerged, computer makers had a choice of drives to buy: The 5.25-and 3.5-inch drives both provided perfectly adequate capacity.
+
+What was the result? The desktop personal computer makers began switching to 3.5-inch drives in droves. Figure 9.2 illustrates this, using a substitution curve format in which the vertical axis measures the ratio of new-to old-technology units sold. In 1985 this measure was .007, meaning that less than 1 percent (.0069) of the desktop market had switched to the 3.5-inch format. By 1987, the ratio had advanced 0.20, meaning that 16.7 percent of the units sold into this market that year were 3.5-inch drives. By 1989, the measure was 1.5, that is, only four years after the 3.5-inch product had appeared as a faint blip on the radar screen of the market, it accounted for 60 percent of drive sales.
+
+Why did the 3.5-inch drive so decisively conquer the desktop PC market? A standard economic guess might be that the 3.5-inch format represented a more cost-effective architecture: If there were no longer any meaningful differentiation between two types of products (both had adequate capacity), price competition would intensify. This was not the case here, however. Indeed, computer makers had to pay, on average, 20 percent more per megabyte to use 3.5-inch drives, and yet they still flocked to the product. Moreover, computer manufacturers opted for the costlier drive while facing fierce price competition in their own product markets. Why?
+
+Performance oversupply triggered a change in the basis of competition. Once the demand for capacity was satiated, other attributes, whose performance had not yet satisfied market demands, came to be more highly valued and to constitute the dimensions along which drive makers sought to differentiate their products. In concept, this meant that the most important attribute measured on the vertical axis of figures such as 8.1 changed, and that new trajectories of product performance, compared to market demands, took shape.
+
+Figure 9.1 Intersecting Trajectories of Capacity Demanded versus Capacity Supplied in Rigid Disk Drives
+
+
+
+
+
+Source: Data are from various issues of Disk/Trend Report.
+
+Figure 9.2 Substitution of 8-, 5.25-, and 3.5-Inch Drives of 30 to 100 MB
+
+
+
+
+
+Source: Data are from various issues of Disk/Trend Report.
+
+Specifically, in the desktop personal computer marketplace between 1986 and 1988, the smallness of the drive began to matter more than other features. The smaller 3.5-inch drive allowed computer manufacturers to reduce the size, or desktop footprint, of their machines. At IBM, for example, the large XT/AT box gave way to the much smaller PS1/PS2 generation machines.
+
+For a time, when the availability of small drives did not satisfy market demands, desktop computer makers continued to pay a hefty premium for 3.5-inch drives. In fact, using the hedonic regression analysis described in chapter 4, the 1986 shadow price for a one-cubic-inch reduction in the volume of a disk drive was $4.72. But once the computer makers had configured their new generations of desktop machines to use the smaller drive, their demand for even more smallness was satiated. As a result, the 1989 shadow price, or the price premium accorded to smaller drives, diminished to $0.06 for a one-cubic-inch reduction.
+
+Generally, once the performance level demanded of a particular attribute has been achieved, customers indicate their satiation by being less willing to pay a premium price for continued improvement in that attribute. Hence, performance oversupply triggers a shift in the basis of competition, and the criteria used by customers to choose one product over another changes to attributes for which market demands are not yet satisfied.
+
+Figure 9.3 summarizes what seems to have happened in the desktop PC market: The attribute measured on the vertical axis repeatedly changed. Performance oversupply in capacity triggered the first redefinition of the vertical axis, from capacity to physical size. When performance on this new dimension satisfied market needs, the definition of performance on the vertical axis changed once more, to reflect demand for reliability. For a time, products offering competitively superior shock resistance and mean time between failure (MTBF) were accorded a significant price premium, compared to competitive offerings. But as MTBF values approached one million hours, 1 the shadow price accorded to an increment of one hundred hours MTBF approached zero, suggesting performance oversupply on that dimension of product performance. The subsequent and current phase is an intense price-based competition, with gross margins tumbling below 12 percent in some instances.
+
+
+
+
+
+WHEN DOES A PRODUCT BECOME A COMMODITY?
+
+
+The process of commoditization of disk drives was defined by the interplay between the trajectories of what the market demanded and what the technology supplied. The 5.25-inch drive had become a price-driven commodity in the desktop market by about 1988, when the 3.5-inch drive was still at a premium price. The 5.25-inch drive, in addition, even though priced as a commodity in desktop applications, was at the same time, relative to 8-inch drives, achieving substantial price premiums in higher-tier markets. As described in chapter 4, this explains the aggressive moves upmarket made by established companies.
+
+A product becomes a commodity within a specific market segment when the repeated changes in the basis of competition, as described above, completely play themselves out, that is, when market needs on each attribute or dimension of performance have been fully satisfied by more than one available product. The performance oversupply framework may help consultants, managers, and researchers to understand the frustrated comments they regularly hear from salespeople beaten down in price negotiations with customers: “Those stupid guys are just treating our product like it was a commodity. Can’t they see how much better our product is than the competition’s?” It may, in fact, be the case that the product offerings of competitors in a market continue to be differentiated from each other. But differentiation loses its meaning when the features and functionality have exceeded what the market demands.
+
+Figure 9.3 Changes in the Basis of Competition in the Disk Drive Industry
+
+
+
+
+
+PERFORMANCE OVERSUPPLY AND THE EVOLUTION OF PRODUCT COMPETITION
+
+
+The marketing literature provides numerous descriptions of the product life cycle and of the ways in which the characteristics of products within given categories evolve over time. 2 The findings in this book suggest that, for many of these models, performance oversupply is an important factor driving the transition from one phase of the cycle to the next.
+
+Consider, for example, the product evolution model, called the buying hierarchy by its creators, Windermere Associates of San Francisco, California, which describes as typical the following four phases: functionality, reliability, convenience, and price. Initially, when no available product satisfies the functionality requirements the market, the basis of competition, or the criteria by which product choice is made, tends to be product functionality. (Sometimes, as in disk drives, a market may cycle through several different functionality dimensions.) Once two or more products credibly satisfy the market’s demand for functionality, however, customers can no longer base their choice of products on functionality, but tend to choose a product and vendor based on reliability. As long as market demand for reliability exceeds what vendors are able to provide, customers choose products on this basis—and the most reliable vendors of the most reliable products earn a premium for it.
+
+But when two or more vendors improve to the point that they more than satisfy the reliability demanded by the market, the basis of competition shifts to convenience. Customers will prefer those products that are the most convenient to use and those vendors that are most convenient to deal with. Again, as long as the market demand for convenience exceeds what vendors are able to provide, customers choose products on this basis and reward vendors with premium prices for the convenience they offer. Finally, when multiple vendors offer a package of convenient products and services that fully satisfies market demand, the basis of competition shifts to price. The factor driving the transition from one phase of the buying hierarchy to the next is performance oversupply.
+
+Another useful conception of industry evolution, formulated by Geoffrey Moore in his book Crossing the Chasm, 3 has a similar underlying logic, but articulates the stages in terms of the user rather than the product. Moore suggests that products are initially used by innovators and early adopters in an industry—customers who base their choice solely on the product’s functionality. During this phase the top-performing products command significant price premiums. Moore observes that markets then expand dramatically after the demand for functionality in the mainstream market has been met, and vendors begin to address the need for reliability among what he terms early majority customers. A third wave of growth occurs when product and vendor reliability issues have been resolved, and the basis of innovation and competition shifts to convenience, thus pulling in the late majority customers. Underlying Moore’s model is the notion that technology can improve to the point that market demand for a given dimension of performance can be satiated.
+
+This evolving pattern in the basis of competition—from functionality, to reliability and convenience, and finally to price—has been seen in many of the markets so far discussed. In fact, a key characteristic of a disruptive technology is that it heralds a change in the basis of competition.
+
+
+
+
+
+OTHER CONSISTENT CHARACTERISTICS OF DISRUPTIVE TECHNOLOGIES
+
+
+Two additional important characteristics of disruptive technologies consistently affect product life cycles and competitive dynamics: First, the attributes that make disruptive products worthless in mainstream markets typically become their strongest selling points in emerging markets; and second, disruptive products tend to be simpler, cheaper, and more reliable and convenient than established products. Managers must understand these characteristics to effectively chart their own strategies for designing, building, and selling disruptive products. Even though the specific market applications for disruptive technologies cannot be known in advance, managers can bet on these two regularities.
+
+
+
+
+
+1. The Weaknesses of Disruptive Technologies Are Their Strengths
+
+
+The relation between disruptive technologies and the basis of competition in an industry is complex. In the interplay among performance oversupply, the product life cycle, and the emergence of disruptive technologies, it is often the very attributes that render disruptive technologies useless in mainstream markets that constitute their value in new markets.
+
+In general, companies that have succeeded in disruptive innovation initially took the characteristics and capabilities of the technology for granted and sought to find or create a new market that would value or accept those attributes. Thus, Conner Peripherals created a market for small drives in portable computers, where smallness was valued; J. C. Bamford and J. I. Case built a market for excavators among residential contractors, where small buckets and tractor mobility actually created value; and Nucor found a market that didn’t mind the surface blemishes on its thin-slab-cast sheet steel.
+
+The companies toppled by these disruptive technologies, in contrast, each took the established market’s needs as given, and did not attempt to market the technology until they felt it was good enough to be valued in the mainstream market. Thus, Seagate’s marketers took the firm’s early 3.5-inch drives to IBM for evaluation, rather than asking, “Where is the market that would actually value a smaller, lower-capacity drive?” When Bucyrus Erie acquired its Hydrohoe hydraulic excavator line in 1951, its managers apparently did not ask, “Where is the market that actually wants a mobile excavator that can only dig narrow trenches?” They assumed instead that the market needed the largest possible bucket size and the longest possible reach; they jury-rigged the Hydrohoe with cables, pulleys, clutches, and winches and attempted to sell it to general excavation contractors. When U.S. Steel was evaluating continuous thin-slab casting, they did not ask, “Where is the market for low-priced sheet steel with poor surface appearance?” Rather, they took it for granted that the market needed the highest-possible quality of surface finish and invested more capital in a conventional caster. They applied to a disruptive innovation a way of thinking appropriate to a sustaining technology.
+
+In the instances studied in this book, established firms confronted with disruptive technology typically viewed their primary development challenge as a technological one: to improve the disruptive technology enough that it suits known markets. In contrast, the firms that were most successful in commercializing a disruptive technology were those framing their primary development challenge as a marketing one: to build or find a market where product competition occurred along dimensions that favored the disruptive attributes of the product. 4
+
+It is critical that managers confronting disruptive technology observe this principle. If history is any guide, companies that keep disruptive technologies bottled up in their labs, working to improve them until they suit mainstream markets, will not be nearly as successful as firms that find markets that embrace the attributes of disruptive technologies as they initially stand. These latter firms, by creating a commercial base and then moving upmarket, will ultimately address the mainstream market much more effectively than will firms that have framed disruptive technology as a laboratory, rather than a marketing, challenge.
+
+
+
+
+
+2. Disruptive Technologies Are Typically Simpler, Cheaper, and More Reliable and Convenient than Established Technologies
+
+
+When performance oversupply has occurred and a disruptive technology attacks the underbelly of a mainstream market, the disruptive technology often succeeds both because it satisfies the market’s need for functionality, in terms of the buying hierarchy, and because it is simpler, cheaper, and more reliable and convenient than mainstream products. Recall, for example, the attack of hydraulic excavation technology into the mainstream sewer and general excavation markets recounted in chapter 3. Once hydraulically powered excavators had the strength to handle buckets of 2 to 4 cubic yards of earth (surpassing the performance demanded in mainstream markets), contractors rapidly switched to these products even though the cable-actuated machines were capable of moving even more earth per scoop. Because both technologies provided adequate bucket capacity for their needs, contractors opted for the technology that was most reliable: hydraulics.
+
+Because established companies are so prone to push for high-performance, high-profit products and markets, they find it very difficult not to overload their first disruptive products with features and functionality. Hewlett-Packard’s experience in designing its 1.3-inch Kittyhawk disk drive teaches just this lesson. Unable to design a product that was truly simple and cheap, Kittyhawk’s champions pushed its capacity to the limits of technology and gave it levels of shock resistance and power consumption that would make it competitive as a sustaining product. When very high volume applications for a cheap, simple, single-function, 10 MB drive began to emerge, HP’s product was not disruptive enough to catch that wave. Apple committed a similar error in stretching the functionality of its Newton, instead of initially targeting simplicity and reliability.
+
+
+
+
+
+PERFORMANCE OVERSUPPLY IN THE ACCOUNTING SOFTWARE MARKET
+
+
+Intuit, the maker of financial management software, is known primarily for its extraordinarily successful personal financial software package, Quicken. Quicken dominates its market because it is easy and convenient. Its makers pride themselves on the fact that the vast majority of Quicken customers simply buy the program, boot it up on their computers, and begin using it without having to read the instruction manual. Its developers made it so convenient to use, and continue to make it simpler and more convenient, by watching how customers use the product, not by listening to what they or the “experts” say they need. By watching for small hints of where the product might be difficult or confusing to use, the developers direct their energies toward a progressively simpler, more convenient product that provides adequate, rather than superior, functionality. 5
+
+Less well known is Intuit’s commanding 70 percent share of the North American small business accounting software market. 6 Intuit captured that share as a late entrant when it launched Quickbooks, a product based on three simple insights. First, previously available small business accounting packages had been created under the close guidance of certified public accountants and required users to have a basic knowledge of accounting (debits and credits, assets and liabilities, and so on) and to make every journal entry twice (thus providing an audit trail for each transaction). Second, most existing packages offered a comprehensive and sophisticated array of reports and analyses, an array that grew ever more complicated and specialized with each new release as developers sought to differentiate their products by offering greater functionality. And third, 85 percent of all companies in the United States were too small to employ an accountant: The books were kept by the proprietors or by family members, who had no need for or understanding of most of the entries and reports available from mainstream accounting software. They did not know what an audit trail was, let alone sense a need to use one.
+
+Scott Cook, Intuit’s founder, surmised that most of these small companies were run by proprietors who relied more on their intuition and direct knowledge of the business than on the information contained in accounting reports. In other words, Cook decided that the makers of accounting software for small businesses had overshot the functionality required by that market, thus creating an opportunity for a disruptive software technology that provided adequate, not superior functionality and was simple and more convenient to use. Intuit’s disruptive Quickbooks changed the basis of product competition from functionality to convenience and captured 70 percent of its market within two years of its introduction. 7 In fact, by 1995 Quickbooks accounted for a larger share of Intuit’s revenues than did Quicken.
+
+The response of established makers of small business accounting software to Intuit’s invasion, quite predictably, has been to move upmarket, continuing to release packages loaded with greater functionality; these focus on specific market subsegments, targeted at sophisticated users of information systems at loftier tiers of the market. Of the three leading suppliers of small business accounting software (each of which claimed about 30 percent of the market in 1992), one has disappeared and one is languishing. The third has introduced a simplified product to counter the success of Quickbooks, but it has claimed only a tiny portion of the market.
+
+
+
+
+
+PERFORMANCE OVERSUPPLY IN THE PRODUCT LIFE CYCLE OF INSULIN
+
+
+Another case of performance oversupply and disruptive technology precipitating a change in the basis of competition—and threatening a change in industry leadership—is found in the worldwide insulin business. In 1922, four researchers in Toronto first successfully extracted insulin from the pancreases of animals and injected it, with miraculous results, into humans with diabetes. Because insulin was extracted from the ground-up pancreases of cows and pigs, improving the purity of insulin (measured in impure parts per million, or ppm) constituted a critical trajectory of performance improvement. Impurities dropped from 50,000 ppm in 1925 to 10,000 ppm in 1950 to 10 ppm in 1980, primarily as the result of persistent investment and effort by the world’s leading insulin manufacturer, Eli Lilly and Company.
+
+Despite this improvement, animal insulins, which are slightly different from human insulin, caused a fraction of a percent of diabetic patients to build up resistance in their immune systems. Thus, in 1978, Eli Lilly contracted with Genentech to create genetically altered bacteria that could produce insulin proteins that were the structural equivalent of human insulin proteins and 100 percent pure. The project was technically successful, and in the early 1980s, after a nearly $1 billion investment, Lilly introduced its Humulin-brand insulin to the market. Priced at a 25 percent premium over insulins of animal extraction, because of its human equivalence and its purity, Humulin was the first commercial-scale product for human consumption to emerge from the biotechnology industry.
+
+The market’s response to this technological miracle, however, was tepid. Lilly found it very difficult to sustain a premium price over animal insulin, and the growth in the sales volume of Humulin was disappointingly slow. “In retrospect,” noted a Lilly researcher, “the market was not terribly dissatisfied with pork insulin. In fact, it was pretty happy with it.” 8 Lilly had spent enormous capital and organizational energy overshooting the market’s demand for product purity. Once again, this was a differentiated product to which the market did not accord a price premium because the performance it provided exceeded what the market demanded.
+
+Meanwhile, Novo, a much smaller Danish insulin maker, was busy developing a line of insulin pens, a more convenient way for taking insulin. Conventionally, people with diabetes carried a separate syringe, inserted its needle into one glass insulin vial, pulled its plunger out to draw slightly more than the desired amount of insulin into the syringe, and held up the needle and flicked the syringe several times to dislodge any air bubbles that clung to the cylinder walls. They generally then had to repeat this process with a second, slower acting type of insulin. Only after squeezing the plunger slightly to force any remaining bubbles—and, inevitably, some insulin—out of the syringe could they inject themselves with the insulin. This process typically took one to two minutes.
+
+Novo’s pen, in contrast, held a cartridge containing a couple of weeks’ supply of insulin, usually mixtures of both the fast-acting and the gradually released types. People using the Novo pen simply had to turn a small dial to the amount of insulin they needed to inject, poke the pen’s needle under the skin, and press a button. The procedure took less than ten seconds. In contrast to Lilly’s struggle to command a premium price for Humulin, Novo’s convenient pens easily sustained a 30 percent price premium per unit of insulin. Through the 1980s, propelled largely by the success of its line of pens and pre-mixed cartridges, Novo increased its share of the worldwide insulin market substantially—and profitably. Lilly’s and Novo’s experiences offer further proof that a product whose performance exceeds market demands suffers commodity-like pricing, while disruptive products that redefine the basis of competition command a premium.
+
+Teaching the Harvard Business School case to executives and MBA students about Lilly overshooting the market demand for insulin purity has been one of my most interesting professional experiences. In every class, the majority of students quickly pounce on Lilly for having missed something so obvious—that only a fraction of a percent of people with diabetes develop insulin resistance—and that the differentiation between highly purified pork insulin at 10 ppm and perfectly pure Humulin was not significant. Surely, they assert, a few simple focus groups in which patients and doctors were asked whether they wanted purer insulin would have given Lilly adequate guidance.
+
+In every discussion, however, more thoughtful students soon begin to sway class opinion toward the view that (as we have seen over and over) what is obvious in retrospect might not be at all obvious in the thick of battle. Of all the physicians to whom Lilly’s marketers listened, for example, which ones tended to carry the most credibility? Endocrinologists whose practices focused on diabetes care, the leading customers in this business. What sorts of patients are most likely to consume the professional interests of these specialists? Those with the most advanced and intractable problems, among which insulin resistance was prominent. What, therefore, were these leading customers likely to tell Lilly’s marketers when they asked what should be done to improve the next-generation insulin product? Indeed, the power and influence of leading customers is a major reason why companies’ product development trajectories overshoot the demands of mainstream markets.
+
+Furthermore, thoughtful students observe that it would not even occur to most marketing managers to ask the question of whether a 100 percent pure human insulin might exceed market needs. For more than fifty years in a very successful company with a very strong culture, greater purity was the very definition of a better product. Coming up with purer insulins had always been the formula for staying ahead of the competition. Greater purity had always been a catching story that the salesforce could use to attract the time and attention of busy physicians. What in the company’s history would cause its culture-based assumptions suddenly to change and its executives to begin asking questions that never before had needed to be answered? 9
+
+
+
+
+
+CONTROLLING THE EVOLUTION OF PRODUCT COMPETITION
+
+
+Figure 9.4 summarizes the model of performance oversupply, depicting a multi-tiered market in which the trajectory of performance improvement demanded by the market is shallower than the trajectory of improvement supplied by technologists. Hence, each tier of the market progresses through an evolutionary cycle marked by a shifting basis for product choice. Although other terms for product life cycles would yield similar results, this diagram uses the buying hierarchy devised by Windermere Associates, in which competition centers first on functionality, followed by reliability, convenience, and, finally, price. In each of the cases reviewed in this chapter, the products heralding shifts in the basis of competition and progression to the next product life cycle phase were disruptive technologies.
+
+Figure 9.4 Managing Changes in the Basis of Competition
+
+
+
+
+
+The figure shows the strategic alternatives available to companies facing performance oversupply and the consequent likelihood that disruptive approaches will change the nature of competition in their industry. The first general option, labeled strategy 1 and the one most commonly pursued in the industries explored in this book, is to ascend the trajectory of sustaining technologies into ever-higher tiers of the market, ultimately abandoning lower-tier customers when simpler, more convenient, or less costly disruptive approaches emerge.
+
+A second alternative, labeled strategy 2, is to march in lock-step with the needs of customers in a given tier of the market, catching successive waves of change in the basis of competition. Historically, this appears to have been difficult to do, for all of the reasons described in earlier chapters. In the personal computer industry, for example, as the functionality of desktop machines came to satiate the demands of the lower tiers of the market, new entrants such as Dell and Gateway 2000 entered with value propositions centered on convenience of purchase and use. In the face of this, Compaq responded by actively pursuing this second approach, aggressively fighting any upmarket drift by producing a line of computers with low prices and modest functionality targeted to the needs of the lower tiers of the market.
+
+The third strategic option for dealing with these dynamics is to use marketing initiatives to steepen the slopes of the market trajectories so that customers demand the performance improvements that the technologists provide. Since a necessary condition for the playing out of these dynamics is that the slope of the technology trajectory be steeper than the market’s trajectory, when the two slopes are parallel, performance oversupply—and the progression from one stage of the product life cycle to the next—does not occur or is at least postponed.
+
+Some computer industry observers believe that Microsoft, Intel, and the disk drive companies have pursued this last strategy very effectively. Microsoft has used its industry dominance to create and successfully market software packages that consume massive amounts of disk memory and require ever-faster microprocessors to execute. It has, essentially, increased the slopes of the trajectories of improvement in functionality demanded by their customers to parallel the slope of improvement provided by their technologists. The effect of this strategy is described in Figure 9.5, depicting recent events in the disk drive industry. (This chart updates through 1996 the disk drive trajectory map in Figure 1.7.) Notice how the trajectories of capacity demanded in the mid-range, desktop, and notebook computer segments kinked upward in the 1990s along a path that essentially paralleled the capacity path blazed by the makers of 3.5-inch and 2.5-inch disk drives. Because of this, these markets have not experienced performance oversupply in recent years. The 2.5-inch drive remains locked within the notebook computer market because capacity demanded on the desktop is increasing at too brisk a pace. The 3.5-inch drive remains solidly ensconced in the desktop market, and the 1.8-inch drive has penetrated few notebook computers, for the same reasons. In this situation, the companies whose products are positioned closest to the top of the market, such as Seagate and IBM, have been the most profitable, because in the absence of technology oversupply, a shift in the stages of the product life cycle at the high end of the market has been held at bay.
+
+Figure 9.5 Changed Performance Demand Trajectories and the Deferred Impact of Disruptive Technologies
+
+
+
+
+
+Source: An earlier version of this figure was published in Clayton M. Christensen, “The Rigid Disk Drive Industry: A History of Commercial and Technological Turbulence,” Business History Review 67, no. 4 (Winter 1993): 559.
+
+It is unclear how long the marketers at Microsoft, Intel, and Seagate can succeed in creating demand for whatever functionality their technologists can supply. Microsoft’s Excel spreadsheet software, for example, required 1.2 MB of disk storage capacity in its version 1.2, released in 1987. Its version 5.0, released in 1995, required 32 MB of disk storage capacity. Some industry observers believe that if a team of developers were to watch typical users, they would find that functionality has substantially overshot mainstream market demands. If true, this could create an opportunity for a disruptive technology—applets picked off the internet and used in simple internet appliances rather than in full-function computers, for example—to invade this market from below.
+
+
+
+
+
+RIGHT AND WRONG STRATEGIES
+
+
+Which of the strategies illustrated in Figure 9.4 is best? This study finds clear evidence that there is no one best strategy. Any of the three, consciously pursued, can be successful. Hewlett-Packard’s pursuit of the first strategy in its laser jet printer business has been enormously profitable. In this instance, it has been a safe strategy as well, because HP is attacking its own position with disruptive ink-jet technology. Compaq Computer and the trinity of Intel, Microsoft, and the disk drive makers have successfully—at least to date—implemented the second and third strategies, respectively.
+
+These successful practitioners have in common their apparent under-standing—whether explicit or intuitive—of both their customers’ trajectories of need and their own technologists’ trajectories of supply. Understanding these trajectories is the key to their success thus far. But the list of firms that have consistently done this is disturbingly short. Most well-run companies migrate unconsciously to the northeast, setting themselves up to be caught by a change in the basis of competition and an attack from below by disruptive technology.
+
+
+
+
+
+NOTES
+
+
+1. In disk drive industry convention, a mean time between failure measure of one million hours means that if one million disk drives were turned on simultaneously and operated continuously for one hour, one of those drives would fail within the first hour.
+
+2. Three of the earliest and most influential papers that proposed the existence of product life cycles were Jay W. Forrester, “Industrial Dynamics,” Harvard Business Review, July–August, 1958, 9–14; Arch Patton, “Stretch Your Products’ Earning Years—Top Management’s Stake in the Product Life Cycle,” Management Review (38), June, 1959, 67–79; and William E. Cox, “Product Life Cycles as Marketing Models,” Journal of Business (40), October, 1967, 375. Papers summarizing the conceptual and empirical problems surrounding the product life cycle concept include Nariman K. Dhalla and Sonia Yuspeh, “Forget the Product Life Cycle Concept!” Harvard Business Review, January–February, 1976, 102–112; David R. Rink and John E. Swan, “Product Life Cycle Research: A Literature Review,” Journal of Business Research, 1979, 219; and George S. Day, “The Product Life Cycle: Analysis and Applications Issues,” Journal of Marketing (45), Fall, 1981, 60–67. A paper by Gerard J. Tellis and C. Merle Crawford, “An Evolutionary Approach to Product Growth Theory,” Journal of Marketing (45), Fall, 1981, 125–132, contains a cogent critique of the product life cycle concept, and presents a theory of product evolution that presages many of the ideas presented in this section.
+
+3. Geoffrey A. Moore, Crossing the Chasm (New York: HarperBusiness, 1991).
+
+4. The same behavior characterized the emergence of portable radios. In the early 1950s, Akio Morita, the chairman of Sony, took up residence in an inexpensive New York City hotel in order to negotiate a license to AT&T’s patented transistor technology, which its scientists had invented in 1947. Morita found AT&T to be a less-than-willing negotiator and had to visit the company repeatedly badgering AT&T to grant the license. Finally AT&T relented. After the meeting ended in which the licensing documents were signed, an AT&T official asked Morita what Sony planned to do with the license. “We will build small radios,” Morita replied. “Why would anyone care about smaller radios?” the official queried. “We’ll see,” was Morita’s answer. Several months later Sony introduced to the U.S. market the first portable transistor radio. According to the dominant metrics of radio performance in the mainstream market, these early transistor radios were really bad, offering far lower fidelity and much more static than the vacuum tube–based tabletop radios that were the dominant design of the time. But rather than work in his labs until his transistor radios were performance-competitive in the major market (which is what most of the leading electronics companies did with transistor technology), Morita instead found a market that valued the attributes of the technology as it existed at the time—the portable personal radio. Not surprisingly, none of the leading makers of table-top radios became a leading producer of portable radios, and all were subsequently driven from the radio market. (This story was recounted to me by Dr. Sheldon Weinig, retired vice chairman for manufacturing and technology of Sony Corporation.)
+
+5. John Case, “Customer Service: The Last Word,” Inc. Magazine, April, 1991, 1–5.
+
+6. This information in this section was given to the author by Scott Cook, the founder and chairman of Intuit Corporation, and by Jay O’Connor, marketing manager for Quickbooks.
+
+7. Cook recounts that in the process of designing a simple and convenient accounting software package, Intuit’s developers arrived at a profound insight. The double-entry accounting system originally developed by Venetian merchants to catch arithmetical mistakes continued to be used in every available package of accounting software—even though computers typically do not make mistakes in addition and subtraction. Intuit was able to greatly simplify its product by eliminating this unneeded dimension of product functionality.
+
+8. See “Eli Lilly & Co.: Innovation in Diabetes Care,” Harvard Business School, Case No. 9-696-077. This case notes that although Lilly was not able to achieve premium pricing for its Humulin insulin, it benefited from the investment. Humulin protected Lilly against a possible shortfall in the pancreas supply, threatened by declining red meat consumption, and it gave Lilly a very valuable experience and asset base in the volume manufacturing of bioengineered drugs.
+
+9. Once such minority opinions have been raised in class, many students then begin to see that institutions widely regarded as among the best-managed and most successful in the world may have overshot what their mainstream markets demand. Intel, for example, has always measured the speed of its microprocessors on the vertical axis of its performance graphs. It has always assumed that the market demands ever-faster microprocessors, and evidence to the tune of billions of dollars in profit has certainly confirmed that belief. Certainly some leading-edge customers need chips that process instructions at rates of 200, 400, and 800 MHz. But what about the mainstream market? Is it possible that sometime soon the speed and cost of Intel’s new microprocessors might overshoot market demands? And if technology oversupply is possible, how will thousands of Intel employees be able to recognize when this has occurred, accepting the change with enough conviction to completely alter the trajectory of their development efforts? Discerning technology oversupply is difficult. Doing something about it is even more so.
+
+
+
+
+

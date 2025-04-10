@@ -1,0 +1,242 @@
+10 Managing Disruptive Technological Change: A Case Study
+
+
+As we approach the end of this book, we should better understand why great companies can stumble. Incompetence, bureaucracy, arrogance, tired executive blood, poor planning, and short-term investment horizons obviously have played leading roles in toppling many companies. But we have learned here that even the best managers are subject to certain laws that make disruptive innovation difficult. It is when great managers haven’t understood or have attempted to fight these forces that their companies have stumbled.
+
+This chapter uses the forces and principles described in earlier chapters to illustrate how managers can succeed when faced with disruptive technology change. To do so, I employ a case study format, using a personal voice, to suggest how I, as a hypothetical employee of a major automaker, might manage a program to develop and commercialize one of the most vexing innovations of our day: the electric vehicle. My purpose here is explicitly not to offer any so-called right answer to this particular challenge, nor to predict whether or how electric vehicles may become commercially successful. Rather, it is to suggest in a familiar but challenging context how managers might structure their thinking about a similar problem by proposing a sequence of questions that, if asked, can lead to a sound and useful answer.
+
+
+
+
+
+HOW CAN WE KNOW IF A TECHNOLOGY IS DISRUPTIVE?
+
+
+Electric-powered vehicles have hovered at the fringe of legitimacy since the early 1900s, when they lost the contest for the dominant vehicle design to gasoline power. Research on these vehicles accelerated during the 1970s, however, as policy makers increasingly looked to them as a way to reduce urban air pollution. The California Air Resources Board (CARB) forced an unprecedented infusion of resources into the effort in the early 1990s when it mandated that, starting in 1998, no automobile manufacturer would be allowed to sell any cars in California if electric vehicles did not constitute at least 2 percent of its unit sales in the state. 1
+
+In my hypothetical responsibility for managing an automaker’s program, my first step would be to ask a series of questions: How much do we need to worry about electric cars? That is, aside from California’s mandate, does the electric car pose a legitimate disruptive threat to companies making gasoline-powered automobiles? Does it constitute an opportunity for profitable growth?
+
+To answer these questions, I would graph the trajectories of performance improvement demanded in the market versus the performance improvement supplied by the technology; in other words, I would create for electric vehicles a trajectory map similar to those in Figures 1.7 or 9.5. Such charts are the best method I know for identifying disruptive technologies.
+
+The first step in making this chart involves defining current mainstream market needs and comparing them with the current capacity of electric vehicles. To measure market needs, I would watch carefully what customers do, not simply listen to what they say. Watching how customers actually use a product provides much more reliable information than can be gleaned from a verbal interview or a focus group. 2 Thus, observations indicate that auto users today require a minimum cruising range (that is, the distance that can be driven without refueling) of about 125 to 150 miles; most electric vehicles only offer a minimum cruising range of 50 to 80 miles. Similarly, drivers seem to require cars that accelerate from 0 to 60 miles per hour in less than 10 seconds (necessary primarily to merge safely into high-speed traffic from freeway entrance ramps); most electric vehicles take nearly 20 seconds to get there. And, finally, buyers in the mainstream market demand a wide array of options, but it would be impossible for electric vehicle manufacturers to offer a similar variety within the small initial unit volumes that will characterize that business. 3 According to almost any definition of functionality used for the vertical axis of our proposed chart, the electric vehicle will be deficient compared to a gasoline-powered car.
+
+This information is not sufficient to characterize electric vehicles as disruptive, however. They will only be disruptive if we find that they are also on a trajectory of improvement that might someday make them competitive in parts of the mainstream market. To assess this possibility, we need to project trajectories measuring the performance improvement demanded in the market versus the performance improvement that electric vehicle technology may provide. If these trajectories are parallel, then electric vehicles are unlikely to become factors in the mainstream market; but if the technology will progress faster than the pace of improvement demanded in the market, then the threat of disruption is real.
+
+Figure 10.1 shows that the trajectories of performance improvement demanded in the market—whether measured in terms of required acceleration, cruising range, or top cruising speed—are relatively flat. This is because traffic laws impose a limit on the usefulness of ever-more-powerful cars, and demographic, economic, and geographic considerations limit the increase in commuting miles for the average driver to less than 1 percent per year. 4 At the same time, the performance of electric vehicles is improving at a faster rate—between 2 and 4 percent per year— suggesting that sustaining technological advances might indeed carry electric vehicles from their position today, where they cannot compete in mainstream markets, to a position in the future where they might. 5
+
+In other words, as an automotive company executive, I would worry about the electric vehicle, not just because it is politically correct to be investing in environmentally friendly technologies, but because electric vehicles have the smell of a disruptive technology. They can’t be used in mainstream markets; they offer a set of attributes that is orthogonal to those that command attention in the gasoline-powered value network; and the technology is moving ahead at a faster rate than the market’s trajectory of need.
+
+Because electric vehicles are not sustaining innovations, however, mainstream automakers naturally doubt that there is a market for them— another symptom of a disruptive innovation. Consider this statement by the director of Ford’s electric vehicle program: “The electric Ranger will sell at approximately $30,000 and have a lead-acid battery that will give it a range of 50 miles …. The 1998 electric vehicle will be a difficult sell. The products that will be available will not meet customer expectations in terms of range, cost or utility.” 6 Indeed, given their present performance along these parameters, it will be about as easy to sell electric vehicles into the mainstream car market as it was to sell 5.25-inch disk drives to mainframe computer makers in 1980.
+
+Figure 10.1 The Electric Car
+
+
+
+
+
+Source: Data are from Dr. Paul J. Miller, Senior Energy Fellow, W. Alton Jones Foundation and from numerous articles about electric vehicles.
+
+In evaluating these trajectories, I would be careful to keep asking the right question: Will the trajectory of electric vehicle performance ever intersect the trajectory of market demands (as revealed in the way customers use cars)? Industry experts may contend that electric vehicles will never perform as well as gasoline-powered cars, in effect comparing the trajectories of the two technologies. They are probably correct. But, recalling the experience of their counterparts in the disk drive industry, they will have the right answer to the wrong question. I also would note, but not be deterred by, the mountain of expert opinion averring that without a major technological breakthrough in battery technology, there will never be a substantial market for electric vehicles. The reason? If electric vehicles are viewed as a sustaining technology for established market value networks, they are clearly right. But because the track records of experts predicting the nature and size of markets for disruptive technologies is very poor, I would be particularly skeptical of the experts’ skepticism, even as I remain uncertain about my own conclusions.
+
+
+
+
+
+WHERE IS THE MARKET FOR ELECTRIC VEHICLES?
+
+
+Having decided that electric vehicles are a potentially disruptive technology, my next challenge would be to define a marketing strategy that could lead my company to a legitimate, unsubsidized market in which electric cars might first be used. In formulating this marketing strategy, I would apply three findings from earlier chapters in this book.
+
+First, I would acknowledge that, by definition, electric vehicles cannot initially be used in mainstream applications because they do not satisfy the basic performance requirements of that market. I would therefore be sure that everybody having anything to do with my program understands this point: Although we don’t have a clue about where the market is, the one thing we know for certain is that it isn’t in an established automobile market segment. Ironically, I would expect most automakers to focus precisely and myopically on the mainstream market because of the principle of resource dependence and the principle that small markets don’t solve the growth and profit needs of big companies. I would not, therefore, follow the lead of other automakers in my search for customers, because I would recognize that their instincts and capabilities are likely to be trained on the wrong target. 7
+
+Nonetheless, my task is to find a market in which the vehicles can be used, because the early entrants into disruptive technology markets develop capabilities that constitute strong advantages over later entrants. They’re the ones that, from a profitable business base in this beachhead market, will most successfully throw impetus behind the sustaining innovations required to move the disruptive technology upmarket, toward the mainstream. Holding back from the market, waiting for laboratory researchers to develop a breakthrough battery technology, for example, is the path of least resistance for managers. But this strategy has rarely proven to be a viable route to success with a disruptive innovation.
+
+Historically, as we have seen, the very attributes that make disruptive technologies uncompetitive in mainstream markets actually count as positive attributes in their emerging value network. In disk drives, the smallness of 5.25-inch models made them unusable in large computers but very useful on the desktop. While the small bucket capacity and short reach of early hydraulic excavators made them useless in general excavation, their ability to dig precise, narrow trenches made them useful in residential construction. Odd as it sounds, therefore, I would direct my marketers to focus on uncovering somewhere a group of buyers who have an undiscovered need for a vehicle that accelerates relatively slowly and can’t be driven farther than 100 miles!
+
+The second point on which I would base my marketing approach is that no one can learn from market research what the early market(s) for electric vehicles will be. I can hire consultants, but the only thing I can know for sure is that their findings will be wrong. Nor can customers tell me whether or how they might use electric vehicles, because they will discover how they might use the products at the same time as we discover it—just as Honda’s Supercub opened an unforeseen new application for motorbiking. The only useful information about the market will be what I create through expeditions into the market, through testing and probing, trial and error, by selling real products to real people who pay real money. 8 Government mandates, incidentally, are likely to distort rather than solve the problem of finding a market. I would, therefore, force my organization to live by its wits rather than to rely on capricious subsidies or noneconomic–based California regulation to fuel my business.
+
+The third point is that my business plan must be a plan for learning, not one for executing a preconceived strategy. Although I will do my best to hit the right market with the right product and the right strategy the first time out, there is a high probability that a better direction will emerge as the business heads toward its initial target. I must therefore plan to be wrong and to learn what is right as fast as possible. 9 I cannot spend all of my resources or all of my organizational credibility on an all-or-nothing first-time bet, as Apple did with its Newton or Hewlett-Packard did with its Kittyhawk. I need to conserve resources to get it right on the second or third try.
+
+These three concepts would constitute the foundation of my marketing strategy.
+
+
+
+
+
+Potential Markets: Some Speculation
+
+
+What might emerge as the initial value network for electric vehicles? Again, though it is impossible to predict, it almost surely will be one in which the weaknesses of the electric vehicle will be seen as strengths. One of my students has suggested that the parents of high school students, who buy their children cars for basic transportation to and from school, friends’ homes, and school events, might constitute a fertile market for electric vehicles. 10 Given the option, these parents might see the product simplicity, slow acceleration, and limited driving range of electric vehicles as very desirable attributes for their teenagers’ cars—especially if they were styled with teenagers in mind. Given the right marketing approach, who knows what might happen? An earlier generation met a lot of nice people on their Hondas.
+
+Another possible early market might be taxis or small-parcel delivery vehicles destined for the growing, crowded, noisy, polluted cities of Southeast Asia. Vehicles can sit on Bangkok’s roads all day, mostly idling in traffic jams and never accelerating above 30 miles per hour. Electric motors would not need to run and hence would not drain the battery while idling. The maneuverability and ease of parking of these small vehicles would be additional attractions.
+
+These or similar market ideas, whether or not they ultimately prove viable, are at least consistent with the way disruptive technologies develop and emerge.
+
+
+
+
+
+How Are Today’s Automobile Companies Marketing Electric Vehicles?
+
+
+The strategy proposed here for finding and defining the initial market for electric vehicles stands in stark contrast to the marketing approaches being used by today’s major automakers, each of which is struggling to sell electric vehicles into its mainstream market in the time-honored tradition of established firms mishandling disruptive technologies. Consider this statement made in 1995 by William Glaub, Chrysler general sales manager, discussing his company’s planned offering for 1998. 11
+
+Chrysler Corporation is preparing to provide an electric powered version of our slick new minivan in time for the 1998 model year. After an in-depth study of the option between a purpose-built vehicle and modification of an existing platform, the choice of the minivan to use as an electric powered platform, in retrospect, is an obvious best choice for us. Our experience shows that fleets will likely be the best opportunity to move any number of these vehicles …. The problem that we face is not in creating an attractive package. The new minivan is an attractive package. The problem is that sufficient energy storage capacity is not available on board the vehicle. 12
+
+To position its offering in the mainstream market, Chrysler has had to pack its minivan with 1,600 pounds of batteries. This, of course, makes its acceleration much slower, its driving range shorter, and its braking distance longer than other available gasoline-powered automobiles. Because of the way Chrysler has positioned its electric vehicle, industry analysts naturally compare it to gasoline-powered minivans, using the metrics paramount in the mainstream value network. At an estimated cost of $100,000 (compared with $22,000 for the gasoline-powered model), nobody in their right mind would consider buying Chrysler’s product.
+
+Chrysler’s marketers are, naturally enough, very pessimistic about their ability to sell any electric minivans in California, despite the government’s mandate that they do so. William Glaub, for example, continued the remarks cited above with the following observation:
+
+Markets are developed with fine products that customers desire to own. No salesman can take marginal product into the marketplace and have any hope of establishing a sustainable consumer base. Consumers will not be forced into a purchase that they do not want. Mandates will not work in a consumer-driven, free market economy. For electric vehicles to find a place in the market, respectable products comparable to today’s gasoline-powered cars must be available. 13
+
+Chrysler’s conclusion is absolutely correct, given the way its marketers have framed their challenge. 14 Mainstream customers can never use a disruptive technology at its outset.
+
+
+
+
+
+WHAT SHOULD BE OUR PRODUCT, TECHNOLOGY, AND DISTRIBUTION STRATEGIES?
+
+
+Product Development for Disruptive Innovations
+
+
+Guiding my engineers in designing our initial electric vehicle will be a challenge, because of the classic chicken-and-egg problem: Without a market, there is no obvious or reliable source of customer input; without a product that addresses customers’ needs, there can be no market. How can we design a product in such a vacuum? Fortunately, the principles described in this book give us some help.
+
+The most valuable guidance comes from chapter 9, which indicated that the basis of competition will change over a product’s life cycle and that the cycle of evolution itself is driven by the phenomenon of performance oversupply, that is, the condition in which the performance provided by a technology exceeds the actual needs of the market. Historically, performance oversupply opens the door for simpler, less expensive, and more convenient—and almost always disruptive—technologies to enter.
+
+Performance oversupply indeed seems to have occurred in autos. There are practical limits to the size of auto bodies and engines, to the value of going from 0 to 60 in fewer seconds, and to the consumer’s ability to cope with overchoice in available options. Thus, we can safely predict that the basis of product competition and customer choice will shift away from these measures of functionality toward other attributes, such as reliability and convenience. This is borne out by the nature of the most successful entrants into the North American market during the past thirty years; they have succeeded not because they introduced products with superior functionality, but because they competed on the basis of reliability and convenience.
+
+Toyota, for example, entered the U.S. market with its simple, reliable Corona, establishing a low-end market position. Then, consistent with the inexorable attraction to migrate upmarket, Toyota introduced models, such as Camry, Previa, and Lexus, with added features and functionality, creating a vacuum at the low end of the market into which entrants such as Saturn and Hyundai have entered. Saturn’s strategy has been to characterize the customer’s entire experience of buying and owning the vehicle as reliable and convenient, but it, too, judging by recent reports, 15 will soon take its turn moving upmarket, creating a new vacuum at the low end for even simpler, more convenient transportation.
+
+In all likelihood, therefore, the winning design in the first stages of the electric vehicle race will be characterized by simplicity and convenience and will be incubated in an emerging value network in which these attributes are important measures of value. Each of the disruptive technologies studied in this book has been smaller, simpler, and more convenient than preceding products. Each was initially used in a new value network in which simplicity and convenience were valued. This was true for smaller, simpler disk drives; desktop and portable computers; hydraulic backhoes; steel minimills as opposed to integrated mills; insulin-injecting pens as opposed to syringes. 16
+
+Using these qualities as my guiding principles, I would instruct my design engineers to proceed according to the following three criteria.
+
+First, this vehicle must be simple, reliable, and convenient. That probably means, for example, that figuring out a way to recharge its batteries quickly, using the commonly available electrical service, would be an immutable technological objective.
+
+Second, because no one knows the ultimate market for the product or how it will ultimately be used, we must design a product platform in which feature, function, and styling changes can be made quickly and at low cost. Assuming, for example, that the initial customers for electric vehicles will be parents who buy them for their teenaged children to drive to and from school, friends’ homes, and activities, the first model would have features and styling appropriate and appealing to teenagers. But, although we may target this market first, there’s a high probability that our initial concept will prove wrong. So we’ve got to get the first models done fast and on a shoestring—leaving ample budget to get it right once feedback from the market starts coming in. 17
+
+Third, we must hit a low price point. Disruptive technologies typically have a lower sticker price per unit than products that are used in the mainstream, even though their cost in use is often higher. What enabled the use of disk drives in desktop computers was not just their smaller size; it was their low unit price, which fit within the overall price points that personal computer makers needed to hit. The price per megabyte of the smaller disk drives was always higher than for the larger drives. Similarly, in excavators the price per excavator was lower for the early hydraulic models than for the established cable-actuated ones, but their total cost per cubic yard of earth moved per hour was much higher. Accordingly, our electric vehicle must have a lower sticker price than the prevailing price for gasoline-powered cars, even if the operating cost per mile driven is higher. Customers have a long track record of paying price premiums for convenience.
+
+
+
+
+
+Technology Strategy for Disruptive Innovations
+
+
+Our technology plan cannot call for any technological breakthroughs on the path critical for the project’s success. Historically, disruptive technologies involve no new technologies; rather, they consist of components built around proven technologies and put together in a novel product architecture that offers the customer a set of attributes never before available.
+
+The major automakers engaged in electric vehicle development today all maintain that a breakthrough in battery technology is absolutely essential before electric vehicles can be commercially viable. John R. Wallace, of Ford, for example, has stated the following:
+
+The dilemma is that today’s batteries cannot satisfy these consumer needs. As anybody who is familiar with today’s battery technology will tell you, electric vehicles are not ready for prime time. All of the batteries expected to be available in 1998 fall short of the 100-mile range [required by consumers]. The only solution for the problems of range and cost is improved battery technology. To ensure a commercially successful electric vehicle market, the focus of our resources should be on the development of battery technology. Industry efforts such as those through the U.S. Advanced Battery consortium, along with cooperative efforts among all electric vehicle stakeholders—such as utilities, battery companies, environmentalists, regulators and converters— are the most effective way to ensure the marketability of electric vehicles. 18
+
+William Glaub, of Chrysler, takes a similar position: “The advanced lead-acid batteries that will be used will provide less than the fuel storage equivalent of two gallons of gasoline. This is like leaving home every day with the ‘low fuel’ light on. In other words, the battery technology is simply not ready.” 19
+
+The reason these companies view a breakthrough in battery technology as the critical bottleneck to the commercial success of electric vehicles, of course, is that their executives have positioned their minds and their products in the mainstream market. For Chrysler, this means an electric minivan; for Ford, an electric Ranger. Given this position, they must deliver a sustaining technological impact from what is inherently a disruptive technology. They need a breakthrough in battery technology because they made the choice to somehow position electric vehicles as a sustaining technology. A battery breakthrough is not likely to be required of companies whose executives choose to harness or account for the basic laws of disruptive technology by creating a market in which the weaknesses of the electric vehicle become its strengths.
+
+Where will advances in battery technology eventually come from? Looking at the historical record, we can assert the following. The companies that ultimately achieve the advances in battery technology required to power cars for 150-mile cruises (if they are ever developed) will be those that pioneer the creation of a new value network using proven technology and then develop the sustaining technologies needed to carry them upward into more attractive markets. 20 Our finding that well-managed companies are generally upwardly mobile and downwardly immobile, therefore, suggests that the impetus to find the battery breakthrough will indeed be strongest among the disruptive innovators, which will have built a lowend market for electric vehicles before trying to move upmarket toward the larger, more profitable mainstream.
+
+
+
+
+
+Distribution Strategy for Disruptive Innovations
+
+
+It has almost always been the case that disruptive products redefine the dominant distribution channels, because dealers’ economics—their models for how to make money—are powerfully shaped by the mainstream value network, just as the manufacturer’s are. Sony’s disruptive introduction of convenient and reliable portable transistorized radios and televisions shifted the dominant retail channel from appliance and department stores with expensive sales support and field service networks (required for sets built with vacuum tubes) to volume-oriented, low-overhead discount retailers. Honda’s disruptive motorbikes were rejected by mainstream motorcycle dealers, forcing the company to create a new channel among sporting goods retailers. We saw, in fact, that a major reason why Harley-Davidson’s small-bike initiative failed is that its dealers rejected it: The image and economics of the small Italian bikes Harley had acquired did not fit its dealer network.
+
+The reason disruptive technologies and new distribution channels frequently go hand-in-hand is, in fact, an economic one. Retailers and distributors tend to have very clear formulas for making money, as the histories of Kresge and Woolworth in chapter 4 showed. Some make money by selling low volumes of big-ticket products at high margins; others make money by selling large volumes at razor-thin margins that cover minimal operating overheads; still others make their money servicing products already sold. Just as disruptive technologies don’t fit the models of established firms for improving profits, they often don’t fit the models of their distributors, either.
+
+My electric vehicle program would, therefore, have as a basic strategic premise the need to find or create new distribution channels for electric vehicles. Unless proven otherwise, I’d bet that mainstream dealers of gasoline-powered automobiles would not view the sorts of disruptive electric vehicles we have in mind as critical to their success.
+
+
+
+
+
+WHAT ORGANIZATION BEST SERVES DISRUPTIVE INNOVATIONS?
+
+
+After identifying the electric vehicle as a potentially disruptive technology; setting realistic bearings for finding its potential markets; and establishing strategic parameters for the product’s design, technology, and distribution network, as program manager I would next turn to organization. Creating an organizational context in which this effort can prosper will be crucial, because rational resource allocation processes in established companies consistently deny disruptive technologies the resources they need to survive, regardless of the commitment senior management may ostensibly have made to the program.
+
+
+
+
+
+Spinning Off an Independent Organization
+
+
+As we saw in the discussion of resource dependence in chapter 5, established firms that successfully built a strong market position in a disruptive technology were those that spun off from the mainstream company an independent, autonomously operated organization. Quantum, Control Data, IBM’s PC Division, Allen Bradley, and Hewlett-Packard’s desk-jet initiative all succeeded because they created organizations whose survival was predicated upon successful commercialization of the disruptive technology: These firms embedded a dedicated organization squarely within the emerging value network.
+
+As program manager, therefore, I would strongly urge corporate management to create an independent organization to commercialize electric vehicle technology, either an autonomous business unit, such as GM’s Saturn Division or the IBM PC Division, or an independent company whose stock is largely owned by the corporation. In an independent organization, my best employees would be able to focus on electric vehicles without being repeatedly withdrawn from the project to solve pressing problems for customers who pay the present bills. Demands from our own customers, on the other hand, would help us to focus on and lend impetus and excitement to our program.
+
+An independent organization would not only make resource dependence work for us rather than against us, but it would also address the principle that small markets cannot solve the growth or profit problems of large companies. For many years into the future, the market for electric vehicles will be so small that this business is unlikely to contribute significantly to the top or bottom lines of a major automaker’s income statement. Thus, since senior managers at these companies cannot be expected to focus either their priority attention or their priority resources on electric vehicles, the most talented managers and engineers would be unlikely to want to be associated with our project, which must inevitably be seen as a financially insignificant effort: To secure their own futures within the company, they naturally will want to work on mainstream programs, not peripheral ones.
+
+In the early years of this new business, orders are likely to be denominated in hundreds, not tens of thousands. If we are lucky enough to get a few wins, they almost surely will be small ones. In a small, independent organization, these small wins will generate energy and enthusiasm. In the mainstream, they would generate skepticism about whether we should even be in the business. I want my organization’s customers to answer the question of whether we should be in the business. I don’t want to spend my precious managerial energy constantly defending our existence to efficiency analysts in the mainstream.
+
+Innovations are fraught with difficulties and uncertainties. Because of this, I want always to be sure that the projects that I manage are positioned directly on the path everyone believes the organization must take to achieve higher growth and greater profitability. If my program is widely viewed as being on that path, then I have confidence that when the inevitable problems arise, somehow the organization will work with me to muster whatever it takes to solve them and succeed. If, on the other hand, my program is viewed by key people as nonessential to the organization’s growth and profitability, or even worse, is viewed as an idea that might erode profits, then even if the technology is simple, the project will fail.
+
+I can address this challenge in one of two ways: I could convince everyone in the mainstream (in their heads and their guts) that the disruptive technology is profitable, or I could create an organization that is small enough, with an appropriate cost structure, that my program can be viewed as being on its critical path to success. The latter alternative is a far more tractable management challenge.
+
+In a small, independent organization I will more likely be able to create an appropriate attitude toward failure. Our initial stab into the market is not likely to be successful. We will, therefore, need the flexibility to fail, but to fail on a small scale, so that we can try again without having destroyed our credibility. Again, there are two ways to create the proper tolerance toward failure: change the values and culture of the mainstream organization or create a new organization. The problem with asking the mainstream organization to be more tolerant of risk-taking and failure is that, in general, we don’t want to tolerate marketing failure when, as is most often the case, we are investing in sustaining technology change. The mainstream organization is involved in taking sustaining technological innovations into existing markets populated by known customers with researchable needs. Getting it wrong the first time is not an intrinsic part of these processes: Such innovations are amenable to careful planning and coordinated execution.
+
+Finally, I don’t want my organization to have pockets that are too deep. While I don’t want my people to feel pressure to generate significant profit for the mainstream company (this would force us into a fruitless search for an instant large market), I want them to feel constant pressure to find some way—some set of customers somewhere—to make our small organization cash-positive as fast as possible. We need a strong motivation to accelerate through the trials and errors inherent in cultivating a new market.
+
+Of course, the danger in making this unequivocal call for spinning out an independent company is that some managers might apply this remedy indiscriminately, viewing skunkworks and spinoffs as a blanket solution—an industrial-strength aspirin that cures all sorts of problems. In reality, spinning out is an appropriate step only when confronting disruptive innovation. The evidence is very strong that large, mainstream organizations can be extremely creative in developing and implementing sustaining innovations. 21 In other words, the degree of disruptiveness inherent in an innovation provides a fairly clear indication of when a mainstream organization might be capable of succeeding with it and when it might be expected to fail.
+
+In terms of the framework presented in Figure 5.6, the electric vehicle is not only a disruptive innovation, but it involves massive architectural reconfiguration as well, a reconfiguration that must occur not only within the product itself but across the entire value chain. From procurement through distribution, functional groups will have to interface differently than they have ever before. Hence, my project would need to be managed as a heavyweight team in an organization independent of the mainstream company. This organizational structure cannot guarantee the success of our electric vehicle program, but it would at least allow my team to work in an environment that accounts for, rather than fights, the principles of disruptive innovation.
+
+
+
+
+
+NOTES
+
+
+1. In 1996, the state government delayed implementation of this requirement until the year 2002, in response to motor vehicle manufacturers’ protests that, given the performance and cost of the vehicles they had been able to design, there was no demand for electric vehicles.
+
+2. An excellent study on this subject is summarized in Dorothy Leonard-Barton, Wellsprings of Knowledge (Boston: Harvard Business School Press, 1995).
+
+3. This information was taken from an October 1994 survey conducted by The Dohring Company and quoted by the Toyota Motor Sales Company at the CARB (California Air Resources Board) Workshop on Electric Vehicle Consumer Marketability held in El Monte, California, on June 28, 1995.
+
+4. This information was provided by Dr. Paul J. Miller, Senior Energy Fellow, W. Alton Jones Foundation, Inc., Charlottesville, Virginia. It was augmented with information from the following sources: Frank Keith, Paul Norton, and Dana Sue Potestio, Electric Vehicles: Promise and Reality (California State Legislative Report [19], No. 10, July, 1994); W. P. Egan, Electric Cars (Can-berra, Australia: Bureau of Transport Economics, 1974); Daniel Sperling, Future Drive: Electric Vehicles and Sustainable Transportation (Washington, D.C.: Island Press, 1995); and William Hamilton, Electric Automobiles (New York: McGraw Hill Company, 1980).
+
+5. Based on the graphs in Figure 10.1, it will take a long time for disruptive electric vehicle technology to become competitive in mainstream markets if future rates of improvement resemble those of the past. The historical rate of performance improvement is, of course, no guarantee that the future rate can be maintained. Technologists very well might run into insurmountable technological barriers. What we can say for sure, however, is that the incentive of disruptive technologists to find some way to engineer around such barriers will be just as strong as the disincentive that established car makers will feel to move down-market. If present rates of improvement continue, however, we would expect the cruising range of electric cars, for example, to intersect with the average range demanded in the mainstream market by 2015, and electric vehicle acceleration to intersect with mainstream demands by 2020. Clearly, as will be discussed below, it will be crucial for electric vehicle innovators to find markets that value the attributes of the technology as it currently is capable, rather than waiting until the technology improves to the point that it can be used in the mainstream market.
+
+6. This statement was made by John R. Wallace, Director of Electric Vehicle Programs, Ford Motor Company, at the CARB Workshop on Electric Vehicle Consumer Marketability held at El Monte, California, on June 28, 1995.
+
+7. It is remarkable how instinctively and consistently good companies try to force innovations toward their existing base of customers, regardless of whether they are sustaining or disruptive in character. We have seen this several times in this book: for example, in mechanical excavators, where Bucyrus Erie tried with its “Hydrohoe” to make hydraulic excavation technology work for mainstream excavation contractors; in motorcycles, where Harley-Davidson tried to launch low-end brand name bikes through its dealer network; and in the electric vehicle case described here, in which Chrysler packed nearly a ton of batteries into a minivan. Charles Ferguson and Charles Morris, in their book Computer Wars, recount a similar story about IBM’s efforts to commercialize Reduced Instruction Set Computing (RISC) microprocessor technology. RISC was invented at IBM, and its inventors built computers with RISC chips that were “screamingly fast.” IBM subsequently spent massive amounts of time, money, and manpower trying to make the RISC chip work in its main line of minicomputers. This required so many design compromises, however, that the program was never successful. Several key members of IBM’s RISC team left in frustration, subsequently playing key roles in establishing the RISC chipmaker MIPS and Hewlett-Packard’s RISC chip business. These efforts were successful because, having accepted the attributes of the product for what they were, they found a market, in engineering workstations, that valued those attributes. IBM failed because it tried to force the technology into a market it had already found. Interestingly, IBM ultimately built a successful business around a RISC-architecture chip when it launched its own engineering workstation. See Charles Ferguson and Charles Morris, Computer Wars (New York: Time Books, 1994).
+
+8. The notion that non-existent markets are best researched through action, rather than through passive observation, is explored in Gary Hamel and C. K. Prahalad, “Corporate Imagination and Expeditionary Marketing,” Harvard Business Review, July-August, 1991, 81–92.
+
+9. The concept that business plans dealing with disruptive innovations should be plans for learning rather than plans for executing a preconceived strategy is taught clearly by Rita G. McGrath and Ian MacMillan in “Discovery-Driven Planning,” Harvard Business Review, July-August, 1995, 44–54.
+
+10. Jeffrey Thoresen Severts, “Managing Innovation: Electric Vehicle Development at Chrysler,” Harvard Business School MBA student paper, 1996. A copy of this paper is available on request from Clayton Christensen, Harvard Business School.
+
+11. Glaub’s remarks were made in the context of the California Air Resources Board mandate that by 1998 all companies selling gasoline-powered vehicles in the state must, in order to sell any cars at all, sell enough electric-powered vehicles to constitute 2 percent of their total vehicle unit sales in the state. As already noted, the state government, in 1996, delayed implementation of that requirement until 2002.
+
+12. This statement was made by William Glaub, General Sales Manager, Field Sales Operations, Chrysler Corporation, at the CARB Workshop on Electric Vehicle Consumer Marketability held in El Monte, California, on June 28, 1995; see p. 5 of the company’s press release about the workshop.
+
+13. Ibid.
+
+14. It is important to note that these statistics for Chrysler’s offering were determined by Chrysler’s efforts to commercialize the disruptive technology; they are not intrinsic to electrically powered vehicles per se. Electric vehicles designed for different, lighter-duty applications, such as one by General Motors, have driving ranges of up to 100 miles. (See Jeffrey Thoresen Severts, “Managing Innovation: Electric Vehicle Development at Chrysler,” Harvard Business School student paper, 1996.)
+
+15. See, for example, Gabriella Stern and Rebecca Blumenstein, “GM Is Expected to Back Proposal for Midsize Version of Saturn Car,” The Wall Street Journal, May 24, 1996, B4.
+
+16. This list of smaller, simpler, more convenient disruptive technologies could be extended to include a host of others whose histories could not be squeezed into this book: tabletop photocopiers; surgical staplers; portable, transistorized radios and televisions; helican scan VCRs; microwave ovens; bubble jet printers. Each of these disruptive technologies has grown to dominate both its initial and its mainstream markets, having begun with simplicity and convenience as their primary value propositions.
+
+17. The notion that it takes time, experimentation, and trial and error to achieve a dominant product design, a very common pattern with disruptive technologies, is discussed later in this chapter.
+
+18. This statement was made by John R. Wallace, of Ford, at the CARB Workshop on Electric Vehicle Consumer Marketability held in El Monte, California, on June 28, 1995; see p. 5 of the company’s press release.
+
+19. Glaub, statement made at the CARB Workshop.
+
+20. Two excellent articles in which the relative roles of product development and incremental versus radical technology development are researched and discussed are Ralph E. Gomory, “From the ‘Ladder of Science’ to the Product Development Cycle,” Harvard Business Review, November-December, 1989, 99–105, and Lowell Steele, “Managers’ Misconceptions About Technology,” Harvard Business Review, 1983, 733–740.
+
+21. In addition to the findings from the disk drive study summarized in chapters 1 and 2 that established firms were able to muster the wherewithal to lead in extraordinarily complex and risky sustaining innovations, there is similar evidence from other industries; see, for example, Marco Iansiti, “Technology Integration: Managing Technological Evolution in a Complex Environment,” Research Policy 24, 1995, 521–542.
+
+
+
+
+

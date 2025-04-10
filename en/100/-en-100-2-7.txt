@@ -1,0 +1,210 @@
+7 Discovering New and Emerging Markets
+
+
+Markets that do not exist cannot be analyzed: Suppliers and customers must discover them together. Not only are the market applications for disruptive technologies unknown at the time of their development, they are unknowable. The strategies and plans that managers formulate for confronting disruptive technological change, therefore, should be plans for learning and discovery rather than plans for execution. This is an important point to understand, because managers who believe they know a market’s future will plan and invest very differently from those who recognize the uncertainties of a developing market.
+
+Most managers learn about innovation in a sustaining technology context because most technologies developed by established companies are sustaining in character. Such innovations are, by definition, targeted at known markets in which customer needs are understood. In this environment, a planned, researched approach to evaluating, developing, and marketing innovative products is not only possible, it is critical to success.
+
+What this means, however, is that much of what the best executives in successful companies have learned about managing innovation is not relevant to disruptive technologies. Most marketers, for example, have been schooled extensively, at universities and on the job, in the important art of listening to their customers, but few have any theoretical or practical training in how to discover markets that do not yet exist. The problem with this lopsided experience base is that when the same analytical and decision-making processes learned in the school of sustaining innovation are applied to enabling or disruptive technologies, the effect on the company can be paralyzing. These processes demand crisply quantified information when none exists, accurate estimates of financial returns when neither revenues nor costs can be known, and management according to detailed plans and budgets that cannot be formulated. Applying inappropriate marketing, investment, and management processes can render good companies incapable of creating the new markets in which enabling or disruptive technologies are first used.
+
+In this chapter we shall see how experts in the disk drive industry were able to forecast the markets for sustaining technologies with stunning accuracy but had great difficulty in spotting the advent and predicting the size of new markets for disruptive innovations. Additional case histories in the motorcycle and microprocessor industries further demonstrate the uncertainty about emerging market applications for disruptive or enabling technologies, even those that, in retrospect, appear obvious.
+
+
+
+
+
+
+
+FORECASTING MARKETS FOR SUSTAINING VERSUS DISRUPTIVE TECHNOLOGIES
+
+
+An unusual amount of market information has been available about the disk drive industry from its earliest days—a major reason why studying it has yielded such rich insights. The primary source of data, Disk/Trend Report, published annually by Disk/Trend, Inc., of Mountain View, California, lists every model of disk drive that has ever been offered for sale by any company in the world, for each of the years from 1975 to the present. It shows the month and year in which each model was first shipped, lists the performance specifications of the drive, and details the component technologies used. In addition, every manufacturer in the world shares with Disk/Trend its sales by product type, with information about what types of customers bought which drive. Editors at Disk/Trend then aggregate this data to derive the size of each narrowly defined market segment and publish a listing of the major competitors’ shares, carefully guarding all proprietary data. Manufacturers in the industry find the reports so valuable that they all continue to share their proprietary data with Disk/Trend.
+
+In each edition, Disk/Trend publishes the actual unit volumes and dollar sales in each market segment for the year just past and offers its forecasts for each of the next four years in each category. Given its unparalleled access to industry data spanning two decades, this publication offers an unusual chance to test through unfolding market history the accuracy of past predictions. Over all, Disk/Trend has a remarkable track record in forecasting the future of established markets, but it has struggled to estimate accurately the size of new markets enabled by disruptive disk drive technologies.
+
+The evidence is summarized in Figure 7.1, which compares the total unit volumes that Disk/Trend Report had forecast would be shipped in the first four years after commercial shipments of each new disk drive architecture began, to the total volumes that were actually shipped over that four-year period. To facilitate comparison, the heights of the bars measuring forecast shipments were normalized to a value of 100, and the volumes actually shipped were scaled as a percentage of the forecast. Of the five new architectures for which Disk/Trend’s forecasts were available, the 14-inch Winchester and the 2.5-inch generation were sustaining innovations, which were sold into the same value networks as the preceding generation of drives. The other three, 5.25-, 3.5-, and 1.8-inch drives, were disruptive innovations that facilitated the emergence of new value networks. (Disk/Trend did not publish separate forecasts for 8-inch drives.)
+
+Figure 7.1 The Four Years after the First Commercial Shipments: Sustaining versus Disruptive Technologies
+
+
+
+
+
+Source: Data are from various issues of Disk/Trend Report.
+
+Notice that Disk/Trend’s forecasts for the sustaining 2.5-inch and 14-inch Winchester technologies were within 8 percent and 7 percent, respectively, of what the industry actually shipped. But its estimates were off by 265 percent for 5.25-inch drives, 35 percent for 3.5-inch drives (really quite close), and 550 percent for 1.8-inch drives. Notably, the 1.8-inch drive, the forecast of which Disk/Trend missed so badly, was the first generation of drives with a primarily non-computer market.
+
+The Disk/Trend staff used the same methods to generate the forecasts for sustaining architectures as they did for disruptive ones: interviewing leading customers and industry experts, trend analysis, economic modeling, and so on. The techniques that worked so extraordinarily well when applied to sustaining technologies, however, clearly failed badly when applied to markets or applications that did not yet exist.
+
+
+
+
+
+IDENTIFYING THE MARKET FOR THE HP 1.3-INCH KITTYHAWK DRIVE
+
+
+Differences in the forecastablity of sustaining versus disruptive technologies profoundly affected Hewlett-Packard’s efforts to forge a market for its revolutionary, disruptive 1.3-inch Kittyhawk disk drive. 1 In 1991, Hewlett-Packard’s Disk Memory Division (DMD), based in Boise, Idaho, generated about $600 million in disk drive revenues for its $20 billion parent company. That year a group of DMD employees conceived of a tiny, 1.3-inch 20 MB drive, which they code-named Kittyhawk. This was indeed a radical program for HP: The smallest drive previously made by DMD had been 3.5-inches, and DMD had been one of the last in the industry to introduce one. The 1.3-inch Kittyhawk represented a significant leapfrog for the company—and, most notably, was HP’s first attempt to lead in a disruptive technology.
+
+For the project to make sense in a large organization with ambitious growth plans, HP executives mandated that Kittyhawk’s revenues had to ramp to $150 million within three years. Fortunately for Kittyhawk’s proponents, however, a significant market for this tiny drive loomed on the horizon: hand-held palm-top computers, or personal digital assistants (PDAs). Kittyhawk’s sponsors, after studying projections for this market, decided that they could scale the revenue ramp that had been set for them. They consulted a market research firm, which confirmed HP’s belief that the market for Kittyhawk would indeed be substantial.
+
+HP’s marketers developed deep relationships with senior executives at major companies in the computer industry, for example, Motorola, ATT, IBM, Apple, Microsoft, Intel, NCR, and Hewlett-Packard itself, as well as at a host of lesser-known startup companies. All had placed substantial product development bets on the PDA market. Many of their products were designed with Kittyhawk’s features in mind, and Kittyhawk’s design in turn reflected these customers’ well-researched needs.
+
+The Kittyhawk team concluded that developing a drive that met these customers’ requirements would be a demanding but feasible technological stretch, and they launched an aggressive twelve-month effort to develop the tiny device. The result, shown in Figure 7.2, was impressive. The first version packed 20 MB, and a second model, introduced a year later, stored 40 MB. To meet the ruggedness demanded in its target market of PDAs and electronic notebooks, Kittyhawk was equipped with an impact sensor similar to those used in automobile airbag crash sensors and could withstand a three-foot drop onto concrete without data loss. It was designed to sell initially at $250 per unit.
+
+Although Kittyhawk’s technical development went according to plan, the development of applications for it did not. The PDA market failed to materialize substantially, as sales of Apple’s Newton and competing devices fell far short of aspirations. This surprised many of the computer industry experts whose opinions HP’s marketers had worked so hard to synthesize. During its first two years on the market, Kittyhawk logged just a fraction of the sales that had been forecast. The sales achieved might have initially satisfied startup companies and venture capitalists, but for HP’s management, the volumes were far below expectations and far too small to satisfy DMD’s need to grow and gain overall market share. Even more surprising, the applications that contributed most significantly to Kittyhawk’s sales were not in computers at all. They were Japanese-language portable word processors, miniature cash registers, electronic cameras, and industrial scanners, none of which had figured in Kittyhawk’s original marketing plans.
+
+Figure 7.2 Hewlett-Packard’s Kittyhawk Drive
+
+
+
+Source: Hewlett Packard Company. Used by permission.
+
+Even more frustrating, as the second anniversary of Kittyhawk’s launch approached, were the inquiries received by HP marketers from companies making mass-market video game systems to buy very large volumes of Kittyhawk—if HP could make a version available at a lower price point. These companies had been aware of Kittyhawk for two years, but they reported that it had taken some time for them to see what could be done with a storage device so small.
+
+To a significant extent, HP had designed Kittyhawk to be a sustaining technology for mobile computing. Along many of the metrics of value in that application—small size, low weight and power consumption, and ruggedness—Kittyhawk constituted a discontinuous sustaining improvement relative to 2.5-and 1.8-inch drives. Only in capacity (which HP had pushed as far as possible) was Kittyhawk deficient. The large inquiries and orders that finally began arriving for the Kittyhawk, however, were for a truly disruptive product: something priced at $50 per unit and with limited functionality. For these applications, a capacity of 10 MB would have been perfectly adequate.
+
+Unfortunately, because HP had positioned the drive with the expensive features needed for the PDA market rather than designing it as a truly disruptive product, it simply could not meet the price required by home video game manufacturers. Having invested so aggressively to hit its original targets as defined by the PDA application, management had little patience and no money to redesign a simpler, defeatured 1.3-inch drive that fit the market applications that had finally become clear. HP withdrew Kittyhawk from the market in late 1994.
+
+The HP project managers concede in retrospect that their most serious mistake in managing the Kittyhawk initiative was to act as if their forecasts about the market were right, rather than as if they were wrong. They had invested aggressively in manufacturing capacity for producing the volumes forecast for the PDA market and had incorporated design features, such as the shock sensor, that were crucial to acceptance in the PDA market they had so carefully researched. Such planning and investment is crucial to success in a sustaining technology, but, the managers reflected, it was not right for a disruptive product like Kittyhawk. If they had the opportunity to launch Kittyhawk all over again, they would assume that neither they nor anyone else knew for sure what kinds of customers would want it or in what volumes. This would lead them toward a much more exploratory, flexible approach toward product design and investment in manufacturing capacity; they would, given another chance, feel their way into the market, leaving enough resources to redirect their program if necessary and building upon what they learned on the way.
+
+Hewlett-Packard’s disk drive makers are not the only ones, of course, who behaved as if they knew what the market for a disruptive technology would be. They are in stellar company, as the following case histories show.
+
+
+
+
+
+HONDA’S INVASION OF THE NORTH AMERICAN MOTORCYCLE INDUSTRY
+
+
+Honda’s success in attacking and dominating the North American and European motorcycle markets has been cited as a superb example of clear strategic thinking coupled with aggressive and coherent execution. According to these accounts, Honda employed a deliberate manufacturing strategy based on an experience curve in which it cut prices, built volume, aggressively reduced costs, cut prices some more, reduced costs further, and built an unassailable volume-based low-cost manufacturing position in the motorcycle market. Honda then used that base to move upmarket and ultimately blew all established motorcycle manufacturers out of the market except for Harley-Davidson and BMW, which barely survived. 2 Honda combined this manufacturing triumph with a clever product design, catchy advertising, and a convenient, broad-based distributor/retailer network tailored to the informal cyclists who constituted Honda’s core customer base. Told in this manner, Honda’s history is a tale of strategic brilliance and operational excellence that all managers dream will be told about them someday. The reality of Honda’s achievement, as recounted by the Honda employees who were managing the business at the time, however, is quite different. 3
+
+During Japan’s years of post-war reconstruction and poverty, Honda had emerged as a supplier of small, rugged motorized bicycles that were used by distributors and retailers in congested urban areas to make small deliveries to local customers. Honda developed considerable expertise in designing small, efficient engines for these bikes. Its Japanese market sales grew from an initial annual volume of 1,200 units in 1949 to 285,000 units in 1959.
+
+Honda’s executives were eager to exploit the company’s low labor costs to export motorbikes to North America, but there was no equivalent market there for its popular Japanese “Supercub” delivery bike. Honda’s research showed that Americans used motorcyles primarily for over-the-road distance driving in which size, power, and speed were the most highly valued product attributes. Accordingly, Honda engineers designed a fast, powerful motorcycle specifically for the American market, and in 1959 Honda dispatched three employees to Los Angeles to begin marketing efforts. To save living expenses, the three shared an apartment, and each brought with him a Supercub bike to provide cheap transportation around the city.
+
+The venture was a frustrating experience from the beginning. Honda’s products offered no advantage to prospective customers other than cost, and most motorcycle dealers refused to accept the unproven product line. When the team finally succeeded in finding some dealers and selling a few hundred units, the results were disastrous. Honda’s understanding of engine design turned out not to be transferable to highway applications, in which bikes were driven at high speeds for extended periods: The engines sprung oil leaks and the clutches wore out. Honda’s expenses in air-freighting the warrantied replacement motorcycles between Japan and Los Angeles nearly sunk the company.
+
+Meanwhile, one Saturday, Kihachiro Kawashima, the Honda executive in charge of the North American venture, decided to vent his frustrations by taking his Supercub into the hills east of Los Angeles. It helped: He felt better after zipping around in the dirt. A few weeks later he sought relief dirt-biking again. Eventually he invited his two colleagues to join him on their Supercubs. Their neighbors and others who saw them zipping around the hills began inquiring where they could buy those cute little bikes, and the trio obliged by special-ordering Supercub models for them from Japan. This private use of what became known as off-road dirt bikes continued for a couple of years. At one point a Sears buyer tried to order Supercubs for the company’s outdoor power equipment departments, but Honda ignored the opportunity, preferring to focus on selling large, powerful, over-the-road cycles, a strategy that continued to be unsuccessful.
+
+Finally, as more and more people clamored for their own little Honda Supercubs to join their dirt-biking friends, the potential for a very different market dawned on Honda’s U.S. team: Maybe there was an undeveloped off-the-road recreational motorbike market in North America for which— quite by accident—the company’s little 50cc Supercub was nicely suited. Although it took much arguing and arm-twisting, the Los Angeles team ultimately convinced corporate management in Japan that while the company’s large bike strategy was doomed to failure, another quite different opportunity to create a totally new market segment merited pursuit.
+
+Once the small-bike strategy was formally adopted, the team found that securing dealers for the Supercub was an even more vexing challenge than it had been for its big bikes. There just weren’t any retailers selling that class of product. Ultimately, Honda persuaded a few sporting goods dealers to take on its line of motorbikes, and as they began to promote the bikes successfully, Honda’s innovative distribution strategy was born.
+
+Honda had no money for a sophisticated advertising campaign. But a UCLA student who had gone dirt-biking with his friends came up with the advertising slogan, “You meet the nicest people on a Honda,” for a paper he wrote in an advertising course. Encouraged by his teacher, he sold the idea to an advertising agency, which then convinced Honda to use it in what became an award-winning advertising campaign. These serendipitous events were, of course, followed by truly world-class design engineering and manufacturing execution, which enabled Honda to repeatedly lower its prices as it improved its product quality and increased its production volumes.
+
+Honda’s 50cc motorbike was a disruptive technology in the North American market. The rank-ordering of product attributes that Honda’s customers employed in their product decision making defined for Honda a very different value network than the established network in which Harley-Davidson, BMW, and other traditional motorcycle makers had competed.
+
+From its low-cost manufacturing base for reliable motorbikes, using a strategy reminiscent of the upmarket invasions described earlier in disk drives, steel, excavators, and retailing, Honda turned its sights upmarket, introducing between 1970 and 1988 a series of bikes with progressively more powerful engines.
+
+For a time in the late 1960s and early 1970s, Harley attempted to compete head-on with Honda and to capitalize on the expanding lowend market by producing a line of small-engine (150 to 300 cc) bikes acquired from the Italian motorcycle maker Aeromecchania. Harley attempted to sell the bikes through its North American dealer network. Although Honda’s manufacturing prowess clearly disadvantaged Harley in this effort, a primary cause of Harley’s failure to establish a strong presence in the small-bike value network was the opposition of its dealer network. Their profit margins were far greater on high-end bikes, and many of them felt the small machines compromised Harley-Davidson’s image with their core customers.
+
+Recall from chapter 2 the finding that within a given value network, the disk drive companies and their computer-manufacturing customers had developed very similar economic models or cost structures, which determined the sorts of business that appeared profitable to them. We see the same phenomenon here. Within their value network, the economics of Harley’s dealers drove them to favor the same type of business that Harley had come to favor. Their coexistence within the value network made it difficult for either Harley or its dealers to exit the network through its bottom. In the late 1970s Harley gave in and repositioned itself at the very high end of the motorcycle market—a strategy reminiscent of Seagate’s repositioning in disk drives, and of the upmarket retreats of the cable excavator companies and the integrated steel mills.
+
+Interestingly, Honda proved just as inaccurate in estimating how large the potential North American motorcycle market was as it had been in understanding what it was. Its initial aspirations upon entry in 1959 had been to capture 10 percent of a market estimated at 550,000 units per year with annual growth of 5 percent. By 1975 the market had grown 16 percent per year to 5,000,000 annual units—units that came largely from an application that Honda could not have foreseen. 4
+
+
+
+
+
+INTEL’S DISCOVERY OF THE MICROPROCESSOR MARKET
+
+
+Intel Corporation, whose founders launched the company in 1969 based on their pioneering development of metal-on-silicon (MOS) technology to produce the world’s first dynamic random access memory (DRAM) integrated circuits, had become by 1995 one of the world’s most profitable major companies. Its storied success is even more remarkable because, when its initial leadership position in the DRAM market began crumbling between 1978 and 1986 under the onslaught of Japanese semiconductor manufacturers, Intel transformed itself from a second-tier DRAM company into the world’s dominant microprocessor manufacturer. How did Intel do it?
+
+Intel developed the original microprocessor under a contract development arrangement with a Japanese calculator manufacturer. When the project was over, Intel’s engineering team persuaded company executives to purchase the microprocessor patent from the calculator maker, which owned it under the terms of its contract with Intel. Intel had no explicit strategy for building a market for this new microprocessor; the company simply sold the chip to whoever seemed to be able to use it.
+
+Mainstream as they seem today, microprocessors were disruptive technologies when they first emerged. They were capable only of limited functionality, compared to the complex logic circuits that constituted the central processing units of large computers in the 1960s. But they were small and simple, and they enabled affordable logic and computation in applications where this previously had not been feasible.
+
+Through the 1970s, as competition in the DRAM market intensified, margins began to decline on Intel’s DRAM revenues while margins on its microprocessor product line, where there was less competition, stayed robust. Intel’s system for allocating production capacity operated according to a formula whereby capacity was committed in proportion to the gross margins earned by each product line. The system therefore imperceptibly began diverting investment capital and manufacturing capacity away from the DRAM business and into microprocessors—without an explicit management decision to do so. 5 In fact, Intel senior management continued to focus most of its own attention and energy on DRAM, even while the company’s resource allocation processes were gradually implementing an exit from that business.
+
+This de facto strategy shift, driven by Intel’s autonomously operating resource allocation process, was fortuitous. Because so little was known of the microprocessor market at that time, explicit analysis would have provided little justification for a bold move into microprocessors. Gordon Moore, Intel co-founder and chairman, for example, recalled that IBM’s choice of the Intel 8088 microprocessor as the “brain” of its new personal computer was viewed within Intel as a “small design win.” 6 Even after IBM’s stunning success with its personal computers, Intel’s internal forecast of the potential applications for the company’s next-generation 286 chip did not include personal computers in its list of the fifty highest-volume applications. 7
+
+In retrospect, the application of microprocessors to personal computers is an obvious match. But in the heat of the battle, of the many applications in which microprocessors might have been used, even a management team as astute as Intel’s could not know which would emerge as the most important and what volumes and profits it would yield.
+
+
+
+
+
+UNPREDICTABILITY AND DOWNWARD IMMOBILITY IN ESTABLISHED FIRMS
+
+
+The reaction of some managers to the difficulty of correctly planning the markets for disruptive technologies is to work harder and plan smarter. While this approach works for sustaining innovations, it denies the evidence about the nature of disruptive ones. Amid all the uncertainty surrounding disruptive technologies, managers can always count on one anchor: Experts’ forecasts will always be wrong. It is simply impossible to predict with any useful degree of precision how disruptive products will be used or how large their markets will be. An important corollary is that, because markets for disruptive technologies are unpredictable, companies’ initial strategies for entering these markets will generally be wrong.
+
+How does this statement square with the findings presented in Table 6.1, which showed a stunning difference in the posterior probabilities of success between firms that entered new, emerging value networks (37 percent) and those that entered existing value networks (6 percent)? If markets cannot be predicted in advance, how can firms that target them be more successful? Indeed, when I have shown the matrix in Table 6.1 to managerial audiences, they are quite astonished by the differences in the magnitudes and probabilities of success. But it is clear that the managers don’t believe that the results can be generalized to their own situations. The findings violate their intuitive sense that creating new markets is a genuinely risky business. 8
+
+
+
+
+
+Failed Ideas versus Failed Businesses
+
+
+The case studies reviewed in this chapter suggest a resolution to this puzzle. There is a big difference between the failure of an idea and the failure of a firm. Many of the ideas prevailing at Intel about where the disruptive microprocessor could be used were wrong; fortunately, Intel had not expended all of its resources implementing wrong-headed marketing plans while the right market direction was still unknowable. As a company, Intel survived many false starts in its search for the major market for microprocessors. Similarly, Honda’s idea about how to enter the North American motorcycle market was wrong, but the company didn’t deplete its resources pursuing its big-bike strategy and was able to invest aggressively in the winning strategy after it had emerged. Hewlett-Packard’s Kittyhawk team was not as fortunate. Believing they had identified the winning strategy, its managers spent their budget on a product design and the manufacturing capacity for a market application that never emerged. When the ultimate applications for the tiny drive ultimately began to coalesce, the Kittyhawk team had no resources left to pursue them.
+
+Research has shown, in fact, that the vast majority of successful new business ventures abandoned their original business strategies when they began implementing their initial plans and learned what would and would not work in the market. 9 The dominant difference between successful ventures and failed ones, generally, is not the astuteness of their original strategy. Guessing the right strategy at the outset isn’t nearly as important to success as conserving enough resources (or having the relationships with trusting backers or investors) so that new business initiatives get a second or third stab at getting it right. Those that run out of resources or credibility before they can iterate toward a viable strategy are the ones that fail.
+
+
+
+
+
+Failed Ideas and Failed Managers
+
+
+In most companies, however, individual managers don’t have the luxury of surviving a string of trials and errors in pursuit of the strategy that works. Rightly or wrongly, individual managers in most organizations believe that they cannot fail: If they champion a project that fails because the initial marketing plan was wrong, it will constitute a blotch on their track record, blocking their rise through the organization. Because failure is intrinsic to the process of finding new markets for disruptive technologies, the inability or unwillingness of individual managers to put their careers at risk acts as a powerful deterrent to the movement of established firms into the value networks created by those technologies. As Joseph Bower observed in his classic study of the resource allocation process at a major chemical company, “Pressure from the market reduces both the probability and the cost of being wrong. 10
+
+Bower’s observation is consistent with the findings in this book about the disk drive industry. When demand for an innovation was assured, as was the case with sustaining technologies, the industry’s established leaders were capable of placing huge, long, and risky bets to develop whatever technology was required. When demand was not assured, as was the case in disruptive technologies, the established firms could not even make the technologically straightforward bets required to commercialize such innovations. That is why 65 percent of the companies entering the disk drive industry attempted to do so in an established, rather than emerging market. Discovering markets for emerging technologies inherently involves failure, and most individual decision makers find it very difficult to risk backing a project that might fail because the market is not there.
+
+
+
+
+
+Plans to Learn versus Plans to Execute
+
+
+Because failure is intrinsic to the search for initial market applications for disruptive technologies, managers need an approach very different from what they would take toward a sustaining technology. In general, for sustaining technologies, plans must be made before action is taken, forecasts can be accurate, and customer inputs can be reasonably reliable. Careful planning, followed by aggressive execution, is the right formula for success in sustaining technology.
+
+But in disruptive situations, action must be taken before careful plans are made. Because much less can be known about what markets need or how large they can become, plans must serve a very different purpose: They must be plans for learning rather than plans for implementation. By approaching a disruptive business with the mindset that they can’t know where the market is, managers would identify what critical information about new markets is most necessary and in what sequence that information is needed. Project and business plans would mirror those priorities, so that key pieces of information would be created, or important uncertainties resolved, before expensive commitments of capital, time, and money were required.
+
+Discovery-driven planning, which requires managers to identify the assumptions upon which their business plans or aspirations are based, 11 works well in addressing disruptive technologies. In the case of Hewlett-Packard’s Kittyhawk disk drive, for example, HP invested significant sums with its manufacturing partner, the Citizen Watch Company, in building and tooling a highly automated production line. This commitment was based on an assumption that the volumes forecast for the drive, built around forecasts by HP customers of PDA sales, were accurate. Had HP’s managers instead assumed that nobody knew in what volume PDAs would sell, they might have built small modules of production capacity rather than a single, high-volume line. They could then have held to capacity or added or reduced capacity as key events confirmed or disproved their assumptions.
+
+Similarly, the Kittyhawk product development plan was based on an assumption that the dominant application for the little drive was in PDAs, which demanded high ruggedness. Based on this assumption, the Kittyhawk team committed to components and a product architecture that made the product too expensive to be sold to the price-sensitive video game makers at the emerging low end of the market. Discovery-driven planning would have forced the team to test its market assumptions before making commitments that were expensive to reverse—in this case, possibly by creating a modularized design that easily could be reconfigured or defeatured to address different markets and price points, as events in the marketplace clarified the validity of their assumptions.
+
+Philosophies such as management by objective and management by exception often impede the discovery of new markets because of where they focus management attention. Typically, when performance falls short of plan, these systems encourage management to close the gap between what was planned and what happened. That is, they focus on unanticipated failures. But as Honda’s experience in the North American motorcycle market illustrates, markets for disruptive technologies often emerge from unanticipated successes, on which many planning systems do not focus the attention of senior management. 12 Such discoveries often come by watching how people use products, rather than by listening to what they say.
+
+I have come to call this approach to discovering the emerging markets for disruptive technologies agnostic marketing, by which I mean marketing under an explicit assumption that no one—not us, not our customers—can know whether, how, or in what quantities a disruptive product can or will be used before they have experience using it. Some managers, faced with such uncertainty, prefer to wait until others have defined the market. Given the powerful first-mover advantages at stake, however, managers confronting disruptive technologies need to get out of their laboratories and focus groups and directly create knowledge about new customers and new applications through discovery-driven expeditions into the marketplace.
+
+
+
+
+
+NOTES
+
+
+1. What follows is a summary of the fuller history recounted in “Hewlett-Packard: The Flight of the Kittyhawk,” Harvard Business School, Case No. 9-697-060, 1996.
+
+2. Examples of such histories of Honda’s success include the Harvard Business School case study, “A Note on the Motorcycle Industry—1975,” No. 9-578-210, and a report published by The Boston Consulting Group, “Strategy Alternatives for the British Motorcycle Industry,” 1975.
+
+3. Richard Pascale and E. Tatum Christiansen, “Honda (A),” Harvard Business School Teaching, Case No. 9-384-049, 1984, and “Honda (B),” Harvard Business School, Teaching Case No. 9-384-050, 1984.
+
+4. Statistical Abstract of the United States (Washington, D.C.: United States Bureau of the Census, 1980), 648.
+
+5. Intel’s exit from the DRAM business and entry into microprocessors has been chronicled by Robert A. Burgelman in “Fading Memories: A Process Theory of Strategic Business Exit in Dynamic Environments,” Administrative Science Quarterly (39), 1994, 24–56. This thoroughly researched and compellingly written study of the process of strategy evolution is well worth reading.
+
+6. George W. Cogan and Robert A. Burgelman, “Intel Corporation (A): The DRAM Decision,” Stanford Business School, Case PS-BP-256.
+
+7. Robert A. Burgelman, “Fading Memories: A Process Theory of Strategic Business Exit in Dynamic Environments,” Administrative Science Quarterly (39) 1994.
+
+8. Studies of how managers define and perceive risk can shed significant light on this puzzle. Amos Tversky and Daniel Kahneman, for example, have shown that people tend to regard propositions that they do not understand as more risky, regardless of their intrinsic risk, and to regard things they do understand as less risky, again without regard to intrinsic risk. (Amos Tversky and Daniel Kahneman, “Judgment Under Uncertainty: Heuristics and Biases,” Science [185], 1974, 1124–1131.) Managers, therefore, may view creation of new markets as risky propositions, in the face of contrary evidence, because they do not understand non-existent markets; similarly, they may regard investment in sustaining technologies, even those with high intrinsic risk, as safe because they understand the market need.
+
+9. Among the excellent studies in this tradition are Myra M. Hart, Founding Resource Choices: Influences and Effects, DBA thesis, Harvard University Graduate School of Business Administration, 1995; Amar Bhide, “How Entrepreneurs Craft Strategies that Work,” Harvard Business Review, March–April, 1994, 150–163; Amar Bhide, “Bootstrap Finance: The Art of Start-Ups,” Harvard Business Review, November–December 1992, 109–118; “Hewlett-Packard’s Kittyhawk,” Harvard Business School, Case No. 9-697-060; and “Vallourec’s Venture into Metal Injection Molding,” Harvard Business School, Case No. 9-697-001.
+
+10. Joseph Bower, Managing the Resource Allocation Process (Homewood, IL: Richard D. Irwin, 1970), 254.
+
+11. Rita G. McGrath and Ian C. MacMillan, “Discovery-Driven Planning,” Harvard Business Review, July–August, 1995, 4–12.
+
+12. This point is persuasively argued in Peter F. Drucker, Innovation and Entrepreneurship (New York: Harper & Row, 1985). Below, in chapter 9, I recount how software maker Intuit discovered that many of the people buying its Quicken personal financial management software were, in fact, using it to keep the books of their small businesses. Intuit had not anticipated this application, but it consequently adapted the product more closely to small business needs and launched Quickbooks, which captured more than 70 percent of the small business accounting software market within two years.
+
+
+
+
+

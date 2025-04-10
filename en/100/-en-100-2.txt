@@ -1,0 +1,61 @@
+PART TWO: MANAGING DISRUPTIVE TECHNOLOGICAL CHANGE
+
+In the search for reasons why so many strong companies in three very different industries stumbled or failed, the research summarized in the preceding chapters casts doubt on several conventional explanations other researchers have offered. It wasn’t the case that the leading companies’ engineers tended to get stuck in a particular technological paradigm or ignored innovations that were “not invented here.” The cause of failure could not be solely attributed to established firms’ inadequate competence in new technological fields or their inability to stay atop their industry’s “technological mudslide.” Of course, these problems do afflict some companies. But as a general rule, the evidence is very strong that as long as the new technology was required to address the needs of their customers, established firms were able to muster the expertise, capital, suppliers, energy, and rationale to develop and implement the requisite technology both competitively and effectively. This has been true for incremental as well as radical advances; for projects that consumed months as well as those lasting more than a decade; in fast-paced disk drives, in the slower-paced mechanical excavator industry, and in the process-intensive steel industry.
+
+Probably the most important outcome of this attempt to define the problem is that it ruled out poor management as a root cause. Again, this is not to say that good and bad management aren’t key factors affecting the fortunes of firms. But as a general explanation, the managers of the companies studied here had a great track record in understanding customers’ future needs, identifying which technologies could best address those needs, and in investing to develop and implement them. It was only when confronted with disruptive technology that they failed. There had, therefore, to be a reason why good managers consistently made wrong decisions when faced with disruptive technological change.
+
+The reason is that good management itself was the root cause. Managers played the game the way it was supposed to be played. The very decision-making and resource-allocation processes that are key to the success of established companies are the very processes that reject disruptive technologies: listening carefully to customers; tracking competitors’ actions carefully; and investing resources to design and build higher-performance, higher-quality products that will yield greater profit. These are the reasons why great firms stumbled or failed when confronted with disruptive technological change.
+
+Successful companies want their resources to be focused on activities that address customers’ needs, that promise higher profits, that are technologically feasible, and that help them play in substantial markets. Yet, to expect the processes that accomplish these things also to do something like nurturing disruptive technologies—to focus resources on proposals that customers reject, that offer lower profit, that underperform existing technologies and can only be sold in insignificant markets—is akin to flapping one’s arms with wings strapped to them in an attempt to fly. Such expectations involve fighting some fundamental tendencies about the way successful organizations work and about how their performance is evaluated.
+
+Part Two of this book is built upon detailed case studies of a few companies that succeeded, and many more that failed, when faced with disruptive technological change. Just as in our analogy to man’s finally learning to fly when aviators ultimately came to understand and either harness or accommodate some fundamental laws of nature, these case studies show that those executives who succeeded tended to manage by a very different set of rules than those that failed. There were, in fact, five fundamental principles of organizational nature that managers in the successful firms consistently recognized and harnessed. The firms that lost their battles with disruptive technologies chose to ignore or fight them. These principles are:
+
+Resource dependence: Customers effectively control the patterns of resource allocation in well-run companies.
+
+Small markets don’t solve the growth needs of large companies.
+
+The ultimate uses or applications for disruptive technologies are unknowable in advance. Failure is an intrinsic step toward success.
+
+Organizations have capabilities that exist independently of the capabilities of the people who work within them. Organizations’ capabilities reside in their processes and their values—and the very processes and values that constitute their core capabilities within the current business model also define their disabilities when confronted with disruption.
+
+Technology supply may not equal market demand. The attributes that make disruptive technologies unattractive in established markets often are the very ones that constitute their greatest value in emerging markets.
+
+
+
+How did the successful managers harness these principles to their advantage?
+
+They embedded projects to develop and commercialize disruptive technologies within an organization whose customers needed them. When managers aligned a disruptive innovation with the “right” customers, customer demand increased the probability that the innovation would get the resources it needed.
+
+They placed projects to develop disruptive technologies in organizations small enough to get excited about small opportunities and small wins.
+
+They planned to fail early and inexpensively in the search for the market for a disruptive technology. They found that their markets generally coalesced through an iterative process of trial, learning, and trial again.
+
+They utilized some of the resources of the mainstream organization to address the disruption, but they were careful not to leverage its processes and values. They created different ways of working within an organization whose values and cost structure were turned to the disruptive task at hand.
+
+When commercializing disruptive technologies, they found or developed new markets that valued the attributes of the disruptive products, rather than search for a technological breakthrough so that the disruptive product could compete as a sustaining technology in mainstream markets.
+
+
+
+Chapters 5 through 9 in Part Two describe in more detail how managers can address and harness these four principles. Each chapter starts by examining how harnessing or ignoring these principles affected the fortunes of disk drive companies when disruptive technologies were emerging.1 Each chapter then branches into an industry with very different characteristics, to show how the same principles drove the success and failure of firms confronted with disruptive technologies there.
+
+The sum of these studies is that while disruptive technology can change the dynamics of industries with widely varying characteristics, the drivers of success or failure when confronted by such technology are consistent across industries.
+
+Chapter 10 shows how these principles can be used by illustrating how managers might apply them in a case study of a particularly vexing technology—the electric vehicle. Chapter 11 then reviews the principal findings of the book.
+
+
+
+
+
+NOTES
+
+
+1. The notion that we exercise power most effectively when we understand the physical and psychological laws that define the way the world works and then position or align ourselves in harmony with those laws, is of course not new to this book. At a light-hearted level, Stanford Professor Robert Burgelman, whose work is extensively cited in ths book, once dropped his pen onto the floor in a lecture. He muttered as he stooped to pick it up, “I hate gravity.” Then, as he walked to the blackboard to continue his line of thought, he added, “But do you know what? Gravity doesn’t care! It will always pull things down, and I may as well plan on it.”
+
+At a more serious level, the desirability of aligning our actions with the amore powerful laws of nature, society, and psychology, in order to lead a productive life, is a central theme in many works, particularly the ancient Chinese classic, Tao te Ching.
+
+
+
+
+
+
+

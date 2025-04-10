@@ -1,0 +1,259 @@
+4 What Goes Up, Can’t Go Down
+
+
+It is clear from the histories of the disk drive and excavator industries that the boundaries of value networks do not completely imprison the companies within them: There is considerable upward mobility into other networks. It is in restraining downward mobility into the markets enabled by disruptive technologies that the value networks exercise such unusual power. In this chapter we will explore these questions: Why could leading companies migrate so readily toward high-end markets, and why does moving downmarket appear to have been so difficult? Rational managers, as we shall see, can rarely build a cogent case for entering small, poorly defined low-end markets that offer only lower profitability. In fact, the prospects for growth and improved profitability in upmarket value networks often appear to be so much more attractive than the prospect of staying within the current value network, that it is not unusual to see well-managed companies leaving (or becoming uncompetitive with) their original customers as they search for customers at higher price points. In good companies, resources and energy coalesce most readily behind proposals to attack upmarket into higher-performance products that can earn higher margins.
+
+Indeed, the prospects for improving financial performance by moving toward upmarket value networks are so strong that one senses a huge magnet in the northeast corner of the disk drive and excavator trajectory maps. This chapter examines the power of this “northeastern pull” by looking at evidence from the history of the disk drive industry. It then generalizes this framework by exploring the same phenomenon in the battle between minimill and integrated steel makers.
+
+
+
+
+
+THE GREAT NORTHEAST MIGRATION IN DISK DRIVES
+
+
+Figure 4.1 plots in more detail the upmarket movement of Seagate Technology, whose strategy was typical of most disk drive manufacturers. Recall that Seagate had spawned, and then grew to dominate, the value network for desktop computing. Its product position relative to capacity demanded in its market is mapped by vertical lines which span from the lowest-to the highest-capacity drives in its product line, in each of the years shown. The black rectangle on the line measuring each year’s capacity span shows the median capacity of the drives Seagate introduced in each of those years.
+
+Figure 4.1 Upmarket Migration of Seagate Products
+
+
+
+
+
+Source: Data are from various issues of Disk/Trend Report.
+
+Between 1983 and 1985, the center of gravity of Seagate’s product line was positioned squarely on the average capacity demanded in the desktop segment. It was between 1987 and 1989 that the disruptive 3.5-inch form invaded the desktop market from below. Seagate responded to that attack, not by fighting the disruptive technology head-on, but by retreating up-market. It continued to offer models in the capacity ranges the desktop PC market demanded, but by 1993 the focus of its energy had clearly shifted to the market for mid-range computers, such as file servers and engineering workstations.
+
+Indeed, disruptive technologies have such a devastating impact because the firms that first commercialized each generation of disruptive disk drives chose not to remain contained within their initial value network. Rather, they reached as far upmarket as they could in each new product generation, until their drives packed the capacity to appeal to the value networks above them. It is this upward mobility that makes disruptive technologies so dangerous to established firms—and so attractive to entrants.
+
+
+
+
+
+VALUE NETWORKS AND CHARACTERISTIC COST STRUCTURES
+
+
+What lies behind this asymmetric mobility? As we have already seen, it is driven by resource allocation processes that direct resources toward new product proposals that promise higher margins and larger markets. These are almost always better in the northeast portions of trajectory maps (such as Figures 1.7 and 3.3) than in the southeast. The disk drive manufacturers migrated to the northeast corner of the product-market map because the resource allocation processes they employed took them there.
+
+As we saw in chapter 2, a characteristic of each value network is a particular cost structure that firms within it must create if they are to provide the products and services in the priority their customers demand. Thus, as the disk drive makers became large and successful within their “home” value network, they developed a very specific economic character: tuning their levels of effort and expenses in research, development, sales, marketing, and administration to the needs of their customers and the challenges of their competitors. Gross margins tended to evolve in each value network to levels that enabled the better disk drive makers to make money, given these costs of doing business.
+
+In turn, this gave these companies a very specific model for improving profitability. Generally, they found it difficult to improve profitability by hacking out cost while steadfastly standing in their mainstream market: The research, development, marketing, and administrative costs they were incurring were all critical to remaining competitive in their mainstream business. Moving upmarket toward higher-performance products that promised higher gross margins was usually a more straightforward path to profit improvement. Moving downmarket was anathema to that objective.
+
+The obviousness of the path toward profit improvement is shown in Figure 4.2. The three bars on the left depict the size of the desktop, minicomputer, and mainframe computer value networks in 1981 and are labeled with the characteristic margins enjoyed by disk drive makers in each of those networks. Gross margins are clearly higher in higher-end markets, compensating manufacturers for the higher levels of overhead characteristic of those businesses.
+
+The differences in the size of these markets and the characteristic cost structures across these value networks created serious asymmetries in the combat among these firms. Firms making 8-inch drives for the minicomputer market, for example, had cost structures requiring gross margins of 40 percent. Aggressively moving downmarket would have pitted them against foes who had honed their cost structures to make money at 25 percent gross margins. On the other hand, moving upmarket enabled them to take a relatively lower-cost structure into a market that was accustomed to giving its suppliers 60 percent gross margins. Which direction made sense? A similar asymmetry faced the makers of 5.25-inch drives in 1986, as they decided whether to spend their resources building a position in the emerging market for 3.5-inch drives in portable computers or to move up toward the minicomputer and mainframe companies.
+
+Committing development resources to launch higher-performance products that could garner higher gross margins generally both offered greater returns and caused less pain. As their managers were making repeated decisions about which new product development proposals they should fund and which they should shelve, proposals to develop higher-performance products targeted at the larger, higher-margin markets immediately above them always got the resources. In other words, sensible resource allocation processes were at the root of companies’ upward mobility and downmarket immobility across the boundaries of the value networks in the disk drive industry.
+
+The hedonic regression analysis summarized in chapter 2 showed that higher-end markets consistently paid significantly higher prices for incremental megabytes of capacity. Why would anyone opt to sell a megabyte for less when it could be sold for more? The disk drive companies’ migration to the northeast was, as such, highly rational.
+
+Figure 4.2 Views Upmarket and Downmarket for Established Disk Drive
+
+
+
+
+
+Source: Data are from various issues of Disk/Trend Report, corporate annual reports, and data provided in personal interviews.
+
+Note: Percentages above each bar indicate typical gross margins in each value network.
+
+Other scholars have found evidence in other industries that as companies leave their disruptive roots in search of greater profitability in the market tiers above them, they gradually come to acquire the cost structures required to compete in those upper market tiers. 1 This exacerbates their problem of downward immobility.
+
+
+
+
+
+RESOURCE ALLOCATION AND UPWARD MIGRATION
+
+
+Further insight into this asymmetric mobility across value networks comes from comparing two different descriptive models of how resources are allocated. The first model describes resource allocation as a rational, top-down decision-making process in which senior managers weigh alternative proposals for investment in innovation and put money into those projects that they find to be consistent with firm strategy and to offer the highest return on investment. Proposals that don’t clear these hurdles are killed.
+
+The second model of resource allocation, first articulated by Joseph Bower, 2 characterizes resource allocation decisions much differently. Bower notes that most proposals to innovate are generated from deep within the organization not from the top. As these ideas bubble up from the bottom, the organization’s middle managers play a critical but invisible role in screening these projects. These managers can’t package and throw their weight behind every idea that passes by; they need to decide which are the best, which are most likely to succeed, and which are most likely to be approved, given the corporate financial, competitive, and strategic climate.
+
+In most organizations, managers’ careers receive a big boost when they play a key sponsorship role in very successful projects—and their careers can be permanently derailed if they have the bad judgment or misfortune to back projects that fail. Middle managers aren’t penalized for all failures, of course. Projects that fail because the technologists couldn’t deliver, for example, often are not (necessarily) regarded as failures at all, because a lot is learned from the effort and because technology development is generally regarded as an unpredictable, probabilistic endeavor. But projects that fail because the market wasn’t there have far more serious implications for managers’ careers. These tend to be much more expensive and public failures. They generally occur after the company has made full investments in product design, manufacturing, engineering, marketing, and distribution. Hence, middle managers—acting in both their own and the company’s interest—tend to back those projects for which market demand seems most assured. They then work to package the proposals for their chosen projects in ways geared to win senior management approval. As such, while senior managers may think they’re making the resource allocation decisions, many of the really critical resource allocation decisions have actually been made long before senior management gets involved: Middle managers have made their decisions about which projects they’ll back and carry to senior management—and which they will allow to languish.
+
+Consider the implications of this for a successful firm’s downward and upward mobility from its initial value network in this hypothetical example. In the same week, two respected employees, one from marketing, the other from engineering, run two very different ideas for new products past their common manager two levels above them in the organization. The marketer comes first, with an idea for a higher-capacity, higher-speed model. The two-levels-up manager starts her interrogation:
+
+“Who’s going to buy it?”
+
+“Well, there’s a whole segment in the workstation industry—they buy over $600 million in drives each year—that we’ve just never been able to reach because our capacity points just don’t reach that high. I think this product just might get us there.”
+
+“Have you run this idea past any potential customers?”
+
+“Yeah, I was in California last week. They all said they wanted prototypes as soon as they could get them. There’s a design window opening up in nine months. They’ve been working with their current supplier [competitor X] to get something ready, but someone we just hired from competitor X said they’re having lots of trouble meeting the specs. I really think we can do it.”
+
+“But does engineering think we can do it?”
+
+“They say it’ll be a stretch, but you know them. They always say that.” “What kind of margins are we looking at up there?”
+
+“That’s what really excites me about this. If we can build it in our current factory, given the price per megabyte competitor X has been getting, I think we can get close to 35 percent.”
+
+Compare that conversation to the manager’s interchange with the engineer whose idea is for a cheaper, smaller, slower, lower-capacity disruptive disk drive.
+
+“Who’s going to buy it?”
+
+“Well, I’m not sure, but there’s got to be a market out there somewhere for it. People are always wanting things smaller and less expensive. I could see them using it in fax machines, printers, maybe.”
+
+“Have you run this idea past any potential customers?”
+
+“Yeah, when I was at the last trade show I sketched the idea out for one of our current customers. He said he was interested, but couldn’t see how they could really use it. Today you really need 270 MB to run everything, and there’s just no way we could get that kind of capacity on this thing—at least not for a while. His response doesn’t surprise me, really.”
+
+“How about the guys who make fax machines? What do they think?”
+
+“Well, they say they don’t know. Again, it’s an intriguing idea, but they already have their product plans pretty well set, and none of them use disk drives.”
+
+“You think we could make money on this project?”
+
+“Well, I think so, but that depends on how we could price it, of course.”
+
+Which of the two projects will the two-levels-up manager back? In the tug-of-war for development resources, projects targeted at the explicit needs of current customers or at the needs of existing users that a supplier has not yet been able to reach will always win over proposals to develop products for markets that do not exist. This is because, in fact, the best resource allocation systems are designed precisely to weed out ideas that are unlikely to find large, profitable, receptive markets. Any company that doesn’t have a systematic way of targeting its development resources toward customers’ needs, in fact, will fail. 3
+
+The most vexing managerial aspect of this problem of asymmetry, where the easiest path to growth and profit is up, and the most deadly attacks come from below, is that “good” management—working harder and smarter and being more visionary—doesn’t solve the problem. The resource allocation process involves thousands of decisions, some subtle and some explicit, made every day by hundreds of people, about how their time and the company’s money ought to be spent. Even when a senior manager decides to pursue a disruptive technology, the people in the organization are likely to ignore it or, at best, cooperate reluctantly if it doesn’t fit their model of what it takes to succeed as an organization and as individuals within an organization. Well-run companies are not populated by yes-people who have been taught to carry out mindlessly the directives of management. Rather, their employees have been trained to understand what is good for the company and what it takes to build a successful career within the company. Employees of great companies exercise initiative to serve customers and meet budgeted sales and profits. It is very difficult for a manager to motivate competent people to energetically and persistently pursue a course of action that they think makes no sense. An example from the history of the disk drive industry illustrates the impact of such employee behavior.
+
+
+
+
+
+THE CASE OF THE 1.8-INCH DISK DRIVE
+
+
+Managers in disk drive companies were very generous in helping me conduct the research reported in this book, and, as the results began emerging in 1992, I began feeding back the published papers that summarized what I was learning. I was particularly interested in whether the framework summarized in Figure 1.7 would have an impact on their decisions regarding the 1.8-inch drive, which was just then emerging as the industry’s most recent disruptive technology. For industry outsiders, of course, the conclusion was obvious: “How many times does this have to happen before these guys learn?! Of course they’ve got to do it.” The guys did, in fact, learn. By the end of 1993, each of the leading drive makers had developed 1.8-inch models and had them ready for introduction if and when the market developed.
+
+In August 1994, I was visiting the CEO of one of the largest disk drive companies and asked him what his firm was doing about the 1.8-inch drive. This clearly touched a hot button. He pointed to a shelf in his office where a sample 1.8-inch drive was perched. “You see that?” he demanded. “That’s the fourth generation of 1.8-inch drives we’ve developed—each one with more capacity than the last. But we haven’t sold any. We want to be ready when the market is there, but there just isn’t a market for them yet.”
+
+I countered by reminding him that Disk/Trend Report, a highly regarded market research publication that was the source of much of the data used in my study, had measured the 1993 market at $40 million, was projecting 1994 sales to be $80 million, and forecast 1995 volume at $140 million.
+
+“I know that’s what they think,” he responded. “But they’re wrong. There isn’t a market. We’ve had that drive in our catalog for 18 months. Everyone knows we’ve got it, but nobody wants it. The market just isn’t there. We just got way ahead of the market.” I had no other basis for pressing my point with this manager, who is one of the most astute managers I’ve ever met. Our conversation moved to other issues.
+
+About a month later I was leading a case discussion in the Harvard MBA program’s technology and operations management course about the development of a new engine at Honda. One of the students in the class had previously worked in Honda’s research and development organization, so I asked him to take a few minutes to tell the class what it was like working there. It turned out that he had been working on dashboard mapping and navigation systems. I couldn’t resist interrupting his talk by asking, “How do you store all that data for the maps?”
+
+Said the student: “We found a little 1.8-inch disk drive and put it in there. It’s really neat—almost a solid-state device, with very few moving parts. Really rugged.”
+
+“Who do you buy them from?” I pressed.
+
+“It’s kind of funny,” he replied. “You can’t buy them from any of the big disk drive companies. We get them from a little startup company somewhere in Colorado—I can’t remember the name.”
+
+I have since reflected on why the head of this company would insist so stubbornly that there was no market for 1.8-inch drives, even while there was, and why my student would say the big drive makers didn’t sell these drives, even though they were trying. The answer lies in the northeast-southeast problem, and in the role that the hundreds of well-trained decision makers in a good company play in funneling resources and energy into those projects they perceive will bring the company the greatest growth and profit. The CEO had decided that the company was going to catch this next disruptive wave early and had shepherded the project through to a successful, economical design. But among the employees, there was nothing about an $80 million, low-end market that solved the growth and profit problems of a multibillion dollar company—especially when capable competitors were doing all they could to steal away the customers providing those billions. (The revenue figure is disguised.) And way at the other end of the company, there was nothing about supplying prototype quantities of 1.8-inch drives to an automaker that solved the problem of meeting the 1994 quotas of salespeople whose contacts and expertise were based so solidly in the computer industry.
+
+For an organization to accomplish a task as complex as launching a new product, logic, energy, and impetus must all coalesce behind the effort. Hence, it is not just the customers of an established firm that hold it captive to their needs. Established firms are also captive to the financial structure and organizational culture inherent in the value network in which they compete—a captivity that can block any rationale for timely investment in the next wave of disruptive technology.
+
+
+
+
+
+VALUE NETWORKS AND MARKET VISIBILITY
+
+
+The impetus to drift upmarket can be particularly powerful when a firm’s customers themselves are migrating upmarket. In such circumstances, suppliers of an intermediate component such as a disk drive may not sense their northeasterly migration because they are embedded among competitors and customers experiencing a similar drift.
+
+In this light, we can see how easy it would have been for the leading 8-inch disk drive makers—Priam, Quantum, and Shugart—to miss the 5.25-inch generation of drives. Not a single one of their core customers, for example, Digital Equipment, Prime Computer, Data General, Wang Laboratories, and Nixdorf, successfully introduced a desktop computer. Instead, each was moving upmarket itself toward ever higher performance segments of their markets, trying to win the business of customers who historically had used mainframes. Similarly, not a single one of the customers of the 14-inch drive makers—mainframe makers such as Univac, Burroughs, NCR, ICL, Siemens, and Amdahl—ever made a bold enough move downmarket into minicomputers to become a significant player there.
+
+Three factors—the promise of upmarket margins, the simultaneous upmarket movement of many of a company’s customers, and the difficulty of cutting costs to move downmarket profitably—together create powerful barriers to downward mobility. In the internal debates about resource allocation for new product development, therefore, proposals to pursue disruptive technologies generally lose out to proposals to move upmarket. In fact, cultivating a systematic approach to weeding out new product development initiatives that would likely lower profits is one of the most important achievements of any well-managed company.
+
+An important strategic implication of this rational pattern of upmarket movement is that it can create vacuum in low-end value networks that draws in entrants with technologies and cost structures better suited to competition. One of these powerful downmarket voids occurred in the steel industry, for example, when entrant companies employing disruptive minimill process technology entered through low-end beachheads; they have attacked relentlessly upmarket ever since.
+
+
+
+
+
+THE NORTHEASTERLY MIGRATION OF INTEGRATED STEEL
+
+
+Minimill steel making first became commercially viable in the mid-1960s. Employing widely available and familiar technology and equipment, mini-mills melt scrap steel in electric arc furnaces, continuously cast it into intermediate shapes called billets, and then roll those into products such as bars, rods, beams, or sheets. They are called minimills because the scale at which they produce cost-competitive molten steel from scrap is less than one-tenth of the scale required for an integrated mill to produce cost-competitive molten steel from iron ore in blast and basic oxygen furnaces. (Integrated mills take their name from the integrated process of transforming iron ore, coal, and limestone into final steel shapes.) Integrated mills and minimills look much the same in their processes of continuous casting and rolling operations. Scale is the only difference: The output of efficiently sized blast furnaces requires that integrated mills’ casting and rolling operations must be much greater than those of the minimills.
+
+North America’s steel minimills are the most efficient, lowest-cost steel makers in the world. In 1995, the most efficient minimill required 0.6 labor-hours per ton of steel produced; the best integrated mill required 2.3 labor-hours. In the product categories in which they compete, the average minimill can make product of equivalent quality, on a fully costed basis, at about a 15 percent lower cost than the average integrated mill. In 1995, it cost about $400 million to build a cost-competitive steel minimill and about $6 billion to build a cost-competitive integrated mill. 4 In terms of capital cost per ton of steel making capacity, integrated mills are more than four times as costly to build. 5 As a result, minimills’ share of the North American market has grown from nothing in 1965 to 19 percent in 1975, 32 percent in 1985, and 40 percent in 1995. Experts predict they will account for half of all steel production by the turn of the century. 6 Minimills virtually dominate the North American markets for rods, bars, and structural beams.
+
+Yet not a single one of the world’s major integrated steel companies to date has built a mill employing minimill technology. Why would none of them do something that makes so much sense? The explanation forwarded most frequently by the business press, especially in the United States, is that the managers of the integrated companies are conservative, backward-looking, risk-averse, and incompetent. Consider these indictments.
+
+Last year, U.S. Steel Corp. closed fifteen of its facilities, claiming they had become “noncompetitive.” Three years ago, Bethlehem Steel Corp. shuttered major portions of its plants in Johnstown, PA, and Lackawanna, NY…. The closing of these major steel complexes is the final dramatic concession from today’s chief executives that management has not been doing its job. It represents decades of maximizing profits to look good for the short term. 7
+
+If the U.S. steel industry were as productive in tons per man-hour as it is in rhetoric per problem, it would be a top-notch performer. 8
+
+Surely there is some credibility to such accusations. But managerial incompetence cannot be a complete answer for the failure of North American integrated mills to counter the conquest by minimills of vast portions of the steel industry. None of what most experts regard as the best-managed and most successful of the world’s integrated steel makers— including Nippon, Kawasaki, and NKK in Japan; British Steel and Hoogovens in Europe; and Pohang Steel in Korea—has invested in minimill technology even though it is demonstrably the lowest-cost technology in the world.
+
+At the same time, in the last decade the management teams at integrated mills have taken aggressive steps to increase mill efficiency. USX, for example, improved the efficiency of its steel making operations from more than nine labor-hours per ton of steel produced in 1980 to just under three hours per ton in 1991. It accomplished this by ferociously attacking the size of its workforce, paring it from more than 93,000 in 1980 to fewer than 23,000 in 1991, and by investing more than $2 billion in modernizing its plant and equipment. Yet all of this managerial aggressiveness was targeted at conventional ways of making steel. How can this be?
+
+Minimill steelmaking is a disruptive technology. When it emerged in the 1960s, because it used scrap steel, it produced steel of marginal quality. The properties of its products varied according to the metallurgical composition and impurities of the scrap. Hence, about the only market that minimill producers could address was that for steel reinforcing bars (rebars)—right at the bottom of the market in terms of quality, cost, and margins. This market was the least attractive of those served by established steel makers. And not only were margins low, but customers were the least loyal: They would switch suppliers at will, dealing with whoever offered the lowest price. The integrated steel makers were almost relieved to be rid of the rebar business.
+
+The minimills, however, saw the rebar market quite differently. They had very different cost structures than those of the integrated mills: little depreciation and no research and development costs, low sales expenses (mostly telephone bills), and minimal general managerial overhead. They could sell by telephone virtually all the steel they could make—and sell it profitably.
+
+Once they had established themselves in the rebar market, the most aggressive minimills, especially Nucor and Chaparral, developed a very different view of the overall steel market than the view that the integrated mills held. Whereas the downmarket rebar territory they seized had looked singularly unattractive to their integrated competitors, the minimills’ view upmarket showed that opportunities for greater profits and expanded sales were all above them. With such incentive, they worked to improve the metallurgical quality and consistency of their products and invested in equipment to make larger shapes.
+
+As the trajectory map in Figure 4.3 indicates, the minimills next attacked the markets for larger bars, rods, and angle irons immediately above them. By 1980, they had captured 90 percent of the rebar market and held about 30 percent of the markets for bars, rods, and angle irons. At the time of the minimills’ attack, the bar, rod, and angle iron shapes brought the lowest margins in the integrated mills’ product lines. As a consequence, the integrated steel makers were, again, almost relieved to be rid of the business, and by the mid-1980s this market belonged to the minimills.
+
+Once their position in the market for bars, rods, and angle irons seemed secure, the minimills continued their march upmarket, this time toward structural beams. Nucor did so from a new minimill plant in Arkansas, and Chaparral launched its attack from a new mill adjacent to its first one in Texas. The integrated mills were driven from this market by the minimills as well. In 1992, USX closed its South Chicago structural steel mill, leaving Bethlehem as the only integrated North American structural steel maker. Bethlehem closed its last structural beam plant in 1995, leaving the field to the minimills.
+
+Figure 4.3 The Progress of Disruptive Minimill Steel Technology
+
+
+
+
+
+An important part of this story is that, throughout the 1980s, as they were ceding the bar and beam business to the minimills, the integrated steel makers experienced dramatically improving profit. Not only were these firms attacking cost, they were forsaking their lowest-margin products and focusing increasingly on high-quality rolled sheet steel, where quality-sensitive manufacturers of cans, cars, and appliances paid premium prices for metallurgically consistent steel with defect-free surfaces. Indeed, the lion’s share of integrated mills’ investments in the 1980s had been targeted at improving their ability to provide the most demanding customers in these three markets with the highest-quality product and to do so profitably. Sheet steel markets were an attractive haven for the integrated producers in part because they were protected from minimill competition. It cost about $2 billion to build a state-of-the-art, cost-competitive sheet steel rolling mill, and this capital outlay simply had been too much for even the largest of the minimills.
+
+Targeting the premium end of the market pleased the integrated mills’ investors: For example, Bethlehem Steel’s market value had leapt from $175 million in 1986 to $2.4 billion in 1989. This represented a very attractive return on the $1.3 billion the company invested in R&D and plant and equipment during this period. The business press generously acknowledged these aggressive, well-placed investments.
+
+Walter Williams (Bethlehem’s CEO) has worked wonders. Over the past three years he mounted a highly personal campaign to improve the quality and productivity of Bethlehem’s basic steel business. Bethlehem’s metamorphosis has outclassed even its major U.S. competitors—which as a whole are now producing at lower costs than their Japanese rivals and are fast closing the quality gap. Customers notice the difference. “It’s nothing short of miraculous,” says a top purchaser of sheet steel at Campbell Soup. [Italics added.] 9
+
+Another analyst made similar observations.
+
+While almost no one was looking, a near miracle occurred: Big Steel is making a quiet comeback. Gary Works (US Steel) is back in the black … pouring out a glowing river of molten iron at the rate of 3 million tons per year—a North American record. Union-management problem-solving teams are everywhere. Instead of making steel in all shapes and sizes, Gary has focused almost entirely on higher-value flat-rolled steel. [Italics added.] 10
+
+Almost all of us would agree that these remarkable recoveries were the fruits of good management. But where will good management in this genre lead these firms?
+
+
+
+
+
+MINIMILL THIN-SLAB CASTING FOR SHEET STEEL
+
+
+While integrated steel makers were busy engineering their recoveries, more disruptive clouds began gathering on the horizon. In 1987, a German supplier of equipment for the steel industry, Schloemann-Siemag AG, announced that it had developed what it called “continuous thin-slab casting” technology—a way for steel to be continuously cast from its molten state into long, thin slabs that could be transported directly, without cooling, into a rolling mill. Rolling the white-hot, already thin slab of steel to the final thickness of coiled sheet steel was much simpler than the traditional task mastered by the integrated mills of reheating and rolling sheet from thick ingots or slabs. Most important, a cost-competitive continuous thin-slab casting and rolling mill could be built for less than $250 million—one-tenth the capital cost of a traditional sheet mill and a relatively manageable investment for a minimill steel maker. At this scale, an electric arc furnace could easily supply the required quantity of molten steel. Moreover, thin-slab casting promised at least a 20 percent reduction in the total cost of making sheet steel.
+
+Because of its promise, thin-slab casting was carefully evaluated by every major player in the steel industry. Some integrated mills, such as USX, worked very hard to justify installation of a thin-slab facility. 11 In the end, however, it was minimill Nucor Steel, rather than the integrated mills, that made the bold move into thin-slab casting. Why?
+
+At the outset, thin-slab casting technology could not offer the smooth, defect-free surface finish required by the integrated mills’ mainstream customers (makers of cans, cars, and appliances). The only markets were those such as construction decking and corrugated steel for culverts, pipes, and Quonset huts, in which users were more sensitive to price than to surface blemishes. Thin-slab casting was a disruptive technology. Furthermore, large, capable, and hungry integrated competitors were busy trying to rob each other’s most profitable business with the large auto, appliance, and can companies. It made no sense for them to target capital investment at thin-slab casting, positioned as it was in the least-profitable, most price-competitive and commodity-like end of their business. Indeed, after seriously considering between 1987 and 1988 whether to invest in thin-slab casting at an amount then projected to be about $150 million, both Bethlehem and USX elected instead to invest in conventional thick-slab continuous casters at a cost of $250 million to protect and enhance the profitability of the business with their mainstream customers.
+
+Not surprisingly, Nucor saw the situation another way. Unencumbered by the demands of profitable customers in the sheet steel business and benefiting from a cost structure forged at the bottom of the industry, Nucor fired up the world’s first continuous thin-slab casting facility in Crawfordsville, Indiana, in 1989, and constructed a second mill in Hickman, Arkansas, in 1992. It increased its capacity at both sites by 80 percent in 1995. Analysts estimate that Nucor had captured 7 percent of the massive North American sheet market by 1996—hardly enough to concern the integrated mills, because Nucor’s success has been limited to the commoditized, least-profitable end of their product line. Of course, in its effort to win higher-margin business with higher-quality products from these mills, Nucor has already improved the surface quality of its sheet steel substantially.
+
+Thus, the integrated steel companies’ march to the profitable northeast corner of the steel industry is a story of aggressive investment, rational decision making, close attention to the needs of mainstream customers, and record profits. It is the same innovator’s dilemma that confounded the leading providers of disk drives and mechanical excavators: Sound managerial decisions are at the very root of their impending fall from industry leadership.
+
+
+
+
+
+NOTES
+
+
+1. This process of moving to higher tiers of the market and then adding the costs to support business at that level was described by Professor Malcom P. McNair, of the Harvard Business School, in a way that strikingly parallels the disk drive story. Writing in a history of retailing, McNair describes how successive waves of retailers entered the field with disruptive technologies (though he does not use the term):
+
+The wheel always revolves, sometimes slowly, sometimes more rapidly, but it does not stand still. The cycle frequently begins with the bold new concept, the innovation. Somebody gets a bright new idea. There is a John Wanamaker, a George Hartford (A&P), a Frank Woolworth, a W. T. Grant, a General Wood (Sears), a Michael Cullen (supermarkets), a Eugene Ferkauf. Such an innovator has an idea for a new kind of distributive enterprise. At the outset he is in bad odor, ridiculed, scorned, condemned as “illegitimate.” Bankers and investors are leery of him. But he attracts the public on the basis of the price appeal made possible by the low operating costs inherent in his innovation. As he goes along he trades up, improves the quality of his merchandise, improves the appearance and standing of his store, attains greater respectability….
+
+During this process of growth the institution rapidly becomes respectable in the eyes of both consumers and investors, but at the same time its capital investment increases and its operating costs tend to rise. Then the institution enters the stage of maturity…. The maturity phase soon tends to be followed by topheaviness … and eventual vulnerability. Vulnerability to what? Vulnerability to the next fellow who has a bright idea and who starts his business on a low-cost basis, slipping in under the umbrella that the old-line institutions have hoisted.
+
+See Malcom P. McNair, “Significant Trends and Developments in the Post-War Period,” in Albert B. Smith, ed., Competitive Distribution in a Free High-Level Economy and Its Implications for the University (Pittsburgh: University of Pittsburgh Press, 1958) 17–18. In other words, the very costs required to become competitive in higher-end markets restrict downward mobility and create further incentive to move upmarket.
+
+2. Joseph Bower, Managing the Resource Allocation Process (Homewood, IL: Richard D. Irwin, 1970).
+
+3. The use of the term systematic in this sentence is important, because most resource allocation systems work in a systematic way—whether the system is formal or informal. It will be shown later in this book that a key to managers’ ability to confront disruptive technology successfully is their ability to intervene and make resource allocation decisions personally and persistently. Allocation systems are designed to weed out just such proposals as disruptive technologies. An excellent description of this dilemma can be found in Roger Martin, “Changing the Mind of the Corporation,” Harvard Business Review, November–December 1993, 81–94.
+
+4. Because of slow growth in steel demand in many of the world’s markets, fewer large integrated steel mills are being built in the 1990s. Those integrated mills that are being built these days are in high-growth, rapidly developing countries such as Korea, Mexico, and Brazil.
+
+5. Professor Thomas Eagar of the Department of Materials Science at the Massachusetts Institute of Technology provided these estimates.
+
+6. “The U.S. Steel Industry: An Historical Overview,” Goldman Sachs U.S. Research Report, 1995.
+
+7. “What Caused the Decline,” Business Week, June 30, 1980, 74.
+
+8. Donald B. Thompson, “Are Steel’s Woes Just Short-term,” Industry Week, February 22, 1982, 31.
+
+9. Gregory L. Miles, “Forging the New Bethlehem,” Business Week, June 5, 1989, 108–110.
+
+10. Seth Lubove and James R. Norman, “New Lease on Life,” Forbes, May 9, 1994, 87.
+
+11. The experience of the team at U.S. Steel charged with evaluating continuous thin-slab casting technology is chronicled in the Harvard Business School teaching case “Continuous Casting Investments at USX Corporation,” No. 697-020.
+
+
+
+
+

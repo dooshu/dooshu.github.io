@@ -1,0 +1,269 @@
+8 How to Appraise Your Organization’s Capabilities and Disabilities
+
+
+When managers assign employees to tackle a critical innovation, they instinctively work to match the requirements of the job with the capabilities of the individuals whom they charge to do it. In evaluating whether an employee is capable of successfully executing a job, managers will assess whether he or she has the requisite knowledge, judgment, skill, perspective, and energy. Managers will also assess the employee’s values—the criteria by which he or she tends to decide what should and shouldn’t be done. Indeed, the hallmark of a great manager is the ability to identify the right person for the right job, and to train his or her employees so that they have the capabilities to succeed at the jobs they are given.
+
+Unfortunately, some managers don’t think as rigorously about whether their organizations have the capability to successfully execute jobs that may be given to them. Frequently, they assume that if the people working on a project individually have the requisite capabilities to get the job done well, then the organization in which they work will also have the same capability to succeed. This often is not the case. One could take two sets of identically capable people and put them to work in two different organizations, and what they accomplish would likely be significantly different. This is because organizations themselves, independent of the people and other resources in them, have capabilities. To succeed consistently, good managers need to be skilled not just in choosing, training, and motivating the right people for the right job, but in choosing, building, and preparing the right organization for the job as well.
+
+The purpose of this chapter is to describe the theory that lies behind the empirical observations made in chapters 5, 6, and 7—in particular, the observation that the only companies that succeeded in addressing disruptive technology were those that created independent organizations whose size matched the size of the opportunity. The notion that organizations have “core competencies” has been a popular one for much of the last decade. 1 In practice, however, most managers have found that the concept is sufficiently vague that some supposed “competence” can be cited in support of a bewildering variety of innovation proposals. This chapter brings greater precision to the core competence concept, by presenting a framework to help managers understand, when they are confronted with a necessary change, whether the organizations over which they preside are competent or incompetent of tackling the challenges that lie ahead.
+
+
+
+
+
+AN ORGANIZATIONAL CAPABILITIES FRAMEWORK
+
+
+Three classes of factors affect what an organization can and cannot do: its resources, its processes, and its values. When asking what sorts of innovations their organizations are and are not likely to be able to implement successfully, managers can learn a lot about capabilities by disaggre-gating their answers into these three categories. 2
+
+
+
+
+
+
+
+Resources
+
+
+Resources are the most visible of the factors that contribute to what an organization can and cannot do. Resources include people, equipment, technology, product designs, brands, information, cash, and relationships with suppliers, distributors, and customers. Resources are usually things, or assets—they can be hired and fired, bought and sold, depreciated or enhanced. They often can be transferred across the boundaries of organizations much more readily than can processes and values. Without doubt, access to abundant and high-quality resources enhances an organization’s chances of coping with change.
+
+Resources are the things that managers most instinctively identify when assessing whether their organizations can successfully implement changes that confront them. Yet resource analysis clearly does not tell a sufficient story about capabilities. Indeed, we could deal identical sets of resources to two different organizations, and what they created from those resources would likely be very different—because the capabilities to transform inputs into goods and services of greater value reside in the organization’s processes and values.
+
+
+
+
+
+Processes
+
+
+Organizations create value as employees transform inputs of resources— people, equipment, technology, product designs, brands, information, energy, and cash—into products and services of greater worth. The patterns of interaction, coordination, communication, and decision-making through which they accomplish these transformations are processes. 3 Processes include not just manufacturing processes, but those by which product development, procurement, market research, budgeting, planning, employee development and compensation, and resource allocation are accomplished.
+
+Processes differ not only in their purpose, but also in their visibility. Some processes are “formal,” in the sense that they are explicitly defined, visibly documented, and consciously followed. Other processes are “informal,” in that they are habitual routines or ways of working that have evolved over time, which people follow simply because they work—or because “That’s the way we do things around here.” Still other methods of working and interacting have proven so effective for so long that people unconsciously follow them—they constitute the culture of the organization. Whether they are formal, informal, or cultural, however, processes define how an organization transforms the sorts of inputs listed above into things of greater value.
+
+Processes are defined or evolve de facto to address specific tasks. This means that when managers use a process to execute the tasks for which it was designed, it is likely to perform efficiently. But when the same, seemingly efficient process is employed to tackle a very different task, it is likely to seem slow, bureaucratic, and inefficient. In other words, a process that defines a capability in executing a certain task concurrently defines disabilities in executing other tasks. 4 The reason good managers strive for focus in their organizations is that processes and tasks can be readily aligned. 5
+
+One of the dilemmas of management is that, by their very nature, processes are established so that employees perform recurrent tasks in a consistent way, time after time. To ensure consistency, they are meant not to change—or if they must change, to change through tightly controlled procedures. This means that the very mechanisms through which organizations create value are intrinsically inimical to change.
+
+Some of the most crucial processes to examine as capabilities or disabilities aren’t the obvious value-adding processes involved in logistics, development, manufacturing, and customer service. Rather, they are the enabling or background processes that support investment decision-making. As we saw in chapter 7, the processes that render good companies incapable of responding to change are often those that define how market research is habitually done; how such analysis is translated into financial projections; how plans and budgets are negotiated and how those numbers are delivered; and so on. These typically inflexible processes are where many organizations’ most serious disabilities in coping with change reside.
+
+
+
+
+
+Values
+
+
+The third class of factors that affect what an organization can or cannot accomplish is its values. The values of an organization are the criteria by which decisions about priorities are made. Some corporate values are ethical in tone, such as those that guide decisions to ensure patient well-being at Johnson & Johnson or that guide decisions about plant safety at Alcoa. But within the Resources-Processes-Values (RPV) framework, values have a broader meaning. An organization’s values are the standards by which employees make prioritization decisions—by which they judge whether an order is attractive or unattractive; whether a customer is more important or less important; whether an idea for a new product is attractive or marginal; and so on. Prioritization decisions are made by employees at every level. At the executive tiers, they often take the form of decisions to invest or not invest in new products, services, and processes. Among salespeople, they consist of on-the-spot, day-to-day decisions about which products to push with customers and which not to emphasize.
+
+The larger and more complex a company becomes, the more important it is for senior managers to train employees at every level to make independent decisions about priorities that are consistent with the strategic direction and the business model of the company. A key metric of good management, in fact, is whether such clear and consistent values have permeated the organization. 6
+
+Clear, consistent, and broadly understood values, however, also define what an organization cannot do. A company’s values, by necessity, must reflect its cost structure or its business model, because these define the rules its employees must follow in order for the company to make money. If, for example, the structure of a company’s overhead costs requires it to achieve gross profit margins of 40 percent, a powerful value or decision rule will have evolved that encourages middle managers to kill ideas that promise gross margins below 40 percent. This means that such an organization would be incapable of successfully commercializing projects targeting low-margin markets. At the same time, another organization’s values, driven by a very different cost structure, might enable or facilitate the success of the very same project.
+
+The values of successful firms tend to evolve in a predictable fashion in at least two dimensions. The first relates to acceptable gross margins. As companies add features and functionality to their products and services in order to capture more attractive customers in premium tiers of their markets, they often add overhead cost. As a result, gross margins that at one point were quite attractive, at a later point seem unattractive. Their values change. For example, Toyota entered the North American market with its Corona model—a product targeting the lowest-priced tiers of the market. As the entry tier of the market became crowded with look-alike models from Nissan, Honda, and Mazda, competition among equally low-cost competitors drove down profit margins. Toyota developed more sophisticated cars targeted at higher tiers of the market in order to improve its margins. Its Corolla, Camry, Previa, Avalon, and Lexus families of cars have been introduced in response to the same competitive pressures—it kept its margins healthy by migrating up-market. In the process, Toyota has had to add costs to its operation to design, build, and support cars of this caliber. It progressively deemphasized the entry-level tiers of the market, having found the margins it could earn there to be unattractive, given its changed cost structure.
+
+Nucor Steel, the leading minimill that led the up-market charge against the integrated mills that was recounted in chapter 4, likewise has experienced a change in values. As it has managed the center of gravity in its product line up-market from re-bar to angle iron to structural beams and finally to sheet steel, it has begun to decidedly deemphasize re-bar—the product that had been its bread and butter in its earlier years.
+
+The second dimension along which values predictably change relates to how big a business has to be in order to be interesting. Because a company’s stock price represents the discounted present value of its projected earnings stream, most managers typically feel compelled not just to maintain growth, but to maintain a constant rate of growth. In order for a $40 million company to grow 25 percent, it needs to find $10 million in new business the next year. For a $40 billion company to grow 25 percent, it needs to find $10 billion in new business the next year. The size of market opportunity that will solve each of these companies’ needs for growth is very different. As noted in chapter 6, an opportunity that excites a small organization isn’t big enough to be interesting to a very large one. One of the bittersweet rewards of success is, in fact, that as companies become large, they literally lose the capability to enter small emerging markets. This disability is not because of a change in the resources within the companies—their resources typically are vast. Rather, it is because their values change.
+
+Executives and Wall Street financiers who engineer megamergers among already huge companies in order to achieve cost savings need to account for the impact of these actions on the resultant companies’ values. Although their merged organizations might have more resources to throw at innovation problems, their commercial organizations tend to lose their appetites for all but the biggest blockbuster opportunities. Huge size constitutes a very real disability in managing innovation. In many ways, Hewlett-Packard’s recent decision to split itself into two companies is rooted in its recognition of this problem.
+
+
+
+
+
+THE RELATIONSHIP BETWEEN PROCESSES AND VALUES, AND SUCCESS IN ADDRESSING SUSTAINING VS. DISRUPTIVE TECHNOLOGIES
+
+
+The resources-processes-values (RPV) framework has been a useful tool for me to understand the findings from my research relating to the differences in companies’ track records in sustaining and disruptive technologies. Recall that we identified 116 new technologies that were introduced in the industry’s history. Of these, 111 were sustaining technologies, in that their impact was to improve the performance of disk drives. Some of these were incremental improvements while others, such as magneto-resistive heads, represented discontinuous leaps forward in performance. In all 111 cases of sustaining technology, the companies that led in developing and introducing the new technology were the companies that had led in the old technology. The success rate of the established firms in developing and adopting sustaining technologies was 100 percent.
+
+The other five of these 116 technologies were disruptive innovations—in each case, smaller disk drives that were slower and had lower capacity than those used in the mainstream market. There was no new technology involved in these disruptive products. Yet none of the industry’s leading companies remained atop the industry after these disruptive innovations entered the market—their batting average was zero.
+
+Why such markedly different batting averages when playing the sustaining versus disruptive games? The answer lies in the RPV framework of organizational capabilities. The industry leaders developed and introduced sustaining technologies over and over again. Month after month, year after year, as they introduced new and improved products in order to gain an edge over the competition, the leading companies developed processes for evaluating the technological potential and assessing their customers’ needs for alternative sustaining technologies. In the parlance of this chapter, the organizations developed a capability for doing these things, which resided in their processes. Sustaining technology investments also fit the values of the leading companies, in that they promised higher margins from better products sold to their leading-edge customers.
+
+On the other hand, the disruptive innovations occurred so intermittently that no company had a routinized process for handling them. Furthermore, because the disruptive products promised lower profit margins per unit sold and could not be used by their best customers, these innovations were inconsistent with the leading companies’ values. The leading disk drive companies had the resources—the people, money, and technology—required to succeed at both sustaining and disruptive technologies. But their processes and values constituted disabilities in their efforts to succeed at disruptive technologies.
+
+Large companies often surrender emerging growth markets because smaller, disruptive companies are actually more capable of pursuing them. Though start-ups lack resources, it doesn’t matter. Their values can embrace small markets, and their cost structures can accommodate lower margins. Their market research and resource allocation processes allow managers to proceed intuitively rather than having to be backed up by careful research and analysis, presented in PowerPoint. All of these advantages add up to enormous opportunity or looming disaster—depending upon your perspective.
+
+Managers who face the need to change or innovate, therefore, need to do more than assign the right resources to the problem. They need to be sure that the organization in which those resources will be working is itself capable of succeeding—and in making that assessment, managers must scrutinize whether the organization’s processes and values fit the problem.
+
+
+
+
+
+THE MIGRATION OF CAPABILITIES
+
+
+In the start-up stages of an organization, much of what gets done is attributable to its resources—its people. The addition or departure of a few key people can have a profound influence on its success. Over time, however, the locus of the organization’s capabilities shifts toward its processes and values. As people work together successfully to address recurrent tasks, processes become defined. And as the business model takes shape and it becomes clear which types of business need to be accorded highest priority, values coalesce. In fact, one reason that many soaring young companies flame out after they go public based upon a hot initial product is that whereas their initial success was grounded in resources— the founding group of engineers—they fail to create processes that can create a sequence of hot products.
+
+An example of such flame out is the story of Avid Technology, a producer of digital editing systems for television. Avid’s technology removed tedium from the video editing process. Customers loved it, and on the back of its star product, Avid stock rose from $16 at its 1993 IPO to $49 in mid-1995. However, the strains of being a one-trick pony soon surfaced as Avid was faced with a saturated market, rising inventories and receivables, and increased competition. Customers loved the product, but Avid’s lack of effective processes to consistently develop new products and to control quality, delivery, and service ultimately tripped the company and sent its stock back down.
+
+In contrast, at highly successful firms such as McKinsey and Company, the processes and values have become so powerful that it almost doesn’t matter which people get assigned to which project teams. Hundreds of new MBAs join the firm every year, and almost as many leave. But the company is able to crank out high-quality work year after year because its core capabilities are rooted in its processes and values rather than in its resources. I sense, however, that these capabilities of McKinsey also constitute its disabilities. The rigorously analytical, data-driven processes that help it create value for its clients in existing, relatively stable markets render it much less capable of building a strong client base among the rapidly growing companies in dynamic technology markets.
+
+In the formative stages of a company’s processes and values, the actions and attitudes of the company’s founder have a profound impact. The founder often has strong opinions about the way employees ought to work together to reach decisions and get things done. Founders similarly impose their views of what the organization’s priorities need to be. If the founder’s methods are flawed, of course, the company will likely fail. But if those methods are useful, employees will collectively experience for themselves the validity of the founder’s problem-solving methodologies and criteria for decision-making. As they successfully use those methods of working together to address recurrent tasks, processes become defined. Likewise, if the company becomes financially successful by prioritizing various uses of its resources according to criteria that reflect the founder’s priorities, the company’s values begin to coalesce.
+
+As successful companies mature, employees gradually come to assume that the priorities they have learned to accept, and the ways of doing things and methods of making decisions that they have employed so successfully, are the right way to work. Once members of the organization begin to adopt ways of working and criteria for making decisions by assumption, rather than by conscious decision, then those processes and values come to constitute the organization’s culture. 7 As companies grow from a few employees to hundreds and thousands, the challenge of getting all employees to agree on what needs to be done and how it should be done so that the right jobs are done repeatedly and consistently can be daunting for even the best managers. Culture is a powerful management tool in these situations. Culture enables employees to act autonomously and causes them to act consistently.
+
+Hence, the location of the most powerful factors that define the capabilities and disabilities of organizations migrates over time —from resources toward visible, conscious processes and values, and then toward culture. As long as the organization continues to face the same sorts of problems that its processes and values were designed to address, managing the organization is relatively straightforward. But because these factors also define what an organization cannot do, they constitute disabilities when the problems facing the company change. When the organization’s capabilities reside primarily in its people, changing to address new problems is relatively simple. But when the capabilities have come to reside in processes and values and especially when they have become embedded in culture, change can become extraordinarily difficult.
+
+
+
+
+
+A case in point: Did Digital Equipment have the capability to succeed in personal computers?
+
+
+Digital Equipment Corporation (DEC) was a spectacularly successful maker of minicomputers from the 1960s through the 1980s. One might have been tempted to assert, when the personal computer market began to coalesce in the early 1980s, that DEC’s “core competence” was in building computers. But if computers were DEC’s competence, why did the company stumble?
+
+Clearly, DEC had the resources to succeed in personal computers. Its engineers were routinely designing far more sophisticated computers than PCs. DEC had plenty of cash, a great brand, and strong technology. But did DEC have the processes to succeed in the personal computer business? No. The processes for designing and manufacturing minicomputers involved designing many of the key components of the computer internally and then integrating the components into proprietary configurations. The design process itself consumed two to three years for a new product model. DEC’s manufacturing processes entailed making most components and assembling them in a batch mode. It sold direct to corporate engineering organizations. These processes worked extremely well in the minicomputer business.
+
+The personal computer business, in contrast, required processes through which the most cost-effective components were outsourced from the best suppliers around the globe. New computer designs, comprised of modular components, had to be completed in six-to twelve-month cycles. The computers were manufactured in high-volume assembly lines, and sold through retailers to consumers and businesses. None of these processes required to compete successfully in the personal computer business existed within DEC. In other words, although the people working at DEC, as individuals, had the abilities to design, build, and sell personal computers profitably, they were working in an organization that was incapable of doing this because its processes had been designed and had evolved to do other tasks well. The very processes that made the company capable of succeeding in one business rendered it incapable of succeeding in another.
+
+And what about DEC’s values? Because of the overhead costs that were required to succeed in the minicomputer business, DEC had to adopt a set of values that essentially dictated, “If it generates 50 percent gross margins or more, it’s good business. If it generates less than 40 percent margins, it’s not worth doing.” Management had to ensure that all employees prioritized projects according to this criterion, or the company couldn’t make money. Because personal computers generated lower margins, they did not “fit” with DEC’s values. The company’s criteria for prioritization placed higher-performance minicomputers ahead of personal computers in the resource allocation process. And any attempts that the company made to enter the personal computer business had to target the highest-margin tiers of that market—because the financial results that might be earned in those tiers were the only ones that the company’s values would tolerate. But because of the patterns noted in chapter 4—the strong tendency for competitors with low-overhead business models to migrate upmarket—Digital’s values rendered it incapable of pursuing a winning strategy.
+
+As we saw in chapter 5, Digital Equipment could have owned another organization whose processes and values were tailored to those required to play in the personal computer game. But the particular organization in Maynard, Massachusetts, whose extraordinary capabilities had carried the company to such success in the minicomputer business, was simply incapable of succeeding in the personal computer world.
+
+
+
+
+
+CREATING CAPABILITIES TO COPE WITH CHANGE
+
+
+If a manager determined that an employee was incapable of succeeding at a task, he or she would either find someone else to do the job or carefully train the employee to be able to succeed. Training often works, because individuals can become skilled at multiple tasks.
+
+Despite beliefs spawned by popular change-management and reengineering programs, processes are not nearly as flexible or “trainable” as are resources—and values are even less so. The processes that make an organization good at outsourcing components cannot simultaneously make it good at developing and manufacturing components in-house. Values that focus an organization’s priorities on high-margin products cannot simultaneously focus priorities on low-margin products. This is why focused organizations perform so much better than unfocused ones: their processes and values are matched carefully with the set of tasks that need to be done.
+
+For these reasons, managers who determine that an organization’s capabilities aren’t suited for a new task, are faced with three options through which to create new capabilities. They can:
+
+Acquire a different organization whose processes and values are a close match with the new task
+
+Try to change the processes and values of the current organization
+
+Separate out an independent organization and develop within it the new processes and values that are required to solve the new problem
+
+
+
+
+
+Creating Capabilities Through Acquisitions
+
+
+Managers often sense that acquiring rather than developing a set of capabilities makes competitive and financial sense. The RPV model can be a useful way to frame the challenge of integrating acquired organizations. Acquiring managers need to begin by asking, “What is it that really created the value that I just paid so dearly for? Did I justify the price because of its resources—its people, products, technology, market position, and so on? Or, was a substantial portion of its worth created by processes and values—unique ways of working and decision-making that have enabled the company to understand and satisfy customers, and develop, make, and deliver new products and services in a timely way?
+
+If the acquired company’s processes and values are the real driver of its success, then the last thing the acquiring manager wants to do is to integrate the company into the new parent organization. Integration will vaporize many of the processes and values of the acquired firm as its managers are required to adopt the buyer’s way of doing business and have their proposals to innovate evaluated according to the decision criteria of the acquiring company. If the acquiree’s processes and values were the reason for its historical success, a better strategy is to let the business stand alone, and for the parent to infuse its resources into the acquired firm’s processes and values. This strategy, in essence, truly constitutes the acquisition of new capabilities.
+
+If, on the other hand, the company’s resources were the primary rationale for the acquisition, then integrating the firm into the parent can make a lot of sense—essentially plugging the acquired people, products, technology, and customers into the parent’s processes, as a way of leveraging the parent’s existing capabilities.
+
+The perils of the DaimlerChrysler merger that began in the late 1990s, for example, can be better understood through the RPV model. Chrysler had few resources that could be considered unique in comparison to its competitors. Its success in the market of the 1990s was rooted in its processes—particularly in its rapid, creative product design processes, and in its processes of integrating the efforts of its subsystem suppliers. What would be the best way for Daimler to leverage the capabilities that Chrysler brought to the table? Wall Street exerted nearly inexorable pressure on management to consolidate the two organizations in order to cut costs. However, integrating the two companies would likely vaporize the key processes that made Chrysler such an attractive acquisition in the first place.
+
+This situation is reminiscent of IBM’s 1984 acquisition of Rolm. There wasn’t anything in Rolm’s pool of resources that IBM didn’t already have. It was Rolm’s processes for developing PBX products and for finding new markets for them that was really responsible for its success. In 1987 IBM decided to fully integrate the company into its corporate structure. Trying to push Rolm’s resources—its products and its customers—through the same processes that were honed in its large computer business, caused the Rolm business to stumble badly. And inviting executives of a computer company whose values had been whetted on operating profit margins of 18 percent to get excited about prioritizing products with operating margins below 10 percent was impossible. IBM’s decision to integrate Rolm actually destroyed the very source of the original worth of the deal. As this chapter is being written in February 2000, DaimlerChrysler, bowing to the investment community’s drumbeat for efficiency savings, now stands on the edge of the same precipice.
+
+Often, it seems, financial analysts have a better intuition for the value of resources than for processes.
+
+In contrast, Cisco Systems’ acquisitions process has worked well— because its managers seem to have kept resources, processes, and values in the right perspective. Between 1993 and 1997 it acquired primarily small companies that were less than two years old: early-stage organizations whose market value was built primarily upon their resources— particularly engineers and products. Cisco has a well-defined, deliberate process by which it essentially plugs these resources into the parent’s processes and systems, and it has a carefully cultivated method of keeping the engineers of the acquired company happily on the Cisco payroll. In the process of integration, Cisco throws away whatever nascent processes and values came with the acquisition—because those weren’t what Cisco paid for. On a couple of occasions when the company acquired a larger, more mature organization—notably its 1996 acquisition of StrataCom— Cisco did not integrate. Rather, it let StrataCom stand alone, and infused its substantial resources into the organization to help it grow at a more rapid rate. 8
+
+On at least three occasions, Johnson & Johnson has used acquisitions to establish a position in an important wave of disruptive technology. Its businesses in disposable contact lenses, endoscopic surgery, and diabetes blood glucose meters were all acquired when they were small, were allowed to stand alone, and were infused with resources. Each has become a billion-dollar business. Lucent Technologies and Nortel followed a similar strategy for catching the wave of routers, based upon packet-switching technology, that were disrupting their traditional circuit-switching equipment. But they made these acquisitions late and the firms they acquired, Ascend Communications and Bay Networks, respectively, were extraordinarily expensive because they had already created the new market application, data networks, along with the much larger Cisco Systems—and they were right on the verge of attacking the voice network.
+
+
+
+
+
+Creating New Capabilities Internally
+
+
+Companies that have tried to develop new capabilities within established organizational units also have a spotty track record, unfortunately. Assembling a beefed-up set of resources as a means of changing what an existing organization can do is relatively straightforward. People with new skills can be hired, technology can be licensed, capital can be raised, and product lines, brands, and information can be acquired. Too often, however, resources such as these are then plugged into fundamentally unchanged processes—and little change results. For example, through the 1970s and 1980s Toyota upended the world automobile industry through its innovation in development, manufacturing, and supply-chain processes— without investing aggressively in resources such as advanced manufacturing or information-processing technology. General Motors responded by investing nearly $60 billion in manufacturing resources—computer-automated equipment that was designed to reduce cost and improve quality. Using state-of-the-art resources in antiquated processes, however, made little difference in General Motors’ performance, because it is in its processes and values that the organization’s most fundamental capabilities lie. Processes and values define how resources—many of which can be bought and sold, hired and fired—are combined to create value.
+
+Unfortunately, processes are very hard to change—for two reasons. The first is that organizational boundaries are often drawn to facilitate the operation of present processes. Those boundaries can impede the creation of new processes that cut across those boundaries. When new challenges require different people or groups to interact differently than they habitually have done—addressing different challenges with different timing than historically had been required—managers need to pull the relevant people out of the existing organization and draw a new boundary around a new group. New team boundaries enable or facilitate new patterns of working together that ultimately can coalesce as new processes—new capabilities for transforming inputs into outputs. Professors Steven C. Wheelwright and Kim B. Clark have called these structures heavyweight teams. 9
+
+The second reason new process capabilities are hard to develop is that, in some cases, managers don’t want to throw the existing processes out—the methods work perfectly well in doing what they were designed to do. As noted above, while resources tend to be flexible and can be used in a variety of situations, processes and values are by their very nature inflexible. Their very raison d’e^tre is to cause the same thing to be done consistently, over and over again. Processes are meant not to change.
+
+When disruptive change appears on the horizon, managers need to assemble the capabilities to confront the change before it has affected the mainstream business. In other words, they need an organization that is geared toward the new challenge before the old one, whose processes are tuned to the existing business model, has reached a crisis that demands fundamental change.
+
+Because of its task-specific nature, it is impossible to ask one process to do two fundamentally different things. Consider the examples presented in chapter 7, for instance. The market research and planning processes that are appropriate for the launch of new products into existing markets simply aren’t capable of guiding a company into emerging, poorly defined markets. And the processes by which a company would experimentally and intuitively feel its way into emerging markets would constitute suicide if employed in a well-defined existing business. If a company needs to do both types of tasks simultaneously, then it needs two very different processes. And it is very difficult for a single organizational unit to employ fundamentally different, opposing processes. As shown below, this is why managers need to create different teams, within which different processes to address new problems can be defined and refined.
+
+
+
+
+
+Creating Capabilities Through a Spin-out Organization
+
+
+The third mechanism for new capability creation—spawning them within spin-out ventures—is currently en vogue among many managers as they wrestle with how to address the Internet. When are spin-outs a crucial step in building new capabilities to exploit change, and what are the guidelines by which they should be managed? A separate organization is required when the mainstream organization’s values would render it incapable of focusing resources on the innovation project. Large organizations cannot be expected to allocate freely the critical financial and human resources needed to build a strong position in small, emerging markets. And it is very difficult for a company whose cost structure is tailored to compete in high-end markets to be profitable in low-end markets as well. When a threatening disruptive technology requires a different cost structure in order to be profitable and competitive, or when the current size of the opportunity is insignificant relative to the growth needs of the mainstream organization, then—and only then—is a spin-out organization a required part of the solution.
+
+How separate does the effort need to be? The primary requirement is that the project cannot be forced to compete with projects in the mainstream organization for resources. Because values are the criteria by which prioritization decisions are made, projects that are inconsistent with a company’s mainstream values will naturally be accorded lowest priority. Whether the independent organization is physically separate is less important than is its independence from the normal resource allocation process.
+
+In our studies of this challenge, we have never seen a company succeed in addressing a change that disrupts its mainstream values absent the personal, attentive oversight of the CEO—precisely because of the power of processes and values and particularly the logic of the normal resource allocation process. Only the CEO can ensure that the new organization gets the required resources and is free to create processes and values that are appropriate to the new challenge. CEOs who view spin-outs as a tool to get disruptive threats off of their personal agendas are almost certain to meet with failure. We have seen no exceptions to this rule.
+
+The framework summarized in Figure 8.1 can help managers exploit the capabilities that reside in their current processes and values when that is possible, and to create new ones, when the present organization is incapable. The left axis in Figure 8.1 measures the extent to which the existing processes—the patterns of interaction, communication, coordination, and decision-making currently used in the organization—are the ones that will get the new job done effectively. If the answer is yes (toward the lower end of the scale), the project manager can exploit the organization’s existing processes and organizational structure to succeed. As depicted in the corresponding position on the right axis, functional or lightweight teams, as described by Clark and Wheelwright, 10 are useful structures for exploiting existing capabilities. In such teams, the role of the project manager is to facilitate and coordinate work that is largely done within functional organizations.
+
+Figure 8.1 Fitting an Innovation’s Requirements with the Organization’s Capabilities
+
+
+
+
+
+Note: The left and bottom axes reflect the questions the manager needs to ask about the existing situation. The notes at the right side represent the appropriate response to the situation on the left axis. The notes at the top represent the appropriate response to the manager’s answer to the bottom axis.
+
+On the other hand, if the ways of getting work done and of decision-making in the mainstream business would impede rather than facilitate the work of the new team—because different people need to interact with different people about different subjects and with different timing than has habitually been necessary—then a heavyweight team structure is necessary. Heavyweight teams are tools to create new processes—new ways of working together that constitute new capabilities. In these teams, members do not simply represent the interests and skills of their function. They are charged to act like general managers, and reach decisions and make trade-offs for the good of the project. They typically are dedicated and colocated.
+
+The horizontal axis of Figure 8.1 asks managers to assess whether the organization’s values will allocate to the new initiative the resources it will need in order to become successful. If there is a poor, disruptive fit, then the mainstream organization’s values will accord low priority to the project. Therefore, setting up an autonomous organization within which development and commercialization can occur will be absolutely essential to success. At the other extreme, however, if there is a strong, sustaining fit, then the manager can expect that the energy and resources of the mainstream organization will coalesce behind it. There is no reason for a skunk works or a spin-out in such cases.
+
+Region A in Figure 8.1 depicts a situation in which a manager is faced with a breakthrough but sustaining technological change—it fits the organization’s values. But it presents the organization with different types of problems to solve and therefore requires new types of interaction and coordination among groups and individuals. The manager needs a heavyweight development team to tackle the new task, but the project can be executed within the mainstream company. This is how Chrysler, Eli Lilly, and Medtronic accelerated their product development cycles so dramatically. 11 Heavyweight teams are the organizational mechanism that the managers of IBM’s disk drive division used to learn how to integrate components more effectively in their product designs, in order to wring 50 percent higher performance out of the components they used. Microsoft’s project to develop and launch its Internet browser was located in the Region A corner of this framework. It represented an extraordinary, difficult managerial achievement that required different people to work together in patterns different than any ever used before within Microsoft. But it was a sustaining technology to the company. Its customers wanted the product, and it strengthened the company’s integral business model. There was, therefore, no need to spin the project out into a completely different organization.
+
+When in Region B, where the project fits the company’s processes and values, a lightweight development team can be successful. In such teams coordination across functional boundaries occurs within the mainstream organization.
+
+Region C denotes an area in which a manager is faced with a disruptive technological change that doesn’t fit the organization’s existing processes and values. To ensure success in such instances, managers should create an autonomous organization and commission a heavyweight development team to tackle the challenge. In addition to the examples cited in chapters 5, 6, and 7, many companies’ efforts to address the distribution channel conflicts created by the Internet should be managed in this manner. In 1999 Compaq Computer, for example, launched a business to market its computers direct to customers over the Internet, so that it could compete more effectively with Dell Computer. Within a few weeks its retailers had protested so loudly that Compaq had to back away from the strategy. This was very disruptive to the values, or profit model, of the company and its retailers. The only way it could manage this conflict would be to launch the direct business through an independent company. It might even need a different brand in order to manage the tension.
+
+Some have suggested that Wal-Mart’s strategy of managing its on-line retailing operation through an independent organization in Silicon Valley is foolhardy, because the spin-out organization can’t leverage Wal-Mart’s extraordinary logistics management processes and infrastructure. I believe the spin-out was wise, however, based upon Figure 8.1. The on-line venture actually needs very different logistics processes than those of its bricks-and-mortar operations. Those operations transport goods by the truck-load. On-line retailers need to pick individual items from inventory and ship small packages to diverse locations. The venture is not only disruptive to Wal-Mart’s values, but it needs to create its own logistics processes as well. It needed to be spun out separately.
+
+Region D typifies projects in which products or services similar to those in the mainstream need to be sold within a fundamentally lower overhead cost business model. Wal-Mart’s Sam’s Clubs would fit in this region. These, in fact, can leverage similar logistics management processes as the main company; but budgeting, management, and P&L responsibility needs to be different.
+
+Functional and lightweight teams are appropriate vehicles for exploiting established capabilities, whereas heavyweight teams are tools for creating new ones. Spin-out organizations, similarly, are tools for forging new values. Unfortunately, most companies employ a one-size-fits-all organizing strategy, using lightweight teams for programs of every size and character. Among those few firms that have accepted the “heavyweight gospel,” many have attempted to organize all of their development teams in a heavyweight fashion. Ideally, each company should tailor the team structure and organizational location to the process and values required by each project.
+
+In many ways, the disruptive technologies model is a theory of relativity, because what is disruptive to one company might have a sustaining impact on another. For example, Dell Computer began by selling computers over the telephone. For Dell, the initiative to begin selling and accepting orders over the Internet was a sustaining innovation. It helped it make more money in the way it was already structured. For Compaq, Hewlett-Packard, and IBM, however, marketing direct to customers over the Internet would have a powerfully disruptive impact. The same is true in stock brokerage. For discount brokers such as Ameritrade and Charles Schwab, which accepted most of their orders by telephone, trading securities on-line simply helped them discount more cost-effectively—and even offer enhanced service relative to their former capabilities. For full-service firms with commissioned brokers such as Merrill Lynch, however, on-line trading represents a powerful disruptive threat.
+
+
+
+
+
+SUMMARY
+
+
+Managers whose organizations are confronting change must first determine that they have the resources required to succeed. They then need to ask a separate question: does the organization have the processes and values to succeed? Asking this second question is not as instinctive for most managers because the processes by which work is done and the values by which employees make their decisions have served them well. What I hope this framework adds to managers’ thinking, however, is that the very capabilities of their organizations also define their disabilities. A little time spent soul-searching for honest answers to this issue will pay off handsomely. Are the processes by which work habitually gets done in the organization appropriate for this new problem? And will the values of the organization cause this initiative to get high priority, or to languish?
+
+If the answer to these questions is no, it’s okay. Understanding problems is the most crucial step in solving them. Wishful thinking about this issue can set teams charged with developing and implementing an innovation on a course fraught with roadblocks, second-guessing, and frustration. The reasons why innovation often seems to be so difficult for established firms is that they employ highly capable people, and then set them to work within processes and values that weren’t designed to facilitate success with the task at hand. Ensuring that capable people are ensconced in capable organizations is a major management responsibility in an age such as ours, when the ability to cope with accelerating change has become so critical.
+
+
+
+
+
+
+NOTES
+
+
+1. See C. K. Prahalad, and Gary Hamel, “The Core Competence of the Corporation,” Harvard Business Review, 1990.
+
+2. Many of these ideas emerged from wonderful, stimulating discussions with doctoral students in the Business Policy seminar at the Harvard Business School between 1993 and 1999. I wish to thank all of those students, but in particular Don Sull, Tom Eisenmann, Tomoyoshi Noda, Michael Raynor, Michael Roberto, Deborah Sole, Clark Gilbert, and Michael Overdorf for their contributions to these ideas.
+
+3. The most logical, comprehensive characterization of processes that we have seen is in David Garvin, “The Processes of Organization and Management,” Sloan Management Review, Summer, 1998. When we use the term “processes,” we mean for it to include all of the types of processes that Garvin has defined.
+
+4. See Dorothy Leonard-Barton, “Core Capabilities and Core Rigidities: A Paradox in Managing New Product Development,” Strategic Management Journal (13), 1992, 111–12
+
+5. Professor Leonardi’s work on this topic, in my opinion, constitutes the fundamental paradigm upon which much subsequent research is being built. 5. See Wickham Skinner, “The Focused Factory,” Harvard Business Review, 1974.
+
+6. See, for example, Thomas Peters and Robert Waterman, In Search of Excellence (New York: Harper & Row Publishers, 1982).
+
+7. See Edgar Schein, Organizational Culture and Leadership (San Francisco: Jossey-Bass Publishers, 1988). This description of the development of an organization’s culture draws heavily from Schein’s research.
+
+8. See Nicole Tempest, “Cisco Systems, Inc. Post-Acquisition Manufacturing Integration,” a teaching case published jointly by the Stanford University Graduate School of Business and the Harvard Business School, 1998.
+
+9. Steven C. Wheelwright and Kim B. Clark, Revolutionizing Product Development (New York: The Free Press, 1992).
+
+10. See Kim B. Clark and Steven C. Wheelwright, “Organizing and Leading Heavyweight Development Teams,” California Management Review (34), Spring, 1992, 9–28. The concepts described in this article are extremely important. We highly recommend that managers interested in these problems study it thoughtfully. They define a heavyweight team as one in which team members typically are dedicated and colocated. The charge of each team member is not to represent their functional group on the team, but to act as a general manager—to assume responsibility for the success of the entire project, and to be actively involved in the decisions and work of members who come from each functional area. As they work together to complete their project, they will work out new ways of interacting, coordinating, and decision-making that will come to comprise the new processes, or new capabilities, that will be needed to succeed in the new enterprise on an ongoing basis. These ways of getting work done then get institutionalized as the new business or product line grows.
+
+11. See Jeff Dyer, “How Chrysler Created an American Keiretsu,” Harvard Business Review, July-August, 1996, 42–56; Clayton M. Christensen, “We’ve Got Rhythm! Medtronic Corporation’s Cardiac Pacemaker Business,” Harvard Business School, Case No. 698-004; and Steven C. Wheelwright, “Eli Lilly: The Evista Project,” Harvard Business School, Case No. 699-016.
+
+
+
+
+

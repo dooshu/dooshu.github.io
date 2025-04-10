@@ -1,0 +1,496 @@
+The Innovator's Dilemma：When New Technologies Cause Great Firms to Fail by Clayton M. Christensen
+
+
+
+
+
+
+THE MANAGEMENT OF INNOVATION AND CHANGE SERIES
+
+Michael L. Tushman and Andrew H. Van de Ven, Series Editors
+
+Emerging Patterns of Innovation: Sources of Japan’s Technological Edge
+
+Fumio Kodama, with a Foreword by Lewis M. Branscomb
+
+Crisis Renewal: Meeting the Challenge of Organizational Change
+
+David K. Hurst
+
+Winning through Innovation: A Practical Guide to Leading Organizational
+
+Change and Renewal
+
+Michael L. Tushman
+
+Charles A. O’Reilly III
+
+Imitation to Innovation: The Dynamics of Korea’s Technological Learning
+
+Linsu Kim
+
+The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail
+
+Clayton M. Christensen
+
+
+
+
+
+Copyright
+
+
+Copyright 1997, 2000 by the President and fellows of Harvard College
+
+All rights reserved
+
+No part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior permission of the publisher. Requests for permission should be directed to permissions@hbsp.harvard.edu, or mailed to Permissions, Harvard Business School Publishing, 60 Harvard Way, Boston, Massachusetts 02163.
+
+ISBN: 978-1-4221-9602-1
+
+
+
+
+
+
+
+
+In Gratitude
+
+
+Although this book lists only one author, in reality the ideas it molds together were contributed and refined by many extraordinarily insightful and selfless colleagues. The work began when Professors Kim Clark, Joseph Bower, Jay Light, and John McArthur took the risk of admitting and financing a middle-aged man’s way into and through the Harvard Business School’s doctoral program in 1989. In addition to these mentors, Professors Richard Rosenbloom, Howard Stevenson, Dorothy Leonard, Richard Walton, Bob Hayes, Steve Wheelwright, and Kent Bowen helped throughout my doctoral research to keep my thinking sharp and my standards for evidence high, and to embed what I was learning within the streams of strong scholarship that had preceded what I was attempting to research. None of these professors needed to spend so much of their busy lives guiding me as they did, and I will be forever grateful for what they taught me about the substance and process of scholarship.
+
+I am similarly indebted to the many executives and employees of companies in the disk drive industry who opened their memories and records to me as I tried to understand what had driven them in the particular courses they had taken. In particular, James Porter, editor of Disk/Trend Report, opened his extraordinary archives of data, enabling me to measure what has happened in the disk drive industry with a level of completeness and accuracy that could be done in few other settings. The model of the industry’s evolution and revolution that these men and women helped me construct has formed the theoretical backbone for this book. I hope they find it to be a useful tool for making sense of their past, and a helpful guide for some of their decisions in the future.
+
+During my tenure on the Harvard Business School faculty, other colleagues have helped refine this book’s ideas even more. Professors Rebecca Henderson and James Utterback of MIT, Robert Burgelman of Stanford, and David Garvin, Gary Pisano, and Marco Iansiti of the Harvard Business School have been particularly helpful. Research associates Rebecca Voorheis, Greg Rogers, Bret Baird, Jeremy Dann, Tara Donovan, and Michael Overdorf; editors Marjorie Williams, Steve Prokesch, and Barbara Feinberg; and assistants Cheryl Druckenmiller, Meredith Anderson, and Marguerite Dole, have likewise contributed untold amounts of data, advice, insight, and work.
+
+I am grateful to my students, with whom I have discussed and refined the ideas put forward in this book. On most days I leave class wondering why I get paid and why my students pay tuition, given that it is I who have learned the most from our interactions. Every year they leave our school with their degrees and scatter around the world, without understanding how much they have taught their teachers. I love them and hope that those who come across this book will be able to recognize in it the fruits of their puzzled looks, questions, comments, and criticisms.
+
+My deepest gratitude is to my family—my wife Christine and our children Matthew, Ann, Michael, Spencer, and Catherine. With unhesitating faith and support they encouraged me to pursue my lifelong dream to be a teacher, amidst all of the demands of family life. Doing this research on disruptive technologies has indeed been disruptive to them in terms of time and absence from home, and I am forever grateful for their love and support. Christine, in particular, is the smartest and most patient person I have known. Most of the ideas in this book went home on some night over the past five years in half-baked condition and returned to Harvard the next morning having been clarified, shaped, and edited through my conversations with her. She is a great colleague, supporter, and friend. I dedicate this book to her and our children.
+
+
+
+Clayton M. Christensen
+
+Harvard Business School
+
+Boston, Massachusetts
+
+April 1997
+
+
+
+
+
+Introduction
+
+
+This book is about the failure of companies to stay atop their industries when they confront certain types of market and technological change. It’s not about the failure of simply any company, but of good companies—the kinds that many managers have admired and tried to emulate, the companies known for their abilities to innovate and execute. Companies stumble for many reasons, of course, among them bureaucracy, arrogance, tired executive blood, poor planning, short-term investment horizons, inadequate skills and resources, and just plain bad luck. But this book is not about companies with such weaknesses: It is about well-managed companies that have their competitive antennae up, listen astutely to their customers, invest aggressively in new technologies, and yet still lose market dominance.
+
+Such seemingly unaccountable failures happen in industries that move fast and in those that move slow; in those built on electronics technology and those built on chemical and mechanical technology; in manufacturing and in service industries. Sears Roebuck, for example, was regarded for decades as one of the most astutely managed retailers in the world. At its zenith Sears accounted for more than 2 percent of all retail sales in the United States. It pioneered several innovations critical to the success of today’s most admired retailers: for example, supply chain management, store brands, catalogue retailing, and credit card sales. The esteem in which Sears’ management was held shows in this 1964 excerpt from Fortune: “How did Sears do it? In a way, the most arresting aspect of its story is that there was no gimmick. Sears opened no big bag of tricks, shot off no skyrockets. Instead, it looked as though everybody in its organization simply did the right thing, easily and naturally. And their cumulative effect was to create an extraordinary powerhouse of a company.” 1
+
+Yet no one speaks about Sears that way today. Somehow, it completely missed the advent of discount retailing and home centers. In the midst of today’s catalogue retailing boom, Sears has been driven from that business. Indeed, the very viability of its retailing operations has been questioned. One commentator has noted that “Sears’ Merchandise Group lost $1.3 billion (in 1992) even before a $1.7 billion restructuring charge. Sears let arrogance blind it to basic changes taking place in the American marketplace.” 2 Another writer has complained,
+
+Sears has been a disappointment for investors who have watched its stock sink dismally in the face of unkept promises of a turnaround. Sears’ old merchandising approach—a vast, middle-of-the-road array of mid-priced goods and services—is no longer competitive. No question, the constant disappointments, the repeated predictions of a turnaround that never seems to come, have reduced the credibility of Sears’ management in both the financial and merchandising communities. 3
+
+It is striking to note that Sears received its accolades at exactly the time—in the mid-1960s—when it was ignoring the rise of discount retailing and home centers, the lower-cost formats for marketing name-brand hard goods that ultimately stripped Sears of its core franchise. Sears was praised as one of the best-managed companies in the world at the very time it let Visa and MasterCard usurp the enormous lead it had established in the use of credit cards in retailing.
+
+In some industries this pattern of leadership failure has been repeated more than once. Consider the computer industry. IBM dominated the mainframe market but missed by years the emergence of minicomputers, which were technologically much simpler than mainframes. In fact, no other major manufacturer of mainframe computers became a significant player in the minicomputer business. Digital Equipment Corporation created the minicomputer market and was joined by a set of other aggressively managed companies: Data General, Prime, Wang, Hewlett-Packard, and Nixdorf. But each of these companies in turn missed the desktop personal computer market. It was left to Apple Computer, together with Commodore, Tandy, and IBM’s stand-alone PC division, to create the personal-computing market. Apple, in particular, was uniquely innovative in establishing the standard for user-friendly computing. But Apple and IBM lagged five years behind the leaders in bringing portable computers to market. Similarly, the firms that built the engineering workstation market—Apollo, Sun, and Silicon Graphics—were all newcomers to the industry.
+
+As in retailing, many of these leading computer manufacturers were at one time regarded as among the best-managed companies in the world and were held up by journalists and scholars of management as examples for all to follow. Consider this assessment of Digital Equipment, made in 1986: “Taking on Digital Equipment Corp. these days is like standing in front of a moving train. The $7.6 billion computer maker has been gathering speed while most rivals are stalled in a slump in the computer industry.” 4 The author proceeded to warn IBM to watch out, because it was standing on the tracks. Indeed, Digital was one of the most prominently featured companies in the McKinsey study that led to the book In Search of Excellence.5
+
+Yet a few years later, writers characterized DEC quite differently:
+
+Digital Equipment Corporation is a company in need of triage. Sales are drying up in its key minicomputer line. A two-year-old restructuring plan has failed miserably. Forecasting and production planning systems have failed miserably. Cost-cutting hasn’t come close to restoring profitability…. But the real misfortune may be DEC’s lost opportunities. It has squandered two years trying halfway measures to respond to the low-margin personal computers and workstations that have transformed the computer industry. 6
+
+In Digital’s case, as in Sears, the very decisions that led to its decline were made at the time it was so widely regarded as being an astutely managed firm. It was praised as a paragon of managerial excellence at the very time it was ignoring the arrival of the desktop computers that besieged it a few years later.
+
+Sears and Digital are in noteworthy company. Xerox long dominated the market for plain paper photocopiers used in large, high-volume copying centers. Yet it missed huge growth and profit opportunities in the market for small tabletop photocopiers, where it became only a minor player. Although steel minimills have now captured 40 percent of the North American steel market, including nearly all of the region’s markets for bars, rods, and structural steel, not a single integrated steel company— American, Asian, or European—had by 1995 built a plant using minimill technology. Of the thirty manufacturers of cable-actuated power shovels, only four survived the industry’s twenty-five-year transition to hydraulic excavation technology.
+
+As we shall see, the list of leading companies that failed when confronted with disruptive changes in technology and market structure is a long one. At first glance, there seems to be no pattern in the changes that overtook them. In some cases the new technologies swept through quickly; in others, the transition took decades. In some, the new technologies were complex and expensive to develop. In others, the deadly technologies were simple extensions of what the leading companies already did better than anyone else. One theme common to all of these failures, however, is that the decisions that led to failure were made when the leaders in question were widely regarded as among the best companies in the world.
+
+There are two ways to resolve this paradox. One might be to conclude that firms such as Digital, IBM, Apple, Sears, Xerox, and Bucyrus Erie must never have been well managed. Maybe they were successful because of good luck and fortuitous timing, rather than good management. Maybe they finally fell on hard times because their good fortune ran out. Maybe. An alternative explanation, however, is that these failed firms were as well-run as one could expect a firm managed by mortals to be—but that there is something about the way decisions get made in successful organizations that sows the seeds of eventual failure.
+
+The research reported in this book supports this latter view: It shows that in the cases of well-managed firms such as those cited above, good management was the most powerful reason they failed to stay atop their industries. Precisely because these firms listened to their customers, invested aggressively in new technologies that would provide their customers more and better products of the sort they wanted, and because they carefully studied market trends and systematically allocated investment capital to innovations that promised the best returns, they lost their positions of leadership.
+
+What this implies at a deeper level is that many of what are now widely accepted principles of good management are, in fact, only situationally appropriate. There are times at which it is right not to listen to customers, right to invest in developing lower-performance products that promise lower margins, and right to aggressively pursue small, rather than substantial, markets. This book derives a set of rules, from carefully designed research and analysis of innovative successes and failures in the disk drive and other industries, that managers can use to judge when the widely accepted principles of good management should be followed and when alternative principles are appropriate.
+
+These rules, which I call principles of disruptive innovation, show that when good companies fail, it often has been because their managers either ignored these principles or chose to fight them. Managers can be extraordinarily effective in managing even the most difficult innovations if they work to understand and harness the principles of disruptive innovation. As in many of life’s most challenging endeavors, there is great value in coming to grips with “the way the world works,” and in managing innovative efforts in ways that accommodate such forces.
+
+The Innovator’s Dilemma is intended to help a wide range of managers, consultants, and academics in manufacturing and service businesses—high tech or low—in slowly evolving or rapidly changing environments. Given that aim, technology, as used in this book, means the processes by which an organization transforms labor, capital, materials, and information into products and services of greater value. All firms have technologies. A retailer like Sears employs a particular technology to procure, present, sell, and deliver products to its customers, while a discount warehouse retailer like PriceCostco employs a different technology. This concept of technology therefore extends beyond engineering and manufacturing to encompass a range of marketing, investment, and managerial processes. Innovation refers to a change in one of these technologies.
+
+
+
+
+
+THE DILEMMA
+
+
+To establish the theoretical depth of the ideas in this book, the breadth of their usefulness, and their applicability to the future as well as the past, I have divided this book into two parts. Part One, chapters 1 through 4, builds a framework that explains why sound decisions by great managers can lead firms to failure. The picture these chapters paint is truly that of an innovator’s dilemma: the logical, competent decisions of management that are critical to the success of their companies are also the reasons why they lose their positions of leadership. Part Two, chapters 5 through 10, works to resolve the dilemma. Building on our understanding of why and under what circumstances new technologies have caused great firms to fail, it prescribes managerial solutions to the dilemma—how executives can simultaneously do what is right for the near-term health of their established businesses, while focusing adequate resources on the disruptive technologies that ultimately could lead to their downfall.
+
+
+
+
+
+Building a Failure Framework
+
+
+I begin this book by digging deep before extending the discussion to draw general conclusions. The first two chapters recount in some detail the history of the disk drive industry, where the saga of “good-companies-hitting-hard-times” has been played out over and over again. This industry is an ideal field for studying failure because rich data about it exist and because, in the words of Harvard Business School Dean Kim B. Clark, it is “fast history.” In just a few years, market segments, companies, and technologies have emerged, matured, and declined. Only twice in the six times that new architectural technologies have emerged in this field has the industry’s dominant firm maintained its lead in the subsequent generation. This repetitive pattern of failure in the disk drive industry allowed me first to develop a preliminary framework that explained why the best and largest firms in the early generations of this industry failed and then to test this framework across subsequent cycles in the industry’s history to see whether it was robust enough to continue to explain failures among the industry’s more recent leaders.
+
+Chapters 3 and 4 then deepen our understanding of why the leading firms stumbled repeatedly in the disk drive industry and, simultaneously, test the breadth of the framework’s usefulness by examining the failure of firms in industries with very different characteristics. Hence, chapter 3, exploring the mechanical excavator industry, finds that the same factors that precipitated the failure of the leading disk drive makers also proved to be the undoing of the leading makers of mechanical excavators, in an industry that moves with a very different pace and technological intensity. Chapter 4 completes the framework and uses it to show why integrated steel companies worldwide have proven so incapable of blunting the attacks of the minimill steel makers.
+
+
+
+
+
+WHY GOOD MANAGEMENT CAN LEAD TO FAILURE
+
+
+The failure framework is built upon three findings from this study. The first is that there is a strategically important distinction between what I call sustaining technologies and those that are disruptive. These concepts are very different from the incremental-versus-radical distinction that has characterized many studies of this problem. Second, the pace of technological progress can, and often does, outstrip what markets need. This means that the relevance and competitiveness of different technological approaches can change with respect to different markets over time. And third, customers and financial structures of successful companies color heavily the sorts of investments that appear to be attractive to them, relative to certain types of entering firms.
+
+
+
+
+
+Sustaining versus Disruptive Technologies
+
+
+Most new technologies foster improved product performance. I call these sustaining technologies. Some sustaining technologies can be discontinuous or radical in character, while others are of an incremental nature. What all sustaining technologies have in common is that they improve the performance of established products, along the dimensions of performance that mainstream customers in major markets have historically valued. Most technological advances in a given industry are sustaining in character. An important finding revealed in this book is that rarely have even the most radically difficult sustaining technologies precipitated the failure of leading firms.
+
+Occasionally, however, disruptive technologies emerge: innovations that result in worse product performance, at least in the near-term. Ironically, in each of the instances studied in this book, it was disruptive technology that precipitated the leading firms’ failure.
+
+Disruptive technologies bring to a market a very different value proposition than had been available previously. Generally, disruptive technologies underperform established products in mainstream markets. But they have other features that a few fringe (and generally new) customers value. Products based on disruptive technologies are typically cheaper, simpler, smaller, and, frequently, more convenient to use. There are many examples in addition to the personal desktop computer and discount retailing examples cited above. Small off-road motorcycles introduced in North America and Europe by Honda, Kawasaki, and Yamaha were disruptive technologies relative to the powerful, over-the-road cycles made by Harley-Davidson and BMW. Transistors were disruptive technologies relative to vacuum tubes. Health maintenance organizations were disruptive technologies to conventional health insurers. In the near future, “internet appliances” may become disruptive technologies to suppliers of personal computer hardware and software.
+
+
+
+
+
+Trajectories of Market Need versus Technology Improvement
+
+
+The second element of the failure framework, the observation that technologies can progress faster than market demand, illustrated in Figure I.1, means that in their efforts to provide better products than their competitors and earn higher prices and margins, suppliers often “overshoot” their market: They give customers more than they need or ultimately are willing to pay for. And more importantly, it means that disruptive technologies that may underperform today, relative to what users in the market demand, may be fully performance-competitive in that same market tomorrow.
+
+Many who once needed mainframe computers for their data processing requirements, for example, no longer need or buy mainframes. Mainframe performance has surpassed the requirements of many original customers, who today find that much of what they need to do can be done on desktop machines linked to file servers. In other words, the needs of many computer users have increased more slowly than the rate of improvement provided by computer designers. Similarly, many shoppers who in 1965 felt they had to shop at department stores to be assured of quality and selection now satisfy those needs quite well at Target and Wal-Mart.
+
+Figure I.1 The Impact of Sustaining and Disruptive Technological Change
+
+
+
+
+
+Disruptive Technologies versus Rational Investments
+
+
+The last element of the failure framework, the conclusion by established companies that investing aggressively in disruptive technologies is not a rational financial decision for them to make, has three bases. First, disruptive products are simpler and cheaper; they generally promise lower margins, not greater profits. Second, disruptive technologies typically are first commercialized in emerging or insignificant markets. And third, leading firms’ most profitable customers generally don’t want, and indeed initially can’t use, products based on disruptive technologies. By and large, a disruptive technology is initially embraced by the least profitable customers in a market. Hence, most companies with a practiced discipline of listening to their best customers and identifying new products that promise greater profitability and growth are rarely able to build a case for investing in disruptive technologies until it is too late.
+
+
+
+
+
+
+
+
+TESTING THE FAILURE FRAMEWORK
+
+
+This book defines the problem of disruptive technologies and describes how they can be managed, taking care to establish what researchers call the internal and external validity of its propositions. Chapters 1 and 2 develop the failure framework in the context of the disk drive industry, and the initial pages of chapters 4 through 8 return to that industry to build a progressively deeper understanding of why disruptive technologies are such vexatious phenomena for good managers to confront successfully. The reason for painting such a complete picture of a single industry is to establish the internal validity of the failure framework. If a framework or model cannot reliably explain what happened within a single industry, it cannot be applied to other situations with confidence.
+
+Chapter 3 and the latter sections of chapters 4 through 9 are structured to explore the external validity of the failure framework—the conditions in which we might expect the framework to yield useful insights. Chapter 3 uses the framework to examine why the leading makers of cable excavators were driven from the earthmoving market by makers of hydraulic machines, and chapter 4 discusses why the world’s integrated steel makers have floundered in the face of minimill technology. Chapter 5 uses the model to examine the success of discount retailers, relative to conventional chain and department stores, and to probe the impact of disruptive technologies in the motor control and printer industries. Chapter 6 examines the emerging personal digital assistant industry and reviews how the electric motor control industry was upended by disruptive technology. Chapter 7 recounts how entrants using disruptive technologies in motorcycles and logic circuitry dethroned industry leaders; chapter 8 shows how and why computer makers fell victim to disruption; and chapter 9 spotlights the same phenomena in the accounting software and insulin businesses. Chapter 10 applies the framework to a case study of the electric vehicle, summarizing the lessons learned from the other industry studies, showing how they can be used to assess the opportunity and threat of electric vehicles, and describing how they might be applied to make an electric vehicle commercially successful. Chapter 11 summarizes the book’s findings.
+
+Taken in sum, these chapters present a theoretically strong, broadly valid, and managerially practical framework for understanding disruptive technologies and how they have precipitated the fall from industry leadership of some of history’s best-managed companies.
+
+
+
+
+
+HARNESSING THE PRINCIPLES OF DISRUPTIVE
+
+INNOVATION
+
+
+Colleagues who have read my academic papers reporting the findings recounted in chapters 1 through 4 were struck by their near-fatalism. If good management practice drives the failure of successful firms faced with disruptive technological change, then the usual answers to companies’ problems—planning better, working harder, becoming more customer-driven, and taking a longer-term perspective—all exacerbate the problem. Sound execution, speed-to-market, total quality management, and process reengineering are similarly ineffective. Needless to say, this is disquieting news to people who teach future managers!
+
+Chapters 5 through 10, however, suggest that although the solution to disruptive technologies cannot be found in the standard tool kit of good management, there are, in fact, sensible ways to deal effectively with this challenge. Every company in every industry works under certain forces—laws of organizational nature—that act powerfully to define what that company can and cannot do. Managers faced with disruptive technologies fail their companies when these forces overpower them.
+
+By analogy, the ancients who attempted to fly by strapping feathered wings to their arms and flapping with all their might as they leapt from high places invariably failed. Despite their dreams and hard work, they were fighting against some very powerful forces of nature. No one could be strong enough to win this fight. Flight became possible only after people came to understand the relevant natural laws and principles that defined how the world worked: the law of gravity, Bernoulli’s principle, and the concepts of lift, drag, and resistance. When people then designed flying systems that recognized or harnessed the power of these laws and principles, rather than fighting them, they were finally able to fly to heights and distances that were previously unimaginable.
+
+The objective of chapters 5 through 10 is to propose the existence of five laws or principles of disruptive technology. As in the analogy with manned flight, these laws are so strong that managers who ignore or fight them are nearly powerless to pilot their companies through a disruptive technology storm. These chapters show, however, that if managers can understand and harness these forces, rather than fight them, they can in fact succeed spectacularly when confronted with disruptive technological change. I am particularly anxious that managers read these chapters for understanding, rather than for simple answers. I am very confident that the great managers about whom this book is written will be very capable on their own of finding the answers that best fit their circumstances. But they must first understand what has caused those circumstances and what forces will affect the feasibility of their solutions. The following paragraphs summarize these principles and what managers can do to harness or accommodate them.
+
+
+
+
+
+Principle #1: Companies Depend on Customers and Investors for
+
+Resources
+
+
+The history of the disk drive industry shows that the established firms stayed atop wave after wave of sustaining technologies (technologies that their customers needed), while consistently stumbling over simpler disruptive ones. This evidence supports the theory of resource dependence.7 Chapter 5 summarizes this theory, which states that while managers may think they control the flow of resources in their firms, in the end it is really customers and investors who dictate how money will be spent because companies with investment patterns that don’t satisfy their customers and investors don’t survive. The highest-performing companies, in fact, are those that are the best at this, that is, they have well-developed systems for killing ideas that their customers don’t want. As a result, these companies find it very difficult to invest adequate resources in disruptive technologies—lower-margin opportunities that their customers don’t want—until their customers want them. And by then it is too late.
+
+Chapter 5 suggests a way for managers to align or harness this law with their efforts to confront disruptive technology. With few exceptions, the only instances in which mainstream firms have successfully established a timely position in a disruptive technology were those in which the firms’ managers set up an autonomous organization charged with building a new and independent business around the disruptive technology. Such organizations, free of the power of the customers of the mainstream company, ensconce themselves among a different set of customers—those who want the products of the disruptive technology. In other words, companies can succeed in disruptive technologies when their managers align their organizations with the forces of resource dependence, rather than ignoring or fighting them.
+
+The implication of this principle for managers is that, when faced with a threatening disruptive technology, people and processes in a mainstream organization cannot be expected to allocate freely the critical financial and human resources needed to carve out a strong position in the small, emerging market. It is very difficult for a company whose cost structure is tailored to compete in high-end markets to be profitable in low-end markets as well. Creating an independent organization, with a cost structure honed to achieve profitability at the low margins characteristic of most disruptive technologies, is the only viable way for established firms to harness this principle.
+
+
+
+
+
+Principle #2: Small Markets Don’t Solve the Growth Needs of
+
+Large Companies
+
+
+Disruptive technologies typically enable new markets to emerge. There is strong evidence showing that companies entering these emerging markets early have significant first-mover advantages over later entrants. And yet, as these companies succeed and grow larger, it becomes progressively more difficult for them to enter the even newer small markets destined to become the large ones of the future.
+
+To maintain their share prices and create internal opportunities for employees to extend the scope of their responsibilities, successful companies need to continue to grow. But while a $40 million company needs to find just $8 million in revenues to grow at 20 percent in the subsequent year, a $4 billion company needs to find $800 million in new sales. No new markets are that large. As a consequence, the larger and more successful an organization becomes, the weaker the argument that emerging markets can remain useful engines for growth.
+
+Many large companies adopt a strategy of waiting until new markets are “large enough to be interesting.” But the evidence presented in chapter 6 shows why this is not often a successful strategy.
+
+Those large established firms that have successfully seized strong positions in the new markets enabled by disruptive technologies have done so by giving responsibility to commercialize the disruptive technology to an organization whose size matched the size of the targeted market. Small organizations can most easily respond to the opportunities for growth in a small market. The evidence is strong that formal and informal resource allocation processes make it very difficult for large organizations to focus adequate energy and talent on small markets, even when logic says they might be big someday.
+
+
+
+
+
+Principle #3: Markets that Don’t Exist Can’t Be Analyzed
+
+
+Sound market research and good planning followed by execution according to plan are hallmarks of good management. When applied to sustaining technological innovation, these practices are invaluable; they are the primary reason, in fact, why established firms led in every single instance of sustaining innovation in the history of the disk drive industry. Such reasoned approaches are feasible in dealing with sustaining technology because the size and growth rates of the markets are generally known, trajectories of technological progress have been established, and the needs of leading customers have usually been well articulated. Because the vast majority of innovations are sustaining in character, most executives have learned to manage innovation in a sustaining context, where analysis and planning were feasible.
+
+In dealing with disruptive technologies leading to new markets, however, market researchers and business planners have consistently dismal records. In fact, based upon the evidence from the disk drive, motorcycle, and microprocessor industries, reviewed in chapter 7, the only thing we may know for sure when we read experts’ forecasts about how large emerging markets will become is that they are wrong.
+
+In many instances, leadership in sustaining innovations—about which information is known and for which plans can be made—is not competitively important. In such cases, technology followers do about as well as technology leaders. It is in disruptive innovations, where we know least about the market, that there are such strong first-mover advantages. This is the innovator’s dilemma.
+
+Companies whose investment processes demand quantification of market sizes and financial returns before they can enter a market get paralyzed or make serious mistakes when faced with disruptive technologies. They demand market data when none exists and make judgments based upon financial projections when neither revenues or costs can, in fact, be known. Using planning and marketing techniques that were developed to manage sustaining technologies in the very different context of disruptive ones is an exercise in flapping wings.
+
+Chapter 7 discusses a different approach to strategy and planning that recognizes the law that the right markets, and the right strategy for exploiting them, cannot be known in advance. Called discovery-based planning, it suggests that managers assume that forecasts are wrong, rather than right, and that the strategy they have chosen to pursue may likewise be wrong. Investing and managing under such assumptions drives managers to develop plans for learning what needs to be known, a much more effective way to confront disruptive technologies successfully.
+
+
+
+
+
+Principle #4: An Organization’s Capabilities Define Its Disabilities
+
+
+When managers tackle an innovation problem, they instinctively work to assign capable people to the job. But once they’ve found the right people, too many managers then assume that the organization in which they’ll work will also be capable of succeeding at the task. And that is dangerous—because organizations have capabilities that exist independently of the people who work within them. An organization’s capabilities reside in two places. The first is in its processes—the methods by which people have learned to transform inputs of labor, energy, materials, information, cash, and technology into outputs of higher value. The second is in the organization’s values, which are the criteria that managers and employees in the organization use when making prioritization decisions. People are quite flexible, in that they can be trained to succeed at quite different things. An employee of IBM, for example, can quite readily change the way he or she works, in order to work successfully in a small start-up company. But processes and values are not flexible. A process that is effective at managing the design of a minicomputer, for example, would be ineffective at managing the design of a desktop personal computer. Similarly, values that cause employees to prioritize projects to develop high-margin products, cannot simultaneously accord priority to low-margin products. The very processes and values that constitute an organization’s capabilities in one context, define its disabilities in another context.
+
+Chapter 8 will present a framework that can help a manager understand precisely where in his or her organization its capabilities and disabilities reside. Drawing on studies in the disk drive and computer industries, it offers tools that managers can use to create new capabilities, when the processes and values of the present organization would render it incapable of successfully addressing a new problem.
+
+
+
+
+
+Principle #5: Technology Supply May Not Equal Market Demand
+
+
+Disruptive technologies, though they initially can only be used in small markets remote from the mainstream, are disruptive because they subsequently can become fully performance-competitive within the mainstream market against established products. As depicted in Figure I.1 (on page xvi), this happens because the pace of technological progress in products frequently exceeds the rate of performance improvement that mainstream customers demand or can absorb. As a consequence, products whose features and functionality closely match market needs today often follow a trajectory of improvement by which they overshoot mainstream market needs tomorrow. And products that seriously underperform today, relative to customer expectations in mainstream markets, may become directly performance-competitive tomorrow.
+
+Chapter 9 shows that when this happens, in markets as diverse as disk drives, accounting software, and diabetes care, the basis of competition— the criteria by which customers choose one product over another— changes. When the performance of two or more competing products has improved beyond what the market demands, customers can no longer base their choice upon which is the higher performing product. The basis of product choice often evolves from functionality to reliability, then to convenience, and, ultimately, to price.
+
+Many students of business have described phases of the product life cycle in various ways. But chapter 9 proposes that the phenomenon in which product performance overshoots market demands is the primary mechanism driving shifts in the phases of the product life cycle.
+
+In their efforts to stay ahead by developing competitively superior products, many companies don’t realize the speed at which they are moving up-market, over-satisfying the needs of their original customers as they race the competition toward higher-performance, higher-margin markets. In doing so, they create a vacuum at lower price points into which competitors employing disruptive technologies can enter. Only those companies that carefully measure trends in how their mainstream customers use their products can catch the points at which the basis of competition will change in the markets they serve.
+
+
+
+
+
+LESSONS FOR SPOTTING DISRUPTIVE THREATS AND
+
+OPPORTUNITIES
+
+
+Some managers and researchers familiar with these ideas have arrived at this point in the story in an anxious state because the evidence is very strong that even the best managers have stumbled badly when their markets were invaded by disruptive technologies. Most urgently, they want to know whether their own businesses are targets for an attacking disruptive technologist and how they can defend their business against such an attack before it is too late. Others, interested in finding entrepreneurial opportunities, wonder how they can identify potentially disruptive technologies around which new companies and markets can be built.
+
+Chapter 10 addresses these questions in a rather unconventional way. Rather than offering a checklist of questions to ask or analyses to perform, it creates a case study of a particularly vexing but well-known problem in technological innovation: the electric vehicle. Positioning myself in the role of protagonist—as the program manager responsible for electric vehicle development in a major automobile manufacturing company wrestling with the mandate of the California Air Resources Board to begin selling electric vehicles in that state—I explore the question of whether electric vehicles are in fact a disruptive technology and then suggest ways to organize this program, set its strategy, and manage it to succeed. In the spirit of all case studies, the purpose of this chapter is not to advance what I believe to be the correct answer to this innovator’s challenge. Rather, it suggests a methodology and a way of thinking about the problem of managing disruptive technological change that should prove useful in many other contexts.
+
+Chapter 10 thus takes us deeply into the innovator’s dilemma that “good” companies often begin their descent into failure by aggressively investing in the products and services that their most profitable customers want. No automotive company is currently threatened by electric cars, and none contemplates a wholesale leap into that arena. The automobile industry is healthy. Gasoline engines have never been more reliable. Never before has such high performance and quality been available at such low prices. Indeed, aside from governmental mandates, there is no reason why we should expect the established car makers to pursue electric vehicles.
+
+
+
+Established Technology Disruptive Technology
+
+Silver halide photographic film
+
+Digital photography
+
+
+
+Wireline telephony
+
+Mobile telephony
+
+
+
+Circuit-switched telecommunications networks
+
+Packet-switched communications networks
+
+
+
+Notebook computers
+
+Hand-held digital appliances
+
+
+
+Desktop personal computers
+
+Sony Playstation II, Internet appliances
+
+
+
+Full-service stock brokerage
+
+On-line stock brokerage
+
+
+
+New York & NASDAQ stock exchanges
+
+Electronic Communications Networks (ECNs)
+
+
+
+Full-fee underwriting of new equity and debt issues
+
+Dutch auctions of new equity and debt issues, conducted on the Internet
+
+
+
+Credit decisions based upon the personal judgment of bank lending officers
+
+Automated lending decisions based upon credit scoring systems
+
+
+
+Bricks & mortar retailing
+
+On-line retailing
+
+
+
+Industrial materials distributors
+
+Internet-based sites such as Chemdex and E-steel
+
+
+
+Printed greeting cards
+
+Free greeting cards, downloadable over the Internet
+
+
+
+Electric utility companies
+
+Distributed power generation (gas turbines, micro-turbines, fuel cells)
+
+
+
+Graduate schools of management
+
+Corporate universities and in-house management training programs
+
+
+
+Classroom and campus-based instruction
+
+Distance education, typically enabled by the Internet
+
+
+
+Standard textbooks
+
+Custom-assembled, modular digital textbooks
+
+
+
+Offset printing
+
+Digital printing
+
+
+
+Manned fighter and bomber aircraft
+
+Unmanned aircraft
+
+
+
+Microsoft Windows operating systems and applications software written in C++.
+
+Internet Protocols (IP), and Java software protocols
+
+
+
+Medical doctors
+
+Nurse practitioners
+
+
+
+General hospitals
+
+Outpatient clinics and in-home patient care
+
+
+
+Open surgery
+
+Arthroscopic and endoscopic surgery
+
+
+
+Cardiac bypass surgery
+
+Angioplasty
+
+
+
+Magnetic resonance imaging (MRI) and Computer Tomography (CT) Scanning
+
+Ultrasound—initially floor-standing machines, ultimately portable machines
+
+
+
+
+
+But the electric car is a disruptive technology and potential future threat. The innovator’s task is to ensure that this innovation—the disruptive technology that doesn’t make sense—is taken seriously within the company without putting at risk the needs of present customers who provide profit and growth. As chapter 10 concretely lays out, the problem can be resolved only when new markets are considered and carefully developed around new definitions of value—and when responsibility for building the business is placed within a focused organization whose size and interest are carefully aligned with the unique needs of the market’s customers.
+
+
+
+
+
+WHERE DISRUPTIONS ARE HAPPENING TODAY
+
+
+One of the most gratifying aspects of my life since the first edition of The Innovator’s Dilemma was published has been the number of people who have called, representing industries that I had never thought about, who have suggested that forces similar to those historical examples I described in these pages are disrupting their industries as well. Some of these are described in the table on the previous page. Not surprisingly, the Internet looms as an infrastructural technology that is enabling the disruption of many industries.
+
+Each of the innovations in the right column—in the form of a new technology or a new business model—is now in the process of disrupting the established order described in the left column. Will the companies that currently lead their industries using the technologies in the left column survive these attacks? My hope is that the future might be different than the past. I believe that the future can be different, if managers will recognize these disruptions for what they are, and address them in a way that accounts for or harnesses the fundamental principles described in the pages that follow.
+
+
+
+
+
+NOTES
+
+
+1. John McDonald, “Sears Makes It Look Easy,” Fortune, May, 1964, 120–121.
+
+2. Zina Moukheiber, “Our Competitive Advantage,” Forbes, April 12, 1993, 59.
+
+3. Steve Weiner, “It’s Not Over Until It’s Over,” Forbes, May 28, 1990, 58.
+
+4. Business Week, March 24, 1986, 98.
+
+5. Thomas J. Peters and Robert H. Waterman, In Search of Excellence (New York: Harper & Row, 1982).
+
+6. Business Week, May 9, 1994, 26.
+
+7. Jeffrey Pfeffer and Gerald R. Salancik, The External Control of Organizations: A Resource Dependence Perspective (New York: Harper & Row, 1978).
+
+
+
+
+

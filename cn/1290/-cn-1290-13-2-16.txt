@@ -1,0 +1,132 @@
+P
+
+Paeonia albiflora 394
+
+Paeonia moutan 341
+
+Panax ginseng 237
+
+Panicum miliaceum 10
+
+Papaver rhoeas 401
+
+Papaver somniferum 401
+
+Passiflora caerulea 324
+
+Passiflora edulis 324
+
+Passiflora ligularis 324
+
+Passiflora lutea 324
+
+Perilla frutescens var. arguta 281
+
+Pharbitis nil 275
+
+Phaseolus angularis 29
+
+Phaseolus aureus 29
+
+Phaseolus radiatus 30
+
+Phellodendron amurense 267
+
+Phoebe nanmu 293
+
+Phragmites communis 433
+
+Phyllanthus emblica 138
+
+Phyllostachys aurea 193
+
+Phyllostachys bambusoides 197
+
+Phyllostachys hindsii 196
+
+Phyllostachys nidularia 194
+
+Phyllostachys nigra 196
+
+Phyllostachys nigra var. henonis 194
+
+Phyllostachys pubescens 192
+
+Phyllostachys sulphurea 196
+
+Physalis alkekengi 445
+
+Phytolacca acinosa 420
+
+Pinellia ternata 274
+
+Pinus densiflora 289
+
+Pinus koraiensis 289
+
+Pinus massoniana 289
+
+Pinus tabulaeformis 289
+
+Pinus thunbergii 289
+
+Piper nigrum 41
+
+Pisum sativum 27
+
+Plantago asiatica 441
+
+Platycodon grandiflorum 251
+
+Pleioblastus amarus 197
+
+Polygonum blumei 435
+
+Polygonum hydropiper 435
+
+Polygonum japonicum 434
+
+Polygonum multiflorum 254
+
+Polygonum orientale 434
+
+Polygonum persicaria 434
+
+Polygonum viscosum 434
+
+Populus cathayana 304
+
+Populus tomentosa 303
+
+Poria cocos 246
+
+Portulaca oleracea 73
+
+Prunus amygdalus 128
+
+Prunus armeniaca 131
+
+Prunus japonica 264
+
+Prunus mume 110
+
+Prunus persica 128
+
+Prunus pseudocerasus 119
+
+Prunus salicina 133
+
+Psidium guajava 148
+
+Pteridium aquilinum var. latiusculum 89
+
+Pueraria lobata 211
+
+Punica granatum 147
+
+Pyrus 115
+
+Pyrus bretschneideri 116
+
+Pyrus pyrifolia 116
+

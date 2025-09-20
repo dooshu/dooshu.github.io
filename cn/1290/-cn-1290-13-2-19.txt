@@ -1,0 +1,56 @@
+S
+
+Sagittaria sagittifolia 100
+
+Salix babylonica 302
+
+Sanguisorba officinalis 244
+
+Santalum album 240
+
+Sapium sebiferum 307
+
+Saposhnikovia divaricata 263
+
+Sasa albo-marginata 194
+
+Saxifraga sarmentosa 440
+
+Scutellaria baicalensis 269
+
+Sedum sarmentosum 448
+
+Sedum spectabile 276
+
+Selaginella communis 431
+
+Selaginella tamariscina 449
+
+Sesamum orientale 19
+
+Setaria italica 12
+
+Siegesbeckia orientalis 265
+
+Sinarundinaria nitida 192
+
+Sinocalamus latiflorus 193
+
+Solanum melongena 81
+
+Solanum tuberosum 93
+
+Sophora japonica 299
+
+Sorghum vulgare 21
+
+Spinacia oleracea 58
+
+Spirodela polyrrhiza 437
+
+Stemona parviflora 250
+
+Strobilanthes cusia 423
+
+Symplocos caudata 427
+

@@ -1,0 +1,1568 @@
+The Finder
+
+I. In the Dark Time
+
+
+
+THIS IS THE FIRST PAGE of the Book of the Dark, written some six hundred years ago in Berila, on Enlad:
+
+“After Elfarran and Morred perished and the Isle of Solea sank beneath the sea, the Council of the Wise governed for the child Serriadh until he took the throne. His reign was bright but brief. The kings who followed him in Enlad were seven, and their realm increased in peace and wealth. Then the dragons came to raid among the western lands, and wizards went out in vain against them. King Akambar moved the court from Berila in Enlad to the City of Havnor, whence he sent out his fleet against invaders from the Kargad Lands and drove them back into the East. But still they sent raiding ships even as far as the Inmost Sea. Of the fourteen Kings of Havnor the last was Maharion, who made peace both with the dragons and the Kargs, but at great cost. And after the Ring of the Runes was broken, and Erreth-Akbe died with the great dragon, and Maharion the Brave was killed by treachery, it seemed that no good thing happened in the Archipelago.
+
+“Many claimed Maharion’s throne, but none could keep it, and the quarrels of the claimants divided all loyalties. No commonwealth was left and no justice, only the will of the wealthy. Men of noble houses, merchants, and pirates, any who could hire soldiers and wizards called himself a lord, claiming lands and cities as his property. The warlords made those they conquered slaves, and those they hired were in truth slaves, having only their masters to safeguard them from rival warlords seizing the lands, and sea-pirates raiding the ports, and bands and hordes of lawless, miserable men dispossessed of their living, driven by hunger to raid and rob.”
+
+The Book of the Dark, written late in the time it tells of, is a compilation of self-contradictory histories, partial biographies, and garbled legends. But it’s the best of the records that survived the dark years. Wanting praise, not history, the warlords burnt the books in which the poor and powerless might learn what power is.
+
+But when the lore-books of a wizard came into a warlord’s hands he was likely to treat them with caution, locking them away to keep them harmless or giving them to a wizard in his hire to do with as he wished. In the margins of the spells and word lists and in the endpapers of these books of lore a wizard or his prentice might record a plague, a famine, a raid, a change of masters, along with the spells worked in such events and their success or unsuccess. Such random records reveal a clear moment here and there, though all between those moments is darkness. They are like glimpses of a lighted ship far out at sea, in darkness, in the rain.
+
+And there are songs, old lays and ballads from small islands and from the quiet uplands of Havnor, that tell the story of those years.
+
+Havnor Great Port is the city at the heart of the world, white-towered above its bay; on the tallest tower the sword of Erreth-Akbe catches the first and last of daylight. Through that city passes all the trade and commerce and learning and craft of Earthsea, a wealth not hoarded. There the King sits, having returned after the healing of the Ring, in sign of healing. And in that city, in these latter days, men and women of the islands speak with dragons, in sign of change.
+
+But Havnor is also the Great Isle, a broad, rich land; and in the villages inland from the port, the farmlands of the slopes of Mount Onn, nothing ever changes much. There a song worth singing is likely to be sung again. There old men at the tavern talk of Morred as if they had known him when they too were young and heroes. There girls walking out to fetch the cows home tell stories of the women of the Hand, who are forgotten everywhere else in the world, even on Roke, but remembered among those silent, sunlit roads and fields and in the kitchens by the hearths where housewives work and talk.
+
+In the time of the kings, mages gathered in the court of Enlad and later in the court of Havnor to counsel the king and take counsel together, using their arts to pursue goals they agreed were good. But in the dark years, wizards sold their skills to the highest bidder, pitting their powers one against the other in duels and combats of sorcery, careless of the evils they did, or worse than careless. Plagues and famines, the failure of springs of water, summers with no rain and years with no summer, the birth of sickly and monstrous young to sheep and cattle, the birth of sickly and monstrous children to the people of the isles-all these things were charged to the practices of wizards and witches, and all too often rightly so.
+
+So it became dangerous to practice sorcery, except under the protection of a strong warlord; and even then, if a wizard met up with one whose powers were greater than his own, he might be destroyed. And if a wizard let down his guard among the common folk, they too might destroy him if they could, seeing him as the source of the worst evils they suffered, a malign being. In those years, in the minds of most people, all magic was black.
+
+It was then that village sorcery, and above all women’s witchery, came into the ill repute that has clung to it since. Witches paid dearly for practicing the arts they thought of as their own. The care of pregnant beasts and women, birthing, teaching the songs and rites, the fertility and order of field and garden, the building and care of the house and its furniture, the mining of ores and metals-these great things had always been in the charge of women. A rich lore of spells and charms to ensure the good outcome of such undertakings was shared among the witches. But when things went wrong at the birth, or in the field, that would be the witches’ fault. And things went wrong more often than right, with the wizards warring, using poisons and curses recklessly to gain immediate advantage without thought for what followed after. They brought drought and storm, blights and fires and sicknesses across the land, and the village witch was punished for them. She didn’t know why her charm of healing caused the wound to gangrene, why the child she brought into the world was imbecile, why her blessing seemed to burn the seed in the furrows and blight the apple on the tree. But for these ills, somebody had to be to blame: and the witch or sorcerer was there, right there in the village or the town, not off in the warlord’s castle or fort, not protected by armed men and spells of defense. Sorcerers and witches were drowned in the poisoned wells, burned in the withered fields, buried alive to make the dead earth rich again.
+
+So the practice of their lore and the teaching of it had become perilous. Those who undertook it were often those already outcast, crippled, deranged, without family, old-women and men who had little to lose. The wise man and wise woman, trusted and held in reverence, gave way to the stock figures of the shuffling, impotent village sorcerer with his trickeries, the hag-witch with her potions used in aid of lust, jealousy, and malice. And a child’s gift for magic became a thing to dread and hide.
+
+This is a tale of those times. Some of it is taken from the Book of the Dark, and some comes from Havnor, from the upland farms of Onn and the woodlands of Faliern. A story may be pieced together from such scraps and fragments, and though it will be an airy quilt, half made of hearsay and half of guesswork, yet it may be true enough. It’s a tale of the Founding of Roke, and if the Masters of Roke say it didn’t happen so, let them tell us how it happened otherwise. For a cloud hangs over the time when Roke first became the Isle of the Wise, and it may be that the wise men put it there.
+
+II. Otter
+
+
+
+There was an otter in our brook
+
+That every mortal semblance took,
+
+Could any spell of magic make,
+
+And speak the tongues of man and drake.
+
+So runs the water away, away,
+
+So runs the water away.
+
+
+
+OTTER WAS THE SON of a boatwright who worked in the shipyards of Havnor Great Port. His mother gave him his country name; she was a farm woman from Endlane village, around northwest of Mount Onn. She had come to the city seeking work, as many came. Decent folk in a decent trade in troubled times, the boatwright and his family were anxious not to come to notice lest they come to grief. And so, when it became clear that the boy had a gift of magery, his father tried to beat it out of him.
+
+“You might as well beat a cloud for raining,” said Otter’s mother.
+
+“Take care you don’t beat evil into him,” said his aunt.
+
+“Take care he doesn’t turn your belt on you with a spell!” said his uncle.
+
+But the boy played no tricks against his father. He took his beatings in silence and learned to hide his gift.
+
+It didn’t seem to him to amount to much. It was such an easy matter to him to make a silvery light shine in a dark room, or find a lost pin by thinking about it, or true up a warped joint by running his hands over the wood and talking to it, that he couldn’t see why they made a fuss over such things. But his father raged at him for his “shortcuts,” even struck him once on the mouth when he was talking to the work, and insisted that he do his carpentry with tools, in silence.
+
+His mother tried to explain. “It’s as if you’d found some great jewel,” she said, “and what’s one of us to do with a diamond but hide it? Anybody rich enough to buy it from you is strong enough to kill you for it. Keep it hid. And keep away from great people and their crafty men!”
+
+“Crafty men” is what they called wizards in those days.
+
+One of the gifts of power is to know power. Wizard knows wizard, unless the concealment is very skillful. And the boy had no skills at all except in boat-building, of which he was a promising scholar by the age of twelve. About that time the midwife who had helped his mother at his birth came by and said to his parents, “Let Otter come to me in the evenings after work. He should learn the songs and be prepared for his naming day.”
+
+That was all right, for she had done the same for Otter’s elder sister, and so his parents sent him to her in the evenings. But she taught Otter more than the song of the Creation. She knew his gift. She and some men and women like her, people of no fame and some of questionable reputation, had all in some degree that gift; and they shared, in secret, what lore and craft they had. “A gift untaught is a ship unguided,” they said to Otter, and they taught him all they knew. It wasn’t much, but there were some beginnings of the great arts in it; and though he felt uneasy at deceiving his parents, he couldn’t resist this knowledge, and the kindness and praise of his poor teachers. “It will do you no harm if you never use it for harm,” they told him, and that was easy for him to promise them.
+
+At the stream Serrenen, where it runs within the north wall of the city, the midwife gave Otter his true name, by which he is remembered in islands far from Havnor.
+
+Among these people was an old man whom they called, among themselves, the Changer. He showed Otter a few spells of illusion; and when the boy was fifteen or so, the old man took him out into the fields by Serrenen to show him the one spell of true change he knew. “First let’s see you turn that bush into the seeming of a tree,” he said, and promptly Otter did so. Illusion came so easy to the boy that the old man took alarm. Otter had to beg and wheedle him for any further teaching and finally to promise him, swearing on his own true and secret name, that if he learned the Changer’s great spell he would never use it but to save a life, his own or another’s.
+
+Then the old man taught it to him. But it wasn’t much use, Otter thought, since he had to hide it.
+
+What he learned working with his father and uncle in the shipyard he could use, at least; and he was becoming a good craftsman, even his father would admit that.
+
+Losen, a sea-pirate who called himself King of the Inmost Sea, was then the chief warlord in the city and all the east and south of Havnor. Exacting tribute from that rich domain, he spent it to increase his soldiery and the fleets he sent out to take slaves and plunder from other lands. As Otters uncle said, he kept the shipwrights busy. They were grateful to have work in a time when men seeking work found only beggary, and rats ran in the courts of Maharion. They did an honest job, Otter’s father said, and what the work was used for was none of their concern.
+
+But the other learning he had been given had made Otter touchy in these matters, delicate of conscience. The big galley they were building now would be rowed to war by Losen’s slaves and would bring back slaves as cargo. It galled him to think of the good ship in that vicious usage. “Why can’t we build fishing boats, the way we used to?” he asked, and his father said, “Because the fishermen can’t pay us.”
+
+“Can’t pay us as well as Losen does. But we could live,” Otter argued.
+
+“You think I can turn the King’s order down? You want to see me sent to row with the slaves in the galley we’re building? Use your head, boy!”
+
+So Otter worked along with them with a clear head and an angry heart. They were in a trap. What’s the use of a gift of power, he thought, if not to get out of a trap?
+
+His conscience as a craftsman would not let him fault the carpentry of the ship in any way; but his conscience as a wizard told him he could put a hex on her, a curse woven right into her beams and hull. Surely that was using the secret art to a good end? For harm, yes, but only to harm the harmful. He did not talk to his teachers about it. If he was doing wrong, it was none of their fault and they would know nothing about it. He thought about it for a long time, working out how to do it, making the spell very carefully. It was the reversal of a finding charm: a losing charm, he called it to himself. The ship would float, and handle well, and steer, but she would never steer quite true.
+
+It was the best he could do in protest against the misuse of good work and a good ship. He was pleased with himself. When the ship was launched (and all seemed well with her, for her fault would not show up until she was out on the open sea) he could not keep from his teachers what he had done, the little circle of old men and midwives, the young hunchback who could speak with the dead, the blind girl who knew the names of things. He told them his trick, and the blind girl laughed, but the old people said, “Look out. Take care. Keep hidden.”
+
+In Losen’s service was a man who called himself Hound, because, as he said, he had a nose for witchery. His employment was to sniff Losen’s food and drink and garments and women, anything that might be used by enemy wizards against him; and also to inspect his warships. A ship is a fragile thing in a dangerous element, vulnerable to spells and hexes. As soon as Hound came aboard the new galley he scented something. “Well, well,” he said, “who’s this?” He walked to the helm and put his hand on it. “This is clever,” he said. “But who is it? A newcomer, I think.” He sniffed appreciatively. “Very clever,” he said.
+
+They came to the house in Boatwright Street after dark. They kicked the door in, and Hound, standing among the armed and armored men, said, “Him. Let the others be.” And to Otter he said, “Don’t move,” in a low, amicable voice. He sensed great power in the young man, enough that he was a little afraid of him. But Otter’s distress was too great and his training too slight for him to think of using magic to free himself or stop the men’s brutality. He flung himself at them and fought them like an animal till they knocked him on the head. They broke Otter’s father’s jaw and beat his aunt and mother senseless to teach them not to bring up crafty men. Then they carried Otter away.
+
+Not a door opened in the narrow street. Nobody looked out to see what the noise was. Not till long after the men were gone did some neighbors creep out to comfort Otter’s people as best they could. “Oh, it’s a curse, a curse, this wizardry!” they said.
+
+Hound told his master that they had the hexer in a safe place, and Losen said, “Who was he working for?”
+
+“He worked in your shipyard, your highness.” Losen liked to be called by kingly titles.
+
+“Who hired him to hex the ship, fool?”
+
+“It seems it was his own idea, your majesty.”
+
+“Why? What was he going to get out of it?”
+
+Hound shrugged. He didn’t choose to tell Losen that people hated him disinterestedly.
+
+“He’s crafty, you say. Can you use him?”
+
+“I can try, your highness.”
+
+“Tame him or bury him,” said Losen, and turned to more important matters.
+
+
+
+Otter’s humble teachers had taught him pride. They had trained into him a deep contempt for wizards who worked for such men as Losen, letting fear or greed pervert magic to evil ends. Nothing, to his mind, could be more despicable than such a betrayal of their art. So it troubled him that he couldn’t despise Hound.
+
+He had been stowed in a storeroom of one of the old palaces that Losen had appropriated. It had no window, its door was cross-grained oak barred with iron, and spells had been laid on that door that would have kept a far more experienced wizard captive. There were men of great skill and power in Losen’s pay. Hound did not consider himself to be one of them. “All I have is a nose,” he said. He came daily to see that Otter was recovering from his concussion and dislocated shoulder, and to talk with him. He was, as far as Otter could see, well-meaning and honest. “If you won’t work for us they’ll kill you,” he said. “Losen can’t have fellows like you on the loose. You’d better hire on while he’ll take you.”
+
+“I can’t.”
+
+Otter stated it as an unfortunate fact, not as a moral assertion. Hound looked at him with appreciation. Living with the pirate king, he was sick of boasts and threats, of boasters and threateners.
+
+“What are you strongest in?”
+
+Otter was reluctant to answer. He had to like Hound, but didn’t have to trust him. “Shape-changing,” he mumbled at last.
+
+“Shape-taking?”
+
+“No. Just tricks. Turn a leaf to a gold piece. Seemingly.”
+
+In those days they had no fixed names for the various kinds and arts of magic, nor were the connections among those arts clear. There was-as the wise men of Roke would say later-no science in what they knew. But Hound knew pretty surely that his prisoner was concealing his talents.
+
+“Can’t change your own form, even seemingly?”
+
+Otter shrugged.
+
+It was hard for him to lie. He thought he was awkward at it because he had no practice. Hound knew better. He knew that magic itself resists untruth. Conjuring, sleight of hand, and false commerce with the dead are counterfeits of magic, glass to the diamond, brass to the gold. They are fraud, and lies flourish in that soil. But the art of magic, though it may be used for false ends, deals with what is real, and the words it works with are the true words. So true wizards find it hard to lie about their art. In their heart they know that their lie, spoken, may change the world.
+
+Hound was sorry for him. “You know, if it was Gelluk questioning you, he’d have everything you know out of you just with a word or two, and your wits with it. I’ve seen what old Whiteface leaves behind when he asks questions. Listen, can you work with the wind at all?”
+
+Otter hesitated and said, “Yes.”
+
+“D’you have a bag?”
+
+Weatherworkers used to carry a leather sack in which they said they kept the winds, untying it to let a fair wind loose or to capture a contrary one. Maybe it was only for show, but every weatherworker had a bag, a great long sack or a little pouch.
+
+“At home,” Otter said. It wasn’t a lie. He did have a pouch at home. He kept his fine-work tools and his bubble level in it. And he wasn’t altogether lying about the wind. Several times he had managed to bring a bit of magewind into the sail of a boat, though he had no idea how to combat or control a storm, as a ship’s weatherworker must do. But he thought he’d rather drown in a gale than be murdered in this hole.
+
+“But you wouldn’t be willing to use that skill in the King’s service?”
+
+“There is no king in Earthsea,” the young man said, stern and righteous, “In my master’s service, then,” Hound amended, patient.
+
+“No,” Otter said, and hesitated. He felt he owed this man an explanation. “See, it’s not so much won’t as can’t. I thought of making plugs in the planking of that galley, near the keel-you know what I mean by plugs? They’d work out as the timbers work when she gets in a heavy sea.” Hound nodded. “But I couldn’t do it. I’m a shipbuilder. I can’t build a ship to sink. With the men aboard her. My hands wouldn’t do it. So I did what I could. I made her go her own way. Not his way.”
+
+Hound smiled. “They haven’t undone what you did yet, either,” he said. “Old Whiteface was crawling all over her yesterday, growling and muttering. Ordered the helm replaced.” He meant Losen’s chief mage, a pale man from the North named Gelluk, who was much feared in Havnor.
+
+“That won’t do it.”
+
+“Could you undo the spell you put on her?”
+
+A flicker of complacency showed in Otters tired, battered young face. “No,” he said. “I don’t think anybody can.”
+
+“Too bad. You might have used that to bargain with.”
+
+Otter said nothing.
+
+“A nose, now, is a useful thing, a salable thing,” Hound went on. “Not that I’m looking for competition. But a finder can always find work, as they say...You ever been in a mine?”
+
+The guesswork of a wizard is close to knowledge, though he may not know what it is he knows. The first sign of Otter’s gift, when he was two or three years old, was his ability to go straight to anything lost, a dropped nail, a mislaid tool, as soon as he understood the word for it. And as a boy one of his dearest pleasures had been to go alone out into the countryside and wander along the lanes or over the hills, feeling through the soles of his bare feet and throughout his body the veins of water underground, the lodes and knots of ore, the lay and interfolding of the kinds of rock and earth. It was as if he walked in a great building, seeing its passages and rooms, the descents to airy caverns, the glimmer of branched silver in the walls; and as he went on, it was as if his body became the body of earth, and he knew its arteries and organs and muscles as his own. This power had been a delight to him as a boy. He had never sought any use for it. It had been his secret.
+
+He did not answer Hound’s question.
+
+“What’s below us?” Hound pointed to the floor, paved with rough slate flags.
+
+Otter was silent a while. Then he said in a low voice, “Clay, and gravel, and under that the rock that bears garnets. All under this part of the city is that rock. I don’t know the names.”
+
+“You can learn em.”
+
+“I know how to build boats, how to sail boats.”
+
+“You’ll do better away from the ships, all the fighting and raiding. The King’s working the old mines at Samory, round the mountain. There you’d be out of his way. Work for him you must, if you want to stay alive. I’ll see that you’re sent there. If you’ll go.”
+
+After a little silence Otter said, “Thanks.” And he looked up at Hound, one brief, questioning, judging glance.
+
+Hound had taken him, had stood and seen his people beaten senseless, had not stopped the beating. Yet he spoke as a friend. Why? said Otter’s look. Hound answered it.
+
+“Crafty men need to stick together,” he said. “Men who have no art at all, nothing but wealth-they pit us one against the other, for their gain not ours. We sell em our power. Why do we? If we went our own way together, we’d do better, maybe.”
+
+Hound meant well in sending the young man to Samory, but he did not understand the quality of Otter’s will. Nor did Otter himself. He was too used to obeying others to see that in fact he had always followed his own bent, and too young to believe that anything he did could kill him.
+
+He planned, as soon as they took him out of his cell, to use the old Changers spell of self-transformation and so escape. Surely his life was in danger, and it would be all right to use the spell? Only he couldn’t decide what to turn himself into-a bird, or a wisp of smoke, what would be safest? But while he was thinking about it, Losen’s men, used to wizard’s tricks, drugged his food and he ceased to think of anything at all. They dumped him into a mule-cart like a sack of oats. When he showed signs of reviving during the journey, one of them bashed him on the head, remarking that he wanted to make sure he got his rest.
+
+When he came to himself, sick and weak from the poison and with an aching skull, he was in a room with brick walls and bricked-up windows. The door had no bars and no visible lock. But when he tried to get to his feet he felt bonds of sorcery holding his body and mind, resilient, clinging, tightening as he moved. He could stand, but could not take a step towards the door. He could not even reach his hand out. It was a horrible sensation, as if his muscles were not his own. He sat down again and tried to hold still. The spellbonds around his chest kept him from breathing deeply, and his mind felt stifled too, as if his thoughts were crowded into a space too small for them.
+
+After a long time the door opened and several men came in. He could do nothing against them as they gagged him and bound his arms behind him. “Now you won’t weave charms nor speak spells, young’un,” said a broad, strong man with a furrowed face, “but you can nod your head well enough, right? They sent you here as a dowser. If you’re a good dowser you’ll feed well and sleep easy. Cinnabar, that’s what you’re to nod for. The King’s wizard says it’s still here somewhere about these old mines. And he wants it. So it’s best for us that we find it. Now I’ll walk you out. It’s like I’m the water finder and you’re my wand, see? You lead on. And if you want to go this way or that way you dip your head, so. And when you know there’s ore underfoot, you stamp on the place, so. Now that’s the bargain, right? And if you play fair I will.”
+
+He waited for Otter to nod, but Otter stood motionless.
+
+“Sulk away,” the man said. “If you don’t like this work, there’s always the roaster.”
+
+The man, whom the others called Licky, led him out into a hot, bright morning that dazzled his eyes. Leaving his cell he had felt the spellbonds loosen and fall away, but there were other spells woven about other buildings of the place, especially around a tall stone tower, filling the air with sticky lines of resistance and repulsion. If he tried to push forward into them his face and belly stung with jabs of agony, so that he looked at his body in horror for the wound; but there was no wound. Gagged and bound, without his voice and hands to work magic, he could do nothing against these spells. Licky had tied one end of a braided leather cord around his neck and held the other end, following him. He let Otter walk into a couple of the spells, and after that Otter avoided them. Where they were was plain enough: the dusty pathways bent to miss them.
+
+Leashed like a dog, he walked along, sullen and shivering with sickness and rage. He stared around him, seeing the stone tower, stacks of wood by its wide doorway, rusty wheels and machines by a pit, great heaps of gravel and clay. Turning his sore head made him dizzy.
+
+“If you’re a dowser, better dowse,” said Licky, coming up alongside him and looking sidelong into his face. “And if you’re not, you’d better dowse all the same. That way you’ll stay above ground longer.”
+
+A man came out of the stone tower. He passed them, walking hurriedly with a queer shambling gait, staring straight ahead. His chin shone and his chest was wet with spittle leaking from his lips.
+
+“That’s the roaster tower,” said Licky. “Where they cook the cinnabar to get the metal from it. Roasters die in a year or two. Where to, dowser?”
+
+After a bit Otter nodded left, away from the grey stone tower. They walked on towards a long, treeless valley, past grass-grown dumps and tailings.
+
+“All under here’s worked out long since” Licky said. And Otter had begun to be aware of the strange country under his feet: empty shafts and rooms of dark air in the dark earth, a vertical labyrinth, the deepest pits filled with unmoving water. “Never was much silver, and the watermetal’s long gone. Listen, young’un, do you even know what cinnabar is?”
+
+Otter shook his head.
+
+“I’ll show you some. That’s what Gelluk’s after. The ore of watermetal. Watermetal eats all the other metals, even gold, see.
+
+. So he calls it the King. If you find him his King, he’ll treat you well. He’s often here. Come on, I’ll show you. Dog can’t track till he’s had the scent.”
+
+Licky took him down into the mines to show him the gangues, the kinds of earth the ore was likely to occur in. A few miners were working at the end of a long level.
+
+Because they were smaller than men and could move more easily in narrow places, or because they were at home with the earth, or most likely because it was the custom, women had always worked the mines of Earthsea. These miners were free women, not slaves like the workers in the roaster tower. Gelluk had made him foreman over the miners, Licky said, but he did no work in the mine; the miners forbade it, earnestly believing it was the worst of bad luck for a man to pick up a shovel or shore a timber. “Suits me,” Licky said.
+
+A shock-haired, bright-eyed woman with a candle bound to her forehead set down her pick to show Otter a little cinnabar in a bucket, brownish red clots and crumbs. Shadows leapt across the earth face at which the miners worked. Old timbers creaked, dirt sifted down. Though the air ran cool through the darkness, the drifts and levels were so low and narrow the miners had to stoop and squeeze their way. In places the ceilings had collapsed. Ladders were shaky. The mine was a terrifying place; yet Otter felt a sense of shelter in it. He was half sorry to go back up into the burning day.
+
+Licky did not take him into the roaster tower, but back to the barracks. From a locked room he brought out a small, soft, thick, leather bag that weighed heavy in his hands. He opened it to show Otter the little pool of dusty brilliance lying in it. When he closed the bag the metal moved in it, bulging, pressing, like an animal trying to get free.
+
+“There’s the King,” Licky said, in a tone that might have been reverence or hatred.
+
+Though not a sorcerer, Licky was a much more formidable man than Hound. Yet like Hound he was brutal not cruel. He demanded obedience, but nothing else. Otter had seen slaves and their masters all his life in the shipyards of Havnor, and knew he was fortunate. At least in daylight, when Licky was his master.
+
+He could eat only in the cell, where they took his gag off. Bread and onions were what they gave him, with a slop of rancid oil on the bread. Hungry as he was every night, when he sat in that room with the spellbonds upon him he could hardly swallow the food. It tasted of metal, of ash. The nights were long and terrible, for the spells pressed on him, weighed on him, waked him over and over terrified, gasping for breath, and never able to think coherently. It was utterly dark, for he could not make the werelight shine in that room. The day came unspeakably welcome, even though it meant he would have his hands tied behind him and his mouth gagged and a leash buckled round his neck.
+
+Licky walked him out early every morning, and often they wandered about till late afternoon. Licky was silent and patient.
+
+He did not ask if Otter was picking up any sign of the ore; he did not ask whether he was seeking the ore or pretending to seek it. Otter himself could not have answered the question. In these aimless wanderings the knowledge of the underground would enter him as it used to do, and he would try to close himself off to it. “I will not work in the service of evil!” he told himself. Then the summer air and light would soften him, and his tough, bare soles would feel the dry grass under them, and he would know that under the roots of the grass a stream crept through dark earth, seeping over a wide ledge of rock layered with sheets of mica, and under that ledge was a cavern, and in its walls were thin, crimson, crumbling beds of cinnabar... He made no sign. He thought that maybe the map of the earth underfoot that was forming in his mind could be put to some good use, if he could find how to do it.
+
+But after ten days or so, Licky said, “Master Gelluk’s coming here. If there’s no ore for him, he’ll likely find another dowser.”
+
+Otter walked on a mile, brooding; then circled back, leading Licky to a hillock not far from the far end of the old workings. There he nodded downward and stamped his foot.
+
+Back in the cell room, when Licky had unleashed him and untied his gag, he said, “There’s some ore there. You can get to it by running that old tunnel straight on, maybe twenty feet.”
+
+“A good bit of it?”
+
+Otter shrugged.
+
+“Just enough to keep going on, eh?”
+
+Otter said nothing.
+
+“Suits me,” said Licky.
+
+Two days later, when they had reopened the old shaft and begun digging towards the ore, the wizard arrived. Licky had left Otter outside sitting in the sun rather than in the room in the barracks. Otter was grateful to him. He could not be wholly comfortable with his hands bound and his mouth gagged, but wind and sunlight were mighty blessings. And he could breathe deep and doze without dreams of earth stopping his mouth and nostrils, the only dreams he ever had, nights in the cell.
+
+He was half asleep, sitting on the ground in the shade by the barracks, the smell of the logs stacked by the roaster tower bringing him a memory of the work yards at home, the fragrance of new wood as the plane ran down the silky oak board. Some noise or movement roused him. He looked up and saw the wizard standing before him, looming above him.
+
+Gelluk wore fantastic clothes, as many of his kind did in those days. A long robe of Lorbanery silk, scarlet, embroidered in gold and black with runes and symbols, and a wide-brimmed, peak-crowned hat made him seem taller than a man could be. Otter did not need to see his clothes to know him. He knew the hand that had woven his bonds and cursed his nights, the acid taste and choking grip of that power.
+
+“I think I’ve found my little finder,” said Gelluk. His voice was deep and soft, like the notes of a viol. “Sleeping in the sunshine, like one whose work has been well done. So you’ve sent them digging for the Red Mother, have you? Did you know the Red Mother before you came here? Are you a courtier of the King? Here, now, there’s no need for ropes and knots.” Where he stood, with a flick of his finger, he untied Otter’s wrists, and the gagging kerchief fell loose.
+
+“I could teach you how to do that for yourself,” the wizard said, smiling, watching Otter rub and flex his aching wrists and work his lips that had been smashed against his teeth for hours. “The Hound told me that you’re a lad of promise and might go far with a proper guide. If you’d like to visit the Court of the King, I can take you there. But maybe you don’t know the King I’m talking of?”
+
+Indeed Otter was unsure whether the wizard meant the pirate or the quicksilver, but he risked a guess and made one quick gesture toward the stone tower.
+
+The wizard’s eyes narrowed and his smile broadened.
+
+“Do you know his name?”
+
+“The watermetal,” Otter said.
+
+“So the vulgar call it, or quicksilver, or the water of weight. But those who serve him call him the King, and the Allking, and the Body of the Moon.” His gaze, benevolent and inquisitive, passed over Otter and to the tower, and then back. His face was large and long, whiter than any face Otter had seen, with bluish eyes. Grey and black hairs curled here and there on his chin and cheeks. His calm, open smile showed small teeth, several of them missing. “Those who have learned to see truly can see him as he is, the lord of all substances. The root of power lies in him. Do you know what we call him in the secrecy of his palace?”
+
+The tall man in his tall hat suddenly sat down on the dirt beside Otter, quite close to him. His breath smelled earthy. His light eyes gazed directly into Otter’s eyes. “Would you like to know? You can know anything you like. I need have no secrets from you. Nor you from me,” and he laughed, not threateningly, but with pleasure. He gazed at Otter again, his large, white face smooth and thoughtful. “Powers you have, yes, all kinds of little traits and tricks. A clever lad. But not too clever; that’s good. Not too clever to learn, like some... I’ll teach you, if you like. Do you like learning? Do you like knowledge? Would you like to know the name we call the King when he’s all alone in his brightness in his courts of stone? His name is Turres. Do you know that name? It’s a word in the language of the Allking. His own name in his own language. In our base tongue we would say Semen.” He smiled again and patted Otter’s hand. “For he is the seed and fructifier. The seed and source of might and right. You’ll see. You’ll see. Come along! Come along! Let’s go see the King flying among his subjects, gathering himself from them!” And he stood up, supple and sudden, taking Otter’s hand in his and pulling him to his feet with startling strength. He was laughing with excitement.
+
+Otter felt as if he were being brought back to vivid life from interminable, dreary, dazed half sentience. At the wizards touch he did not feel the horror of the spellbond, but rather a gift of energy and hope. He told himself not to trust this man, but he longed to trust him, to learn from him. Gelluk was powerful, masterful, strange, yet he had set him free. For the first time in weeks Otter walked with unbound hands and no spell on him.
+
+“This way, this way,” Gelluk murmured. “No harm will come to you.” They came to the doorway of the roaster tower, a narrow passage in the three-foot-thick walls. He took Otter’s arm, for the young man hesitated.
+
+Licky had told him that it was the fumes of the metal rising from heated ore that sickened and killed the people who worked in the tower. Otter had never entered it nor seen Licky enter it. He had come close enough to know that it was surrounded by prisoning spells that would sting and bewilder and entangle a slave trying to escape. Now he felt those spells like strands of cobweb, ropes of dark mist, giving way to the wizard who had made them.
+
+“Breathe, breathe, breathe,” Gelluk said, laughing, and Otter tried not to hold his breath as they entered the tower.
+
+The roasting pit took up the center of a huge domed chamber. Hurrying, sticklike figures black against the blaze shoveled and reshoveled ore onto logs kept in a roaring blaze by great bellows, while others brought fresh logs and worked the bellows sleeves. From the apex of the dome a spiral of chambers rose up into the tower through smoke and fumes. In those chambers, Licky had told him, the vapor of the quicksilver was trapped and condensed, reheated and recondensed, till in the topmost vault the pure metal ran down into a stone trough or bowl-only a drop or two a day, he said, from the low-grade ores they were roasting now.
+
+“Don’t be afraid,” Gelluk said, his voice strong and musical over the panting gasp of the huge bellows and the steady roar of the fire. “Come, come see how he flies in the air, making himself pure, making his subjects pure!” He drew Otter to the edge of the roasting pit. His eyes shone in the flare and dazzle of the flames. “Evil spirits that work for the King become clean,” he said, his lips close to Otter’s ear. “As they slaver, the dross and stains flow out of them. Illness and impurities fester and run free from their sores. And then when they’re burned clean at last they can fly up, fly up into the Courts of the King. Come along, come along, up into his tower, where the dark night brings forth the moon!”
+
+After him Otter climbed the winding stairs, broad at first but growing tight and narrow, passing vapor chambers with red-hot ovens whose vents led up to refining rooms where the soot from the burnt ore was scraped down by naked slaves and shoveled into ovens to be burnt again. They came to the topmost room. Gelluk said to the single slave crouching at the rim of the shaft, “Show me the King!”
+
+The slave, short and thin, hairless, with running sores on his hands and arms, uncapped a stone cup by the rim of the condensing shaft. Gelluk peered in, eager as a child. “So tiny,” he murmured. “So young. The tiny Prince, the baby Lord, Lord Turres. Seed of the world! Soul-jewel!”
+
+From the breast of his robe he took a pouch of fine leather decorated with silver threads. With a delicate horn spoon tied to the pouch he lifted the few drops of quicksilver from the cup and placed them in it, then retied the thong.
+
+The slave stood by, motionless. All the people who worked in the heat and fumes of the roaster tower were naked or wore only breechclout and moccasins. Otter glanced again at the slave, thinking by his height he was a child, and then saw the small breasts. It was a woman. She was bald. Her joints were swollen knobs in her bone-thin limbs. She looked up once at Otter, moving her eyes only. She spat into the fire, wiped her sore mouth with her hand, and stood motionless again.
+
+“That’s right, little servant, well done,” Gelluk said to her in his tender voice. “Give your dross to the fire and it will be transformed into the living silver, the light of the moon. Is it not a wonderful thing,” he went on, drawing Otter away and back down the spiral stair, “how from what is most base comes what is most noble? That is a great principle of the art! From the vile Red Mother is born the Allking. From the spittle of a dying slave is made the silver Seed of Power.”
+
+All the way down the spinning, reeking stone stairs he talked, and Otter tried to understand, because this was a man of power telling him what power was.
+
+But when they came out into the daylight again his head kept on spinning in the dark, and after a few steps he doubled over and vomited on the ground.
+
+Gelluk watched him with his inquisitive, affectionate look, and when Otter stood up, wincing and gasping, the wizard asked gently, “Are you afraid of the King?”
+
+Otter nodded.
+
+“If you share his power he won’t harm you. To fear a power, to fight a power, is very dangerous. To love power and to share it is the royal way. Look. Watch what I do.” Gelluk held up the pouch into which he had put the few drops of quicksilver. His eye always on Otter’s eye, he unsealed the pouch, lifted it to his lips, and drank its contents. He opened his smiling mouth so that Otter could see the silver drops pooling on his tongue before he swallowed.
+
+“Now the King is in my body, the noble guest of my house. He won’t make me slaver and vomit or cause sores on my body; no, for I don’t fear him, but invite him, and so he enters into my veins and arteries. No harm comes to me. My blood runs silver. I see things unknown to other men. I share the secrets of the King. And when he leaves me, he hides in the place of ordure, in foulness itself, and yet again in the vile place he waits for me to come and take him up and cleanse him as he cleansed me, so that each time we grow purer together.” The wizard took Otter’s arm and walked along with him. He said, smiling and confidential, “I am one who shits moonlight. You will not know another such. And more than that, more than that, the King enters into my seed. He is my semen. I am Turres and he is me...”
+
+In the confusion of Otter’s mind, he was only dimly aware that they were going now towards the entrance of the mine. They went underground. The passages of the mine were a dark maze like the wizard’s words. Otter stumbled on, trying to understand. He saw the slave in the tower, the woman who had looked at him. He saw her eyes.
+
+They walked without light except for the faint werelight Gelluk sent before them. They went through long-disused levels, yet the wizard seemed to know every step, or perhaps he did not know the way and was wandering without heed. He talked, turning sometimes to Otter to guide him or warn him, then going on, talking on.
+
+They came to where the miners were extending the old tunnel. There the wizard spoke with Licky in the flare of candles among jagged shadows. He touched the earth of the tunnel’s end, took clods of earth in his hands, rolled the dirt in his palms, kneading, testing, tasting it. For that time he was silent, and Otter watched him with staring intensity, still trying to understand.
+
+Licky came back to the barracks with them. Gelluk bade Otter goodnight in his soft voice. Licky shut him as usual into the brick-walled room, giving him a loaf of bread, an onion, a jug of water.
+
+Otter crouched as always in the uneasy oppression of the spellbond. He drank thirstily. The sharp earthy taste of the onion was good, and he ate it all.
+
+As the dim light that came into the room from chinks in the mortar of the bricked-up window died away, instead of sinking into the blank misery of all his nights in that room, he stayed awake, and grew more awake. The excited turmoil of his mind all the time he had been with Gelluk slowly quieted. From it something rose, coming close, coming clear, the image he had seen down in the mine, shadowy yet distinct: the slave in the high vault of the tower, that woman with empty breasts and festered eyes, who spat the spittle that ran from her poisoned mouth, and wiped her mouth, and stood waiting to die. She had looked at him.
+
+He saw her now more clearly than he had seen her in the tower. He saw her more clearly than he had ever seen anyone. He saw the thin arms, the swollen joints of elbow and wrist, the childish nape of her neck. It was as if she was with him in the room. It was as if she was in him, as if she was him. She looked at him. He saw her look at him. He saw himself through her eyes.
+
+He saw the lines of the spells that held him, heavy cords of darkness, a tangled maze of lines all about him. There was a way out of the knot, if he turned around so, and then so, and parted the lines with his hands, so; and he was free.
+
+He could not see the woman any more. He was alone in the room, standing free.
+
+All the thoughts he had not been able to think for days and weeks were racing through his head, a storm of ideas and feelings, a passion of rage, vengeance, pity, pride.
+
+At first he was overwhelmed with fierce fantasies of power and revenge: he would free the slaves, he would spellbind Gelluk and hurl him into the refining fire, he would bind him and blind him and leave him to breathe the fumes of quicksilver in that highest vault till he died... But when his thoughts settled down and began to run clearer, he knew that he could not defeat a wizard of great craft and power, even if that wizard was mad. If he had any hope it was to play on his madness, and lead the wizard to defeat himself.
+
+He pondered. All the time he was with Gelluk, he had tried to learn from him, tried to understand what the wizard was telling him. Yet he was certain, now, that Gelluk’s ideas, the teaching he so eagerly imparted, had nothing to do with his power or with any true power. Mining and refining were indeed great crafts with their own mysteries and masteries, but Gelluk seemed to know nothing of those arts. His talk of the Allking and the Red Mother was mere words. And not the right words. But how did Otter know that?
+
+In all his flood of talk the only word Gelluk had spoken in the Old Tongue, the language of which wizards’ spells were made, was the word turres. He had said it meant semen. Otter’s own gift of magery had recognized that meaning as the true one. Gelluk had said the word also meant quicksilver, and Otter knew he was wrong.
+
+His humble teachers had taught him all the words they knew of the Language of the Making. Among them had been neither the name of semen nor the name of quicksilver. But his lips parted, his tongue moved. “Ayezur” he said.
+
+His voice was the voice of the slave in the stone tower. It was she who knew the true name of quicksilver and spoke it through him.
+
+Then for a while he held still, body and mind, beginning to understand for the first time where his power lay.
+
+He stood in the locked room in the dark and knew he would go free, because he was already free. A storm of praise ran through him.
+
+After a while, deliberately, he re-entered the trap of spell-bonds, went back to his old place, sat down on the pallet, and went on thinking. The prisoning spell was still there, yet it had no power over him now. He could walk into it and out of it as if it were mere lines painted on the floor. Gratitude for this freedom beat in him as steady as his heartbeat.
+
+He thought what he must do, and how he must do it. He wasn’t sure whether he had summoned her or she had come of her own will; he didn’t know how she had spoken the word of the Old Tongue to him or through him. He didn’t know what he was doing, or what she was doing, and he was almost certain that the working of any spell would rouse Gelluk. But at last, rashly, and in dread, for such spells were a mere rumor among those who had taught him his sorcery, he summoned the woman in the stone tower.
+
+He brought her into his mind and saw her as he had seen her, there, in that room, and called out to her; and she came.
+
+Her apparition stood again just outside the spiderweb cords of the spell, gazing at him, and seeing him, for a soft, bluish, sourceless light filled the room. Her sore, raw lips quivered but she did not speak.
+
+He spoke, giving her his true name: “I am Medra.”
+
+“I am Anieb,” she whispered.
+
+“How can we get free?”
+
+“His name.”
+
+“Even if I knew it... When I’m with him I can’t speak.”
+
+“If I was with you, I could use it.”
+
+“I can’t call you.”
+
+“But I can come,” she said.
+
+She looked round, and he looked up. Both knew that Gelluk had sensed something, had wakened. Otter felt the bonds close and tighten, and the old shadow fall.
+
+“I will come, Medra,” she said. She held out her thin hand in a fist, then opened it palm up as if offering him something. Then she was gone.
+
+The light went with her. He was alone in the dark. The cold grip of the spells took him by the throat and choked him, bound his hands, pressed on his lungs. He crouched, gasping. He could not think; he could not remember. “Stay with me,” he said, and did not know who he spoke to. He was frightened, and did not know what he was frightened of. The wizard, the power, the spell... It was all darkness. But in his body, not in his mind, burned a knowledge he could not name any more, a certainty that was like a tiny lamp held in his hands in a maze of caverns underground. He kept his eyes on that seed of light.
+
+Weary, evil dreams of suffocation came to him, but took no hold on him. He breathed deep. He slept at last. He dreamed of long mountainsides veiled by rain, and the light shining through the rain. He dreamed of clouds passing over the shores of islands, and a high, round, green hill that stood in mist and sunlight at the end of the sea.
+
+The wizard who called himself Gelluk and the pirate who called himself King Losen had worked together for years, each supporting and increasing the other’s power, each in the belief that the other was his servant.
+
+Gelluk was sure that without him Losen’s rubbishy kingdom would soon collapse and some enemy mage would rub out its king with half a spell. But he let Losen act the master. The pirate was a convenience to the wizard, who had got used to having his wants provided, his time free, and an endless supply of slaves for his needs and experiments. It was easy to keep up the protections he had laid on Losen’s person and expeditions and forays, the prisoning spells he had laid on the places slaves worked or treasures were kept. Making those spells had been a different matter, a long hard work. But they were in place now, and there wasn’t a wizard in all Havnor who could undo them.
+
+Gelluk had never met a man he feared. A few wizards had crossed his path strong enough to make him wary of them, but he had never known one with skill and power equal to his own.
+
+Of late, entering always deeper into the mysteries of a certain lore-book brought back from the Isle of Way by one of Losen’s raiders, Gelluk had become indifferent to most of the arts he had learned or had discovered for himself. The book convinced him that all of them were only shadows or hints of a greater mastery. As one true element controlled all substances, one true knowledge contained all others. Approaching ever closer to that mastery, he understood that the crafts of wizards were as crude and false as Losen’s title and rule. When he was one with the true element, he would be the one true king. Alone among men he would speak the words of making and unmaking. He would have dragons for his dogs.
+
+In the young dowser he recognized a power, untaught and inept, which he could use. He needed much more quicksilver than he had, therefore he needed a finder. Finding was a base skill. Gelluk had never practiced it, but he could see that the young fellow had the gift. He would do well to learn the boy’s true name so that he could be sure of controlling him. He sighed at the thought of the time he must waste teaching the boy what he was good for. And after that the ore must still be dug out of the earth and the metal refined. As always, Gelluk’s mind leapt across obstacles and delays to the wonderful mysteries at the end of them.
+
+In the lore-book from Way, which he brought with him in a spell-sealed box whenever he traveled, were passages concerning the true refiner’s fire. Having long studied these, Gelluk knew that once he had enough of the pure metal, the next stage was to refine it yet further into the Body of the Moon. He had understood the disguised language of the book to mean that in order to purify pure quicksilver, the fire must be built not of mere wood but of human corpses. Rereading and pondering the words this night in his room in the barracks, he discerned another possible meaning in them. There was always another meaning in the words of this lore. Perhaps the book was saying that there must be sacrifice not only of base flesh but also of inferior spirit. The great fire in the tower should burn not dead bodies but living ones. Living and conscious. Purity from foulness: bliss from pain. It was all part of the great principle, perfectly clear once seen. He was sure he was right, had at last understood the technique. But he must not hurry, he must be patient, must make certain. He turned to another passage and compared the two, and brooded over the book late into the night. Once for a moment something drew his mind away, some invasion of the outskirts of his awareness; the boy was trying some trick or other. Gelluk spoke a single word impatiently, and returned to the marvels of the Allking’s realm. He never noticed that his prisoner’s dreams had escaped him.
+
+Next day he had Licky send him the boy. He looked forward to seeing him, to being kind to him, teaching him, petting him a bit as he had done yesterday. He sat down with him in the sun. Gelluk was fond of children and animals. He liked all beautiful things. It was pleasant to have a young creature about. Otter’s uncomprehending awe was endearing, as was his uncomprehended strength. Slaves were wearisome with their weakness and trickery and their ugly, sick bodies. Of course Otter was his slave, but the boy need not know it. They could be teacher and prentice. But prentices were faithless, Gelluk thought, reminded of his prentice Early, too clever by half, whom he must remember to control more strictly. Father and son, that’s what he and Otter could be. He would have the boy call him Father. He recalled that he had intended to find out his true name. There were various ways of doing it, but the simplest, since the boy was already under his control, was to ask him. “What is your name?” he said, watching Otter intently.
+
+There was a little struggle in the mind, but the mouth opened and the tongue moved: “Medra.”
+
+“Very good, very good, Medra,” said the wizard. “You may call me Father.”
+
+“You must find the Red Mother,” he said, the day after that. They were sitting side by side again outside the barracks. The autumn sun was warm. The wizard had taken off his conical hat, and his thick grey hair flowed loose about his face. “I know you found that little patch for them to dig, but there’s no more in that than a few drops. It’s scarcely worth burning for so little. If you are to help me, and if I am to teach you, you must try a little harder. I think you know how.” He smiled at Otter. “Don’t you?”
+
+Otter nodded.
+
+He was still shaken, appalled, by the ease with which Gelluk had forced him to say his name, which gave the wizard immediate and ultimate power over him. Now he had no hope of resisting Gelluk in any way. That night he had been in utter despair. But then Anieb had come into his mind: come of her own will, by her own means. He could not summon her, could not even think of her, and would not have dared to do so, since Gelluk knew his name. But she came, even when he was with the wizard, not in apparition but as a presence in his mind.
+
+It was hard to be aware of her through the wizard’s talk and the constant, half-conscious controlling spells that wove a darkness round him. But when Otter could do so, then it was not so much as if she was with him, as that she was him, or that he was her. He saw through her eyes. Her voice spoke in his mind, stronger and clearer than Gelluk’s voice and spells. Through her eyes and mind he could see, and think. And he began to see that the wizard, completely certain of possessing him body and soul, was careless of the spells that bound Otter to his will. A bond is a connection. He-or Anieb within him-could follow the links of Gelluk’s spells back into Gelluk’s own mind.
+
+Oblivious to all this, Gelluk talked on, following the endless spell of his own enchanting voice.
+
+“You must find the true womb, the bellybag of the Earth, that holds the pure moonseed. Did you know that the Moon is the Earth’s father? Yes, yes; and he lay with her, as is the father’s right. He quickened her base clay with the true seed. But she will not give birth to the King. She is strong in her fear and willful in her vileness. She holds him back and hides him deep, fearing to give birth to her master. That is why, to give him birth, she must be burned alive.”
+
+Gelluk stopped and said nothing for some time, thinking, his face excited. Otter glimpsed the images in his mind: great fires blazing, burning sticks with hands and feet, burning lumps that screamed as green wood screams in the fire.
+
+“Yes,” Gelluk said, his deep voice soft and dreamy, “she must be burned alive. And then, only then, he will spring forth, shining!
+
+Oh, it’s time, and past time. We must deliver the King. We must find the great lode. It is here; there is no doubt of that: ‘The womb of the Mother lies under Samory.””
+
+Again he paused. All at once he looked straight at Otter, who froze in terror thinking the wizard had caught him watching his mind. Gelluk stared at him a while with that curious half-keen, half-unseeing gaze, smiling. “Little Medra!” he said, as if just discovering he was there. He patted Otter’s shoulder. “I know you have the gift of finding what’s hidden. Quite a great gift, were it suitably trained. Have no fear, my son. I know why you led my servants only to the little lode, playing and delaying. But now that I’ve come, you serve me, and have nothing to be afraid of. And there’s no use trying to conceal anything from me, is there? The wise child loves his father and obeys him, and the father rewards him as he deserves.” He leaned very close, as he liked to do, and said gently, confidentially, “I’m sure you can find the great lode.”
+
+“I know where it is,” Anieb said.
+
+Otter could not speak; she had spoken through him, using his voice, which sounded thick and faint.
+
+Very few people ever spoke to Gelluk unless he compelled them to. The spells by which he silenced, weakened, and controlled all who approached him were so habitual to him that he gave them no thought. He was used to being listened to, not to listening. Serene in his strength and obsessed with his ideas, he had no thought beyond them. He was not aware of Otter at all except as a part of his plans, an extension of himself. “Yes, yes, you will,” he said, and smiled again.
+
+But Otter was intensely aware of Gelluk, both physically and as a presence of immense controlling power; and it seemed to him that Anieb’s speaking had taken away that much of Gelluk’s power over him, gaining him a place to stand, a foothold. Even with Gelluk so close to him, fearfully close, he managed to speak.
+
+“I will take you there,” he said, stiffly, laboriously.
+
+Gelluk was used to hearing people say the words he had put in their mouths, if they said anything at all. These were words he wanted but had not expected to hear. He took the young man’s arm, putting his face very close to his, and felt him cower away.
+
+“How clever you are,” he said. “Have you found better ore than that patch you found first? Worth the digging and the roasting?”
+
+“It is the lode,” the young man said.
+
+The slow stiff words carried great weight.
+
+“The great lode?” Gelluk looked straight at him, their faces not a hand’s breadth apart. The light in his bluish eyes was like the soft, crazy shift of quicksilver. “The womb?”
+
+“Only the Master can go there.”
+
+“What Master?”
+
+“The Master of the House. The King.”
+
+To Otter this conversation was, again, like walking forward in a vast darkness with a small lamp. Anieb’s understanding was that lamp. Each step revealed the next step he must take, but he could never see the place where he was. He did not know what was coming next, and did not understand what he saw. But he saw it, and went forward, word by word.
+
+“How do you know of that House?”
+
+“I saw it.”
+
+“Where? Near here?”
+
+Otter nodded.
+
+“Is it in the earth?”
+
+Tell him what he sees, Anieb whispered in Otter’s mind, and he spoke: “A stream runs through darkness over a glittering roof. Under the roof is the House of the King. The roof stands high above the floor, on high pillars. The floor is red. All the pillars are red. On them are shining runes.”
+
+Gelluk caught his breath. Presently he said, very softly, “Can you read the runes?”
+
+“I cannot read them.” Otter’s voice was toneless. “I cannot go there. No one can enter there in the body but only the King. Only he can read what is written.”
+
+Gelluk’s white face had gone whiter; his jaw trembled a little. He stood up, suddenly, as he always did. “Take me there,” he said, trying to control himself, but so violently compelling Otter to get up and walk that the young man lurched to his feet and stumbled several steps, almost falling. Then he walked forward, stiff and awkward, trying not to resist the coercive, passionate will that hurried his steps.
+
+Gelluk pressed close beside him, often taking his arm. “This way,” he said several times. “Yes, yes! This is the way.” Yet he was following Otter. His touch and his spells pushed him, rushed him, but in the direction Otter chose to go.
+
+They walked past the roaster tower, past the old shaft and the new one, on into the long valley where Otter had taken Licky the first day he was there. It was late autumn now. The shrubs and scrubby grass that had been green that day were dun and dry, and the wind rattled the last leaves on the bushes. To their left a little stream ran low among willow thickets. Mild sunlight and long shadows streaked the hillsides.
+
+Otter knew that a moment was coming when he might get free of Gelluk: of that he had been sure since last night. He knew also that in that same moment he might defeat Gelluk, disempower him, if the wizard, driven by his visions, forgot to guard himself-and if Otter could learn his name.
+
+The wizard’s spells still bound their minds together. Otter pressed rashly forward into Gelluk’s mind, seeking his true name. But he did not know where to look or how to look. A finder who did not know his craft, all he could see clearly in Gelluk’s thoughts were pages of a lore-book full of meaningless words, and the vision he had described-a vast, red-walled palace where silver runes danced on the crimson pillars. But Otter could not read the book or the runes. He had never learned to read.
+
+All this time he and Gelluk were going on farther from the tower, away from Anieb, whose presence sometimes weakened and faded. Otter dared not try to summon her.
+
+Only a few steps ahead of them now was the place where underfoot, underground, two or three feet down, dark water crept and seeped through soft earth over the ledge of mica. Under that opened the hollow cavern and the lode of cinnabar.
+
+Gelluk was almost wholly absorbed in his own vision, but since Otter’s mind and his were connected, he saw something of what Otter saw. He stopped, gripping Otter’s arm. His hand shook with eagerness.
+
+Otter pointed at the low slope that rose before them. “The King’s House is there,” he said. Gelluk’s attention turned entirely away from him then, fixed on the hillside and the vision he saw within it. Then Otter could call to Anieb. At once she came into his mind and being, and was there with him.
+
+Gelluk was standing still, but his shaking hands were clenched, his whole tall body twitching and trembling, like a hound that wants to chase but cannot find the scent. He was at a loss. There was the hillside with its grass and bushes in the last of the sunlight, but there was no entrance. Grass growing out of gravelly dirt; the seamless earth.
+
+Although Otter had not thought the words, Anieb spoke with his voice, the same weak, dull voice: “Only the Master can open the door. Only the King has the key.”
+
+“The key,” Gelluk said.
+
+Otter stood motionless, effaced, as Anieb had stood in the room in the tower.
+
+“The key,” Gelluk repeated, urgent.
+
+“The key is the King’s name.”
+
+That was a leap in the darkness. Which of them had said it?
+
+Gelluk stood tense and trembling, still at a loss. “Turres,” he said, after a time, almost in a whisper.
+
+The wind blew in the dry grass.
+
+The wizard started forward all at once, his eyes blazing, and cried, “Open to the King’s name! I am Tinaral!” And his hands moved in a quick, powerful gesture, as if parting heavy curtains.
+
+The hillside in front of him trembled, writhed, and opened. A gash in it deepened, widened. Water sprang up out of it and ran across the wizard’s feet.
+
+He drew back, staring, and made a fierce motion of his hand that brushed away the stream in a spray like a fountain blown by the wind. The gash in the earth grew deeper, revealing the ledge of mica. With a sharp rending crack the glittering stone split apart. Under it was darkness.
+
+The wizard stepped forward. “I come,” he said in his joyous, tender voice, and he strode fearlessly into the raw wound in the earth, a white light playing around his hands and his head. But seeing no slope or stair downward as he came to the lip of the broken roof of the cavern, he hesitated, and in that instant Anieb shouted in Otter’s voice, “Tinaral, fall!”
+
+Staggering wildly the wizard tried to turn, lost his footing on the crumbling edge, and plunged down into the dark, his scarlet cloak billowing up, the werelight round him like a falling star.
+
+“Close!” Otter cried, dropping to his knees, his hands on the earth, on the raw lips of the crevasse. “Close, Mother! Be healed, be whole!” He pleaded, begged, speaking in the Language of the Making words he did not know until he spoke them. “Mother, be whole!” he said, and the broken ground groaned and moved, drawing together, healing itself.
+
+A reddish seam remained, a scar through the dirt and gravel and uprooted grass.
+
+The wind rattled the dry leaves on the scrub-oak bushes. The sun was behind the hill, and clouds were coming over in a low, grey mass.
+
+Otter crouched there at the foot of the hillslope, alone.
+
+The clouds darkened. Rain passed through the little valley, falling on the dirt and the grass. Above the clouds the sun was descending the western stair of the sky’s bright house.
+
+Otter sat up at last. He was wet, cold, bewildered. Why was he here?
+
+He had lost something and had to find it. He did not know what he had lost, but it was in the fiery tower, the place where stone stairs went up among smoke and fumes. He had to go there. He got to his feet and shuffled, lame and unsteady, back down the valley.
+
+He had no thought of hiding or protecting himself. Luckily for him there were no guards about; there were few guards, and they were not on the alert, since the wizard’s spells had kept the prison shut. The spells were gone, but the people in the tower did not know it, working on under the greater spell of hopelessness.
+
+Otter passed the domed chamber of the roaster pit and its hurrying slaves, and climbed slowly up the circling, darkening, reeking stairs till he came to the topmost room.
+
+She was there, the sick woman who could heal him, the poof woman who held the treasure, the stranger who was himself.
+
+He stood silent in the doorway. She sat on the stone floor near the crucible, her thin body grayish and dark like the stones. Her chin and breasts were shiny with the spittle that ran from her mouth. He thought of the spring of water that had run from the broken earth.
+
+“Medra,” she said. Her sore mouth could not speak clearly. He knelt down and took her hands, looking into her face.
+
+“Anieb,” he whispered, “conic with me”
+
+“I want to go home,” she said.
+
+He helped her stand. He made no spell to protect or hide them. His strength had been used up. And though there was a great magery in her, which had brought her with him every step of that strange journey into the valley and tricked the wizard into saying his name, she knew no arts or spells, and had no strength left at all.
+
+Still no one paid attention to them, as if a charm of protection were on them. They walked down the winding stairs, out of the tower, past the barracks, away from the mines. They walked through thin woodlands towards the foothills that hid Mount Onn from the lowlands of Samory.
+
+Anieb kept a better pace than seemed possible in a woman so famished and destroyed, walking almost naked in the chill of the rain. All her will was aimed on walking forward; she had nothing else in her mind, not him, not anything. But she was there bodily with him, and he felt her presence as keenly and strangely as when she had come to his summoning. The rain ran down her naked head and body. He made her stop to put on his shirt. He was ashamed of it, for it was filthy, he having worn it all these weeks. She let him pull it over her head and then walked right on. She could not go quickly, but she went steadily, her eyes fixed on the faint cart track they followed, till the night came early under the rain clouds, and they could not see where to set their feet.
+
+“Make the light,” she said. Her voice was a whimper, plaintive. “Can’t you make the light?”
+
+“I don’t know,” he said, but he tried to bring the werelight round them, and after a while the ground glimmered faintly before their feet.
+
+“We should find shelter and rest,” he said.
+
+“I can’t stop,” she said, and started to walk again.
+
+“You can’t walk all night.”
+
+“If I lie down I won’t get up. I want to see the Mountain.”
+
+Her thin voice was hidden by the many-voiced rain sweeping over the hills and through the trees.
+
+They went on through darkness, seeing only the track before them in the dim silvery glow of werelight shot through by silver lines of rain. When she stumbled he caught her arm. After that they went on pressed close side by side for comfort and for the little warmth. They walked slower, and yet slower, but they walked on. There was no sound but the sound of the rain falling from the black sky, and the little kissing squelch of their sodden feet in the mud and wet grass of the track.
+
+“Look,” she said, halting. “Medra, look.”
+
+He had been walking almost asleep. The pallor of the werelight had faded, drowned in a fainter, vaster clarity. Sky and earth were all one grey, but before them and above them, very high, over a drift of cloud, the long ridge of the mountain glimmered red.
+
+“There,” Anieb said. She pointed at the mountain and smiled. She looked at her companion, then slowly down at the ground. She sank down kneeling. He knelt with her, tried to support her, but she slid down in his arms. He tried to keep her head at least from the mud of the track. Her limbs and face twitched, her teeth chattered. He held her close against him, trying to warm her.
+
+“The women,” she whispered, “the hand. Ask them. In the village. I did see the Mountain.”
+
+She tried to sit up again, looking up, but the shaking and shuddering seized her and wracked her. She began to gasp for breath. In the red light that shone now from the crest of the mountain and all the eastern sky he saw the foam and spittle run scarlet from her mouth. Sometimes she clutched at him, but she did not speak again. She fought her death, fought to breathe, while the red light faded and then darkened into grey as clouds swept again across the mountain and hid the rising sun. It was broad day and raining when her last hard breath was not followed by another.
+
+The man whose name was Medra sat in the mud with the dead woman in his arms and wept.
+
+A carter walking at his mule’s head with a load of oakwood came upon them and took them both to Woodedge. He could not make the young man let go of the dead woman. Weak and shaky as he was, he would not set his burden down on the load, but clambered into the cart holding her, and held her all the miles to Woodedge. All he said was “She saved me,” and the carter asked no questions.
+
+“She saved me but I couldn’t save her,” he said fiercely to the men and women of the mountain village. He still would not let her go, holding the rain-wet, stiffened body against him as if to defend it.
+
+Very slowly they made him understand that one of the women was Anieb’s mother, and that he should give Anieb to her to hold. He did so at last, watching to see if she was gentle with his friend and would protect her. Then he followed another woman meekly enough. He put on dry clothing she gave him to put on, and ate a little food she gave him to eat, and lay down on the pallet she led him to, and sobbed in weariness, and slept.
+
+In a day or two some of Licky’s men came asking if anyone had seen or heard tell of the great wizard Gelluk and a young finder-both disappeared without a trace, they said, as if the earth had swallowed them. Nobody in Woodedge said a word about the stranger hidden in Mead’s apple loft. They kept him safe. Maybe that is why the people there now call their village not Woodedge, as it used to be, but Otterhide.
+
+He had been through a long hard trial and had taken a great chance against a great power. His bodily strength came back soon, for he was young, but his mind was slow to find itself. He had lost something, lost it forever, lost it as he found it.
+
+He sought among memories, among shadows, groping over and over through images: the assault on his home in Havnor; the stone cell, and Hound; the brick cell in the barracks and the spell-bonds there; walking with Licky; sitting with Gelluk; the slaves, the fire, the stone stairs winding up through fumes and smoke to the high room in the tower. He had to regain it all, to go through it all, searching. Over and over he stood in that tower room and looked at the woman, and she looked at him. Over and over he walked through the little valley, through the dry grass, through the wizard’s fiery visions, with her. Over and over he saw the wizard fall, saw the earth close. He saw the red ridge of the mountain in the dawn. Anieb died while he held her, her ruined face against his arm. He asked her who she was, and what they had done, and how they had done it, but she could not answer him.
+
+Her mother Ayo and her mothers sister Mead were wise women. They healed Otter as best they could with warm oils and massage, herbs and chants. They talked to him and listened when he talked. Neither of them had any doubt but that he was a man of great power. He denied this. “I could have done nothing without your daughter,” he said.
+
+“What did she do?” Ayo asked, softly.
+
+He told her, as well as he could. “We were strangers. Yet she gave me her name,” he said. “And I gave her mine.” He spoke haltingly, with long pauses. “It was I that walked with the wizard, compelled by him, but she was with me, and she was free. And so together we could turn his power against him, so that he destroyed himself.” He thought tor a long time, and said, “She gave me her power.”
+
+“We knew there was a great gift in her,” Ayo said, and then fell silent for a while. “We didn’t know how to teach her. There are no teachers left on the mountain. King Losen’s wizards destroy the sorcerers and witches. There’s no one to turn to.”
+
+“Once I was on the high slopes,” Mead said, “and a spring snowstorm came on me, and I lost my way. She came there. She came to me, not in the body, and guided me to the track. She was only twelve then.”
+
+“She walked with the dead, sometimes,” Ayo said very low. “In the forest, down towards Faliern. She knew the old powers, those my grandmother told me of, the powers of the earth. They were strong there, she said.”
+
+“But she was only a girl like the others, too,” Mead said, and hid her face. “A good girl,” she whispered.
+
+After a while Ayo said, “She went down to Firn with some of the young folk. To buy fleece from the shepherds there. A year ago last spring. That wizard they spoke of came there, casting spells. Taking slaves.”
+
+Then they were all silent.
+
+Ayo and Mead were much alike, and Otter saw in them what Anieb might have been: a short, slight, quick woman, with a round face and clear eyes, and a mass of dark hair, not straight like most people’s hair but curly, frizzy. Many people in the west of Havnor had hair like that.
+
+But Anieb had been bald, like all the slaves in the roaster tower.
+
+Her use-name had been Flag, the blue iris of the springs. Her mother and aunt called her Flag when they spoke of her.
+
+“Whatever I am, whatever I can do, it’s not enough,” he said.
+
+“It’s never enough,” Mead said. “And what can anyone do alone?”
+
+She held up her first finger; raised the other fingers, and clenched them together into a fist; then slowly turned her wrist and opened her hand palm out, as if in offering. He had seen Anieb make that gesture. It was not a spell, he thought, watching intently, but a sign. Ayo was watching him.
+
+“It is a secret,” she said.
+
+“Can I know the secret?” he asked after a while.
+
+“You already know it. You gave it to Flag. She gave it to you. Trust.”
+
+“Trust,” the young man said. “Yes. But against- Against them?- Gelluk’s gone. Maybe Losen will fall now. Will it make any difference? Will the slaves go free? Will beggars eat? Will justice be done? I think there’s an evil in us, in humankind. Trust denies it. Leaps across it. Leaps the chasm. But it’s there. And everything we do finally serves evil, because that’s what we are. Greed and cruelty. I look at the world, at the forests and the mountain here, the sky, and it’s all right, as it should be. But we aren’t. People aren’t. We’re wrong. We do wrong. No animal does wrong. How could they? But we can, and we do. And we never stop.”
+
+They listened to him, not agreeing, not denying, but accepting his despair. His words went into their listening silence, and rested there for days, and came back to him changed.
+
+“We can’t do anything without each other,” he said. “But it’s the greedy ones, the cruel ones who hold together and strengthen each other. And those who won’t join them stand each alone.” The image of Anieb as he had first seen her, a dying woman standing alone in the tower room, was always with him. “Real power goes to waste. Every wizard uses his arts against the others, serving the men of greed. What good can any art be used that way? It’s wasted. It goes wrong, or it’s thrown away. Like slaves’ lives. Nobody can be free alone. Not even a mage. All of them working their magic in prison cells, to gain nothing. There’s no way to use power for good.”
+
+Ayo closed her hand and opened it palm up, a fleeting sketch of a gesture, of a sign.
+
+A man came up the mountain to Woodedge, a charcoal burner from Firn. “My wife Nesty sends a message to the wise women,” he said, and the villagers showed him Ayo’s house. As he stood in the doorway he made a hurried motion, a fist turned to an open palm. “Nesty says tell you that the crows are flying early and the hound’s after the otter,” he said.
+
+Otter, sitting by the fire shelling walnuts, held still. Mead thanked the messenger and brought him in for a cup of water and a handful of shelled nuts. She and Ayo chatted with him about his wife. When he had gone she turned to Otter.
+
+“The Hound serves Losen,” he said. “I’ll go today.”
+
+Mead looked at her sister. “Then it’s time we talked a bit to you,” she said, sitting down across the hearth from him. Ayo stood by the table, silent. A good fire burned in the hearth. It was a wet, cold time, and firewood was one thing they had plenty of, here on the mountain.
+
+“There’s people all over these parts, and maybe beyond, who think, as you said, that nobody can be wise alone. So these people try to hold to each other. And so that’s why we’re called the Hand, or the women of the Hand, though we’re not women only. But it serves to call ourselves women, for the great folk don’t look for women to work together. Or to have thoughts about such things as rule or misrule. Or to have any powers.”
+
+“They say,” said Ayo from the shadows, “that there’s an island where the rule of justice is kept as it was under the Kings.
+
+Morred s Isle, they call it. But it’s not Enlad of the Kings, nor Ea. It’s south, not north of Havnor, they say. There they say the women of the Hand have kept the old arts. And they teach them, not keeping them secret each to himself, as the wizards do.”
+
+“Maybe with such teaching you could teach the wizards a lesson,” Mead said.
+
+“Maybe you can find that island,” said Ayo.
+
+Otter looked from one to the other. Clearly they had told him their own greatest secret and their hope.
+
+“Morred’s Isle,” he said.
+
+“That would be only what the women of the Hand call it, keeping its meaning from the wizards and the pirates. To them no doubt it would bear some other name.”
+
+“It would be a terrible long way,” said Mead.
+
+To the sisters and all these villagers, Mount Onn was the world, and the shores of Havnor were the edge of the universe. Beyond that was only rumor and dream.
+
+“You’ll come to the sea, going south, they say,” said Ayo.
+
+“He knows that, sister,” Mead told her. “Didn’t he tell us he was a ship carpenter? But it’s a terrible long way down to the sea, surely. With this wizard on your scent, how are you to go there?”
+
+“By the grace of water, that carries no scent,” Otter said, standing up. A litter of walnut shells fell from his lap, and he took the hearth broom and swept them into the ashes. “I’d better go.”
+
+“There’s bread,” Ayo said, and Mead hurried to pack hard bread and hard cheese and walnuts into a pouch made of a sheep’s stomach. They were very poor people. They gave him what they had. So Anieb had done.
+
+“My mother was born in Endlane, round by Faliern Forest,” Otter said. “Do you know that town? She’s called Rose, Rowan’s daughter.”
+
+“The carters go down to Endlane, summers.”
+
+“If somebody could talk to her people there, they’d get word to her. Her brother, Littleash, used to conic to the city every year or two.”
+
+They nodded.
+
+“If she knew I was alive,” he said.
+
+Anieb’s mother nodded. “She’ll hear it.”
+
+“Go on now,” said Mead.
+
+“Go with the water,” said Ayo.
+
+He embraced them, and they him, and he left the house.
+
+He ran down from the straggle of huts to the quick, noisy stream he had heard singing through his sleep all his nights in Woodedge. He prayed to it. “Take me and save me,” he asked it. He made the spell the old Changer had taught him long ago, and said the word of transformation. Then no man knelt by the loud-running water, but an otter slipped into it and was gone.
+
+III. Tern
+
+
+
+There was a wise man on our Hill
+
+Who found his way to work his will.
+
+He changed his shape, he changed his name,
+
+But ever the other will be the same.
+
+So runs the water away, away,
+
+So runs the water away.
+
+
+
+ONE WINTER AFTERNOON on the shore of the Onneva River where it fingers out into the north bight of the Great Bay of Havnor, a man stood up on the muddy sand: a man poorly dressed and poorly shod, a thin brown man with dark eyes and hair so fine and thick it shed the rain. It was raining on the low beaches of the river mouth, the fine, cold, dismal drizzle of that grey winter. His clothes were soaked. He hunched his shoulders, turned about, and set off towards a wisp of chimney smoke he saw far down the shore. Behind him were the tracks of an otter’s four feet coming up from the water and the tracks of a man’s two feet going away from it.
+
+Where he went then, the songs don’t tell. They say only that he wandered, “he wandered long from land to land.” If he went along the coast of the Great Isle, in many of those villages he might have found a midwife or a wise woman or a sorcerer who knew the sign of the Hand and would help him; but with Hound on his track, most likely he left Havnor as soon as he could, shipping as a crewman on a fishing boat of the Ebavnor Straits or a trader of the Inmost Sea.
+
+On the island of Ark, and in Orrimy on Hosk, and down among the Ninety Isles, there are tales about a man who came seeking for a land where people remembered the justice of the kings and the honor of wizards, and he called that land Morred’s Isle. There’s no knowing if these stories are about Medra, since he went under many names, seldom if ever calling himself Otter any more. Gelluk’s fall had not brought Losen down. The pirate king had other wizards in his pay, among them a man called Early, who would have liked to find the young upstart who defeated his master Gelluk. And Early had a good chance of tracing him. Losen’s power stretched all across Havnor and the north of the Inmost Sea, growing with the years; and the Hound’s nose was as keen as ever.
+
+Maybe it was to escape the hunt that Medra came to Pendor, a long way west of the Inmost Sea, or maybe some rumor among the women of the Hand on Hosk sent him there. Pendor was a rich island, then, before the dragon Yevaud despoiled it. Wherever Medra had gone until then, he had found the lands like Havnor or worse, sunk in warfare, raids, and piracy, the fields full of weeds, the towns full of thieves. Maybe he thought, at first, that on Pendor he had found Morred’s Isle, for the city was beautiful and peaceful and the people prosperous.
+
+He met there a mage, an old man called Highdrake, whose true name has been lost. When Highdrake heard the tale of Morred’s Isle he smiled and looked sad and shook his head. “Not here,” he said. “Not this. The Lords of Pendor are good men. They remember the kings. They don’t seek war or plunder. But they send their sons west dragon hunting. In sport. As if the dragons of the West Reach were ducks or geese for the killing! No good will come of that.”
+
+Highdrake took Medra as his student, gratefully. “I was taught my art by a mage who gave me freely all he knew, but I never found anybody to give that knowledge to, until you came,” he told Medra. “The young men come to me and they say, “What good is it? Can you find gold?” they say. “Can you teach me how to make stones into diamonds? Can you give me a sword that will kill a dragon? What’s the use of talking about the balance of things? There’s no profit in it,” they say. No profit!” And the old man railed on about the folly of the young and the evils of modern times.
+
+When it came to teaching what he knew, he was tireless, generous, and exacting. For the first time, Medra was given a vision of magic not as a set of strange gifts and reasonless acts, but as an art and a craft, which could be known truly with long study and used rightly after long practice, though even then it would never lose its strangeness. Highdrake’s mastery of spells and sorcery was not much greater than his pupil’s, but he had clear in his mind the idea of something very much greater, the wholeness of knowledge. And that made him a mage.
+
+Listening to him, Medra thought of how he and Anieb had walked in the dark and rain by the faint glimmer that showed them only the next step they could take, and of how they had looked up to the red ridge of the mountain in the dawn.
+
+“Every spell depends on every other spell,” said Highdrake. “Every motion of a single leaf moves every leaf of every tree on every isle of Earthsea! There is a pattern. That’s what you must look for and look to. Nothing goes right but as part of the pattern. Only in it is freedom.”
+
+Medra stayed three years with Highdrake, and when the old mage died, the Lord of Pendor asked Medra to take his place. Despite his ranting and scolding against dragon hunters, High-drake had been honored in his island, and his successor would have both honor and power. Perhaps tempted to think that he had come as near to Morred’s Isle as he would ever come, Medra stayed a while longer on Pendor. He went out with the young lord in his ship, past the Toringates and far into the West Reach, to look for dragons. There was a great longing in his heart to see a dragon. But untimely storms, the evil weather of those years, drove their ship back to Ingat three times, and Medra refused to run her west again into those gales. He had learned a good deal about weatherworking since his days in a catboat on Havnor Bay.
+
+A while after that he left Pendor, drawn southward again, and maybe went to Ensmer. In one guise or another he came at last to Geath in the Ninety Isles.
+
+There they fished for whales, as they still do. That was a trade he wanted no part of. Their ships stank and their town stank. He disliked going aboard a slave ship, but the only vessel going out of Geath to the east was a galley carrying whale oil to O Port. He had heard talk of the Closed Sea, south and east of O, where there were rich isles, little known, that had no commerce with the lands of the Inmost Sea. What he sought might be there. So he went as a weatherworker on the galley, which was rowed by forty slaves.
+
+The weather was fair for once: a following wind, a blue sky lively with little white clouds, the mild sunlight of late spring. They made good way from Geath. Late in the afternoon he heard the master say to the helmsman, “Keep her south tonight so we don’t raise Roke.”
+
+He had not heard of that island, and asked, “What’s there?”
+
+“Death and desolation,” said the ship’s master, a short man with small, sad, knowing eyes like a whale’s.
+
+“War?”
+
+“Years back. Plague, black sorcery. The waters all round it are cursed.”
+
+“Worms,” said the helmsman, the master’s brother. “Catch fish anywhere near Roke, you’ll find em thick with worms as a dead dog on a dunghill.”
+
+“Do people still live there?” Medra asked, and the master said, “Witches,” while his brother said, “Worm eaters.”
+
+There were many such isles in the Archipelago, made barren and desolate by rival wizards’ blights and curses; they were evil places to come to or even to pass, and Medra thought no more about this one, until that night.
+
+Sleeping out on deck with the starlight on his face, he had a simple, vivid dream: it was daylight, clouds racing across a bright sky, and across the sea he saw the sunlit curve of a high green hill. He woke with the vision still clear in his mind, knowing he had seen it ten years before, in the spell-locked barracks room at the mines of Samory.
+
+He sat up. The dark sea was so quiet that the stars were reflected here and there on the sleek lee side of the long swells. Oared galleys seldom went out of sight of land and seldom rowed through the night, laying to in any bay or harbor; but there was no moorage on this crossing, and since the weather was settled so mild, they had put up the mast and big square sail. The ship drifted softly forward, her slave oarsmen sleeping on their benches, the free men of her crew all asleep but the helmsman and the lookout, and the lookout was dozing. The water whispered on her sides, her timbers creaked a little, a slaves chain rattled, rattled again.
+
+“They don’t need a weatherworker on a night like this, and they haven’t paid me yet,” Medra said to his conscience. He had waked from his dream with the name Roke in his mind. Why had he never heard of the isle or seen it on a chart? It might be accursed and deserted as they said, but wouldn’t it be set down on the charts?
+
+“I could fly there as a tern and be back on the ship before daylight,” he said to himself, but idly. He was bound for O Port. Ruined lands were all too common. No need to fly to seek them. He made himself comfortable in his coil of cable and watched the stars. Looking west, he saw the four bright stars of the Forge, low over the sea. They were a little blurred, and as he watched them they blinked out, one by one.
+
+The faintest little sighing tremor ran over the slow, smooth swells.
+
+“Master,” Medra said, afoot, “wake up.”
+
+“What now?”
+
+“A witchwind coming. Following. Get the sail down.”
+
+No wind stirred. The air was soft, the big sail hung slack. Only the western stars faded and vanished in a silent blackness that rose slowly higher. The master looked at that. “Witchwind, you say?” he asked, reluctant.
+
+Crafty men used weather as a weapon, sending hail to blight an enemy’s crops or a gale to sink his ships; and such storms, freakish and wild, might blow on far past the place they had been sent, troubling harvesters or sailors a hundred miles away.
+
+“Get the sail down,” Medra said, peremptory. The master yawned and cursed and began to shout commands. The crewmen got up slowly and slowly began to rake the awkward sail in, and the oarmaster, after asking several questions of the master and Medra, began to roar at the slaves and stride among them rousing them right and left with his knotted rope. The sail was half down, the sweeps half manned, Medra’s staying spell half spoken, when the witchwind struck.
+
+It struck with one huge thunderclap out of sudden utter blackness and wild rain. The ship pitched like a horse rearing and then rolled so hard and far that the mast broke loose from its footing, though the stays held. The sail struck the water, filled, and pulled the galley right over, the great sweeps sliding in their oarlocks, the chained slaves struggling and shouting on their benches, barrels of oil breaking loose and thundering over one another-pulled her over and held her over, the deck vertical to the sea, till a huge storm wave struck and swamped her and she sank. All the shouting and screaming of men’s voices was suddenly silent. There was no noise but the roar of the rain on the sea, lessening as the freak wind passed on eastward. Through it one white seabird beat its wings up from the black water and flew, frail and desperate, to the north.
+
+Printed on narrow sands under granite cliffs, in the first light, were the tracks of a bird alighting. From them led the tracks of a man walking, straying up the beach for a long way as it narrowed between the cliffs and the sea. Then the tracks ceased.
+
+Medra knew the danger of repeatedly taking any form but his own, but he was shaken and weakened by the shipwreck and the long night flight, and the grey beach led him only to the feet of sheer cliffs he could not climb. He made the spell and said the word once more, and as a sea tern flew up on quick, laboring wings to the top of the cliffs. Then, possessed by flight, he flew on over a shadowy sunrise land. Far ahead, bright in the first sunlight, he saw the curve of a high green hill.
+
+To it he flew, and on it landed, and as he touched the earth he was a man again.
+
+He stood there for a while, bewildered. It seemed to him that it was not by his own act or decision that he had taken his own form, but that in touching this ground, this hill, he had become himself. A magic greater than his own prevailed here.
+
+He looked about, curious and wary. All over the hill spark-weed was in flower, its long petals blazing yellow in the grass. Children on Havnor knew that flower. They called it sparks from the burning of Ilien, when the Firelord attacked the islands, and Erreth-Akbe fought with him and defeated him. Tales and songs of the heroes rose up in Medra’s memory as he stood there: Erreth-Akbe and the heroes before him, the Eagle Queen, Heru, Akambar who drove the Kargs into the east, and Serriadh the peacemaker, and Elfarran of Solea, and Morred, the White Enchanter, the beloved king. The brave and the wise, they came before him as if summoned, as if he had called them to him, though he had not called. He saw them. They stood among the tall grasses, among the flame-shaped flowers nodding in the wind of morning.
+
+Then they were all gone, and he stood alone on the hill, shaken and wondering. “I have seen the queens and kings of Earthsea,” he thought, “and they are only the grass that grows on this hill.”
+
+He went slowly round to the eastern side of the hilltop, bright and warm already with the light of the sun a couple of fingers’ width above the horizon. Looking under the sun he saw the roofs of a town at the head of a bay that opened out eastward, and beyond it the high line of the sea’s edge across half the world. Turning west he saw fields and pastures and roads. To the north were long green hills. In a fold of land southward a grove of tall trees drew his gaze and held it. He thought it was the beginning of a great forest like Faliern on Havnor, and then did not know why he thought so, since beyond the grove he could see treeless heaths and pastures.
+
+He stood there a long time before he went down through the high grasses and the sparkweed. At the foot of the hill he came into a lane. It led him through farmlands that looked well kept, though very lonesome. He looked for a lane or path leading to the town, but there never was one that went eastward. Not a soul was in the fields, some of which were newly ploughed. No dog barked as he went by. Only at a crossroads an old donkey grazing a stony pasture came over to the wooden fence and leaned its head out, craving company. Medra stopped to stroke the grey-brown, bony face. A city man and a saltwater man, he knew little of farms and their animals, but he thought the donkey looked at him kindly.
+
+“Where am I, donkey?” he said to it. “How do I get to the town I saw?”
+
+The donkey leaned its head hard against his hand so that he would go on scratching the place just above its eyes and below its ears. When he did so, it flicked its long right ear. So when he parted from the donkey he took the right hand of the crossroad, though it looked as if it would lead back to the hill; and soon enough he came among houses, and then onto a street that brought him down at last into the town at the head of the bay.
+
+It was as strangely quiet as the farmlands. Not a voice, not a face. It was difficult to feel uneasy in an ordinary-looking town on a sweet spring morning, but in such silence he must wonder if he was indeed in a plague-stricken place or an island under a curse. He went on. Between a house and an old plum tree was a wash line, the clothes pinned on it flapping in the sunny breeze. A cat came round the corner of a garden, no abandoned starveling but a white-pawed, well-whiskered, prosperous cat. And at last, coming down the steep little street, which here was cobbled, he heard voices.
+
+He stopped to listen, and heard nothing.
+
+He went on to the foot of the street. It opened into a small market square. People were gathered there, not many of them. They were not buying or selling. There were no booths or stalls set up. They were waiting for him.
+
+Ever since he had walked on the green hill above the town and had seen the bright shadows in the grass, his heart had been easy. He was expectant, full of a sense of great strangeness, but not frightened. He stood still and looked at the people who came to meet him.
+
+Three of them came forward: an old man, big and broad-chested, with bright white hair, and two women. Wizard knows wizard, and Medra knew they were women of power.
+
+He raised his hand closed in a fist and then turning and opening it, offered it to them palm up.
+
+“Ah,” said one of the women, the taller of the two, and she laughed. But she did not answer the gesture.
+
+“Tell us who you are,” the white-haired man said, courteously enough, but without greeting or welcome. “Tell us how you came here.”
+
+“I was born in Havnor and trained as a shipwright and a sorcerer. I was on a ship bound from Geath to O Port. I was spared alone from drowning, last night, when a witchwind struck.” He was silent then. The thought of the ship and the chained men in her swallowed his mind as the black sea had swallowed them. He gasped, as if coming up from drowning.
+
+“How did you come here?”
+
+“As... as a bird, a tern. Is this Roke Island?”
+
+“You changed yourself?”
+
+He nodded.
+
+“Whom do you serve?” asked the shorter and younger of the women, speaking for the first time. She had a keen, hard face, with long black brows.
+
+“I have no master.”
+
+“What was your errand in O Port?”
+
+“In Havnor, years ago, I was in servitude. Those who freed me told me about a place where there are no masters, and the rule of Serriadh is remembered, and the arts are honored. I have been looking for that place, that island, seven years.”
+
+“Who told you about it?”
+
+“Women of the Hand.”
+
+“Anyone can make a fist and show a palm,” said the tall woman, pleasantly. “But not everyone can fly to Roke. Or swim, or sail, or come in any way at all. So we must ask what brought you here.”
+
+Medra did not answer at once. “Chance,” he said at last, “favoring long desire. Not art. Not knowledge. I think I’ve come to the place I sought, but I don’t know. I think you may be the people they told me of, but I don’t know. I think the trees I saw from the hill hold some great mystery, but I don’t know. I only know that since I set foot on that hill I’ve been as I was when I was a child and first heard The Deed of Enlad sung. I am lost among wonders.”
+
+The white-haired man looked at the two women. Other people had come forward, and there was some quiet talk among them.
+
+“If you stayed here, what would you do?” the black-browed woman asked him.
+
+“I can build boats, or mend them, and sail them. I can find, above and under ground. I can work weather, if you have any need of that. And I’ll learn the art from any who will teach me.”
+
+“What do you want to learn?” asked the taller woman in her mild voice.
+
+Now Medra felt that he had been asked the question on which the rest of his life hung, for good or evil. Again he stood silent a while. He started to speak, and didn’t speak, and finally spoke. “I could not save one, not one, not the one who saved me,” he said. “Nothing I know could have set her free. I know nothing. If you know how to be free, I beg you, teach me!”
+
+“Free!” said the tall woman, and her voice cracked like a whip. Then she looked at her companions, and after a while she smiled a little. Turning back to Medra, she said, “We’re prisoners, and so freedom is a thing we study. You came here through the walls of our prison. Seeking freedom, you say. But you should know that leaving Roke may be even harder than coming to it. Prison within prison, and some of it we have built ourselves.” She looked at the others. “What do you say?” she asked them.
+
+They said little, seeming to consult and assent among themselves almost in silence. At last the shorter woman looked with her fierce eyes at Medra. “Stay if you will,” she said.
+
+“I will.”
+
+“What will you have us call you?”
+
+“Tern,” he said; and so he was called.
+
+
+
+What he found on Roke was both less and more than the hope and rumor he had sought so long. Roke Island was, they told him, the heart of Earthsea. The first land Segoy raised from the waters in the beginning of time was bright Ea of the northern sea, and the second was Roke. That green hill, Roke Knoll, was founded deeper than all the islands. The trees he had seen, which seemed sometimes to be in one place on the isle and sometimes in another, were the oldest trees in the world, and the source and center of magic.
+
+“If the Grove were cut, all wizardry would fail. The roots of those trees are the roots of knowledge. The patterns the shadows of their leaves make in the sunlight write the words Segoy spoke in the Making.”
+
+So said Ember, his fierce, black-browed teacher.
+
+All the teachers of the art magic on Roke were women. There were no men of power, few men at all, on the island.
+
+Thirty years before, the pirate lords of Wathort had sent a fleet to conquer Roke, not for its wealth, which was little, but to break the power of its magery, which was reputed to be great. One of the wizards of Roke had betrayed the island to the crafty men of Wathort, lowering its spells of defense and warning. Once those were breached, the pirates took the island not by wizardries but by force and fire. Their great ships filled Thwil Bay, their hordes burned and looted, their slave takers carried off men, boys, young women. Little children and the old they slaughtered. They fired every house and field they came to. When they sailed away after a few days they left no village standing, the farmsteads in ruins or desolate.
+
+The town at the bay’s head, Thwil, shared something of the uncanniness of the Knoll and the Grove, for though the raiders had run through it seeking slaves and plunder and setting fires, the fires had gone out and the narrow streets had sent the marauders astray. Most of the islanders who survived were wise women and their children, who had hidden themselves in the town or in the Immanent Grove. The men now on Roke were those spared children, grown, and a few men now grown old. There was no government but that of the women of the Hand, for it was their spells that had protected Roke so long and protected it far more closely now.
+
+They had little trust in men. A man had betrayed them. Men had attacked them. It was men’s ambitions, they said, that had perverted all the arts to ends of gain. “We do not deal with their governments,” said tall Veil in her mild voice.
+
+And yet Ember said to Medra, “We were our own undoing.”
+
+Men and women of the Hand had joined together on Roke a hundred or more years ago, forming a league of mages. Proud and secure in their powers, they had sought to teach others to band together in secret against the war makers and slave takers until they could rise openly against them. Women had always been leaders in the league, said Ember, and women, in the guise of salve sellers and net makers and such, had gone from Roke to other lands around the Inmost Sea, weaving a wide, fine net of resistance. Even now there were strands and knots of that net left. Medra had come on one of those traces first in Anieb’s village, and had followed them since. But they had not led him here. Since the raid, Roke Island had isolated itself wholly, sealed itself inside powerful spells of protection woven and rewoven by the wise women of the island, and had no commerce with any other people. “We can’t save them,” Ember said. “We couldn’t save ourselves.”
+
+Veil, with her gentle voice and smile, was implacable. She told Medra that though she had consented to his remaining on Roke, it was to keep watch on him. “You broke through our defenses once,” she said. “All that you say of yourself may be true, and may not. What can you tell me that would make me trust you?”
+
+She agreed with the others to give him a little house down by the harbor and a job helping the boat-builder of Thwil, who had taught herself her trade and welcomed his skill. Veil put no difficulties in his path and always greeted him kindly. But she had said, “What can you tell me that would make me trust you?” and he had no answer for her.
+
+Ember usually scowled when he greeted her. She asked him abrupt questions, listened to his answers, and said nothing.
+
+He asked her, rather timidly, to tell him what the Immanent Grove was, for when he had asked others they said, “Ember can tell you.” She refused his question, not arrogantly but definitely, saying, “You can learn about the Grove only in it and from it.” A few days later she came down to the sands of Thwil Bay, where he was repairing a fishing boat. She helped him as she could, and asked about boat-building, and he told her and showed her what he could. It was a peaceful afternoon, but after it she went off in her abrupt way. He felt some awe of her; she was incalculable. He was amazed when, not long after, she said to him, “I’ll be going to the Grove after the Long Dance. Come if you like.”
+
+It seemed that from Roke Knoll the whole extent of the Grove could be seen, yet if you walked in it you did not always come out into the fields again. You walked on under the trees. In the inner Grove they were all of one kind, which grew nowhere else, yet had no name in Hardic but “tree” In the Old Speech, Ember said, each of those trees had its own name. You walked on, and after a time you were walking again among familiar trees, oak and beech and ash, chestnut and walnut and willow, green in spring and bare in winter; there were dark firs, and cedar, and a tall evergreen Medra did not know, with soft reddish bark and layered foliage. You walked on, and the way through the trees was never twice the same. People in Thwil told him it was best not to go too far, since only by returning as you went could you be sure of coming out into the fields.
+
+“How far does the forest go?” Medra asked, and Ember said, “As far as the mind goes.”
+
+The leaves of the trees spoke, she said, and the shadows could be read. “I am learning to read them,” she said.
+
+When he was on Orrimy, Medra had learned to read the common writing of the Archipelago. Later, Highdrake of Pendor had taught him some of the runes of power. That was known lore. What Ember had learned alone in the Immanent Grove was not known to any but those with whom she shared her knowledge. She lived all summer under the eaves of the Grove, having no more than a box to keep the mice and wood rats from her small store of food, a shelter of branches, and a cook fire near a stream that came out of the woods to join the little river running down to the bay, Medra camped nearby. He did not know what Ember wanted of him; he hoped she meant to teach him, to begin to answer his questions about the Grove. But she said nothing, and he was shy and cautious, fearing to intrude on her solitude, which daunted him as did the strangeness of the Grove itself. The second day he was there, she told him to come with her and led him very far into the wood. They walked for hours in silence. In the summer midday the woods were silent. No bird sang. The leaves did not stir. The aisles of the trees were endlessly different and all the same. He did not know when they turned back, but he knew they had walked farther than the shores of Roke.
+
+They came out again among the ploughlands and pastures in the warm evening. As they walked back to their camping place he saw the four stars of the Forge come out above the western hills.
+
+Ember parted from him with only a “Good night.”
+
+The next day she said, “I’m going to sit under the trees.” Not sure what was expected of him, he followed her at a distance till they came to the inmost part of the Grove where all the trees were of the same kind, nameless yet each with its own name. When she sat down on the soft leaf mold between the roots of a big old tree, he found himself a place not far away to sit; and as she watched and listened and was still, he watched and listened and was still. So they did for several days. Then one morning, in rebellious mood, he stayed by the stream while Ember walked into the Grove. She did not look back.
+
+Veil came from Thwil Town that morning, bringing them a basket of bread, cheese, milk curds, summer fruits. “What have you learned?” she asked Medra in her cool, gentle way, and he answered, “That I’m a fool.”
+
+“Why so, Tern?”
+
+“A fool could sit under the trees forever and grow no wiser.”
+
+The tall woman smiled a little. “My sister has never taught a man before” she said. She glanced at him, and gazed away, over the summery fields. “She’s never looked at a man before,” she said.
+
+Medra stood silent. His face felt hot. He looked down. “I thought,” he said, and stopped.
+
+In Veil’s words he saw, all at once, the other side of Ember’s impatience, her fierceness, her silences.
+
+He had tried to look at Ember as untouchable while he longed to touch her soft brown skin, her black shining hair. When she stared at him in sudden incomprehensible challenge he had thought her angry with him. He feared to insult, to offend her. What did she fear? His desire? Her own?- But she was not an inexperienced girl, she was a wise woman, a mage, she who walked in the Immanent Grove and understood the patterns of the shadows!
+
+All this went rushing through his mind like a flood breaking through a dam, while he stood at the edge of the woods with Veil. “I thought mages kept themselves apart,” he said at last. “High-drake said that to make love is to unmake power.”
+
+“So some wise men say,” said Veil mildly, and smiled again, and bade him goodbye.
+
+He spent the whole afternoon in confusion, angry. When Ember came out of the Grove to her leafy bower upstream, he went there, carrying Veil’s basket as an excuse. “May I talk to you?” he said.
+
+She nodded shortly, frowning her black brows.
+
+He said nothing. She squatted down to find out what was in the basket. “Peaches!” she said, and smiled.
+
+“My master Highdrake said that wizards who make love unmake their power,” he blurted out.
+
+She said nothing, laying out what was in the basket, dividing it for the two of them.
+
+“Do you think that’s true?” he asked.
+
+She shrugged. “No,” she said.
+
+He stood tongue-tied. After a while she looked up at him. “No,” she said in a soft, quiet voice, “I don’t think it’s true. I think all the true powers, all the old powers, at root are one.”
+
+He still stood there, and she said, “Look at the peaches! They’re all ripe. We’ll have to eat them right away.”
+
+“If I told you my name,” he said, “my true name-“
+
+“I’d tell you mine,” she said. “If that... if that’s how we should begin.”
+
+They began, however, with the peaches.
+
+They were both shy. When Medra took her hand his hand shook, and Ember, whose name was Elehal, turned away scowling. Then she touched his hand very lightly. When he stroked the sleek black flow of her hair she seemed only to endure his touch, and he stopped. When he tried to embrace her she was stiff, rejecting him. Then she turned and, fierce, hasty, awkward, seized him in her arms. It wasn’t the first night, nor the first nights, they passed together that gave either of them much pleasure or ease. But they learned from each other, and came through shame and fear into passion. Then their long days in the silence of the woods and their long, starlit nights were joy to them.
+
+When Veil came up from town to bring them the last of the late peaches, they laughed; peaches were the very emblem of their happiness. They tried to make her stay and eat supper with them, but she wouldn’t. “Stay here while you can,” she said.
+
+The summer ended too soon that year. Rain came early; snow fell in autumn even as far south as Roke. Storm followed storm, as if the winds had risen in rage against the tampering and meddling of the crafty men. Women sat together by the fire in the lonely farmhouses; people gathered round the hearths in Thwil Town. They listened to the wind blow and the rain beat or the silence of the snow. Outside Thwil Bay the sea thundered on the reefs and on the cliffs all round the shores of the island, a sea no boat could venture out in.
+
+What they had they shared. In that it was indeed Morred’s Isle. Nobody on Roke starved or went unhoused, though nobody had much more than they needed. Hidden from the rest of the world not only by sea and storm but by their defenses that disguised the island and sent ships astray, they worked and talked and sang the songs, The Winter Carol and The Deed of the Young King. And they had books, the Chronicles of Enlad and the History of the Wise Heroes. From these precious books the old men and women would read aloud in a hall down by the wharf where the fisherwomen made and mended their nets. There was a hearth there, and they would light the fire. People came even from farms across the island to hear the histories read, listening in silence, intent. “Our souls are hungry,” Ember said.
+
+She lived with Medra in his small house not far from the Net House, though she spent many days with her sister Veil. Ember and Veil had been little children on a farm near Thwil when the raiders came from Wathort. Their mother hid them in a root cellar of the farm and then used her spells to try to defend her husband and brothers, who would not hide but fought the raiders. They were butchered with their cattle. The house and barns were burnt. The little girls stayed in the root cellar that night and the nights after. Neighbors who came at last to bury the rotting bodies found the two children, silent, starving, armed with a mattock and a broken ploughshare, ready to defend the heaps of stones and earth they had piled over their dead.
+
+Medra knew only a hint of this story from Ember. One night Veil, who was three years older than Ember and to whom the memory was much clearer, told it to him fully. Ember sat with them, listening in silence.
+
+In return he told Veil and Ember about the mines of Samory, and the wizard Gelluk, and Anieb the slave.
+
+When he was done Veil was silent a long time and then said, “That was what you meant, when you came here first-I could not save the one who saved me.”
+
+“And you asked me, What can you tell me that could make me trust you?”
+
+“You have told me,” Veil said.
+
+Medra took her hand and put his forehead against it. Telling his story he had kept back tears. He could not do so now.
+
+“She gave me freedom,” he said. “And I still feel that all I do is done through her and for her. No, not for her. We can do nothing for the dead. But for...”
+
+“For us,” said Ember. “For us who live, in hiding, neither killed nor killing. The dead are dead. The great and mighty go their way unchecked. All the hope left in the world is in the people of no account.”
+
+“Must we hide forever?”
+
+“Spoken like a man,” said Veil with her gentle, wounded smile.
+
+“Yes,” said Ember. “We must hide, and forever if need be. Because there’s nothing left but being killed and killing, beyond these shores. You say it, and I believe it.”
+
+“But you can’t hide true power,” Medra said. “Not for long. It dies in hiding, unshared.”
+
+“Magic won’t die on Roke,” said Veil. “On Roke all spells are strong. So said Ath himself. And you have walked under the trees... Our job must be to keep that strength. Hide it, yes. Hoard it, as a young dragon hoards up its fire. And share it. But only here. Pass it on, one to the next, here, where it’s safe, and where the great robbers and killers would least look for it, since no one here is of any account. And one day the dragon will come into its strength. If it takes a thousand years...”
+
+“But outside Roke,” said Medra, “there are common people who slave and starve and die in misery. Must they do so for a thousand years with no hope?”
+
+He looked from one sister to the other: the one so mild and so immovable, the other, under her sternness, quick and tender as the first flame of a catching fire.
+
+“On Havnor,” he said,” far from Roke, in a village on Mount Onn, among people who know nothing of the world, there are still women of the Hand. That net hasn’t broken after so many years. How was it woven?”
+
+“Craftily,” said Ember.
+
+“And cast wide!” He looked from one to the other again. “I wasn’t well taught, in the City of Havnor,” he said. “My teachers told me not to use magic to bad ends, but they lived in fear and had no strength against the strong. They gave me all they had to give, but it was little. It was by mere luck I didn’t go wrong. And by Anieb’s gift of strength to me. But for her I’d be Gelluk’s servant now. Yet she herself was untaught, and so enslaved. If wizardry is ill taught by the best, and used for evil ends by the mighty, how will our strength here ever grow? What will the young dragon feed on?”
+
+“This is the center,” said Veil. “We must keep to the center. And wait.”
+
+“We must give what we have to give,” said Medra. “If all but us are slaves, what’s our freedom worth?”
+
+“The true art prevails over the false. The pattern will hold,” Ember said, frowning. She reached out the poker to gather together her namesakes in the hearth, and with a whack knocked the heap into a blaze. “That I know. But our lives are short, and the patterns very long. If only Roke was now what it once was- if we had more people of the true art gathered here, teaching and learning as well as preserving-“
+
+“If Roke was now what it once was, known to be strong, those who fear us would come again to destroy us,” said Veil.
+
+“The solution lies in secrecy,” said Medra. “But so does the problem.”
+
+“Our problem is with men,” Veil said, “if you’ll forgive me, dear brother. Men are of more account to other men than women and children are. We might have fifty witches here and they’ll pay little heed. But if they knew we had five men of power, they’d seek to destroy us again.”
+
+“So though there were men among us we were the women of the Hand,” said Ember.
+
+“You still are,” Medra said. “Anieb was one of you. She and you and all of us live in the same prison.”
+
+“What can we do?” said Veil.
+
+“Learn our strength!” said Medra.
+
+“A school,” Ember said. “Where the wise might come to learn from one another, to study the pattern...The Grove would shelter us.”
+
+“The lords of war despise scholars and schoolmasters,” said Medra.
+
+“I think they fear them too,” said Veil.
+
+So they talked, that long winter, and others talked with them. Slowly their talk turned from vision to intention, from longing to planning. Veil was always cautious, warning of dangers. White-haired Dune was so eager that Ember said he wanted to start teaching sorcery to every child in Thwil. Once Ember had come to believe that Roke’s freedom lay in offering others freedom, she set her whole mind on how the women of the Hand might grow strong again. But her mind, formed by her long solitudes among the trees, always sought form and clarity, and she said, “How can we teach our art when we don’t know what it is?”
+
+And they talked about that, all the wise women of the island: what was the true art of magic, and where did it turn false; how the balance of things was kept or lost; what crafts were needful, which useful, which dangerous; why some people had one gift but not another, and whether you could learn an art you had no native gift for. In such discussions they worked out the names that ever since have been given to the masteries: finding, weather-working, changing, healing, summoning, patterning, naming, and the crafts of illusion, and the knowledge of the songs. Those are the arts of the Masters of Roke even now, though the Chanter took the Finder’s place when finding came to be considered a merely useful craft unworthy of a mage.
+
+And it was in these discussions that the school on Roke began.
+
+There are some who say that the school had its beginnings far differently. They say that Roke used to be ruled by a woman called the Dark Woman, who was in league with the Old Powers of the earth. They say she lived in a cave under Roke Knoll, never coming into the daylight, but weaving vast spells over land and sea that compelled men to her evil will, until the first Archmage came to Roke, unsealed and entered the cave, defeated the Dark Woman, and took her place.
+
+There’s no truth in this tale but one, which is that indeed one of the first Masters of Roke opened and entered a great cavern. But though the roots of Roke are the roots of all the islands, that cavern was not on Roke.
+
+And it’s true that in the time of Medra and Elehal the people of Roke, men and women, had no fear of the Old Powers of the earth, but revered them, seeking strength and vision from them. That changed with the years.
+
+Spring came late again that year, cold and stormy. Medra set to boat-building. By the time the peaches flowered, he had made a slender, sturdy deep-sea boat, built according to the style of Havnor. He called her Hopeful. Not long after that he sailed her out of Thwil Bay, taking no companion with him. “Look for me at the end of summer,” he said to Ember.
+
+“I’ll be in the Grove,” she said. “And my heart with you, my dark otter, my white tern, my love, Medra.”
+
+“And mine with you, my ember of fire, my flowering tree, my love, Elehal.”
+
+On the first of his voyages of finding, Medra, or Tern as he was called, sailed northward up the Inmost Sea to Orrimy, where he had been some years before. There were people of the Hand there whom he trusted. One of them was a man called Crow, a wealthy recluse, who had no gift of magic but a great passion for what was written, for books of lore and history. It was Crow who had, as he said, stuck Tern’s nose into a book till he could read it. “Illiterate wizards are the curse of Earthsea!” he cried. “Ignorant power is a bane!” Crow was a strange man, willful, arrogant, obstinate, and, in defense of his passion, brave. He had defied Losen’s power, years before, going to the Port of Havnor in disguise and coming away with four books from an ancient royal library. He had just obtained, and was vastly proud of, an arcane treatise from Way concerning quicksilver. “Got that from under Losen’s nose too,” he said to Tern. “Come have a look at it! It belonged to a famous wizard.”
+
+“Tinaral,” said Tern. “I knew him.”
+
+“Book’s trash, is it?” said Crow, who was quick to pick up signals if they had to do with books.
+
+“I don’t know. I’m after bigger prey.”
+
+Crow cocked his head.
+
+“The Book of Names.”
+
+“Lost with Ath when he went into the west,” Crow said.
+
+“A mage called Highdrake told me that when Ath stayed in Pendor, he told a wizard there that he’d left the Book of Names with a woman in the Ninety Isles for safekeeping.”
+
+“A woman! For safekeeping! In the Ninety Isles! Was he mad?”
+
+Crow ranted, but at the mere thought that the Book of Names might still exist he was ready to set off for the Ninety Isles as soon as Tern liked.
+
+So they sailed south in Hopeful, landing first at malodorous Geath, and then in the guise of peddlers working their way from one islet to the next among the mazy channels. Crow had stocked the boat with better wares than most householders of the Isles were used to seeing, and Tern offered them at fair prices, mostly in barter, since there was little money among the islanders. Their popularity ran ahead of them. It was known that they would trade for books, if the books were old and uncanny. But in the Isles all books were old and all uncanny, what there was of them.
+
+Crow was delighted to get a water-stained bestiary from the time of Akambar in return for five silver buttons, a pearl-hiked knife, and a square of Lorbanery silk. He sat in Hopeful and crooned over the antique descriptions of harikki and otak and icebear. But Tern went ashore on every isle, showing his wares in the kitchens of the housewives and the sleepy taverns where the old men sat. Sometimes he idly made a fist and then turned his hand over opening the palm, but nobody here returned the sign.
+
+“Books?” said a rush plaiter on North Sudidi. “Like that there?” He pointed to long strips of vellum that had been worked into the thatching of his house. “They good for something else?” Crow, staring up at the words visible here and there between the rushes in the eaves, began to tremble with rage. Tern hurried him back to the boat before he exploded.
+
+“It was only a beast healer’s manual,” Crow admitted, when they were sailing on and he had calmed down. “’Spavined,” I saw, and something about ewes’ udders. But the ignorance! the brute ignorance! To roof his house with it!”
+
+“And it was useful knowledge,” Tern said. “How can people be anything but ignorant when knowledge isn’t saved, isn’t taught? If books could be brought together in one place...”
+
+“Like the Library of the Kings,” said Crow, dreaming of lost glories.
+
+“Or your library,” said Tern, who had become a subtler man than he used to be.
+
+“Fragments,” Crow said, dismissing his life’s work. “Remnants!”
+
+“Beginnings,” said Tern.
+
+Crow only sighed.
+
+“I think we might go south again,” Tern said, steering for the open channel. “Towards Pody.”
+
+“You have a gift for the business,” Crow said. “You know where to look. Went straight to that bestiary in the barn loft... But there’s nothing much to look for here. Nothing of importance. Ath wouldn’t have left the greatest of all the lore-books among boors who’d make thatch of it! Take us to Pody if you like. And then back to Orrimy. I’ve had about enough.”
+
+“And we’re out of buttons,” Tern said. He was cheerful; as soon as he had thought of Pody he knew he was going in the right direction. “Perhaps I can find some along the way,” he said. “It’s my gift, you know.”
+
+Neither of them had been on Pody. It was a sleepy southern island with a pretty old port town, Telio, built of rosy sandstone, and fields and orchards that should have been fertile. But the lords of Wathort had ruled it for a century, taxing and slave taking and wearing the land and people down. The sunny streets of Telio were sad and dirty. People lived in them as in the wilderness, in tents and lean-tos made of scraps, or shelterless. “Oh, this won’t do,” Crow said, disgusted, avoiding a pile of human excrement. “These creatures don’t have books, Tern!”
+
+“Wait, wait,” his companion said. “Give me a day.”
+
+“It’s dangerous,” Crow said, “it’s pointless,” but he made no further objection. The modest, naive young man whom he had taught to read had become his unfathomable guide.
+
+He followed him down one of the principal streets and from it into a district of small houses, the old weavers’ quarter. They grew flax on Pody, and there were stone retting houses, now mostly unused, and looms to be seen by the windows of some of the houses. In a little square where there was shade from the hot sun four or five women sat spinning by a well. Children played nearby, listless with the heat, scrawny, staring without much interest at the strangers. Tern had walked there unhesitating, as if he knew where he was going. Now he stopped and greeted the women.
+
+“Oh, pretty man,” said one of them with a smile, “don’t even show us what you have in your pack there, for I haven’t a penny of copper or ivory, nor seen one for a month.”
+
+“You might have a bit of linen, though, mistress? woven, or thread? Linen of Pody is the best-so I’ve heard as far as Havnor. And I can tell the quality of what you’re spinning. A beautiful thread it is.” Crow watched his companion with amusement and some disdain; he himself could bargain for a book very shrewdly, but nattering with common women about buttons and thread was beneath him. “Let me just open this up,” Tern was saying as he spread his pack out on the cobbles, and the women and the dirty, timid children drew closer to see the wonders he would show them. “Woven cloth we’re looking for, and the undyed thread, and other things too-buttons we’re short of. If you had any of horn or bone, maybe? I’d trade one of these little velvet caps here for three or four buttons. Or one of these rolls of ribbon; look at the color of it. Beautiful with your hair, mistress! Or paper, or books. Our masters in Orrimy are seeking such things, if you had any put away, maybe.”
+
+“Oh, you are a pretty man,” said the woman who had spoken first, laughing, as he held the red ribbon up to her black braid. “And I wish I had something for you!”
+
+“I won’t be so bold as to ask for a kiss,” said Medra, “but an open hand, maybe?”
+
+He made the sign; she looked at him for a moment. “That’s easy,” she said softly, and made the sign in return, “but not always safe, among strangers.”
+
+He went on showing his wares and joking with the women and children. Nobody bought anything. They gazed at the trinkets as if they were treasures. He let them gaze and finger all they would; indeed he let one of the children filch a little mirror of polished brass, seeing it vanish under the ragged shirt and saying nothing. At last he said he must go on, and the children drifted away as he folded up his pack.
+
+“I have a neighbor,” said the black-braided woman, “who might have some paper, if you’re after that.”
+
+“Written on?” said Crow, who had been sitting on the well coping, bored. “Marks on it?”
+
+She looked him up and down. “Marks on it, sir,” she said. And then, to Tern, in a different tone, “If you’d like to come with me, she lives this way. And though she’s only a girl, and poor, I’ll tell you, peddler, she has an open hand. Though perhaps not all of us do.”
+
+“Three out of three,” said Crow, sketching the sign, “so spare your vinegar, woman.”
+
+“Oh, it’s you who have it to spare, sir. We’re poor folk here. And ignorant,” she said, with a flash of her eyes, and led on.
+
+She brought them to a house at the end of a lane. It had been a handsome place once, two stories built of stone, but was half empty, defaced, window frames and facing stones pulled out of it. They crossed a courtyard with a well in it. She knocked at a side door, and a girl opened it.
+
+“Ach, it’s a witch’s den,” Crow said, at the whiff of herbs and aromatic smoke, and he stepped back.
+
+“Healers,” their guide said. “Is she ill again, Dory?”
+
+The girl nodded, looking at Tern, then at Crow. She was thirteen or fourteen, heavyset though thin, with a sullen, steady gaze.
+
+“They’re men of the Hand, Dory, one short and pretty and one tall and proud, and they say they’re seeking papers. I know you had some once, though you may not now. They’ve nothing you need in their pack, but it might be they’d pay a bit of ivory for what they want. Is it so?” She turned her bright eyes on Tern, and he nodded.
+
+“She’s very sick, Rush,” the girl said. She looked again at Tern. “You’re not a healer?” It was an accusation.
+
+“No.”
+
+“She is,” said Rush. “Like her mother and her mother’s mother. Let us in, Dory, or me at least, to speak to her.” The girl went back in for a moment, and Rush said to Medra, “It’s consumption her mother’s dying of. No healer could cure her. But she could heal the scrofula, and touch for pain. A wonder she was, and Dory bade fair to follow her.”
+
+The girl motioned them to come in. Crow chose to wait outside. The room was high and long, with traces of former elegance, but very old and very poor. Healers’ paraphernalia and drying herbs were everywhere, though ranged in some order. Near the fine stone fireplace, where a tiny wisp of sweet herbs burned, was a bedstead. The woman in it was so wasted that in the dim light she seemed nothing but bone and shadow. As Tern came close she tried to sit up and to speak. Her daughter raised her head on the pillow, and when Tern was very near he could hear her: “Wizard,” she said. “Not by chance.”
+
+A woman of power, she knew what he was. Had she called him there?
+
+“I’m a finder,” he said. “And a seeker.”
+
+“Can you teach her?”
+
+“I can take her to those who can.”
+
+“Do it.”
+
+“I will.”
+
+She laid her head back and closed her eyes.
+
+Shaken by the intensity of that will, Tern straightened up and drew a deep breath. He looked round at the girl, Dory. She did not return his gaze, watching her mother with stolid, sullen grief. Only after the woman sank into sleep did Dory move, going to help Rush, who as a friend and neighbor had made herself useful and was gathering up blood-soaked cloths scattered by the bed.
+
+“She bled again just now, and I couldn’t stop it,” Dory said. Tears ran out of her eyes and down her cheeks. Her face hardly changed.
+
+“Oh child, oh lamb,” said Rush, taking her into her embrace; but though she hugged Rush, Dory did not bend.
+
+“She’s going there, to the wall, and I can’t go with her,” she said. “She’s going alone and I can’t go with her- Can’t you go there?” She broke away from Rush, looking again at Tern. “You can go there!”
+
+“No,” he said. “I don’t know the way.”
+
+Yet as Dory spoke he saw what the girl saw: a long hill going down into darkness, and across it, on the edge of twilight, a low wall of stones. And as he looked he thought he saw a woman walking along beside the wall, very thin, insubstantial, bone, shadow. But she was not the dying woman in the bed. She was Anieb.
+
+Then that was gone and he stood facing the witch-girl. Her look of accusation slowly changed. She put her face in her hands.
+
+“We have to let them go,” he said.
+
+She said, “I know.”
+
+Rush glanced from one to the other with her keen, bright eyes. “Not only a handy man,” she said, “but a crafty man. Well, you’re not the first.”
+
+He looked his question.
+
+“This is called Ath’s House,” she said.
+
+“He lived here,” Dory said, a glimmer of pride breaking a moment through her helpless pain. “The Mage Ath. Long ago. Before he went into the west. All my foremothers were wise women. He stayed here. With them.”
+
+“Give me a basin,” Rush said. “I’ll get water to soak these.”
+
+“I’ll get the water,” Tern said. He took the basin and went out to the courtyard, to the well. Just as before, Crow was sitting on the coping, bored and restless.
+
+“Why are we wasting time here?” he demanded, as Tern let the bucket down into the well. “Are you fetching and carrying for witches now?”
+
+“Yes,” Tern said, “and I will till she dies. And then I’ll take her daughter to Roke. And if you want to read the Book of Names, you can come with us.”
+
+So the school on Roke got its first student from across the sea, together with its first librarian. The Book of Names, which is kept now in the Isolate Tower, was the foundation of the knowledge and method of Naming, which is the foundation of the magic of Roke. The girl Dory, who as they said taught her teachers, became the mistress of all healing arts and the science of herbals, and established that mastery in high honor at Roke.
+
+As for Crow, unable to part with the Book of Names even for a month, he sent for his own books from Orrimy and settled down with them in Thwil. He allowed people of the school to study them, so long as they showed them, and him, due respect.
+
+So the pattern of the years was set for Tern. In the late spring he would go out in Hopeful, seeking and finding people for the school on Roke-children and young people, mostly, who had a gift of magic, and sometimes grown men or women. Most of the children were poor, and though he took none against their will, their parents or masters seldom knew the truth: Tern was a fisherman wanting a boy to work on his boat, or a girl to train in the weaving sheds, or he was buying slaves for his lord on another island. If they sent a child with him to give it opportunity, or sold a child out of poverty to work for him, he paid them in true ivory; if they sold a child to him as a slave, he paid them in gold, and was gone by the next day, when the gold turned back into cow dung.
+
+He traveled far in the Archipelago, even out into the East Reach. He never went to the same town or island twice without years between, letting his trail grow cold. Even so he began to be spoken of. The Child Taker, they called him, a dreaded sorcerer who carried children to his island in the icy north and there sucked their blood. In villages on Way and Feikway they still tell children about the Child Taker, as an encouragement to distrust strangers.
+
+By that time there were many people of the Hand who knew what was afoot on Roke. Young people came there sent by them. Men and women came to be taught and to teach. Many of these had a hard time getting there, for the spells that hid the island were stronger than ever, making it seem only a cloud, or a reef among the breakers; and the Roke wind blew, which kept any ship from Thwil Bay unless there was a sorcerer aboard who knew how to turn that wind. Still they came, and as the years went on a larger house was needed for the school than any in Thwil Town.
+
+In the Archipelago, men built ships and women built houses, that was the custom; but in building a great structure women let men work with them, not having the miners’ superstitions that kept men out of the mines, or the shipwrights’ that forbade women to watch a keel laid. So both men and women of great power raised the Great House on Roke. Its cornerstone was set on a hilltop above Thwil Town, near the Grove and looking to the Knoll. Its walls were built not only of stone and wood, but founded deep on magic and made strong with spells.
+
+Standing on that hill, Medra had said, “There is a vein of water, just under where I stand, that will not go dry.” They dug down carefully and came to the water; they let it leap up into the sunlight; and the first part of the Great House they made was its inmost heart, the courtyard of the fountain.
+
+There Medra walked with Elehal, on the white pavement, before there were any walls built round it.
+
+She had planted a young rowan from the Grove beside the fountain. They came to be sure it was thriving. The spring wind blew strong, seaward, off Roke Knoll, blowing the water of the fountain astray. Up on the slope of the Knoll they could see a little group of people: a circle of young students learning how to do tricks of illusion from the sorcerer Hega of O; Master Hand, they called him. The sparkweed, past flowering, cast its ashes on the wind. There were streaks of grey in Ember’s hair.
+
+“Off you go, then,” she said, “and leave us to settle this matter of the Rule.” Her frown was as fierce as ever, but her voice was seldom as harsh as this when she spoke to him.
+
+“I’ll stay if you want, Elehal.”
+
+“I do want you to stay. But don’t stay! You’re a finder, you have to go find. It’s only that agreeing on the Way-or the Rule, Waris wants us to call it-is twice the work of building the House. And causes ten times the quarrels. I wish I could get away from it! I wish I could just walk with you, like this... And I wish you wouldn’t go north.”
+
+“Why do we quarrel?” he said rather despondently.
+
+“Because there are more of us! Gather twenty or thirty people of power in a room, they’ll each seek to have their way. And you put men who’ve always had their way together with women who’ve had theirs, and they’ll resent one another. And then, too, there are some true and real divisions among us, Medra. They must be settled, and they can’t be settled easily. Though a little goodwill would go a long way.”
+
+“Is it Waris?”
+
+“Waris and several other men. And they are men, and they make that important beyond anything else. To them, the Old Powers are abominable. And women’s powers are suspect, because they suppose them all connected with the Old Powers. As if those Powers were to be controlled or used by any mortal soul! But they put men where we put the world. And so they hold that a true wizard must be a man. And celibate.”
+
+“Ah, that,” Medra said, rueful.
+
+“That indeed. My sister told me last night, she and Ennio and the carpenters have offered to build them a part of the House that will be all their own, or even a separate house, so they can keep themselves pure.”
+
+“Pure?”
+
+“It’s not my word, it’s Waris’s. But they’ve refused. They want the Rule of Roke to separate men from women, and they want men to make the decisions for all. Now what compromise can we make with them? Why did they come here, if they won’t work with us?”
+
+“We should send away the men who won’t.”
+
+“Away? In anger? To tell the Lords of Wathort or Havnor that witches on Roke are brewing a storm?”
+
+“I forget-I always forget,” he said, downcast again. “I forget the walls of the prison. I’m not such a fool when I’m outside them... When I’m here I can’t believe it is a prison. But outside, without you, I remember... I don’t want to go, but I have to go. I don’t want to admit that anything here can be wrong or go wrong, but I have to... I’ll go this time, and I will go north, Elehal. But when I come back I’ll stay. What I need to find I’ll find here. Haven’t I found it already?”
+
+“No,” she said, “only me... But there’s a great deal of seeking and finding to be done in the Grove. Enough to keep even you from being restless. Why north?”
+
+“To reach out the Hand to Enlad and Ea. I’ve never gone there. We know nothing about their wizardries. Enlad of the Kings, and bright Ea, eldest of isles! Surely we’ll find allies there”
+
+“But Havnor lies between us,” she said.
+
+“I won’t sail my boat across Havnor, dear love. I plan to go around it. By water.” He could always make her laugh; he was the only one who could. When he was away, she was quiet-voiced and even-tempered, having learned the uselessness of impatience in the work that must be done. Sometimes she still scowled, sometimes she smiled, but she did not laugh. When she could, she went to the Grove alone, as she had always done. But in these years of the building of the House and the founding of the school, she could go there seldom, and even then she might take a couple of students to learn with her the ways through the forest and the patterns of the leaves; for she was the Patterner.
+
+Tern left late that year on his journey. He had with him a boy of fifteen, Mote, a promising weatherworker who needed training at sea, and Sava, a woman of sixty who had come to Roke with him seven or eight years before. Sava had been one of the women of the Hand on the isle of Ark. Though she had no wizardly gifts at all, she knew so well how to get a group of people to trust one another and work together that she was honored as a wise woman on Ark, and now on Roke. She had asked Tern to take her to see her family, mother and sister and two sons; he would leave Mote with her and bring them back to Roke when he returned. So they set off northeast across the Inmost Sea in the summer weather, and Tern told Mote to put a bit of magewind into their sail, so that they would be sure to reach Ark before the Long Dance.
+
+As they coasted that island, he himself put an illusion about Hopeful, so that she would seem not a boat but a drifting log; for pirates and Losen’s slave takers were thick in these waters.
+
+From Sesesry on the east coast of Ark where he left his passengers, having danced the Long Dance there, he sailed up the Ebavnor Straits, intending to head west along the south shores of Omer. He kept the illusion spell about his boat. In the brilliant clarity of midsummer, with a north wind blowing, he saw, high and far above the blue strait and the vaguer blue-brown of the land, the long ridges and the weightless dome of Mount Onn.
+
+Look, Medra. Look!
+
+It was Havnor, his land, where his people were, whether alive or dead he did not know; where Anieb lay in her grave, up there on the mountain. He had never been back, never come this close. It had been how long? Sixteen years, seventeen years. Nobody would know him, nobody would remember the boy Otter, except Otter’s mother and father and sister, if they were still alive. And surely there were people of the Hand in the Great Port. Though he had not known of them as a boy, he should know them now.
+
+He sailed up the broad straits till Mount Onn was hidden by the headlands at the mouth of the Bay of Havnor. He would not see it again unless he went through that narrow passage. Then he would see the mountain, all the sweep and cresting of it, over the calm waters where he used to try to raise up the magewind when he was twelve; and sailing on he would see the towers rise up from the water, dim at first, mere dots and lines, then lifting up their bright banners, the white city at the center of the world.
+
+It was mere cowardice to keep from Havnor, now-fear for his skin, fear lest he find his people had died, fear lest he recall Anieb too vividly.
+
+For there had been times when he felt that, as he had summoned her living, so dead she might summon him. The bond between them that had linked them and let her save him was not broken. Many times she had come into his dreams, standing silent as she stood when he first saw her in the reeking tower at Samory. And he had seen her, years ago, in the vision of the dying healer in Telio, in the twilight, beside the wall of stones.
+
+He knew now, from Elehal and others on Roke, what that wall was. It lay between the living and the dead. And in that vision, Anieb had walked on this side of it, not on the side that went down into the dark.
+
+Did he fear her, who had freed him?
+
+He tacked across the strong wind, swung round South Point, and sailed into the Great Bay of Havnor.
+
+Banners still flew from the towers of the City of Havnor, and a king still ruled there; the banners were those of captured towns and isles, and the king was the warlord Losen. Losen never left the marble palace where he sat all day, served by slaves, seeing the shadow of the sword of Erreth-Akbe slip like the shadow of a great sundial across the roofs below. He gave orders, and the slaves said, “It is done, your majesty.” He held audiences, and old men came and said, “We obey, your majesty.” He summoned his wizards, and the mage Early came, bowing low. “Make me walk!” Losen shouted, beating his paralyzed legs with his weak hands.
+
+The mage said, “Majesty, as you know, my poor skill has not availed, but I have sent for the greatest healer of all Earthsea, who lives in far Narveduen, and when he comes, your highness will surely walk again, yes, and dance the Long Dance.”
+
+Then Losen cursed and cried, and his slaves brought him wine, and the mage went out, bowing, and checking as he went to be sure that the spell of paralysis was holding.
+
+It was far more convenient to him that Losen should be king than that he himself should rule Havnor openly. Men of arms didn’t trust men of craft and didn’t like to serve them. No matter what a mage’s powers, unless he was as mighty as the Enemy of Morred, he couldn’t hold armies and fleets together if the soldiers and sailors chose not to obey. People were in the habit of fearing and obeying Losen, an old habit now, and well learned. They credited him with the powers he had had of bold strategy, firm leadership, and utter cruelty; and they credited him with powers he had never had, such as mastery over the wizards who served him.
+
+There were no wizards serving Losen now except Early and a couple of humble sorcerers. Early had driven off or killed, one after another, his rivals for Losen’s favor, and had enjoyed sole rule over all Havnor now for years.
+
+When he was Gelluk’s prentice and assistant, he had encouraged his master in the study of the lore of Way, finding himself free while Gelluk was off doting on his quicksilver. But Gelluk’s abrupt fate had shaken him. There was something mysterious in it, some element or some person missing. Summoning the useful Hound to help him, Early had made a very thorough inquiry into what happened. Where Gelluk was, of course, was no mystery. Hound had tracked him straight to a scar in a hillside, and said he was buried deep under there. Early had no wish to exhume him. But the boy who had been with him, Hound could not track: could not say whether he was under that hill with Gelluk, or had got clean away. He had left no spell traces as the mage did, said Hound, and it had rained very hard all the night after, and when Hound thought he had found the boy’s tracks, they were a woman’s; and she was dead.
+
+Early did not punish Hound for his failure, but he remembered it. He was not used to failures and did not like them. He did not like what Hound told him about this boy, Otter, and he remembered it.
+
+The desire for power feeds off itself, growing as it devours. Early suffered from hunger. He starved. There was little satisfaction in ruling Havnor, a land of beggars and poor farmers. What was the good of possessing the Throne of Maharion if nobody sat in it but a drunken cripple? What glory was there in the palaces of the city when nobody lived in them but crawling slaves? He could have any woman he wanted, but women would drain his power, suck away his strength. He wanted no woman near him. He craved an enemy: an opponent worth destroying.
+
+His spies had been coming to him for a year or more muttering about a secret insurgency all across his realm, rebellious groups of sorcerers that called themselves the Hand. Eager to find his enemy, he had one such group investigated. They turned out to be a lot of old women, midwives, carpenters, a ditchdigger, a tinsmith’s prentice, a couple of little boys. Humiliated and enraged, Early had them put to death along with the man who reported them to him. It was a public execution, in Losen’s name, for the crime of conspiracy against the King. There had perhaps not been enough of that kind of intimidation lately. But it went against his grain. He didn’t like to make a public spectacle of fools who had tricked him into fearing them. He would rather have dealt with them in his own way, in his own time. To be nourishing, fear must be immediate; he needed to see people afraid of him, hear their terror, smell it, taste it. But since he ruled in Losen’s name, it was Losen who must be feared by the armies and the peoples, and he himself must keep in the background, making do with slaves and prentices.
+
+Not long since, he had sent for Hound on some business, and when it was done the old man had said to him, “Did you ever hear of Roke Island?”
+
+“South and west of Kamery. The Lord of Wathort’s owned it for forty or fifty years.”
+
+Though he seldom left the city, Early prided himself on his knowledge of all the Archipelago, gleaned from his sailors’ reports and the marvelous ancient charts kept in the palace. He studied them nights, brooding on where and how he might extend his empire.
+
+Hound nodded, as if its location was all that had interested him in Roke.
+
+“Well?”
+
+“One of the old women you had tortured before they burned the lot, you know? Well, the fellow who did it told me. She talked about her son on Roke. Calling out to him to come, you know. But like as if he had the power to.”
+
+“Well?”
+
+“Seemed odd. Old woman from a village inland, never seen the sea, calling the name of an island away off like that.”
+
+“The son was a fisherman who talked about his travels.”
+
+Early waved his hand. Hound sniffed, nodded, and left.
+
+Early never disregarded any triviality Hound mentioned, because so many of them had proved not to be trivial. He disliked the old man for that, and because he was unshakable. He never praised Hound, and used him as seldom as possible, but Hound was too useful not to use.
+
+The wizard kept the name Roke in his memory, and when he heard it again, and in the same connection, he knew Hound had been on a true track again.
+
+Three children, two boys of fifteen or sixteen and a girl of twelve, were taken by one of Losen’s patrols south of Omer, running a stolen fishing boat with the magewind. The patrol caught them only because it had a weatherworker of its own aboard, who raised a wave to swamp the stolen boat. Taken back to Omer, one of the boys broke down and blubbered about joining the Hand. Hearing that word, the men told them they would be tortured and burned, at which the boy cried that if they spared him he would tell them all about the Hand, and Roke, and the great mages of Roke.
+
+“Bring them here,” Early said to the messenger.
+
+“The girl flew away, lord,” the man said unwillingly.
+
+“Flew away?”
+
+“She took bird form. Osprey, they said. Didn’t expect that from a girl so young. Gone before they knew it.”
+
+“Bring the boys, then,” Early said with deadly patience.
+
+They brought him one boy. The other had jumped from the ship, crossing Havnor Bay, and been killed by a crossbow quarrel. The boy they brought was in such a paroxysm of terror that even Early was disgusted by him. How could he frighten a creature already blind and beshatten with fear? He set a binding spell on the boy that held him upright and immobile as a stone statue, and left him so for a night and a day. Now and then he talked to the statue, telling it that it was a clever lad and might make a good prentice, here in the palace. Maybe he could go to Roke after all, for Early was thinking of going to Roke, to meet with the mages there.
+
+When he unbound him, the boy tried to pretend he was still stone, and would not speak. Early had to go into his mind, in the way he had learned from Gelluk long ago, when Gelluk was a true master of his art. He found out what he could. Then the boy was no good for anything and had to be disposed of. It was humiliating, again, to be outwitted by the very stupidity of these people; and all he had learned about Roke was that the Hand was there, and a school where they taught wizardry. And he had learned a man’s name.
+
+The idea of a school for wizards made him laugh. A school for wild boars, he thought, a college for dragons! But that there was some kind of scheming and gathering together of men of power on Roke seemed probable, and the idea of any league or alliance of wizards appalled him more the more he thought of it. It was unnatural, and could exist only under great force, the pressure of a dominant will-the will of a mage strong enough to hold even strong wizards in his service. There was the enemy he wanted!
+
+Hound was down at the door, they said. Early sent for him to come up. “Who’s Tern?” he asked as soon as he saw the old man.
+
+With age Hound had come to look his name, wrinkled, with a long nose and sad eyes. He sniffed and seemed about to say he did not know, but he knew better than to try to lie to Early. He sighed. “Otter,” he said. “Him that killed old Whiteface.”
+
+“Where’s he hiding?”
+
+“Not hiding at all. Went about the city, talking to people. Went to see his mother in Endlane, round the mountain. He’s there now.”
+
+“You should have told me at once,” Early said.
+
+“Didn’t know you were after him. I’ve been after him a long time. He fooled me.” Hound spoke without rancor.
+
+“He tricked and killed a great mage, my master. He’s dangerous. I want vengeance. Who did he talk to here? I want them. Then I’ll see to him.”
+
+“Some old women down by the docks. An old sorcerer. His sister.”
+
+“Get them here. Take my men.”
+
+Hound sniffed, sighed, nodded.
+
+There was not much to be got from the people his men brought to him. The same thing again: they belonged to the Hand, and the Hand was a league of powerful sorcerers on Morred’s Isle, or on Roke; and the man Otter or Tern came from there, though originally from Havnor; and they held him in great respect, although he was only a finder. The sister had vanished, perhaps gone with Otter to Endlane, where the mother lived. Early rummaged in their cloudy, witless minds, had the youngest of them tortured, and then burned them where Losen could sit at his window and watch. The King needed some diversions.
+
+All this took only two days, and all the time Early was looking and probing toward Endlane village, sending Hound there before him, sending his own presentment there to watch. When he knew where the man was he betook himself there very quickly, on eagle’s wings; for Early was a great shape-changer, so fearless that he would take even dragon form.
+
+He knew it was well to use caution with this man. Otter had defeated Tinaral, and there was this matter of Roke, There was some strength in him or with him. Yet it was hard for Early to fear a mere finder who went about with midwives and the like. He could not bring himself to sneak and skulk. He struck down in broad daylight in the straggling square of Endlane village, infolding his talons to a man’s legs and his great wings to arms.
+
+A child ran bawling to its mammy. No one else was about. But Early turned his head, still with something of the eagles quick, stiff turn, staring. Wizard knows wizard, and he knew which house his prey was in. He walked to it and flung the door open.
+
+A slight, brown man sitting at the table looked up at him.
+
+Early raised his hand to lay the binding spell on him. His hand was stayed, held immobile half lifted at his side.
+
+This was a contest, then, a foe worth fighting! Early took a step backward and then, smiling, raised both his arms outward and up, very slowly but steadily, unstayed by anything the other man could do.
+
+The house vanished. No walls, no roof, nobody. Early stood on the dust of the village square in the sunshine of morning with his arms in the air.
+
+It was only illusion, of course, but it checked him a moment in his spell, and then he had to undo the illusion, bringing back the door frame around him, the walls and roof beams, the gleam of light on crockery, the hearth stones, the table. But nobody sat at the table. His enemy was gone.
+
+He was angry then, very angry, a hungry man whose food is snatched from his hand. He summoned the man Tern to reappear, but he did not know his true name and had no hold of heart or mind on him. The summons went unanswered.
+
+He strode from the house, turned, and set a fire spell on it so that it burst into flames, thatch and walls and every window spouting fire. Women ran out of it screaming. They had been hiding no doubt in the back room; he paid them no attention. “Hound,” he thought. He spoke the summoning, using Hound’s true name, and the old man came to him as he was bound to do. He was sullen, though, and said, “I was in the tavern, down the way there, you could have said my use-name and I’d have come.”
+
+Early looked at him once. Hound’s mouth snapped shut and stayed shut.
+
+“Speak when I let you,” the wizard said. “Where is the man?”
+
+Hound nodded northeastwards.
+
+“What’s there?”
+
+Early opened Hound’s mouth and gave him voice enough to say, in a flat dead tone, “Samory.”
+
+“What form is he in?”
+
+“Otter,” said the flat voice.
+
+Early laughed. “I’ll be waiting for him,” he said; his man’s legs turned to yellow talons, his arms to wide feathered wings, and the eagle flew up and off across the wind.
+
+Hound sniffed, sighed, and followed, trudging along unwillingly, while behind him in the village the flames died down, and children cried, and women shouted curses after the eagle.
+
+The danger in trying to do good is that the mind comes to confuse the intent of goodness with the act of doing things well.
+
+That is not what the otter was thinking as it swam fast down the Yennava. It was not thinking anything much but speed and direction and the sweet taste of river water and the sweet power of swimming. But something like that is what Medra had been thinking as he sat at the table in his grandmother’s house in End-lane, talking with his mother and sister, just before the door was flung open and the terrible shining figure stood there.
+
+Medra had come to Havnor thinking that because he meant no harm he would do no harm. He had done irreparable harm. Men and women and children had died because he was there. They had died in torment, burned alive. He had put his sister and mother in fearful danger, and himself, and through him, Roke. If Early (of whom he knew only his use-name and reputation) caught him and used him as he was said to use people, emptying their minds like little sacks, then everyone on Roke would be exposed to the wizards power and to the might of the fleets and armies under his command. Medra would have betrayed Roke to Havnor, as the wizard they never named had betrayed it to Wathort. Maybe that man, too, had thought he could do no harm.
+
+Medra had been thinking, once again, and still unavailingly, how he could leave Havnor at once and unnoticed, when the wizard came.
+
+Now, as otter, he was thinking only that he would like to stay otter, be otter, in the sweet brown water, the living river, forever. There is no death for an otter, only life to the end. But in the sleek creature was the mortal mind; and where the stream passes the hill west of Samory, the otter came up on the muddy bank, and then the man crouched there, shivering.
+
+Where to now? Why had he come here?
+
+He had not thought. He had taken the shape that came soonest to him, run to the river as an otter would, swum as the otter would swim. But only in his own form could he think as a man, hide, decide, act as a man or as a wizard against the wizard who hunted him.
+
+He knew he was no match for Early. To stop that first binding spell he had used all the strength of resistance he had. The illusion and the shape-change were all the tricks he had to play. If he faced the wizard again he would be destroyed. And Roke with him. Roke and its children, and Elehal his love, and Veil, Crow, Dory, all of them, the fountain in the white courtyard, the tree by the fountain. Only the Grove would stand. Only the green hill, silent, immovable. He heard Elehal say to him, Havnor lies between us. He heard her say, Al! the true powers, all the old powers, at root are one.
+
+He looked up. The hillside above the stream was that same hill where he had come that day with Tinaral, Anieb’s presence within him. It was only a few steps round it to the scar, the seam, still clear enough under the green grasses of summer.
+
+“Mother,” he said, on his knees there, “Mother, open to me.”
+
+He laid his hands on the seam of earth, but there was no power in them.
+
+“Let me in, mother,” he whispered in the tongue that was as old as the hill. The ground shivered a little and opened.
+
+He heard an eagle scream. He got to his feet. He leapt into the dark.
+
+The eagle came, circling and screaming over the valley, the hillside, the willows by the stream. It circled, searching and searching, and flew back as it had come.
+
+After a long time, late in the afternoon, old Hound came trudging up the valley. He stopped now and then and sniffed. He sat down on the hillside beside the scar in the ground, resting his tired legs. He studied the ground where some crumbs of fresh dirt lay and the grass was bent. He stroked the bent grass to straighten it. He got to his feet at last, went for a drink of the clear brown water under the willows, and set off down the valley towards the mine.
+
+Medra woke in pain, in darkness. For a long time that was all there was. The pain came and went, the darkness remained. Once it lightened a little into a twilight in which he could dimly see. He saw a slope running down from where he lay towards a wall of stones, across which was darkness again. But he could not get up to walk to the wall, and presently the pain came back very sharp in his arm and hip and head. Then the darkness came around him, and then nothing.
+
+Thirst: and with it pain. Thirst, and the sound of water running.
+
+He tried to remember how to make light. Anieb said to him, plaintively, “Can’t you make the light?” But he could not. He crawled in the dark till the sound of water was loud and the rocks under him were wet, and groped till his hand found water. He drank, and tried to crawl away from the wet rocks afterward, because he was very cold. One arm hurt and had no strength in it.
+
+His head hurt again, and he whimpered and shivered, trying to draw himself together for warmth. There was no warmth and no light.
+
+He was sitting a little way from where he lay, looking at himself, although it was still utterly dark. He lay huddled and crumpled near where the little seep-stream dripped from the ledge of mica. Not far away lay another huddled heap, rotted red silk, long hair, bones. Beyond it the cavern stretched away. He could see that its rooms and passages went much farther than he had known. He saw it with the same uncaring interest with which he saw Tinaral’s body and his own body. He felt a mild regret. It was only fair that he should die here with the man he had killed. It was right. Nothing was wrong. But something in him ached, not the sharp body pain, a long ache, lifelong.
+
+“Anieb,” he said.
+
+Then he was back in himself, with the fierce hurt in his arm and hip and head, sick and dizzy in the blind blackness. When he moved, he whimpered; but he sat up. I have to live, he thought. I have to remember how to live. How to make light. I have to remember. I have to remember the shadows of the leaves.
+
+How far does the forest go?
+
+As far as the mind goes.
+
+He looked up into the darkness. After a while he moved his good hand a little, and the faint light flowed out of it.
+
+The roof of the cavern was far above him. The trickle of water dripping from the mica ledge glittered in short dashes in the werelight.
+
+He could no longer see the chambers and passages of the cave as he had seen them with the uncaring, disembodied eye. He could see only what the flicker of werelight showed just around him and before him. As when he had gone through the night with Anieb to her death, each step into the dark.
+
+He got to his knees, and thought then to whisper, “Thank you, mother.” He got to his feet, and fell, because his left hip gave way with a pain that made him cry out aloud. After a while he tried again, and stood up. Then he started forward.
+
+It took him a long time to cross the cavern. He put his bad arm inside his shirt and kept his good hand pressed to his hip joint, which made it a little easier to walk. The walls narrowed gradually to a passage. Here the roof was much lower, just above his head. Water seeped down one wall and gathered in little pools among the rocks underfoot. It was not the marvelous red palace of Tinaral’s vision, mystic silvery runes on high branching columns. It was only the earth, only dirt, rock, water. The air was cool and still. Away from the dripping of the stream it was silent. Outside the gleam of werelight it was dark.
+
+Medra bowed his head, standing there. “Anieb,” he said, “can you come back this far? I don’t know the way.” He waited a while. He saw darkness, heard silence. Slow and halting, he entered the passage.
+
+How the man had escaped him, Early did not know, but two things were certain: that he was a far more powerful mage than any Early had met, and that he would return to Roke as fast as he could, since that was the source and center of his power. There was no use trying to get there before him; he had the lead. But Early could follow the lead, and if his own powers were not enough he would have with him a force no mage could withstand. Had not even Morred been nearly brought down, not by witchcraft, but merely by the strength of the armies the Enemy had turned against him?
+
+“Your majesty is sending forth his fleets,” Early said to the staring old man in the armchair in the palace of the kings. “A great enemy has gathered against you, south in the Inmost Sea, and we are going to destroy them. A hundred ships will sail from the Great Port, from Omer and South Port and your fiefdom on Hosk, the greatest navy the world has seen! I shall lead them. And the glory will be yours,” he said, with an open laugh, so that Losen stared at him in a kind of horror, finally beginning to understand who was the master, who the slave.
+
+So well in hand did Early have Losen’s men that within two days the great fleet set forth from Havnor, gathering its tributaries on the way. Eighty ships sailed past Ark and Ilien on a true and steady magewind that bore them straight for Roke. Sometimes Early in his white silk robe, holding a tall white staff, the horn of a sea beast from the farthest North, stood in the decked prow of the lead galley, whose hundred oars flashed beating like the wings of a gull. Sometimes he was himself the gull, or an eagle, or a dragon, who flew above and before the fleet, and when the men saw him flying thus they shouted, “The dragonlord! the dragonlord!”
+
+They came ashore in Ilien for water and food. Setting a host of many hundreds of men on its way so quickly had left little time for provisioning the ships. They overran the towns along the west shore of Ilien, taking what they wanted, and did the same on Vissti and Kamery, looting what they could and burning what they left. Then the great fleet turned west, heading for the one harbor of Roke Island, the Bay of Thwil. Early knew of the harbor from the maps in Havnor, and knew there was a high hill above it. As they came nearer, he took dragon form and soared up high above his ships, leading them, gazing into the west for the sight of that hill.
+
+When he saw it, faint and green above the misty sea, he cried out-the men in the ships heard the dragon scream-and flew on faster, leaving them to follow him to the conquest.
+
+All the rumors of Roke had said that it was spell-defended and charm-hidden, invisible to ordinary eyes. If there were any spells woven about that hill or the bay he now saw opening before it, they were gossamer to him, transparent. Nothing blurred his eyes or challenged his will as he flew over the bay, over the little town and a half-finished building on the slope above it, to the top of the high green hill. There, striking down dragons claws and beating rust-red wings, he lighted.
+
+He stood in his own form. He had not made the change himself. He stood alert, uncertain.
+
+The wind blew, the long grass nodded in the wind. Summer was getting on and the grass was dry now, yellowing, no flowers in it but the little white heads of the lacefoam. A woman came walking up the hill towards him through the long grass. She followed no path, and walked easily, without haste.
+
+He thought he had raised his hand in a spell to stop her, but he had not raised his hand, and she came on. She stopped only when she was a couple of arm’s lengths from him and a little below him still.
+
+“Tell me your name,” she said, and he said, “Teriel,”
+
+“Why did you come here, Teriel?”
+
+“To destroy you.”
+
+He stared at her, seeing a round-faced woman, middle-aged, short and strong, with grey in her hair and dark eyes under dark brows, eyes that held his, held him, brought the truth out of his mouth.
+
+“Destroy us? Destroy this hill? The trees there?” She looked down to a grove of trees not far from the hill. “Maybe Segoy who made them could unmake them. Maybe the earth will destroy herself. Maybe she’ll destroy herself through our hands, in the end. But not through yours. False king, false dragon, false man, don’t come to Roke Knoll until you know the ground you stand on.” She made one gesture of her hand, downward to the earth.
+
+Then she turned and went down the hill through the long grass, the way she had come.
+
+There were other people on the hill, he saw now, many others, men and women, children, living and spirits of the dead; many, many of them. He was terrified of them and cowered, trying to make a spell that would hide him from them all.
+
+But he made no spell. He had no magic left in him. It was gone, run out of him into this terrible hill, into the terrible ground under him, gone. He was no wizard, only a man like the others, powerless.
+
+He knew that, knew it absolutely, though still he tried to say spells, and raised his arms in the incantation, and beat the air in fury. Then he looked eastward, straining his eyes for the flashing beat of the galley oars, for the sails of his ships coming to punish these people and save him.
+
+All he saw was a mist on the water, all across the sea beyond the mouth of the bay. As he watched it thickened and darkened, creeping out over the slow waves.
+
+Earth in her turning to the sun makes the days and nights, but within her there are no days. Medra walked through the night. He was very lame, and could not always keep up the werelight. When it failed he had to stop and sit down and sleep. The sleep was never death, as he thought it was. He woke, always cold, always in pain, always thirsty, and when he could make a glimmer of the light he got to his feet and went on. He never saw Anieb but he knew she was there. He followed her. Sometimes there were great rooms. Sometimes there were pools of motionless water. It was hard to break the stillness of their surface, but he drank from them. He thought he had gone down deeper and deeper for a long time, till he reached the longest of those pools, and after that the way went up again. Sometimes now Anieb followed him. He could say her name, though she did not answer. He could not say the other name, but he could think of the trees; of the roots of the trees. This was the kingdom of the roots of the trees. How far does the forest go? As far as forests go. As long as the lives, as deep as the roots of the trees. As long as leaves cast shadows. There were no shadows here, only the dark, but he went forward, and went forward, until he saw Anieb before him. He saw the flash of her eyes, the cloud of her curling hair. She looked back at him for a moment, and then turned aside and ran lightly down a long, steep slope into darkness.
+
+Where he stood it was not wholly dark. The air moved against his face. Far ahead, dim, small, there was a light that was not werelight. He went forward. He had been crawling for a long time now, dragging the right leg, which would not bear his weight. He went forward. He smelled the wind of evening and saw the sky of evening through the branches and leaves of trees. An arched oak root formed the mouth of the cave, no bigger than a man or a badger needed to crawl through. He crawled through. He lay there under the root of the tree, seeing the light fade and a star or two come out among the leaves.
+
+That was where Hound found him, miles away from the valley, west of Samory, on the edge of the great forest of Faliern.
+
+“Got you,” the old man said, looking down at the muddy, lax body. He added, “Too late,” regretfully. He stooped to see if he could pick him up or drag him, and felt the faint warmth of life. “You’re tough,” he said. “Here, wake up. Come on. Otter, wake up.”
+
+He recognized Hound, though he could not sit up and could barely speak. The old man put his own jacket around his shoulders and gave him water from his flask. Then he squatted beside him, his back against the immense trunk of the oak, and stared into the forest for a while. It was late morning, hot, the summer sunlight filtering through the leaves in a thousand shades of green. A squirrel scolded, far up in the oak, and a jay replied. Hound scratched his neck and sighed.
+
+“The wizards off on the wrong track, as usual,” he said at last. “Said you’d gone to Roke Island and he’d catch you there. I said nothing.”
+
+He looked at the man he knew only as Otter.
+
+“You went in there, that hole, with the old wizard, didn’t you? Did you find him?”
+
+Medra nodded.
+
+“Hmn,” Hound went, a short, grunting laugh. “You find what you look for, don’t you? Like me.” He saw that his companion was in distress, and said, “I’ll get you out of here. Fetch a carter from the village down there, when I’ve got my breath. Listen. Don’t fret. I haven’t hunted you all these years to give you to Early. The way I gave you to Gelluk. I was sorry for that. I thought about it. What I said to you about men of a craft sticking together. And who we work for. Couldn’t see that I had much choice about that. But having done you a disfavor, I thought if I came across you again I’d do you a favor, if I could. As one finder to the other, see?”
+
+Otter’s breath was coming hard. Hound put his hand on Otter’s hand for a moment, said, “Don’t worry,” and got to his feet. “Rest easy,” he said.
+
+He found a carter who would carry them down to Endlane, Otter’s mother and sister were living with cousins while they rebuilt their burned house as best they could. They welcomed him with disbelieving joy. Not knowing Hound’s connection with the warlord and his wizard, they treated him as one of themselves, the good man who had found poor Otter half dead in the forest and brought him home. A wise man, said Otter’s mother Rose, surely a wise man. Nothing was too good for such a man.
+
+Otter was slow to recover, to heal. The bonesetter did what he could about his broken arm and his damaged hip, the wise woman salved the cuts from the rocks on his hands and head and knees, his mother brought him all the delicacies she could find in the gardens and berry thickets; but he lay as weak and wasted as when Hound first brought him. There was no heart in him, the wise woman of Endlane said. It was somewhere else, being eaten up with worry or fear or shame.
+
+“So where is it?” Hound said.
+
+Otter, after a long silence, said, “Roke Island.”
+
+“Where old Early went with the great fleet. I see. Friends there. Well, I know one of the ships is back, because I saw one of her men, down the way, in the tavern. I’ll go ask about. Find out if they got to Roke and what happened there. What I can tell you is that it seems old Early is late coming home. Hmn, hmn,” he went, pleased with his joke. “Late coming home,” he repeated, and got up. He looked at Otter, who was not much to look at. “Rest easy,” he said, and went off.
+
+He was gone several days. When he returned, riding in a horse-drawn cart, he had such a look about him that Otter’s sister hurried in to tell him, “Hound’s won a battle or a fortune! He’s riding behind a city horse, in a city cart, like a prince!”
+
+Hound came in on her heels. “Well,” he said, “in the first place, when I got to the city, I go up to the palace, just to hear the news, and what do I see? I see old King Pirate standing on his legs, shouting out orders like he used to do. Standing up! Hasn’t stood for years. Shouting orders! And some of em did what he said, and some of em didn’t. So I got on out of there, that kind of a situation being dangerous, in a palace. Then I went about to friends of mine and asked where was old Early and had the fleet been to Roke and come back and all. Early, they said, nobody knew about Early. Not a sign of him nor from him. Maybe I could find him, they said, joking me, hmn. They know I love him. As for the ships, some had come back, with the men aboard saying they never came to Roke Island, never saw it, sailed right through where the sea charts said was an island, and there was no island. Then there were some men from one of the great galleys. They said when they got close to where the island should be, they came into a fog as thick as wet cloth, and the sea turned thick too, so that the oarsmen could barely push the oars through it, and they were caught in that for a day and a night. When they got out, there wasn’t another ship of all the fleet on the sea, and the slaves were near rebelling, so the master brought her home as quick as he could. Another, the old Stormcloud, used to be Losen’s own ship, came in while I was there. I talked to some men off her. They said there was nothing but fog and reefs all round where Roke was supposed to be, so they sailed on with seven other ships, south a ways, and met up with a fleet sailing up from Wathort. Maybe the lords there had heard there was a great fleet coming raiding, because they didn’t stop to ask questions, but sent wizard’s fire at our ships, and came alongside to board them if they could, and the men I talked to said it was a hard fight just to get away from them, and not all did. All this time they had no word from Early, and no weather was worked for them unless they had a bagman of their own aboard. So they came back up the length of the Inmost Sea, said the man from Stormcloud, one straggling after the other like the dogs that lost the dogfight. Now, do you like the news I bring you?”
+
+Otter had been struggling with tears; he hid his face. “Yes,” he said, “thanks.”
+
+“Thought you might. As for King Losen,” Hound said, “who knows.” He sniffed and sighed. “If I was him I’d retire” he said. “I think I’ll do that myself.”
+
+Otter had got control of his face and voice. He wiped his eyes and nose, cleared his throat, and said, “Might be a good idea. Come to Roke. Safer.”
+
+“Seems to be a hard place to find,” Hound said.
+
+“I can find it,” said Otter.
+
+
+
+IV. Medra
+
+
+
+There was an old man by our door
+
+Who opened it to rich or poor,
+
+Many came there both small and great,
+
+But few could pass through Medra’s Gate.
+
+So runs the water away, away,
+
+So runs the water away.
+
+
+
+HOUND STAYED IN ENDLANE. He could make a living as a finder there, and he liked the tavern, and Otter’s mother’s hospitality.
+
+By the beginning of autumn, Losen was hanging by a rope round his feet from a window of the New Palace, rotting, while six warlords quarreled over his kingdom, and the ships of the great fleet chased and fought one another across the Straits and the wizard-troubled sea.
+
+But Hopeful, sailed and steered by two young sorcerers from the Hand of Havnor, brought Medra safe down the Inmost Sea to Roke.
+
+Ember was on the dock to meet him. Lame and very thin, he came to her and took her hands, but he could not lift his face to hers. He said, “I have too many deaths on my heart, Elehal.”
+
+“Come with me to the Grove,” she said.
+
+They went there together and stayed till the winter came. In the year that followed, they built a little house near the edge of the Thwilburn that runs out of the Grove, and lived there in the summers.
+
+They worked and taught in the Great House. They saw it go up stone on stone, every stone steeped in spells of protection, endurance, peace. They saw the Rule of Roke established, though never so firmly as they might wish, and always against opposition; for mages came from other islands and rose up from among the students of the school, women and men of power, knowledge, and pride, sworn by the Rule to work together and for the good of all, but each seeing a different way to do it.
+
+Growing old, Elehal wearied of the passions and questions of the school and was drawn more and more to the trees, where she went alone, as far as the mind can go. Medra walked there too, but not so far as she, for he was lame.
+
+After she died, he lived a while alone in the small house near the Grove.
+
+One day in autumn he came back to the school. He went in by the garden door, which gives on the path through the fields to Roke Knoll. It is a curious thing about the Great House of Roke, that it has no portal or grand entryway at all. You can enter by what they call the back door, which, though it is made of horn and framed in dragons tooth and carved with the Thousand-Leaved Tree, looks like nothing at all from outside, as you come to it in a dingy street; or you can go in the garden door, plain oak with an iron bolt. But there is no front door.
+
+He came through the halls and stone corridors to the inmost place, the marble-paved courtyard of the fountain, where the tree Elehal had planted now stood tall, its berries reddening.
+
+Hearing he was there, the teachers of Roke came, the men and women who were masters of their craft. Medra had been the Master Finder, until he went to the Grove. A young woman now taught that art, as he had taught it to her.
+
+“I’ve been thinking,” he said. “There are eight of you. Nine’s a better number. Count me as a master again, if you will.”
+
+“What will you do, Master Tern?” asked the Summoner, a grey-haired mage from Ilien.
+
+“I’ll keep the door,” Medra said. “Being lame, I won’t go far from it. Being old, I’ll know what to say to those who come. Being a finder, I’ll find out if they belong here.”
+
+“That would spare us much trouble and some danger,” said the young Finder.
+
+“How will you do it?” the Summoner asked.
+
+“I’ll ask them their name,” Medra said. He smiled. “If they’ll tell me, they can come in. And when they think they’ve learned everything, they can go out again. If they can tell me my name.”
+
+So it was. For the rest of his life, Medra kept the doors of the Great House on Roke. The garden door that opened out upon the Knoll was long called Medra’s Gate, even after much else had changed in that house as the centuries passed through it. And still the ninth Master of Roke is the Doorkeeper.
+
+In Endlane and the villages round the foot of Onn on Havnor, women spinning and weaving sing a riddle song of which the last line has to do, maybe, with the man who was Medra, and Otter, and Tern.
+
+Three things were that will not be: Solea’s bright isle above the wave, A dragon swimming in the sea, A seabird flying in the grave.
+
+
+
+
+

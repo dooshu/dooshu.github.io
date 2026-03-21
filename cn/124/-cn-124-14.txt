@@ -22,7 +22,7 @@
 
 <span style="font-size:0.75rem;color:gray;">路谒北静王，是宝玉正文。</span>
 
-<span style="font-size:0.75rem;color:gray;">【戚】家书一纸千金重，勾引难防嘱下人。任你无双肝胆烈，多情念起自眉颦。</span>
+<span style="font-size:0.75rem;color:gray;">【戚：家书一纸千金重，勾引难防嘱下人。任你无双肝胆烈，多情念起自眉颦。】</span>
 
 诗云：……
 

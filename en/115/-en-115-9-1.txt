@@ -1,0 +1,324 @@
+Monetary Theory and the Trade Cycle (1933)
+
+
+Translated from the German by N. Kaldor and H.M. Croome (London: Jonathan Cape, 1933). Originally written in German as Geldtheorie und Konjunkturtheorie (Vienna: Holder-Pichler-Tempsky, 1929).
+
+1 Geldtheorie und Konjunkturtheorie. Beitrage zur Konjunkturforschung, herausgegeben vom Österreichisches Institut für Konjunkturforschung, no. 1 (Vienna: Holder-Pichler-Tempsky, 1929).
+
+2 “Einige Bemerkungen über das Verhältnis der Geldtheorie zur Konjunkturtheorie” in Schriften des Vereins für Sozialpolitik 173 (1928), part 2.
+
+3 Schriften des Vereins für Sozialpolitik 175 (1929): 369–74.
+
+4 “Die Währungspolitik der Vereinigten Staaten seit der Überwindung der Krise von 1920,” Zeitschrift für Volkswirtschaft und Sozialpolitik, N.F. 5 (1925). “Das intertemporale Gleichgewichtssystem der Preise und die Bewegungen des Geldwertes,” Weltwirtschaftliches Archiv 28 (1928); “The ‘Paradox’ of Saving,” Economica 32 (May 1931), included in this volume; Prices and Production (London: Routledge and Sons, 1931), included in this volume; “Reflections on the Pure Theory of Money of Mr. J.M. Keynes,” Economica, nos. 33–35 (1931–32), included in this volume; “Das Schicksal der Goldwährung,” Der Deutsche Volkswirt (1932); “Kapitalaufzehrung,” Weltwirtschaftliches Archiv 36 (1932).
+
+5 In his essay, “Wie ist Konjunkturtheorie überhaupt möglich?” Weltwirtschaftliches Archiv 24 (1926), part 2, p. 166.
+
+6 Cf. Löwe: “Der gegenwärtige Stand der Konjunkturtheorie in Deutschland,” Die Wirtschaftswissenschaft nach dem Kriege, Festgabe für Lujo Brentano zum 80. Geburtstag, ed. M. Bonn and M. Palyi (Munich: Duncker & Humblot, 1925), vol. 2, p. 360.
+
+7 Cf. the excellent analysis given by E. Altschul in his well-known essay “Konjunkturtheorie und Konjunkturstatistik,” Archiv für Sozialwissenschaft und Sozialpolitik 55 (Tübingen: Mohr, 1926). Altschul as a statistician deserves especial credit when, recognizing the limitations of statistical methods, he writes (p. 85) “In economics especially, the final decision about the significance of a certain phenomenon can never be left to mathematical and statistical analysis. The main approach to research must necessarily lie through theoretically obtained knowledge.” Cf. also A.C. Pigou, Industrial Fluctuations, 2nd ed. (London: Macmillan, 1929), p. 37, “The absence of statistical correlation between a given series of changes and industrial fluctuations does not by itself disprove—and its presence does not prove—that these changes are causes of the fluctuations.”
+
+8 Professor A. Löwe, in his report “Über den Einfluss monetärer Faktoren auf den Konjunkturzyklus,” Schriften des Vereins für Sozialpolitik 173 (1928), part 2, p. 357, expresses his views in almost the same words. The above sentences first appeared in another article in the same volume.
+
+9 Cf. the analysis concerning “Argument der Wirklichkeitswidrigkeit” in the recent book by E. Carell, Sozialökonomische Theorie und Konjunkturproblem (Munich and Leipzig: Duncker & Humblot, 1929), for a very acute methodological argument. He opposes the thesis of Löwe (which remains, however, despite his analysis, the basis of my own work) that the incorporation of cyclical phenomena into the system of economic equilibrium theory, with which they are in apparent contradiction, remains the crucial problem of trade cycle theory.
+
+10 A well-known instance of such an apparent contradiction between a correct theoretical assertion and experience is the connection between the level of interest rates and the movement of prices. Cf. Wicksell, Vorlesungen, vol. 2, Geld und Kredit (Jena: Gustav Fischer, 1922). See also my essay,“Das intertemporale Gleichgevichts-system der Preise und die Bewegungen des Geldweries” (Weltwirtschaftiches Archiv 28 [1928], p. 63 et seq.).
+
+11 It should be noted that the idea of forecasting is by no means a new one, although it is often regarded as such. Every economic theory, and indeed all theory of whatever sort, aims exclusively at foretelling the necessary consequences of a given situation, event, or measure. The subject matter of trade cycle theory being what it is, it follows that ideally it should result in a collective forecast showing the total development resulting from a given situation under given conditions. In practice, such forecasts are attempted in too unconditional a form, and on an inadmissibly oversimplified basis; and, consequently, the very possibility of scientific judgments about future economic trends today appears problematical, and cautious thinkers are apt to disparage any attempt at such forecasting. In contrast to this view, we have to emphasize very strongly that statistical research in this field is meaningless except insofar as it leads to a forecast, however much that forecast may have to be hedged about with qualifications. In particular any measures aimed at alleviating the trade cycle (and necessarily based on statistical research) must be conceived in the light of certain assumptions as to the future trend to be expected in the absence of such measures. Statistical research, therefore, serves only to furnish the bases for the utilization of existing theoretical principles.
+
+Dr. O. Morgenstern’s recent categorical denial (Wirtschaftsprognose: Eine Untersuchung ikrer Voraussetzungen und Möglichkeiten [Vienna: Springer, 1928]) of the possibility of forecasting seems to be due only to the fact that he demands more from forecasting than is justifiable. Even the ability to forecast a hailstorm would not be useless—but, on the contrary, very valuable—if the latter could thereupon be averted by firing rockets at the clouds!
+
+12 Professor Bullock, the Principal of the Harvard Economic Service (now the Harvard Economic Society), constantly emphasizes the complete absence of theoretical prepossession with which the work of the Institute is carried out. Sincere as this belief unquestionably is, however, one may doubt its validity when one reads, for instance, the following account given by Professor Bullock’s chief collaborator, Mr. W.M. Persons, the inventor of the famous Harvard Barometer. Here he attempts the following popular explanation of the latter:
+
+	This account of the business cycle, based upon our statistical analysis, revolves about the fluctuation of short-time interest rates, speculation, and business. We may think of interest rates as varying inversely with the amount of the bank reserves in the credit reservoir. The flow in the supply pipe to this reservoir depends upon the volume of gold imports, gold production, and the volume of paper currency. There are two outlets from this reservoir of credit: one pipe furnishes credit for speculation in securities; the other pipe is for the flow of credit into business. When the level of credit in the reservoir is high, and perhaps the outlet to business is partially clogged, the flow of funds into speculation begins. After this flow goes on for some time, however, and the flow into business increases, the level of credit in the reservoir falls. Obstruction is offered to the flow into speculative markets by the devices of higher interest rates and direct discrimination against speculation and in favor of business. The outlet into speculation therefore becomes clogged but the flow into business goes on. The level in the reservoir becomes still lower until the time is reached when bankers consider it dangerous to allow the outflow to continue. We then have a halt in further credit expansion, or to use our illustration, both outlets are clogged for a time and bank reserves are brought back to normal by allowing the supply to again fill the tank. (“A non-technical explanation of the index of general business conditions,” The Review of Economic Statistics 2 [1920]: 47)
+
+
+
+13 Since the publication of the German edition of this book, I have become less convinced that the difference between monetary and non-monetary explanations is the most important point of disagreement between the various trade cycle theories. On the one hand, it seems to me that within the monetary group of explanations the difference between those theorists who regard the superficial phenomena of changes in the value of money as decisive factors in determining cyclical fluctuations, and those who lay emphasis on the real changes in the structure of production brought about by monetary causes, is much greater than the difference between the latter group and such so-called non-monetary theorists as Professor Spiethoff and Professor Cassel. On the other hand, it seems to me that the difference between these explanations, which seek the cause of the crisis in the scarcity of capital, and the so-called “underconsumption” theories, is theoretically as well as practically of much more far-reaching importance than the difference between monetary and non-monetary theories.
+
+14 Cf. the above-mentioned essay of A. Löwe in the Weltwirtschaftliches Archiv.
+
+15 By “equilibrium theory” we here primarily understand the modern theory of the general interdependence of all economic quantities, which has been most perfectly expressed by the Lausanne School of theoretical economics. The significant basic concept of this theory was contained in James Mill’s and J.B. Say’s Théorie des Débouchés. Cf. L. Miksch, Gibt es eine allgemeine Uberproduktion? (Jena: Gustav Fischer, 1929).
+
+16 Similar views are expressed by W. Röpke, “Kredit und Konjunktur,” Jahrbücher für Nationalökonomie und Statistik, 3rd series, vol. 69 (1926), p. 264 et seq.
+
+17 “Theories of Business Fluctuations,” Quarterly Journal of Economics 41 (1926): 923.
+
+18 Business Cycles: The Problem and Its Setting (New York: National Bureau of Economic Research, 1927).
+
+19 Business Cycle Theory: Its Development and Present Status (Boston: Ginn, 1927).
+
+20 See Der Gegenwärtige Stand der Konjunkturforschung, p. 359 et seq.
+
+21 Cf. below, p. 115 et seq. esp. p. 117.
+
+22 Theorie der wirtschaftlichen Entwicklung, 2nd ed. (Munich and Leipzig: Duncker & Humblot, 1936).
+
+23 “Konjunktur und Krisen,” Grundriss der Sozialökonomik 4, no. 1 (1926); also “Zur Morphologie der Krisen,” in Die Wirtschaftstheorie der Gegenwart, ed. by H. Mayer (Vienna: Springer, 1928), vol. 4.
+
+24 Theory of Social Economy (New York: Harcourt, Brace, 1932).
+
+25 Des Crises générales et périodiques de surproduction (Paris: Domat, 1913); and “Krisenlehre,” in Die Wirtschaftstheorie der Gegenwart, ed. Mayer, vol. 4.
+
+26 It should be noted here that the assumption of initial changes in the economic data, which no theory of the trade cycle can dispense with, in itself throws no light on the proper way of explaining cyclical fluctuations. It is not the occurrence of disturbances of equilibrium, necessitating readjustment, which presents a problem to trade cycle theory; it is the fact that this adjustment is brought about only after a series of movements have taken place which cannot be considered “adjustments” in the sense used by the theory of economic equilibrium. “The phenomenon is never made clear until it is explained why its cause, whatever it may be, does not call forth a continuous equilibrating process” (Professor J. Schumpeter, Theorie der wirtschaftlichen Entwicklung, 2nd ed. [Munich and Leipzig: Duncker & Humblot, 1926]). These changes of data could serve as a complete explanation only if it could be shown that the successive phases of the trade cycle are conditioned by a series of such changes, following each other in a certain order.
+
+27 Cf. A. Aftalion, Les crises périodiques de surproduction (Paris: Marcel Rivière, 1913), bks. 2–6, chaps. 3 to 8; and D.H. Robertson, Industrial Fluctuations (London: P.S. King, 1915), p. 14.
+
+28 Cf. T.N. Carver, Quarterly Journal of Economics (1903–04): 492; A. Aftalion, Journal d’Economie Politique (1909): 215 ff.; Mitchell, Business Cycles; and Robertson, Industrial Fluctuations, p. 122 ff.
+
+29 Cf. Robertson, Industrial Fluctuations, p. 31 et seq.
+
+30 Risk and Risk Bearing (Chicago: University of Chicago Press, 1923), p. 72. See also Mr. Hardy’s reply to the above criticism in the revised 2nd edition (1931), of the same book (p. 94), which, however, does not seem to solve the fundamental difficulty.
+
+31 Hardy, Risk and Risk Bearing, p. 73.
+
+32 Ibid. my emphasis.
+
+33 In revising the above paragraphs my notice has been called to the fact that they are in many respects in accordance with the reasoning of S. Budge in his Grundzüge der theoretischen Nationalökonomie (Jena: Gustav Fischer, 1925), p. 201 et seq.) to which I should therefore like to call attention.
+
+34 Cf. the very effective remarks of W. Eucken in his interesting viva-voce report to the Zurich Assembly of the Verein für Sozialpolitik (Schriften des Vereins für Sozialpolitik 175 [1928], p. 295 et seq.).
+
+35 “Krisen,” in Handwörterbuch der Staatswissenschaften, 4th ed., vol. 6 (1925), p. 81.
+
+36 It is, however, not inconceivable, theoretically, that sudden and violent fluctuations in the volume of saving might give rise to the phenomena of a crisis during their downward swings. On this point, see below chap. 5, p. 111.
+
+37 Spiethoff, “Krisen,” p. 76. My italics. The same general view, though in a somewhat different connection, has since been expressed by Mr. J.M. Keynes in several passages of his Treatise on Money (2 vols.; London: Macmillan, 1930). Cf., for example, vol. 1, p. 175 and esp. p. 279: “There is, indeed, no possibility of intelligent foresight designed to equate savings and investment unless it is exercised by the banking system.”
+
+38 Elements of the same reasoning can also be found in G. Cassel, Theory of Social Economy, 4th German ed. (1927), p. 575; when he derives high conjuncture from an overestimate of the supply of capital (i.e., savings) which is available to take over the supply of real capital produced.
+
+39 Cf. A.C. Pigou, Industrial Fluctuations (London: Macmillan, 1927; 2nd ed. 1929), and also O. Morgenstern, “Qualitative und Quantitative Konjunkturforschung,” Zeitschrift für die gesamte Staatswissenschaft 84 (1928).
+
+40 Cf. Spiethoff, “Krisen,” pp. 77–78 and 81.
+
+41 “Volume of money,” in this connection, does not mean merely the quantity of money in circulation but the volume of the money stream or the effective circulation (in the usual terminology—quantity times velocity of circulation). Even so, certain changes in the effective circulation may have no disturbing effect because of certain compensating changes in business organization. On this point see my Prices and Production, Lecture 4.
+
+42 This dissolution of the “closedness” of the system, arising because a change in the volume of money is a one-sided change in demand unaccompanied by an equivalent change in supply, does not mean of course that Lowe’s plea for an “open” system (“Wie ist Konjunkturtheorie überhaupt möglich”) has been granted. (Lowe thinks of a system when one or several “independent variables” are drawn in for explanation.) This plea, which one is tempted to believe has been dictated by a desire to free theory from the trammels of exact deduction, has been justly and strongly criticized by E. Carell (Sozialökonomische Theorie und Konjunkturproblem, pp. 2 et seq. and 115).
+
+43 For a detailed criticism of a representative specimen of modern underconsumption theories, that of Messrs. W.T. Foster and W. Catchings, see my article on “The ‘Paradox’ of Saving,” Economica 32 (May 1931).
+
+44 “Die Quantitätstheorie, insbesondere in ihrer Verwertbarkeit als Haussetheorie,” Festgaben für A. Wagner zur 70 Wiederkehr seines Geburtstages (Leipzig: Hinrich, 1905), pp. 299 et seq.
+
+45 F. Burchardt, A. Lowe, and other more recent critics of monetary trade cycle theory, also fall within this category. They recognize no other kind of monetary influence than that which manifests itself through changes in the price level; and as a result of this undoubtedly false conception they quite definitely conclude that there can be no such thing as pure monetary trade cycle theory. In their view the theories that are usually so called nearly always depend, in fact, on what they regard as non-monetary factors.
+
+46 The assertion that changes in the general level of prices must always originate on the monetary side, as is argued for example by Professors G. Cassel and Irving Fisher, obviously depends on circular reasoning. It starts from the postulate that the amount of money must be adjusted to changes in the volume of trade in such a way that the price level shall remain unchanged. If it is not, and the volume of money remains unaltered, then, according to this remarkable argument, the latter becomes the cause (!) of changes in the price level. This statement is made quite baldly by Professor G. Cassel in his book Money and Foreign Exchange After 1914 (London: Constable, 1922).
+
+47 F. Wieser in “Der Geldwert und seine geschichtlichen Veränderungen,” Zeitschrift für Volkswirtschaft Sozialpolitik und Verwaltung 13 (1904): 57, reprinted in F. Wieser, Abhandlungen (Tubingen: Mohr, 1929), p. 178, has dealt with the special effects of a “one-sided money supply.”
+
+48 An Enquiry into the Nature and Effects of the Paper Credit of Great Britain (London: J. Hatchard, 1802), esp. pp. 287 et seq. This is one of the most remarkable accomplishments in monetary theory, and still commands great attention; cf. the references to it by K. Wicksell in the preface to the second volume of his Vorlesungen über Nationalökonomie auf Grundlage des Marginalprinzipes (Jena: Gustav Fischer, 1922), p. xii; and Burchardt, op. cit. For a fuller discussion of these earlier theories, see my Prices and Production, p. 11 f; p. 205 in this volume.
+
+49 Cf. “The high price of bullion” (Economic Essays, ed. E.K.C. Gonner [London: G. Bell and Sons, 1923], p. 35), where Ricardo says that “interest would, during that interval be under its natural level,” and also chap. 27 of his Principles (included in The Works of David Ricardo, ed. J.R. McCulloch [London” John Murray, 1846], p. 220), which for a long time have passed almost unnoticed but which already contained much of what is set out in later theories.
+
+50 Theory and Practice of Banking (London: Longmans, Green, Reader and Dyer, 1855) and later editions. See particularly vol. 2, pp. 278 et seq.
+
+51 For H. Sidgwick, R. Giffen, and J.S. Nicholson, cf. J.W. Angell’s Theory of International Prices: History, Criticism and Restatement (Cambridge, Mass.: Harvard University Press, 1926), pp. 117–22.
+
+52 Cf. his evidence before the various Parliamentary Commissions, which is collected in the volume Official Papers by Alfred Marshall (London: Macmillan, 1926), esp. pp. 38–41, 45, 46 et seq., 273 et seq., as well as the later account in Money, Credit, and Commerce (London: Macmillan, 1926), pp. 255–56.
+
+53 Especially in Geldzins und Güterpreise (Jena: Gustav Fischer, 1898), as well as in the second volume of his later Vorlesungen, already quoted, which has not had the influence it deserved, mainly on account of the exceedingly bad German translation in which it appeared. I had unfortunately no means of access to the other Swedish works connected with that of Wicksell, which should certainly not be overlooked if one is to achieve a complete survey of the development of this theory.
+
+54 Theorie des Geldes und der Umlaufsmittel, 1st ed. (Munich: Duncker & Humblot, 1912; 2nd ed., 1924); also the more recent Geldwertstabilisierung und Konjunkturpolitik (Jena: Gustav Fischer, 1928).
+
+55 Professor A. Hahn, whose views regarding trade cycle theory (put forward in Volkswirtschaftlichen Theorie des Bankkredits [Tübingen: Mohr, 1920]) are in some respects similar to those of Professor Mises, cannot be considered here, since we are unable to follow him in all those points in which he differs from the latter. Similar theories have also been put forward quite recently by Professors W. Röpke and S. Budge.
+
+56 See, e.g., Geldzins und Güterpreise, p. 125.
+
+57 Ibid., p. 126.
+
+58 Ibid., p. 93 and also Vorlesungen, vol. 2, p. 220.
+
+59 Similarly also W. Eucken, Schriften des Vereins für Sozialpolitik 175, pp. 300 et seq.
+
+60 Wicksell’s justification of this view in Geldzins und Güterpreise (see p. 97) is incomprehensible to me.
+
+61 R. Stucken in his Theorie der Konjunkturschwankungen (Jena: Gustav Fisher, 1926), p. 26, was one of the first to draw attention to the fact that the relation, indicated by Wicksell, between a money rate of interest diverging from the natural rate, and movements in the price level only exists in a stationary economy; while, if the flow of goods is increasing, only an addition to purchasing power can secure stability in the price level. He remains, however, entirely steeped in the prevalent opinion that a stable price level is indispensable to undisturbed economic development, and therefore holds that the additional money necessary to secure that condition cannot be regarded as an element of disturbance in the economic process. Similarly Mr. D.H. Robertson pointed out at about the same time (Banking Policy and the Price Level [London: P.S. King, 1926], p. 99) that the rate of interest that keeps the price level stable need not coincide with that which equates the supply of savings with the demand for capital. I am now informed that, even before the war, this objection formed the basis of a criticism directed by Professor David Davidson of Upsala against Wicksell’s theory. Professor Davidson’s article and the subsequent discussion with Wicksell in the Swedish Economisk Tidskrift are, however, inaccessible to me.
+
+62 If one follows C. Menger and now Professor Mises in disregarding ordinary usage and including in the theory of the value of money all influences of money on prices, instead of restricting it to an explanation of the general purchasing power of money (by which is understood the absolute level of money prices as distinct from the relative prices of particular goods) then it is correct to say that any economic theory of money must be a theory of the value of money. But this use of the phrase is hardly opportune, for “value of money” is usually taken to mean “general purchasing power,” while monetary theory has by no means finished its work when it has explained the absolute level of prices (or, as Wicksell would call it, the “concrete” level); its far more important task is to explain those changes in the relative height of particular prices which are conditioned by the introduction of money. On the other hand, to avoid any possible misunderstanding we must particularly insist at this point that in the sense of the famous contrast between such nominalistic theories as the “state theory” of Knapp, and the catallactic theories in general, the monetary theory we are seeking will also have to be exclusively a “theory of money values.” In justice to Menger and Mises, it should be pointed out that what they mean when they speak of the stability of the “inner” value of money, has nothing to do with any measurable value, in the sense of some price level; but is only another and, as it seems to me, misleading, expression for what I now prefer to call neutrality of money. (Cf. my Prices and Production, pp. 27–28; and pp. 217–19 in this volume, and passim.) This expression, first used by Wicksell in the passage quoted earlier in the text, has of late become fairly common in German and Dutch writings on money. Cf. L. v. Bortkiewicz, Die Frage der Reform unserer Währung 6 (1919): 57–59; W.G. Behrens, Das Geldschöpfungsproblem (Jena: Gustav Fischer, 1928), pp. 228 et seq., 286 and 312; G.M. Verrijin Stuart and J.G. Koopmans in the reports and discussions of the 1929 meeting of the “Vereinigung voor de Staathuishoudkunde en de Statistik.”
+
+63 Professor Mises recently admitted this, in principle, when he explicitly emphasized the fact that every new issue of circulating media brings about a lowering of the money rate of interest in relation to the natural rate (Geldwertstabilisierung und Konjunkturpolitik, p. 57).
+
+64 Cf. also my article, “Das intertemporale Gleichgewichtssystem der Preise und die Bewegungen des Geldwertes.”
+
+65 “Über den Einfluss monetärer Faktoren auf den Konjunkturzyklus,” pp. 361–68.
+
+66 Ibid., p. 366.
+
+67 As is maintained by Professor Lowe (“Wie ist Konjunkturtheorie überhaupt möglich,” p. 364).
+
+68 On the development of this point of view, see chap. 1 of my Prices and Production.
+
+69 We cannot, therefore, regard Mises’s pronouncement at the Zurich debate of the Verein für Sozialpolitik as a surrender of the monetary standpoint. On this occasion, he not only admitted but indeed emphasized the fact that monetary causes can only act by producing a “lag” between various prices, wages, and interest rates. (Cf. “Verhandlungen des Vereins für Sozialpolitik in Zurich,” Schriften des Vereins für Sozialpolitik 175 [1929].)
+
+70 It is not essential, as Burchardt maintains (op. cit., p. 124) to base this analysis on any particular theory of interest, such as that of Böhm-Bawerk; it is equally consonant with all modern interest theories. The reason why, under the circumstances assumed, interest fails to equilibrate production for the future and production for the present, is bound up not with the special form in which interest in general is explained, but with the deviations, due to monetary causes, of the current rate of interest from the equilibrium rate.
+
+71 “Wie ist Konjunkturtheorie überhaupt möglich,” p. 365 et seq.
+
+72 That Professor Lederer himself sees this clearly is evident from his analysis, mentioned earlier, contained in the Grundriss der Sozialökonomik, pp. 390–91.
+
+73 Cf. Mises’s presentation of the social effects of changes in the value of money, Theorie des Geldes und der Umlaufsmittel, pp. 178–200.
+
+74 This expression occurs in connection with a review of E. v. Bergmann’s “Geschichte der Nationalökonomischen Krisentheorien,” in Zeitschrift für Volkswirtschaft, Sozialpolitik und Verwaltung 7 (1898): 112.
+
+75 Vorlesungen, vol. 2, p. 238; Wickell’s review of Cassel’s textbook, which has since appeared in a German translation (Schmollers Jahrbuch für Volkswirtschaft, Gesetzbebung und Verwaltung 53 [1928]), shows that, although he rights opposes Cassel’s general system, he agrees to a large extent with his theory of the trade cycle.
+
+76 The term “equilibrium rate of interest” which, I believe, was introduced into Germany in this connection, by K. Schlesinger in his Theorie der Geld und Kreditwirtschaft (Munich and Leipzig: Duncker & Humblot [1914], p. 128) seems to me preferable in this case to the usual expression of “natural rate” or “real rate.” Alfred Marshall used the term “equilibrium level” as early as 1887 (cf. Official Papers of Alfred Marshall, p. 130). Cf. also the next chapter here.
+
+77 Mr. R.G. Hawtrey regards the following theses as important for monetary trade cycle theories: (1) That certain monetary and credit movements are necessary and sufficient conditions of the observed phenomena of the trade cycle; and (2) that the periodicity of those phenomena can be explained by purely monetary tendencies which cause the movements to take place successively and to be spread over a considerable period of years (“The Monetary Theory of the Trade Cycle and its Statistical Test,” Quarterly Journal of Economics 41, no. 3 [May 1927]: 472). This entirely correct definition of Mr. Hawtrey’s should have prevented Dr. Burchardt and Professor Lowe, who expressly fasten on this point in their criticism of monetary trade cycle theories, from looking from monetary influences to changes in the general value of money, while disregarding the changes in the distributive process which are conditioned by monetary causes.
+
+78 Studien zur Theorie und Geschichte der Wirtschaftskrisen (Munich, 1908), p. 3.
+
+79 Der gegenwärtige Stand der Konjunkturforschung in Deutschland, p. 349.
+
+80 Cf. Neisser, Der Tauschwert des Geldes (Jena: Gustav Fischer, 1928), p. 161.
+
+81 While it seems to me that in the analysis of the effects of a money rate of interest diverging from the natural rate, Professor Mises has made considerable progress as compared with the position adopted by Wicksell, the latter succeeded better than Mises did in explaining the origin of this divergence. We shall go into Wicksell’s explanation in somewhat more detail below.
+
+82 Part of the two following paragraphs repeats word for word my contribution to the discussion on “Credit and the Trade Cycle” at the Zurich Assembly of the Verein für Sozialpolitik (cf. Schriften des Vereins für Sozialpolitik, vol. 175, pp. 370–71).
+
+83 This fact has already been pointed out by the representatives of the Banking School, and later by C. Juglar, Du change et de la liberté d’émission (Paris: Guillaumin, 1868), chap. 3, passim; and Des crises commerciales et leur retour périodique, 2nd ed. (Paris: Guillaumin, 1889), p. 57. Wicksell, Geldzins und Güterpreise, p. 101, also points, first of all, to the deposit business of the banks as the cause of the “elasticity” of the volume of currency media.
+
+84 As it is impossible to deal exhaustively with this problem, it must be sufficient to draw attention to the main literature of the subject. The first author known to me who definitely stated that “the balances in the bank are to be considered in very much the same light with the paper circulation,” was Henry Thornton (see his evidence before the Committee on the Bank Restriction, 1797). The development of a more definite theory of credit creation by the banks began, however, with the criticisms leveled by the Banking School against the Currency School, and represent the former’s only correct contribution to the science of economics. As Professor T.E. Gregory has recently shown (introduction to Tooke and Newmarch’s History of Prices [London: P.S. King, 1928], pp. 11 et seq.) it was James Pennington who originally developed this thesis, first in an appendix to T. Tooke’s Letter to Lord Grenville on the Effects ascribed to the Resumption of Cash Payments (London: Murray, 1829), then in further contributions to R. Torrens’s Letter to the Rt. Hon. Viscount Melbourne (London, 1837) and finally in an appendix to the third volume of Tooke’s History of Prices, and the State of Circulation, in 1838 and 1839 (London: Longman, Brown, Green, and Longmans, 1840). If one wanted to trace the further progress of this theory during the nineteenth century, one would have to draw particular attention to the writings of H.D. Macleod (cf., in particular, his Dictionary of Political Economy [London: Octavo edition, 1863], article on Credit), C.F. Dunbar and F. Ferrara.
+
+Modern developments follow the exposition of H.J. Davenport, The Economics of Enterprise (New York: Macmillan, 1915), pp. 250 et seq.; and mention should, in particular, be made of C.A. Phillips’s, Bank Credit (New York: Macmillan, 1920), esp. chap. 3, “The Philosophy of Bank Credit”; W.F. Crick, “The Genesis of Bank Deposits,” Economica 7, no. 20 (June 1927); and R.G. Rodkey, The Banking Process (New York: Macmillan, 1928). Apart from these, we must include in our list the well-known works of Hartley Withers, Irving Fisher, and R.G. Hawtrey and, in German literature, K. Wicksell, Geldzins und Güterpreise, p. 101; A. Weber, Depositenbanken und Spekulationsbanken, 2nd ed. (Munich: Duncker & Humblot, 1922); the works which we have already mentioned by Mises and Hahn, G. Haberler’s essay on the latter “Hahns Volkswirtschaftliche Theorie des Bankkredits,” Archiv für Sozialwissenschaften 57 (1927); and, finally, H. Neisser, Der Tauschwert des Geldes (Jena: Gustav Fischer, 1928).
+
+The theory has been severely criticized especially by Professor Cannan, W. Leaf, and more recently by R. Reisch, “Die ‘Deposit’-Legende in der Banktheorie,” Zeitschrift für Nationalökonomie 1 (1930).
+
+85 Cf. Phillips, Bank Credit, p. 50.
+
+86 R. Reisch in “Die Wirtschaftliche Bedeutung des Kredites im Lichte von Theorie und Praxis,” Mitteilungen des Verbandes Österreichischen Banken und Bankiers, 10th year, nos. 2–3 (1928), p. 38 and A. Jöhr in his verbal report on Credit and the Cycle, in the Zurich Assembly of the Verein für Sozialpolitik, Schriften, vol. 175, p. 311.
+
+87 As Bouniatian, evidently for this reason, actually assumes (cf. his essay, “Industrielle Schwankungen, Bankkredit und Warenpreise,” Archiv für Sozialwissenschaften und Sozialpolitik 58 [1927]: 463).
+
+88 The maximum amount of credit, to the creation of which the increase in the cash holdings of the banks may give rise under such an assumption, is easily found by inserting the factor representing the proportion of the original deposit which is re-lent and redeposited with another bank into the mathematical formula expressing the limit which a convergent geometrical series approaches, viz., The result gives the total of credits that originate in the series of transactions, including the original deposit; and, in order to arrive at the amount of additional credits, 1 has to be subtracted from the result. It is thus easily seen that even if, for example, only 1/9th of the 90 percent re-lent by the first bank, or 10 percent of the original deposit, is re-deposited with another bank—and this process is repeated, additional credits amounting to 0.111 times the original deposit will be created.
+
+89 On this question, and on the interesting effects of a transference of deposits from one bank to another, cf. the more elaborate treatment of Phillips, Bank Credit, p. 64 et seq.; also the remarks of Crick, “The Genesis of Bank Deposits,” p. 196.
+
+90 Neisser (Der Tauschwert des Geldes, p. 53) deserves credit for clearing up an untenable conception, which was quite recently held by no less an authority than Professor J. Schumpeter (Theorie der wirtschaftlichen Entwicklung, 2nd ed. [Munich and Leipzig: Duncker & Humblot, 1926], p. 144).
+
+91 Cf., for example, Walter Leaf, the late chairman of the Westminster Bank, in his book Banking (London: Williams & Norgate, 1926), or the contributions of A. Jöhr and B. Dernburg to the Zurich Debate on the Trade Cycle (Schriften des Vereines für Sozialpolitik 175 [1929]: 311 and 329). These arguments were perfectly correctly answered by another “practical” banker, K. Schlesinger (ibid., p. 355). Professor A. Hahn, on the other hand, falls into the opposite error. The standpoint of Professor R. Reisch will be discussed later.
+
+92 Neisser, Der Tauschwert des Geldes, p. 54. He goes on to say, quite correctly, that “the mere fact that cheque-deposits represent money, without being covered by cash up to 100 percent, already explains the money-creating nature of bank credit.”
+
+93 “Die Wirtschaftliche Bedeutung des Kredites im Lichte von Theorie und Praxis,” p. 39.
+
+94 “Industrielle Schwankungen, Bankkredit und Warenpreise,” p. 465.
+
+95 Dernburg, Schriften des Vereines für Sozialpolitik 175, p. 329. He merely adds to this statement the remark that the banks and the central bank should see to it that this expansion is “kept in order”!
+
+96 “A great variety of causes,” observes R.G. Hawtrey, very correctly in Trade and Credit (London: Longmans, 1928), p. 175.
+
+97 Regarding the influence of harvests on the trade cycle, cf. the useful compilation of various contradictory theories by V.P. Timoshenko, “The Role of Agricultural Fluctuations in The Business Cycle,” Michigan Business Studies 2, no. 9 (1930).
+
+98 It is of course possible that an improvement in the conditions of production and profit-making will also indirectly cause an increased flow of cash to the banks, for a flow of funds for investment, as well as an increased flow of payments for goods, can be expected from abroad. But, in the first place, this increased flow of cash can only be expected in a comparatively late stage of the boom, so that it can hardly explain the latter’s origin; and in the second place, such an explanation could only be adduced in the case of a single country, and not for the world economy as a whole, or in a closed system.
+
+99 The problems with which the manager of a single bank is confronted in deciding the bank’s credit policy are very neatly analysed by Mr. W.F. Crick, “The Genesis of Bank Deposits,” p. 197, et seq.
+
+100 On this point see J.S. Lawrence, “Borrowed Reserves and Bank Expansion,” Quarterly Journal of Economics 42 (1928), where Mr. Phillips’s exposition, mentioned above, is extensively criticized; also the rejoinder of Mr. F.A. Bradford, published under the same title in the next volume (43) of the same journal.
+
+101 Cf. the statements contained in the well-known tenth yearly Report of the Federal Reserve Board, for 1923 (Washington, D.C.: Government Printing Office, 1924), p. 25:
+
+	This is the usual sequence—an increase of deposits being followed by an increase of the currency. Ordinarily the first effect of an increase in business activity upon the banking position is a growth in loans and deposits. ... There comes a time when the increase of business activity and the fuller employment of labor and increased pay rolls call for an increase of actual pocket money to support the increased wage disbursements and the increased volume of purchases at retail.
+
+
+
+102 Neisser (Der Tauschwert des Geldes, p. 162) doubts this, but his criticism results from an inadequate grasp of the effects of an unduly low money rate of interest. But even if he were right on this point, the arguments of monetary trade cycle theory would remain unaffected, since the latter, as is shown in the text, does not depend on this assumption for its proof.
+
+103 We need not stay to examine the case of a continuous increase in circulating media, which can only occur under a free paper standard.
+
+104 Cf. K. Wicksell, Geldzins und Güterpreise, p. 101, “The more elastic is the currency system the longer can a more or less constant difference persist between the two interest rates and the greater, therefore, will be the influence of this discrepancy on prices.”
+
+105 In a previous work (Die Währungspolitik der Vereinigten Staaten, p. 260), I have already dealt with the elasticity of bank credit as the cause of cyclical fluctuations. This view of its determining importance is now also put forward by Professor F.A. Fetter in a very interesting essay, “Interest Theories and Price Movements,” American Economic Review 17 (March 1927), supplement, see esp. pp. 95 et seq. Professor Fetter, of course, is also under the influence of the prevailing dogma, which holds that the existence of a stable price level is sufficient proof of the absence of all monetary influences. The crucial part of his argument, not having received the attention it deserves in recent monetary literature, is reprinted here:
+
+	The foregoing presents the extreme case of the expansion and contraction of bank loans in relation to prices, but in principle quite small changes in the loan policies of banks affecting the volume of commercial loans, discount rates, and percentages of reserves, are of the same nature. They cause and constitute inflation and deflation of the exchange medium and of commercial purchasing power, not originating in the amount of standard money but in the elasticity of banking loan funds. This word “elasticity” has long been used in discussions of banking policy to designate a quality assumed to be wholly desirable in bank note issues and customers’ credits, but with only vague suggestions as to what is the need, standard, or means, with reference to which bank loans should expand and contract.
+
+	Rather, it may be more exact to say, the tacit assumption has been that the bank loan funds should be elastic in response to the “needs of business.” But “the needs of business” appears to be nothing but another name for changes in customers’ eagerness for loans; and this eagerness increases when prices are beginning, or are expected, to rise and often continues to gather momentum while prices rise and until, because of vanishing reserve percentages (and other factors), the limit of this elasticity and also the limit of price increase are in sight. In this situation the most conservative business operations become intermixed with elements of investment speculation, motivated by the rise of prices and the hope of profit that will be made possible by a further rise. Throughout this process the much-esteemed elasticity of bank funds is the very condition causing, or making possible, the rising prices which stimulate the so-called “needs of business.” Truly a vicious circle, to be broken only by crisis and collapse when bank loans reach a limit and prices fall. (My italics)
+
+
+
+
+Further, we should point out the connection between our theory and a famous thesis of Mr. R.G. Hawtrey. The phrase “so long as credit is regulated with reference to reserve proportions, the trade cycle is bound to recur” (Monetary Reconstruction, 2nd ed. [London: Longmans, Green, 1926], p. 135) is undoubtedly correct, though perhaps in a sense somewhat different from that intended by the author; for a regulation of this volume of loans exclusively from the point of view of liquidity can never effect a prompt adjustment of the rates charged on loans to the changes in the equilibrium rate, and thus cannot help providing opportunities for the temporary creation of additional credits as soon as (at a given rate of interest) the demand for credit surpasses the accumulation of savings; that is, when the natural rate of interest has risen. See, finally, the remarks of Professor W. Röpke, Kredit und Konjunktur, p. 274.
+
+106 Besides Professor Mises’s Theorie des Geldes und der Umlaufsmittel we must mention the last chapter of S. Budge’s Gründzuge der Theoretischen Nationalökonomie (Jena: Gustav Fischer, 1925) and Professor Strigl’s paper on “Die Produktion unter dem Einfluss einer Kreditexpansion” in Schriften des Vereins für Sozialpolitik 173, no. 2 (1928), concerning trade cycle theory and business research, a volume that has been repeatedly quoted above. Since the above was written, I have tried to carry the analysis of these phenomena a step further in Prices and Production.
+
+107 Cf. my report, “Über den Einfluss monetärer Faktoren auf den Konjunkturzyklus,” Schriften des Vereins für Sozialpolitik 173, no. 2 (1928): 362 et seq.
+
+108 From now to the end of the section the exposition follows, in part word for word, my contribution to the Zurich discussion of the Verein für Sozialpolitik. Ibid., p. 372 et seq.
+
+109 Ibid., p. 369.
+
+110 Kredit und Konjunktur, p. 265.
+
+111 Ibid., p. 278
+
+112 Ibid., cf. esp. pp. 274 et seq. of the work mentioned.
+
+113 As Professor S. Budge seems inclined to do (Gründzuge der Theoretischen Nationalökonomie, p. 216). His exposition in other respects largely coincides with ours.
+
+114 Certain statements of Mr. R.G. Hawtrey seem to point to this, esp. Monetary Reconstruction, p. 121.
+
+115 Cf. Professor A.C. Pigou Industrial Fluctuations, 2nd ed., p. 145: “Banks do not in bad times reduce the amount of new real capital flowing to business men below what it would have been had there been no banks, but merely increase it to a smaller extent than they do in good times.”
+
+116 In this connection, apart from empirical research, the greatest consideration should be given to the plea made by O. Morgenstern (“Qualitative und Quantitative Konjunkturforschung,” p. 123 et seq.) for giving increased publicity to company developments.
+
+117 Cf. “Das intertemporale Gleichgewichtssystem der Preise und die Bewegungen des Geldwertes,” Weltwirtschaftliches Archiv (1928); and more specifically Prices and Production, where I have attempted to develop some of the points touched upon in this chapter.
+
+118 This notion rests on a confusion between the demand for money and the demand for cash, i.e., that portion of the total amount of money which at any given moment is utilized in cash, and which undergoes sharp seasonal fluctuations. This phenomenon, however, is itself a consequence of the use of bank credit. For a somewhat more detailed discussion of these problems, cf. Lecture 4, of Prices and Production.
+
+119 The best confirmation of this view is given by Mr. G. Heinze, who, in his recent study, Static or Dynamic Interest Theory (Leipzig: H. Beyer, 1928), comes to the correct conclusion that “In spite of all the partly justified criticism that was leveled against the interest theory of Böhm-Bawerk, the latter still represents the most logically perfect economic explanation of the phenomenon of interest, and is, moreover the one which comes nearest to the observed facts” (p. 165).
+
+120 Cassel’s “System der Theoretischen Nationalökonomie,” Archiv für Sozialwissenschaften und Sozialpolitik 51 (1924): 348 et seq. In order to remain within the scope of our work, we have to forgo the very alluring task of criticizing Professor Cassel’s argument. Such a criticism would also have to deal with the very ingenious theoretical interpretation of this argument by Dr. G. Halm (“Das Zinsproblem am Geld- und Kapitalmarkt,” Jahrbücher far Nationalökonomie und Statistik, 3rd series, 70 [1926]: 16 et seq.) Here we may only point out that in this study, Halm is driven to make use of the old hypothesis that savings accumulate for a time and are then suddenly utilized “at the moment when the real boom begins” (p. 21).
+
+121 Cf. Dr. A. Lampe, Zur Theorie des Sparprozesses und der Kreditschöpfung (Jena: Gustav Fischer, 1926), p. 67 et seq.
+
+122 “Interest Theories and Price Movements,” esp. p. 78. Cf. also Lecture 3 of Prices and Production.
+
+123 “Capital disposable for investment” was the phrase usually employed by the classical writers to distinguish this free capital from the stock of real capital. Cf., e.g., J.S. Mill, Essays on Some Unsettled Questions of Political Economy (London: Parker, 1844), pp. 113 ff.
+
+124 Cf. the works of Professor Röpke and Dr. Burchardt, mentioned above; also E. Egner, Zur Lehre vom Zwangsparen (1928), p. 537. Occasionally Wicksell (Geldzins und Güterpreise, p. 111) also uses the expression “normal rate.”
+
+125 Cf. esp. Appreciation and Interest. Publications of the American Economic Association, 3rd series, 11, no. 4 (1896).
+
+126 Vorlesungen, vol. 2, p. 220.
+
+127 Geldzins und Güterpreise, p. 93.
+
+128 Das Zinsproblem am Geld- und Kapitalmarkt, Jahrbücher far Nationalökonomie und Statistik, p. 7, footnote.
+
+129 Depositenbanken und Spekulationsbanken, 3rd ed. (1922), p. 171.
+
+130 Another attempt to develop Wicksell’s theory—of which I have learned only since the above was written—was made, at roughly the time when Mises’s work was published, by Professor M. Fanno of Padua in a work entitled Le banche e il mercato monetario (Rome: Athenaeum, 1913). An abridged restatement of Professor Fanno’s theory will shortly appear, in German, in a volume of essays on monetary theory by a number of Dutch, Italian, and Swedish authors, edited by the author of the present essay.
+
+131 Very instructive investigations of the problems considered here were carried out by A. Lampe, Zur Theorie des Sparprozesses und der Kreditschöpfung.
+
+132 The argument presented in the text (and put in this form for brevity’s sake) is imperfect in two respects. First, the flow of voluntary saving can itself vary as a result of a single change in the proportion of capital formation. This factor, however, is unlikely to become important enough for its omission to affect the exposition given in the text. Second, the way in which the additional money, which was given in the first instance to entrepreneurs and used by them to lengthen the period of production, will always swell incomes in the long run, needs further elaboration. As a general proposition, however, it is obvious that whoever uses the additional credits to make additional investment goods can do so only by employing additional factors of production; and therefore, since there is in our case no compensating decrease in the demand for factors elsewhere, the total incomes of the factors must increase.
+
+133 Cf. my article on “The ‘Paradox’ of Saving,” p. 160; p. 133 and passim in this volume.
+
+134 Besides Léon Walras—the originator of this theory (Cf. his Etudes d ’économie politique appliquée [Lausanne and Paris, 1898, pp. 348–56], Wicksell and the well-known works of Professors Mises and Schumpeter, one must mention the recent works of Professor Röpke, Dr. Egner, and Dr. Neisser; and in Anglo-Saxon literature, Mr. D.H. Robertson’s Banking Policy and the Price Level. As I have pointed out, however, in Lecture 1 of Prices and Production and—at somewhat greater length—in “A Note on the Development of the Theory of Forced Saving,”Quarterly Journal of Economics (November 1932), the concept of “forced saving” was already known to J. Bentham, H. Thornton, T.R. Malthus and a number of other writers in the early nineteenth century, down to J.S. Mill.
+
+135 Cf. D.H. Robertson, Money, 2nd ed. (London: Macmillan, 1929), p. 99 and A.C. Pigou, Industrial Fluctuations, 2nd ed. (London: Macmillan, 1929), pp. 251–57.
+
+136 The existence of new long processes that have not yet been completed is not a necessary condition in order that the relative increase in the demand for consumers’ goods may lead to the abandonment of such processes and, therefore, to the destruction of part of the capital employed there; but it is the case that will always be given in practice and where this effect is most easily seen. In this connection it should, however, be noted that the introduction of a longer roundabout process of production will, in almost all cases, affect not only a single enterprise but a series of enterprises representing successive stages of production. Even a completed plant may, in this sense, represent part of an incomplete process—if the capital is lacking which would have to be invested in the machines or other capital goods to be produced by this plant. A plant equipped to satisfy a demand for machinery that cannot be permanently maintained is, in this sense, part of a roundabout process that cannot be continued. For a fuller description, see Prices and Production, Lecture 3, and especially my article “Kapitalaufzehrung” in the Weltwirtschaftliches Archiv 36 (July 1932).
+
+137 “Das Zinsproblem am Geld und Kapitalmarkt.” Of the comprehensive bibliography given by Halm, the following, together with some more recent additions, are worth mention: A. Spiethoff: (1) “Die äussere Ordnung des Kapital und Geldmarktes,” (2) “Das Verhältnis von Kapital, Geld und Güterwelt,” (3) “Der Kapitalmangel in seinem Verhältnis zur Güterwelt,” all in Schmoller’s Jahrbuch 33 (Munich, 1909), and “Der Begriff des Kapital und Geldmarktes,” Schmoller’s Jahrbuch 44 (1920). H. von Beckerath Kapital und Geldmarkt (Jena: Gustav Fischer, 1916).
+
+Professor Schumpeter’s, Dr. Neisser’s, and Professor Fetter’s works already mentioned; A. Hahn, “Zur Theorie des Geldmarktes,” Archiv für Sozialwissenschaften und Sozialpolitik 51 (1924). Karin Kock, “A Study of Interest Rates,” Stockholm Economic Studies no. 1 (London: P.S. King, 1929).
+
+W.W. Riefler, Money Rates and Markets in the United States (New York and London: Harper and Brothers, 1930).
+
+The problems arising out of empirical research are well summarized by O. Donner and A. Hanau, “Untersuchung zur Frage der Marktzusammenhänge,” Vierteljahrshefte zur Konjunkturforschung, 3rd year, no. 3 A (Institut für Konjunkturforschung, Berlin 1928), an investigation which is a model of its kind.
+
+138 Cf. “Das intertemporale Gleichgewichtssystem der Preise und die Bewegungen des Geldwertes.”
+
+139 The statistical determination of nominal changes in the interest rate is also rendered very difficult by the fact that changes can take place in the form of changes in stipulations as to the quality of the bills discounted at a given rate, and so on. The same rate may be merely applied to a better class of borrowers, or the same borrowers may be required to pay a higher rate.
+
+140 Cf., e.g., Snyder, “The Influence of the Interest Rate on the Business Cycle,” American Economic Review 15 (December 1925); reprinted in Business Cycles and Business Measurements (New York: Macmillan, 1927).
+
+141 Cf. first of all A.A. Young, “An Analysis of Bank Statistics for the United States,” reprinted from The Review of Economic Statistics (October 1924; January; and April 1925; and July 1927; Cambridge, Mass.: Harvard University Press, 1928); H. Working, “Prices and the Quantity of the Circulating Medium, 1890–1921,” The Quarterly Journal of Economics 37 (1923), and “Bank Deposits as a Forecaster of the General Wholesale Price Level,” The Review of Economic Statistics (1926), of the same author; C. Snyder, “Deposits Activity as a Measure of Business Activity,” Review of Economic Statistics (1924), reprinted in Business Cycles and Business Measurements (New York: Macmillan, 1927); W.M. Persons, “Cyclical Fluctuations of the Ratio of Bank Loans to Deposits,”The Review of Economic Statistics (1924); L.A. Hahn,“Zur Frage des volkswirtschaftlichen Erkenntnisinhaltes der Bankbilanzziffern,” Vierteljahrshefte zur Konjunkturforschung 1, no. 4 (1927).
+
+142 Cf. the instructive graphs given by Harold L. Reed in his Federal Reserve Policy 1921–1930 (New York: McGraw-Hill, 1930), pp. 181 et seq.
+
+143 Mathematically speaking, the question is one of the graphical presentation, in place of the curve showing the original movements at any moment, of the first differential of this function. On the subject of this method, which has been frequently used of late, cf. I. Fisher, “The Business Cycle Largely a ‘Dance of the Dollar’,” Journal of the American Statistical Association (December 1923).
+
+
+
+
+

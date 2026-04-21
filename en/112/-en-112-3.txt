@@ -1,0 +1,1051 @@
+3 BUILDING CHARACTER: Characterization, Part I
+
+3: Building Character
+
+
+
+
+
+CHARACTERIZATION, PART I
+
+
+
+Direct Methods of Character Presentation
+
+Dialogue
+
+Summary, Indirect and Direct
+
+Dialogue as Action
+
+Text and Subtext
+
+“No” Dialogue
+
+Pacing
+
+Format and Style
+
+Vernacular
+
+Appearance
+
+Action
+
+Thought
+
+Human character is in the foreground of all fiction, however the humanity might be disguised. Attributing human characteristics to the natural world may be frowned on in science, but it is a literary necessity. Bugs Bunny isn’t a rabbit; he’s a plucky youth in ears. Peter Rabbit is a mischievous boy. Brer Rabbit is a sassy rebel. The romantic heroes of Watership Down are out of the Arthurian tradition, not out of the hutch.
+
+Your fiction can be only as successful as the characters who move it and move within it. Whether they are drawn from life or are pure fantasy—and all fictional characters lie somewhere between the two—we must find them interesting, we must find them believable, and we must care what happens to them.
+
+
+
+DIRECT METHODS OF CHARACTER PRESENTATION
+
+There are six basic methods of character presentation. The four direct methods—dialogue, appearance, action, and thought—show us the characters as they speak, look, move, and feel. They will be discussed in this chapter, dialogue first and at length because it plays such an essential role in bringing characters to life and presents so many possibilities and difficulties to the writer. The indirect methods—authorial interpretation and interpretation by another character—will be discussed in chapter 4. Employing a variety of these methods can help you create full characters.
+
+
+
+DIALOGUE
+
+Speech characterizes in a way that is different from appearance, because speech represents an effort, mainly voluntary, to externalize the internal and to manifest not merely taste or preference but also deliberated thought. Like fiction itself, human dialogue attempts to marry logic to emotion.
+
+
+Summary, Indirect, and Direct Dialogue
+
+Speech can be conveyed in fiction with varying degrees of directness. It can be summarized as part of the narrative so that a good deal of conversation is condensed:
+
+
+Otto Stern encouraged little Józsi and János to follow Mihály’s example while there was still time, but a family council resolved that the two boys should not yet leave the family home. Ferenc and Ignác, on the other hand, were hoping to travel to Vienna and with someone’s influence ask for admission to the cadet school.
+
+
+
+
+
+—Miklós Vámos, The Book of Fathers
+
+
+
+
+It can be reported in the third person as indirect speech so that it carries, without actual quotation, the feel of the exchange:
+
+
+Had he brought the coffee? She had been waiting all day long for coffee. They had forgot it when they ordered at the store the first day. Gosh, no, he hadn’t. Lord, now he’d have to go back. Yes, he would if it killed him. He thought, though, he had everything else. She reminded him it was only because he didn’t drink coffee himself. If he did he would remember it quick enough.
+
+
+
+
+
+—Katherine Anne Porter, “Rope”
+
+
+
+
+But usually when the exchange contains the possibility of discovery or decision, and therefore of dramatic action, it will be presented in direct quotation:
+
+
+“But I thought you hardly knew her, Mr. Morning.”
+
+
+
+
+
+He picked up a pencil and began to doodle on a notebook page. “Did I tell you that?”
+
+
+
+
+
+“Yes, you did.”
+
+
+
+
+
+“It’s true. I didn’t know her well.”
+
+
+
+
+
+“What is it you’re after, then? Who was this person you’re investigating?”
+
+
+
+
+
+“I would like to know that too.”
+
+
+
+
+
+—Siri Hustvedt, “Mr. Morning”
+
+
+
+
+These three methods of presenting speech can be used in combination to take advantage of the virtues of each:
+
+
+They differed on the issue of the holiday, and couldn’t seem to find a common ground. (Summary.) She had an idea: why not some Caribbean island over Christmas? Well, but his mother expected them for turkey. (Indirect.)
+
+
+
+
+
+“Oh, lord, yes, I wouldn’t want to go without a yuletide gizzard.” (Direct.)
+
+
+
+
+
+Summary and indirect speech are often useful to get us quickly to the core of the scene, or when, for example, one character has to inform another of events that we already know, or when the emotional point of a conversation is that it has become tedious.
+
+
+Whenever it became necessary to get him some new clothing there would be a quarrel, and after much wrangling the two of them would drive off to one of the young men’s shops where he would be turned over to a clerk experienced in these situations, and finally, after all three of them were exhausted, the purchase was made. The argument in regard to the gray suit was typical.
+
+
+
+
+
+“I’ve already got a suit.”
+
+
+
+
+
+“But that’s a summer suit.”
+
+
+
+
+
+—Evan S. Connell, Mrs. Bridge
+
+
+
+
+But nothing is more frustrating to a reader than to be told that significant events are taking place in talk and to be denied the drama of the dialogue.
+
+
+They whispered to each other all night long, and as he told her all about his past, she began to realize that she was falling in love with him.
+
+
+
+
+
+Such a summary—it’s telling—is a stingy way of treating the reader, who wants the chance to fall in love, too.
+
+Because direct dialogue has a dual nature—emotion within a logical structure—its purpose in fiction is never merely to convey information. Dialogue may do that (although information often is more naturally conveyed in narration), but it needs simultaneously to characterize, provide exposition, set the scene, advance the action, foreshadow, or remind. William Sloane, in The Craft of Writing, says:
+
+
+There is a tentative rule that pertains to all fiction dialogue. It must do more than one thing at a time or it is too inert for the purposes of fiction. This may sound harsh, but I consider it an essential discipline. Call it Sloane’s law.
+
+
+
+
+
+With dialogue as with significant detail, when you write you are constantly at pains to mean more than you say. If a significant detail must both call up a sense image and mean, then the character’s words, which presumably mean something, should simultaneously suggest image, personality, or emotion.
+
+Dialogue, therefore, is not simply transcribed speech, but distilled speech. The “filler” we hear and overhear in live conversation (“phatic speech,” the opposite of “emphatic”) is edited away, even as the weight of implication is increased. It takes careful editing to create natural-sounding dialogue. Monologue in the right place can be a powerful tool, and some characters may be eloquent, but natural-sounding dialogue is probably ungrammatical; it may be full of slang, jargon, repetition, and various sorts of awkwardness. Generally, that means keeping things brief and paying attention to the rhythm of the sentences, which will itself reveal character, as will the failure or refusal to speak. A character who speaks several consecutive sentences might come across as a windbag (which of course may be your intention) or the author’s puppet. Often the first and last words, phrases, or sentences of a character’s speech can be eliminated. The character’s intentions and preoccupations will shine through because of the leaps they make in their dialogue, as well as the the things they can’t bring themselves to say aloud. Even rote exchanges, however, can call up images. A character who says, “It is indeed a pleasure to meet you” carries his back at a different angle, dresses differently, from a character who says, “Hey, man, what’s up?”
+
+I wonder why I do want to write about it, because I despise talk, and the people who talk, who tell others about themselves, and the dreadful necessity that pushes them to such confessions. They must talk. They must expose themselves. It helps them, and more horribly, it helps others.
+
+
+
+—M. F. K. Fisher
+
+
+
+The three brief speeches that follow portray three fictional men, sharply differentiated from each other not only by the content of what they say but also by their diction (choice and use of words) and their syntax (the ordering of words in a sentence) and the rhythms of their speech. These largely unconscious choices convey attributes of class, period, ethnicity, and so forth, as well as political or moral attitudes. How much do you know about each? How does each look?
+
+
+“I had a female cousin one time—a Rockefeller, as it happened—” said the Senator, “and she confessed to me that she spent the fifteenth, sixteenth, and seventeenth years of her life saying nothing but, ‘No, thank you.’ Which is all very well for a girl of that age and station. But it would have been a damned unattractive trait in a male Rockefeller.”
+
+
+
+
+
+—Kurt Vonnegut, God Bless You, Mr. Rosewater
+
+
+
+Lieutenant Axel’s reason for calling Anna back became clear on the first morning of training, when he hollered at the group of thirty-five volunteers, “The dress weighs two hundred pounds. The hat alone weighs fifty-six. The shoes together are thirty-five. Now, before you start rolling your eyes about carrying all that weight, you should know that that girl standing over there—she’s on the tall side, but she’s no Sherman tank, like a lot of the females you see around here—she not only wore the dress without bellyaching, walked in the dress without bellyaching, but she also untied a bowline on a bight wearing three-fingered gloves. How many of you gents can even tie a bowline on a bight?”
+
+
+
+
+
+—Jennifer Egan, Manhattan Beach
+
+
+
+“You think you the only one ever felt this way?” he asked. “You think I never felt this way? You think she never felt this way? Every last one of them back there one time in they life wanted to give up. She want to give up now. You know that? You got any idea how sick she is? Soon after he go, she’s going too. I won’t give her another year. I want her to believe he’ll be up there waiting for her. And you can help me do it. And you the only one.”
+
+
+
+
+
+—Ernest Gaines, A Lesson before Dying
+
+
+
+
+There are forms of insanity that condemn people to hear voices against their will, but as writers we invite ourselves to hear voices without relinquishing our hold on reality or our right to control. The trick to writing good dialogue is hearing voice. The question is, what would this particular person say? The answer is entirely in language. The choice of language reveals content, character, and conflict, as well as type.
+
+It’s logical that if you must develop voices in order to develop dialogue, you’d do well to start with monologue and develop voices one by one. Use your journal to experiment with speech patterns that will characterize. Some people speak in telegraphically short sentences missing various parts of speech. Some speak in convoluted eloquence or in rhythms tedious with qualifying phrases. Some rush headlong without a pause for breath until they’re breathless; others are measured or terse or begrudge even forming a sentence. Trust your “inner ear” and use your journal to practice catching voices. Freewriting is invaluable to dialogue writing because it is the manner of composition closest to speech. There is no time to mull or edit. Any qualifications, corrections, and disavowals must be made part of the process and the text.
+
+So sit for a moment with your character in mind. See him or her clearly. Put yourself inside the character and feel whatever feelings rise. Pick a phrase that character might use and start writing. Keep going. Write past the place you feel comfortable. If another character intrudes, let the monologue become an exchange but stay in the first character’s body and feelings. Pay no attention to whatever failure you may feel at catching the right voice, just keep going; a little longer; longer still. Put the pages away or save them in a folder, and go have a cup of coffee or take a nap. Come back and look it over. What can you salvage that really does sound like that person talking? If it’s as much or as little as line or two, you win.
+
+My characters have trouble communicating. They rarely say what they mean or argue for what they want. . . . In life, I wear my heart on my sleeve, but in fiction, I’m attracted to characters who have a tough time saying the things they wish they could say.
+
+
+
+—David James Poissant
+
+
+
+To increase your ability to “hear” dialogue, try carrying a small pocket notebook or using the “Notes” feature on your phone, and jotting vivid lines or exchanges of eavesdropped dialogue verbatim. At home, look back through your notebook for speech that interests you and freedraft a monologue in your writing journal. Don’t look for words that seem right; just listen to the voice and let it flow. You’ll begin to develop your own range of voices, whether you catch a particular voice or not; even “hearing” it go wrong may help develop your ear.
+
+You can also limber up in your journal by setting yourself deliberate exercises in making dialogue—or monologue—do more than one thing at a time. In addition to revealing character, dialogue can set the scene.
+
+
+“We didn’t know no one was here. We thought hit a summer camp all closed up. Curtains all closed up. Nothing here. No cars or gear nor nothing. Looks closed to me, don’t hit to you, J. J.?”
+
+
+
+
+
+—Joy Williams, “Woods”
+
+
+
+
+Dialogue can set the mood.
+
+
+“I have a lousy trip to Philadelphia, lousy flight back, I watch my own plane blow a tire on closed-circuit TV, I go to my office, I find Suzy in tears because Warren’s camped in her one-room apartment. I come home and I find my wife hasn’t gotten dressed in two days.”
+
+
+
+
+
+—Joan Didion, Book of Common Prayer
+
+
+
+
+Dialogue can reveal the theme because, as William Sloane says, the characters talk about what the story is about.
+
+
+“You’re so confusing,” he says. “I still want to know . . .”
+
+
+
+
+
+“No, you don’t.” She strokes his leg, stroking him silent.
+
+
+
+
+
+“Listen,” he says. “Do you ever get these black holes in your mind? I don’t mean in a dream. Sometimes I’m walking along or, just, I’m talking to someone, and all of a sudden I don’t know anything. It’s like my electricity shuts off. It’s pitch-black in my brain. Like, if I take a step I’ll fall into a pit.”
+
+
+
+
+
+—Sharon Solwitz, Once, In Lourdes
+
+
+
+
+In all of the preceding passages, the dialogue fulfills Sloane’s rule: in addition to conveying content, it either moves the story forward or enriches our understanding.
+
+The generalizing writer is like the passionate drunk, stumbling into your house mumbling: I know I’m not being clear, exactly, but don’t you kind of feel what I’m feeling?
+
+
+
+—George Saunders
+
+
+
+Dialogue is also one of the simplest ways to reveal the past (a fundamental playwriting device is to have a character who knows something tell a character who doesn’t), and it is one of the most effective, because we get both the drama of the memory and the drama of the telling. Here is a passage from Toni Morrison’s The Bluest Eye in which the past is evoked, the speaker characterized, the scene and mood set, and the theme revealed, all at the same time and in less than a dozen lines.
+
+
+“The onliest time I be happy seem like was when I was in the picture show. Every time I got, I went. I’d go early, before the show started. They’d cut off the lights, and everything be black. Then the screen would light up, and I’d move right on in them pictures. White men taking such good care of they women, and they all dressed up in big clean houses with the bathtubs right in the same room with the toilet. Them pictures gave me a lot of pleasure, but it made coming home hard, and looking at Cholly hard. I don’t know.”
+
+
+
+
+
+Be careful, however, that you don’t succumb to the temptation to slip exposition into dialogue by allowing the characters to discuss things they both already know just for the reader’s benefit.
+
+
+“I’ve missed you so much, Margie! It’s been over a month since we ran into each other at the Farmer’s Market. That was the day you told me that your grandson Eddie got into Julliard!”
+
+
+
+
+
+“Yes, Suzie, and wasn’t that right before the tornado came through town? We were so scared when that siren went off! Remember how we hid underneath the rickety table with the watermelons on it?”
+
+
+
+
+
+This kind of dialogue is both ridiculous and tedious. If we really need to know about the farmer’s market and Eddie and the tornado, tell us in exposition. Don’t weigh your characters’ dialogue down with tedious information.
+
+
+Dialogue as Action
+
+If the telling of a memory changes the relationship between the teller and the listener, then you have a scene of high drama, and the dialogue can advance the action.
+
+This is an important device, because dialogue is most valuable to fiction when it is itself a means of telling the story.
+
+In the following passage the mother of a seriously ill toddler looks anxiously to a radiologist for information:
+
+
+“The surgeon will speak to you,” says the Radiologist.
+
+
+
+
+
+“Are you finding something?”
+
+
+
+
+
+“The surgeon will speak to you,” the Radiologist says again. “There seems to be something there, but the surgeon will talk to you about it.”
+
+
+
+
+
+“My uncle once had something on his kidney,” says the Mother. “So they removed the kidney and it turned out the something was benign.”
+
+
+
+
+
+The Radiologist smiles a broad, ominous smile. “That’s always the way it is,” he says. “You don’t know exactly what it is until it’s in the bucket.”
+
+
+
+
+
+“In the bucket,” the Mother repeats.
+
+
+
+
+
+“That’s doctor talk,” the Radiologist says.
+
+
+
+
+
+“It’s very appealing,” says the Mother. “It’s a very appealing way to talk.”
+
+
+
+
+
+—Lorrie Moore, “People Like That Are the Only People Here”
+
+
+
+
+Here the radiologist’s speech alters the mother’s feeling toward him from hopeful to hostile in one short exchange. The level of fear for the child rises, and the dialogue itself has affected change.
+
+Dialogue is action when it contains the possibility of change. A crucial (and sometimes difficult) distinction to make is between speech that is mere discussion or debate and speech that is drama or action. If in doubt, ask yourself: Can this conversation between characters really change anything? When two characters have made up their minds and know each other’s positions on some political or philosophical matter, for instance, they may argue with splendid eloquence but there will be no discovery and nothing to decide, and therefore no opportunity for change. No matter how significant their topic, we are likely to find them wooden and uninteresting. The story’s question what happened next? will suggest only more talk:
+
+
+“This has been the traditional fishing spot of the river people for a thousand years, and we have a moral responsibility to aid them in preserving their way of life. If you put in these rigs, it may undermine the ecosystem and destroy the aquifer of the entire county!”
+
+
+
+
+
+“Join the real world, Sybil. Free enterprise is based on this kind of technological progress, and without it we would endanger the economic base.”
+
+
+
+
+
+Ho-hum. In order to engage us emotionally in a disagreement, the characters must have an emotional stake in the outcome; we need to feel that, even if it’s unlikely they will change their minds, they might change their lives.
+
+
+“If you sink that drill tomorrow morning, I’ll be gone by noon.”
+
+
+
+
+
+“Sybil, I have no choice.”
+
+
+
+
+
+Further, if you find your characters getting stuck in a repetitive conflict (yes-you-are, no-I’m-not), you can jump-start the action if you remember that people generally change their tactics—become charming, threatening, seductive, guilt-inducing, and so on—when they are not succeeding in getting what they badly want. And if each character in the scene wants something from the other (probably not the same thing), the momentum will build. It’s much harder, though not impossible, to maintain dramatic energy when one of the characters simply wants to get off stage.
+
+I love slang. I love hipster patois, racial invective, alliteration, argot of all kinds.
+
+
+
+—James Ellroy
+
+
+
+
+Text and Subtext
+
+Often the most forceful dialogue can be achieved by not having the characters say what they mean. People in extreme emotional states—whether of fear, pain, anger, or love—are at their least articulate. There is more narrative tension in a love scene where the lovers make anxious small talk, terrified of revealing their feelings, than in one where they hop into bed. A character who is able to say, “I hate you!” hates less than one who bottles the fury and pretends to submit, unwilling to expose the truth.
+
+Dialogue can fall flat if characters define their feelings too precisely and honestly, because often the purpose of human exchange is to conceal as well as to reveal—to impress, hurt, protect, seduce, or reject. Anton Chekhov believed that a line of dialogue should always leave the sense that more could have been said. Playwright David Mamet suggests that people may or may not say what they mean, but always say something designed to get what they want.
+
+In this example from Alice Munro’s “Before the Change,” the daughter of a doctor who performed illegal abortions up until his recent death takes a phone call:
+
+
+A woman on the phone wants to speak to the doctor.
+
+
+
+
+
+“I’m sorry. He’s dead.”
+
+
+
+
+
+“Dr. Strachan. Have I got the right doctor?”
+
+
+
+
+
+“Yes but I’m sorry, he’s dead.”
+
+
+
+
+
+“Is there anyone—does he by any chance have a partner I could talk to? Is there anybody else there?”
+
+
+
+
+
+“No. No partner.”
+
+
+
+
+
+“Could you give me any other number I could call? Isn’t there some other doctor that can—”
+
+
+
+
+
+“No. I haven’t any number. There isn’t anybody that I know of.”
+
+
+
+
+
+“You must know what this is about. It’s very crucial. There are very special circumstances—”
+
+
+
+
+
+“I’m sorry.”
+
+
+
+
+
+It’s clear here that neither woman is willing to mention abortion, and that the daughter will not (and probably could not) speak about her complicated feelings toward her father and his profession. The exchange is rich with irony in that both women, and also the reader, know the “special circumstance” they are guardedly referring to; only the daughter and the reader, however, are privy to the events surrounding the doctor’s death and to the daughter’s feelings.
+
+Notice that this is not a very articulate exchange, but it does represent dramatic action because for both women the stakes are high; they are both emotionally involved but in ways that put them at cross-purposes.
+
+The idea of “reading between the lines” is familiar to most people, for in life we tend to react more to what is implied in dialogue than to what is actually said. The linkage of text and subtext—that is, the surface, plot-related dialogue and its emotional undercurrent—was famously described by Ernest Hemingway with the analogy of an iceberg:
+
+
+There is seven-eighths of it under water for every part that shows. Anything you know you can eliminate and it only strengthens your iceberg. It is the part that doesn’t show.
+
+
+
+
+
+When an unspoken subject remains unspoken, tension continues to build in a story. Often the crisis of a story occurs when the unspoken tension comes to the surface and an explosion results. “If you’re trying to build pressure, don’t take the lid off the pot” too early, Jerome Stern suggests in his book Making Shapely Fiction. “Once people are really candid, once the unstated becomes stated, the tension is released.” He advises you to let the pot boil until we “feel the dialogue boil over.”
+
+
+“No” Dialogue
+
+The passage from Alice Munro also illustrates an essential element of conflict in dialogue: tension and drama are heightened when characters are constantly (in one form or another) saying “no” to each other. In the following exchange from Hilary Mantel’s Wolf Hall, Henry VIII and his fiancée Anne Boleyn are accosted outside a shrine by a Benedictine nun.
+
+
+“I am advised by Heaven,” she says, “by the saints with whom I converse, that the heretics around you must be put into a great fire, and if you do not light that fire, then you yourself will burn.”
+
+
+
+
+
+“Which heretics? Where are they? I do not keep heretics about my person.”
+
+
+
+
+
+“Here is one.”
+
+
+
+
+
+Anne shrinks against the king; against the scarlet and gold of his jacket she melts like wax.
+
+
+
+
+
+“And if you enter into a form of marriage with this unworthy woman, you will not reign seven months.”
+
+
+
+
+
+“Come, madam, seven months? Round it off, can you not? What sort of prophet says ‘seven months’?”
+
+
+
+
+
+“That is what Heaven tells me.”
+
+
+
+
+
+These characters, whatever they say to each other, whether in the oracular fervor of the nun or Henry’s sarcasm, are also saying “no:” This is the word from Heaven. No, it isn’t. You’re wrong. No, I’m not.
+
+It is only a few lines of dialogue. But look how much more it does than one thing at a time! It reveals the fundamental personalities and attitudes of the two speakers. It contains the core of the historical quarrel between the crown and the church. It encapsulates a widespread condemnation of the impending marriage. The nun says exactly what she means while the monarch uses his hauteur to evade the point. Anne’s failure to speak, meanwhile, her betrayal of her attitude only through her body (and the metaphor “melts like wax”), shows us her emotional response—though it will not be long before she bursts out, “Surely she is mad?” Finally, the mood creates a narrative tension as it raises the possibility, as a prophecy always does, that there may be some grim truth being told.
+
+Notice, however, that the conflict does not get stuck in a rut. The characters find new ways to taunt and challenge each other as each probes for the other’s vulnerable points.
+
+In dialogue as in narrative, we tend to believe a character who speaks in concrete details and to be skeptical of one who generalizes or who delivers judgments unsupported by example. If one character says, “It’s perfectly clear from all his actions that he adores me and would do anything for me,” and another says, “I had my hands all covered with the clay slick, and he reached over to lift a lock of hair out of my eyes,” which character do you believe is the more loved?
+
+Similarly, in conflict dialogue, “details are the rocks characters throw at each other,” says Stephen Fischer. Our memories for hurts and slights are sadly long, and an accusation that begins as a general blame—“You never think of my feelings”—is likely to be backed up with specific proof as the argument escalates—“You said you’d pick me up at seven New Year’s Eve, but you left me waiting for an hour in the snow.” “There’s nothing generic in our lives,” Fischer explains, “and the sparks given off in conflict may reveal all the facts we need to know about the characters.”
+
+Whereas in narrative you will demonstrate control if you state the facts and let the emotional value rise off of them, in dialogue you will convey information more naturally if the emphasis is on the speaker’s feelings. “My brother is due to arrive mid-afternoon and is bringing his four children with him” reads as bald exposition; whereas “That idiot brother of mine thinks he can walk in in the middle of the afternoon and plunk his four kids in my lap!” or “I can’t wait till my brother gets here at three! You’ll see—those are the four sweetest kids this side of the planet”—will sound like talk and slip us the information sideways.
+
+Examine your dialogue to see if it does more than one thing at a time. Do the sound and syntax characterize the speakers by region, education, attitude? Do the choice of words and their phrasing reveal that the character is stiff, outgoing, stifling anger, ignorant of the facts, perceptive, bigoted, afraid? Is the conflict advanced by “no” dialogue, in which the characters say no to each other in different ways? Is the drama heightened by the characters’ inability or unwillingness to tell the whole truth?
+
+Once you are comfortable with the voice of your character, it is well to acknowledge that everyone has many voices and that what that character says will be, within his or her verbal range, determined by the character to whom it is said. All of us have one sort of speech for the surgeon and another for the man who cuts the grass. Huck Finn, whose voice is idiosyncratically his own, says “Yes, sir” to the judge and “Maybe I am, maybe I ain’t” to his degenerate dad.
+
+
+Pacing
+
+Economy in dialogue—distilling it, avoiding a rehash of what the reader already knows, making sure that it does more than one job at a time—are important parts of pacing. At the same time, it’s important not to leave out the drama that unfolds in a spoken exchange.
+
+One reason readers enjoy dialogue is that it’s the most direct experience of the characters we get in fiction, a chance for them to express (or betray) themselves without authorial interference. Freewrite dialogue exchanges and let them take their course. You can trim later, or you might find only a few lines to salvage, but don’t be too quick to assume your characters have had their say. You might think you know what the outcome of a conversation is going to be, but give your characters a chance to surprise you and avoid foisting your own agenda on them. Some of my most—truly—thrilling moments as a writer have been when my characters turned on me. I thought I was writing a bossy, insensitive foil to my heroine’s superior understanding, when the first character turned on the second with exactly the comeuppance she deserved. A hardnosed cattle boss betrayed an aching love for his baby granddaughter. A couple who believed themselves “post-racial” fell into using the very taunts they despised.
+
+Fiction is a way of imagining, and allowing your readers to imagine, others. The subtext will be revealed in the interchanges of those others, and it’s important to be open to human capacity and contradiction, to remember that the character being abandoned is not a passive sounding board, or that the prison guard also has a grandmother and a burden of loss.
+
+There are additional ways to pace yourself when writing dialogue. Timing, as it is in stand-up comedy, is crucial. Vary your sentences and the placement of your dialogue tags. Decide where you want the reader to pause, what you want to emphasize.
+
+In this excerpt from “Hunters in the Snow,” Tobias Wolff structures the paragraph so that the reader gets the full benefit of Frank’s zinger:
+
+
+Frank had his fingers fanned out, tips against the bark of the stump where he’d laid his foot. His knuckles were hairy. He wore a heavy wedding band and on his right pinky was another gold ring with a flat face and “F” printed out in what looked like diamonds. He turned it this way and that. “Tub,” he said, “you haven’t seen your own balls in years.”
+
+
+
+
+
+Repetition is a useful way to vary pace and emphasize certain words and emotions. In your narration you’ll try not to repeat yourself, but your characters’ can reveal themselves with their inability to vary their vocabulary. It becomes clear that the wife in Raymond Carver’s “Cathedral” worries that her guest, Robert, the blind man, will sense her husband’s hostility. The husband, who is the narrator, is listening to their exchange.
+
+
+My wife covered her mouth, and then she yawned. She stretched. She said, “I think I’ll go upstairs and put on my robe. I think I’ll change into something else. Robert, you make yourself comfortable,” she said.
+
+
+
+
+
+“I’m comfortable,” the blind man said.
+
+
+
+
+
+“I want you to feel comfortable in this house,” she said.
+
+
+
+
+
+“I am comfortable,” the blind man said.
+
+
+
+
+
+With each repetition the word comfortable takes on a slightly different meaning, anxious on her part, assertive on his.
+
+
+Format and Style
+
+The format and style of dialogue, like punctuation, has as its goal to be invisible, and though there may be occasions when departing from the rules is justified by some special effect, it’s best to consider such occasions rare. Here are some basic guidelines:
+
+What a character says aloud should be in quotation marks; thoughts should not. This helps clearly differentiate between the spoken and the internal, especially by acknowledging that speech is more deliberately formulated. If you feel that thoughts need to be set apart from narrative, use italics instead of quotation marks.
+
+Begin the dialogue of each new speaker as a new paragraph. This helps orient the reader and keep clear who is speaking. If an action is described between the dialogue lines of two speakers, put that action in the paragraph of the speaker it describes:
+
+
+“I wish I’d taken that picture.” Larry traced the horizon with his index finger.
+
+
+
+
+
+Janice snatched the portfolio away. “You’ve got chicken grease on your hands,” she said, “and this is the only copy!”
+
+
+
+
+
+Notice that the punctuation goes inside the quotation marks.
+
+A dialogue tag tells us who has spoken—John said, Mary said, Tim announced. When a tag is used, it is connected to the dialogue line with a comma, even though the dialogue line may sound like a full sentence: “I’m paying tonight,” Mary said.
+
+Avoid overusing the name of the person being spoken to in dialogue—it doesn’t sound conversational.
+
+
+“For God sake, Benji, my job’s more important than our marathon Monopoly game.”
+
+
+
+
+
+“Ah, Mom, you’re always taking things the wrong way.”
+
+
+
+
+
+“Benji, you know that’s not true.”
+
+
+
+
+
+“Yup, true, Mom, every time.”
+
+
+
+
+
+Like a luggage tag or nametag, a dialogue tag serves the purpose of identification, and said is usually adequate to the task. People also ask and reply and occasionally add, recall, admit, or remind. But sometimes an unsure writer will strain for emphatic synonyms: She gasped, he whined, they chorused, John snarled, Mary spat. This is unnecessary and obtrusive. While unintentional repetition usually makes for awkward style, the word said is as invisible as punctuation; when reading we’re scarcely aware of it, whereas we are forced to be aware of she wailed. If it’s clear who is speaking without any dialogue tag at all, don’t use one. Usually an identification at the beginning of a dialogue passage and an occasional reminder are sufficient. If the speaker is inherently identified in the speech pattern, so much the better.
+
+Similarly, tonal dialogue tags should be used sparingly: he said with relish, she added limply. Such phrases are blatant “telling,” and the chances are that good dialogue will convey its own tone. “Get off my case!” she said angrily. We do not need to be told that she said this angrily. If she said it sweetly, then we would probably need to be told. If the dialogue does not give us a clue to the manner in which something is said, an action will often do so better than an adverb. “I’ll have a word with Mr. Ritter about it,” he said with finality is weaker than “I’ll have a word with Mr. Ritter about it,” he said, and picked up his hat.
+
+I start with character and narrative voice. I want to hear the language in my ears before I start writing the story.
+
+
+
+—Shawn Wong
+
+
+
+It helps to make the dialogue tag unobtrusive if it comes within the spoken line: “Don’t give it a second thought,” he said. “I was just going anyway.” (A midline tag has the added benefit of helping readers hear a slight pause or change in the speaker’s inflection.) A tag that comes at the beginning of the line may look too much like a play script: He said, “Don’t give it a second thought . . .” whereas a tag that comes after too much speech becomes confusing or superfluous: “Don’t give it a second thought. I was going anyway, and I’ll just take these and drop them at the copy shop on the way,” he said. If we don’t know who is speaking long before this tag appears, it’s too late to be of use and simply calls attention to itself.
+
+
+Vernacular
+
+Vernacular is a tempting, and sometimes excellent, means of characterizing, but it is difficult to do well and easy to overdo. Dialect, regionality, and childhood are best communicated by word choice and syntax. Misspellings should be kept to a minimum because they distract and slow the reader, and worse, they tend to make the character seem stupid. There is no point in spelling phonetically any word as it is ordinarily pronounced: Almost all of us say things like “fur” for for, “uv” for of, “wuz” for was, “an” for and, and “sez” for says. It’s common to drop the g in words ending in ing. When you misspell these words in dialogue, you indicate that the speaker is ignorant enough to spell them that way when writing. Even if you want to indicate ignorance, you may alienate the reader by the means you choose to do so. John Updike put this point well when he complained of a Tom Wolfe character:
+
+
+[His] pronunciations are steadfastly spelled out—“sump’m” for “something,” “far fat” for “fire fight”—in a way that a Faulkner character would be spared. For Faulkner, Southern life was life; for Wolfe it is a provincial curiosity.
+
+
+
+
+
+It is largely to avoid the charge of reducing characters to “provincial curiosities” that most fiction writers now avoid misspellings.
+
+It can be even trickier catching the voice of someone for whom English is a second (or fifth) language, because when someone starts to learn English, the grammatical mistakes they make tend to be based on the grammatical structure of the native language. Unless you know French or Ibu, you will make mistaken mistakes, and your dialogue is likely to sound as if it comes from a second-rate sitcom.
+
+In vernacular or standard English, the bottom-line rule is that dialogue must be speakable. If it isn’t speakable, it isn’t dialogue.
+
+
+“Certainly I had had a fright I wouldn’t soon forget,” Reese would say later, “and as I slipped into bed fully dressed except for my shoes, which I flung God-knows-where, I wondered why I had subjected myself to a danger only a fool would fail to foresee for the dubious pleasure of spending one evening in the company of a somewhat less than brilliant coed.”
+
+
+
+
+
+Nobody would say this because it can’t be said. It is not only convoluted beyond reason but stumbles over its alliteration (“only a fool would fail to foresee for”) and takes more breath than the human lungs can hold.
+
+DIALOGUE TIPS
+
+
+
+1. Consider when the most effective dialogue will be direct, indirect, or summarized.
+
+2. Have your characters speak in short exchanges rather than monologues—unless you have a good reason to do otherwise.
+
+3. Is your dialogue doing more than one thing at a time? Is it revealing character, setting a mood, moving the action?
+
+4. Let dialogue express what the speaker wants, and what the story is about.
+
+5. Dialogue is more interesting when characters are saying “no” to each other.
+
+6. Keep exposition out of the dialogue.
+
+7. Let your characters sometimes conceal or avoid instead of saying exactly what they mean, or let them be for some reason incapable of saying it.
+
+8. Let your characters contradict themselves. Give them room to change or to reveal surprising turns of emotion.
+
+9. Use “said” as a dialogue tag whenever possible.
+
+10. Use an action rather than an adverb or other modifier to show how a character is feeling.
+
+11. Vernacular is better conveyed by word choice and syntax than by misspellings.
+
+
+
+Read your dialogue aloud and make sure it is comfortable to the mouth, the breath, and the ear. False, flabby, do-nothing dialogue will reveal itself, as will places that drag or seem rushed. This is the best way possible to tell if it’s all coming together.
+
+
+
+APPEARANCE
+
+In human beings, the eyes are the most highly developed means of perception, and we therefore receive more non-sensuous information by sight than by any other sense. Beauty is only skin deep, but people are embodied, and whatever beauty—or ugliness—there is in them must somehow surface for us to perceive it. Such surfacing involves speech and action as well as appearance, but it is appearance that prompts our first reaction to people, and everything they wear and own presents some aspect of their inner selves.
+
+Concerned with seeing beyond mere appearances, writers are sometimes inclined to neglect this power of the visible. In fact, much of the tension and conflict in character proceeds from the truth that appearance is not reality. But in order to know this, we must see the appearance first. Features, shape, style, clothing, and objects can make statements of internal values that are political, religious, social, intellectual, and essential. The man in the Ultrasuede jacket is making a different statement from the one in the holey sweatshirt. The woman with the cigarette holder is telling us something different from the one with the palmed joint. Even a person who has forsaken our materialistic society, sworn off supermarkets, and gone to the country to grow organic potatoes has a special relationship with his or her hoe. However indifferent we may be to our looks, that indifference is the result of experiences with our bodies. A twenty-two-year-old Apollo who has been handsome since he was six is a very different person from the man who spent his childhood cocooned in fat and burst the chrysalis at age sixteen.
+
+Following are two very brief portraits of women. Each is mainly characterized by such trivialities as fabric, furnishings, and cosmetics. It would nevertheless be impossible to mistake the essential nature of the one character for that of the other.
+
+
+How beautiful Helen is, how elegant, how timeless: how she charms Esther Songford and how she flirts with Edwin, laying a scarlet fingernail on his dusty lapel, mesmerizing.
+
+
+
+
+
+She comes in a chauffeured car. She is all cream and roses. Her stockings are purest silk; her underskirt, just briefly showing, is lined with lace.
+
+
+
+
+
+—Fay Weldon, Female Friends
+
+
+
+As soon as I entered the room, a pungent odor of phosphorus told me she’d taken rat poison. She lay groaning between the quilts. The tatami by the bed was splashed with blood, her waved hair was matted like rope waste, and a bandage tied round her throat showed up unnaturally white. . . . The painted mouth in her waxen face created a ghastly effect, as though her lips were a gash open to the ears.
+
+
+
+
+
+—Masuji Ibuse, “Tajinko Village”
+
+
+
+
+Vividness and richness of character are created in these two passages, which use nothing more than appearance to characterize.
+
+Note that sense impressions other than sight are still a part of the way a character “appears.” A limp handshake or a soft cheek; an odor of Chanel, oregano, or decay—these too can characterize, much the way looks do, if the narrative allows the reader to touch, smell, or taste a character.
+
+The sound and associations of a character’s name, too, can give a clue to personality. In the two rewrites of the Debbie paragraph in chapter 2, the affluent Mr. Chiddister is automatically a more elegant sort than the affluent Mr. Strum, just as Huck Finn must have a different life from that of the Marquis of Lumbria. Although names with a blatant meaning—Joseph Surface, Billy Pilgrim, Martha Quest—tend to stylize a character and should be used sparingly, if at all, ordinary names can hint at traits you mean to heighten, and it is worth combing any list of names, including the telephone book, to find suggestive sounds. My own telephone book yields, at a glance this morning, Linda Holladay, Marvin Entzminger, and Melba Peebles, any one of which might set me to speculating on a character.
+
+Sound also characterizes as a part of “appearance” insofar as sound represents timbre, tenor, or quality of noise and speech, the reediness or gruffness of a voice, the lift of laughter or stiffness of delivery.
+
+How a character physically moves is yet another aspect of appearance. Dancer and writer Maggie Kast reminds us that, “images of smell, taste and touch can evoke deeper responses than sight and hearing, but what about the kinesthetic sense, the sensations of position, movement and tension originating in muscles and joints?” Here, in Padma Viswanathan’s The Toss of a Lemon, a humiliated girl runs from her house, her emotion created by taste and movement:
+
+
+She scoots back an equal distance on her bottom, then stumbles to her feet and backs away. . . . Janaki runs out into the green and embraces from behind the young papaya whose succour Vairum had taken earlier.
+
+
+
+
+
+The earth in the pockets between the tree’s roots tempts her. With one hand still fast round the tree, Janaki flips into her mouth a lump of dirt the size of the thaingai maavu balls the children have for after-school snack. The soil is crunchy and damply acrid, and contains a couple of jasmine petals. Its dark comfort spreads in her mouth. She sighs and leans her forehead on the tree, both arms clasped around it, its parasol of leaves nodding above.
+
+
+
+
+
+It is important to understand the difference between movement and action, however, for these terms are not synonymous. Physical movement—the way he crosses his legs, the way she charges down the hall—characterizes without necessarily moving the plot forward. Often movement is part of the setup of the scene, a way of establishing the situation before change-producing action begins. But it can also, as in the scene above, intensify and move the action forward.
+
+
+
+ACTION
+
+The significant characters of a fiction must be capable both of causing an action and of being changed by it.
+
+We have seen that dialogue becomes action where it presents the possibility of change. If we accept that a story records a process of change, how is this change brought about? Basically, human beings face chance and choice, or discovery and decision—the first of each pair involuntary and the second voluntary. In terms of story, this means that a character driven by desire takes an action with an expected result, but something intervenes. Some force outside the character presents itself, in the form of information or accident or the behavior of others or the elements. The unknown becomes known, and then the discoverer must either take action or deliberately not take action, involving readers in the tension of the narrative query: and then what happens?
+
+Here is a passage from Toni Morrison’s “Recitatif” that demonstrates first movement, then discovery, then decision:
+
+
+I was trying to fill the coffeepots and get them all situated on the electric burners when I saw her. She was sitting in a booth smoking a cigarette with two guys smothered in head and facial hair. Her own hair was so big and wild I could hardly see her face. But the eyes. I would know them anywhere. She had on a powder-blue halter and shorts outfit and earrings the size of bracelets. Talk about lipstick and eyebrow pencil. She made the big girls look like nuns. I couldn’t get off the counter until seven o’clock, but I kept watching the booth in case they got up to leave before that. My replacement was on time for a change, so I counted and stacked my receipts as fast as I could and signed off. I walked over to the booth. . . .
+
+
+
+
+
+We all carry contradictions and trivialities within us. . . . In fact, I’d say the jagged edge of paradox and contradiction brings a character closer to the truth of what it is to be human.
+
+
+
+—Dennis Bock
+
+
+
+Here, “trying to fill the coffeepots and get them all situated” is movement that represents scene-setting and characterization. The significant action begins with the discovery, “I saw her.” Notice that “she” is characterized directly by appearance whereas the narrator is mainly characterized by her movements, expressed in active verbs—watching, counting, stacking, signing off—until the moment when she acts on her decision. At the points of both the discovery and the decision we anticipate the possibility of change: what happens next?
+
+In the next passage, from John Cheever’s “The Cure,” the initial movement is seemingly innocuous but then shifts abruptly toward suspense:
+
+
+I turned on a light in the living room and looked at Rachel’s books. I chose one by an author named Lin Yutang and sat down on a sofa under a lamp. Our living room is comfortable. The book seemed interesting. I was in a neighborhood where most of the front doors were unlocked, and on a street that is very quiet on a summer night. All the animals are domesticated, and the only night birds that I’ve ever heard are some owls way down by the railroad track. So it was very quiet. I heard the Barstows’ dog bark, briefly, as if he had been waked by a nightmare, and then the barking stopped. Everything was quiet again. Then I heard, very close to me, a footstep and a cough.
+
+
+
+
+
+I felt my flesh get hard—you know that feeling—but I didn’t look up from my book, although I felt that I was being watched.
+
+
+
+
+
+This scene is set with movement and one choice—that book—that offers no particular opportunity for change and no particular dramatic force. With “Then I heard,” however, a discovery or realization of a different sort occurs; there is suddenly the possibility of real change and so, suddenly, real dramatic tension. In the second paragraph the narrator discovers a familiar and entirely involuntary reaction—“I felt my flesh get hard”—followed by the decision not to take what would be the instinctive action. In fiction as in life, restraint, the decision to do nothing, is fraught with possible tension.
+
+In most cases, writers do not want their technique to be too conspicuous so they conceal the decision and discovery structure. In the next example, from Raymond Carver’s “Neighbors,” the pattern of change—Bill Miller’s gradual intrusion into his neighbor’s house—is based on a series of decisions that Carver does not explicitly state. The passage ends with a turning point, a moment of discovery.
+
+
+When he returned to the kitchen the cat was scratching in her box. She looked at him steadily before she turned back to the litter. He opened all the cupboards and examined the canned goods, the cereals, the packaged foods, the cocktail and wine glasses, the china, the pots and pans. He opened the refrigerator. He sniffed some celery, took two bites of cheddar cheese, and chewed on an apple as he walked into the bedroom. The bed seemed enormous, with a fluffy white bedspread draped to the floor. He pulled out a nightstand drawer, found a half-empty package of cigarettes and stuffed them into his pocket. Then he stepped to the closet and was opening it when the knock sounded at the front door.
+
+
+
+
+
+There is hardly grand larceny being committed here, but the actions build toward tension through two distinct techniques. The first is that they do actually build: At first Bill only “examines.” The celery he only sniffs, whereas he takes two bites of the cheese, then a whole apple, then half a pack of cigarettes. He moves from the kitchen to the bedroom, which is a clearer invasion of privacy, and from cupboard to refrigerator to nightstand to closet, each a more intimate intrusion than the last.
+
+The second technique is that the narrative subtly hints at Bill’s own sense of stealth. It would be easy to imagine a vandal who performed the same actions with complete indifference. But Bill thinks the cat looks “steadily” at him, which is of no importance except that he feels it to be. His awareness of the enormous white bed hints at sexual guilt. When the knock at the front door sounds, we start, as he must, in a clear sense of getting caught.
+
+Thus it turns out that the internal or mental moment of change is where the action lies. Much movement in a story is mere event, and this is why descriptions of actions, like stage directions in a dull play, sometimes add little or nothing. When the wife picks up a cup of coffee, that is mere event. If she finds that the lipstick on the cup is not her shade, that is a dramatic event, a discovery; it makes a difference. She makes a decision to fling it at the woman with the Cherry Ice mouth. Flinging it is an action, but the dramatic change occurs with the second character’s realization (discovery) that she has been hit—and so on.
+
+Every story is a pattern of change (events connected, as the author E. M. Forster observed, primarily by cause and effect) in which small and large changes are made through decision and discovery.
+
+
+
+THOUGHT
+
+Fiction has a flexibility denied to film and drama, where everything the spectator knows must be shown. In fiction you have the privilege of entering a character’s mind, sharing at its source internal conflict, reflection, and the crucial processes of decision and discovery. Like speech, a character’s thought can be offered in summary (He hated the way she ate), or as indirect thought (Why did she hold her fork straight up like that?), or directly, as if we are overhearing the character’s own mind (My God, she’s going to drop the yolk!). As with speech, the three methods can be alternated in the same paragraph to achieve at once immediacy and pace.
+
+Methods of presenting a character’s thought will be more fully discussed in chapter 7 on point of view. What’s most important to characterization is that thought, like speech, reveals more than information. It can also set mood, reveal or betray desires, develop theme, and so forth. It can also move the action forward, because fictional people, like their live counterparts, don’t think about what they already know. They think about what is happening to them, or what they fear will happen, what puzzles them, or what they remember that still holds an emotional charge. Even people who repeat themselves ad infinitum—“It’s not the cold I mind, it’s the wind . . .” do so not because they are mentally engaged with the meteorological fact, but because here, just now, the wind has kicked up again, or because here, now, is a person who might respond. For the most part, people in books encounter new situations and must work mentally toward understanding them; or they encounter old situations and must think them through anew.
+
+In fact, the territory of a character’s mind is most likely to be the center of the action. Aristotle says that a man “is his desire,” that is, his character is defined by his ultimate purpose, good or bad. Thought, says Aristotle, is the process by which a person works backward in his mind from his goal to determine what action he can take toward that goal at a given moment.
+
+It is not, for example, your ultimate desire to read this book. Very likely you don’t even “want” to read it; you’d rather be sleeping or jogging or making love. But your ultimate goal is, say, to be a rich, respected, and famous writer. In order to attain this goal, you reason, you must know as much about the craft as you can learn. To do this, you would like to take a graduate degree at the Writer’s Workshop in Iowa. To do that, you must take an undergraduate degree in ________, where you now find yourself, and must get an A in Ms. or Mr. ________’s creative writing course. To do that, you must produce a character sketch from one of the prompts at the end of this chapter by a week from Tuesday. To do so, you must sit here reading this chapter now instead of sleeping, jogging, or making love. Your ultimate motive has led you logically backward to a deliberate “moral” decision on the action you can take at this minor crossroad. In fact, it turns out that you want to be reading after all.
+
+The characters come by and it’s almost like you’re walking down the street and someone catches your eye and you meet them again and then you become friends. It’s a bit like that.
+
+
+
+—Arundhati Roy
+
+
+
+The relation that Aristotle perceives among desire, thought, and action seems to me a very useful one for an author, both in structuring plot and in creating character. What does this protagonist want to happen in the last paragraph of this story? What is the particular thought process by which this person works backward to determine what she or he will do now, in the situation that presents itself on page one?
+
+
+That afternoon I prepared certain phrases and responses to use on Rebecca. I was terribly concerned that she think well of me, that she understand I was not the provincial dolt I feared I appeared to be. . . . So I sat at my desk and practiced my death mask—face in perfect indifference, no muscles twitching, eyes blank, still, brow furrowed ever so slightly.
+
+
+
+
+
+—Ottessa Moshfegh, Eileen
+
+
+
+
+The action, of course, may be the wrong one. Thought thwarts us, because it leads to a wrong choice, or because thought is full of conflicting desires and consistent inconsistencies, or because there is enormous human tension between suppressed thought and expressed thought:
+
+
+When he shuts off the shower, the phone is ringing. A sense that it has been ringing for a long time—can a mechanical noise have a quality of desperation?—propels him naked and dripping into the living room. He picks up the phone and his caller, as he has suspected, is Mieko. . . . He is already annoyed after the first hello. Mieko’s voice is sharp, high, very Japanese, although she speaks superb English. He says, “Hello, Mieko,” and he sounds annoyed.
+
+
+
+
+
+—Jane Smiley, “Long Distance”
+
+
+
+
+In Joyce Carol Oates’s “Where Are You Going, Where Have You Been?” the protagonist Connie wants to get away, every chance she can, from a family she despises. From the opening paragraphs, she devises a number of schemes and subterfuges to avoid their company. One such scheme leads her to respond to the advances of a schemer who is cleverer than herself. At the end of the story her success is probably permanent, at a cost she had not figured into her plan. Through the story she is richly characterized, inventing two personalities in order single-mindedly to pursue her freedom, finally caught between conflicting and paralyzing desires.
+
+A person, a character, can’t do much about what he or she wants; it just is (which is another way of saying that character is desire). What we can deliberately choose is our behavior, the action we take in a given situation. Achievement of our desire would be easy if the thought process between desire and act were not so faulty and so wayward, or if there were not such an abyss between the thoughts we think and those that we are willing and able to express.
+
+
+
+SUGGESTED STORIES
+
+
+
+“My Man Bovanne”
+
+Toni Cade Bambara
+
+
+
+
+
+“Tandolfo the Great”
+
+Richard Bausch
+
+
+
+
+
+“Every Tongue Shall Confess”
+
+ZZ Packer
+
+
+
+
+
+“Rock Springs”
+
+Richard Ford
+
+
+
+
+
+“Yours”
+
+Mary Robinson
+
+
+
+
+
+“Cat Person”
+
+Kristen Roupenian
+
+
+
+
+
+“6. ‘He leaves the office . . .’”
+
+David Szalay
+
+
+
+
+
+“The Tambourine Lady”
+
+John Edgar Wideman
+
+
+
+
+
+“Bullet in the Brain”
+
+Tobias Wolff
+
+
+
+
+
+“Thank You”
+
+Alejandro Zambra
+
+
+
+
+
+WRITING PROMPTS
+
+
+
+1. Two characters have an escalating disagreement. One of them says exactly and fully what she or he means. The other is unable or unwilling to speak freely. Give us the thoughts of the second character so that we understand the non-response.
+
+2. A flirtation. Two people are feeling each other out, each unsure of the other’s feelings, unsure how far to go; unsure, unsure.
+
+3. A character who speaks in street slang, or a foreign accent—or perhaps it’s a child—encounters a person who considers him/herself an expert at whatever is under discussion. Let us know through gesture and dialogue what each thinks of the other.
+
+4. Everyone’s family has an outlier—a black sheep, an embarrassment, a sponger, a felon, a know-it-all. Let such a character hold forth at a family gathering. Who challenges her/him? How? Give the thoughts of the challenger if you choose.
+
+5. Two characters in a room. One is trying to throw stuff away that the other wants to keep. Characterize by dialogue, appearance, the objects, and the action. Let us infer what they are thinking.
+
+6. Write an exchange that begins with the words, “I’m sorry, but . . .” What comes after the “but”? What does the other character say in response? Let them carry on for a while. And a while after that. Keep them talking.
+
+7. Put two characters in a situation in which they are forced to be cordial. Characterize them through appearance (including gesture, tone, movement, smell?) so that we understand the emotion between them, positive or negative.
+
+
+
+
+

@@ -1,0 +1,113 @@
+Monetary Nationalism and International Stability (1937)
+
+
+Originally published by Longmans, Green in London, 1937; The Graduate Institute of International Studies, Publication no. 18, Geneva, 1937; reprinted by Augustus M. Kelley in New York, 1964 and 1971.
+
+1 Since these lines were written a newly published book has come to my hand in which almost the whole argument in favor of monetary nationalism is based on the assumption that different national currencies are different commodities and that consequently there ought to be variable prices of them in terms of each other (C.R. Whittlesey, International Monetary Issues [New York: McGraw-Hill, 1937]). No attempt is made to explain why or under what conditions and in what sense the different national moneys ought to be regarded as different commodities, and one can hardly avoid the impression that the author has uncritically accepted the difference of denomination as proof of the existence of a difference in kind. The case illustrates beautifully the prevalent confusion about differences between the currency systems which can be made an argument for national differentiations and those which are a consequence of such differentiations. That it is “only a difference in nomenclature” (as Professor Gregory has well put it) whether we express a given quantity of gold as pounds, dollars, or marks, and that this no more constitutes different commodities than the same quantity of cloth becomes a different commodity when it is expressed in meters instead of in yards, ought to be obvious. Whether different national currencies are in any sense different commodities depends on what we make them, and the real problem is whether we should create differentiations between the national currencies by using in each national territory a kind of money which will be generally acceptable only within that territory, or whether the same money should be used in the different national territories.
+
+2 Compare on this and the following L. Robbins, Economic Planning and International Order (London: Macmillan, 1937), pp. 274 et seq.
+
+3 For a full description of this mechanism cf. R.G. Hawtrey, Currency and Credit, 3rd ed. (New York: Longmans, Green, 1928), chap. 4, pp. 41–63.
+
+4 Perhaps, instead of speaking of the world’s output, I should have spoken about the share in the command over the world’s resources, since of course it is not only the current consumable product but equally the command over resources which will yield a product only in the future which is distributed by this monetary mechanism.
+
+5 Cf. particularly F.W. Paish, “Banking Policy and the Balance of International Payments” Economica n.s. 3, no. 2 (November 1936); K.F. Maier, Goldwanderungen (Jena: Gustav Fischer, 1936); and P.B. Whale, “The Working of the Pre-War Gold Standard,” Economica 4, no. 13 (February 1937).
+
+6 Cf. on this particularly the article by F.W. Paish just quoted.
+
+7 Cf. J.M. Keynes, A Treatise on Money (London: Macmillan, 1930), vol. 1, chap. 4.
+
+8 Although it is even conceivable that a fall in incomes might bring about a temporary rise in investments, because the people who are now poorer feel that they can no longer afford the luxury of the larger cash balances they used to keep before, and proceed to invest part of them, this is neither a very probable effect nor likely to be quantitatively significant. Much more important, however, may be the effect of the fall of incomes on the demand for investment. Particularly if the greater part of the existing capital equipment is of a very durable character a fall in incomes may for some time almost completely suspend the need for investment and in this way reduce the rate of interest in the country quite considerably. Another case where the same cause which would lead to a flow of money from one country to another would at the same time cause a fall in the rate of interest in the first would be if in one of several countries where population used to increase at the same rate, this rate were considerably decreased.
+
+9 This has been rightly pointed out, but has hardly been sufficiently explained, in an interesting article by J.C. Gilbert on “The Present Position of the Theory of International Trade,” The Review of Economic Studies 3, no. 1 (October 1935), particularly pp. 23–26. To say that money rates of interest in a particular country may be made to deviate from the equilibrium rate by monetary factors peculiar to that country is of course not to say that the equilibrium rate in that country is independent of international conditions.
+
+10 Cf. Minutes of Evidence taken before the Committee on Finance and Industry (London, 1931), vol. 1, Q. 363. Sir Ernest Harvey: “You will find if you look at a succession of Bank Returns that the amount of gold we have lost has been almost entirely replaced by an increase in the Bank’s securities.”
+
+11 Where the shift of demand has been induced by a reduction of cost and a consequent fall of prices in the one country, this will only be a relative rise and will of course only partly counteract this fall in the price of the final product, but may bring about an actual rise in the prices of the factors used in their production.
+
+12 The assumption that the demand for the commodities in question is elastic, that is, that the total expenditure upon them will be reduced when their prices rise and vice versa, will be maintained throughout this discussion. To take at every step the opposite case into account would unduly lengthen the argument without affecting the conclusion.
+
+13 In a letter to John Wheatley, dated September 18, 1821, reprinted in Letters of David Ricardo to Hutches Trower and Others, ed. J. Bonar and J. Hollander (Oxford: Clarendon Press, 1899), p. 160.
+
+14 The fact that the averages of (more or less arbitrarily selected) groups of prices move differently in different countries does of course in no way prove that there is any tendency of the price structure of a country to move as a whole relatively to prices in other countries. It would however be a highly interesting subject for statistical investigation, if a suitable technique could be devised, to see whether, and to what extent, such a tendency existed. Such an investigation would of course involve a comparison not only of some mean value of the price changes in different countries, but of the whole frequency distribution of relative price changes in terms of some common standard. And it should be supplemented by similar investigations of the relative movements of the price structure of different parts of the same country.
+
+15 The propensity of economists in the Anglo-Saxon countries to argue exclusively in terms of national price and wage levels is probably mainly due to the great influence which the writings of Professor Irving Fisher have exercised in these countries. Another typical instance of the dangers of this approach is the well-known controversy about the reparations problem, where it was left to Professor Ohlin to point out against his English opponents that what mainly mattered were not so much effects on total price levels but rather the effects on the position of particular industries.
+
+16 The International Gold Problem, ed. Royal Institute of International Affairs (London: Oxford University Press, 1931), p. 29. Cf. also, in the light of this statement, the remarkable passage in the same author’s International Economics. Cambridge Economic Handbooks no. 8 (London: Nisbet, 1933), p. 150, where it is argued that “the only way to avoid a slump is to engineer a boom,” although only two lines later a boom is still “defined as an increase in the rate of output which cannot be maintained in the long period.”
+
+17 International Economics, p. 170.
+
+18 Ibid., p. 174.
+
+19 Without giving disproportionate space to what is perhaps a somewhat esoteric theoretical point, it is not possible to give here a complete proof of this proposition. A full discussion of the complicated effects would require almost a separate chapter. But a sort of indirect proof may be here suggested. It would probably not be denied that if, without any other change, the amount of money in one currency area were decreased by a given amount and at the same time the amount of money in another currency area increased by a corresponding amount, this would have deflationary effects in the first area and inflationary effects in the second. And most economists (the more extreme monetary nationalists only excepted) would agree that no such effects would occur if these changes were made simultaneous with corresponding changes in the relative volume of transactions in the two countries. From this it appears to follow that if such a change in the relative volume of transactions in the two countries occurs but the quantity of money in each country is kept constant, this must have the effect of a relative inflation and deflation, respectively.
+
+20 See on this point also Robbins, Economic Planning and International Order, pp. 281 et seq.
+
+21 It is interesting to note that those countries in Europe where, up to 1929, wages had been rising relatively most rapidly were on the whole those most reluctant to experiment with exchange depreciation. The recent experience of France seems also to suggest that a working-class government may never be able to use exchange depreciation as an instrument to lower real wages.
+
+22 This is not to be interpreted as meaning that I subscribe to the view that all money is in some sense a “claim.” The statement in the text applies strictly only to credit money and particularly to bank deposits, which will be mainly considered in what follows. But it would not apply to the acquisition of gold by foreigners for export. The gold coins so acquired would thereby cease to be “national” money in the sense in which this term is here used, that is, they would not be assets belonging to the country where they have been issued.
+
+23 Even the intentions of the lender or investor would hardly provide a sufficient criterion for a distinction between what are short- and what are longterm capital movements, since it may very well be clear in a particular case to the outside observer that circumstances will soon lead the investors to change their intentions.
+
+24 If this effect was disregarded in the discussion of changes in the discount rates in the two proceeding lectures, this was done to make the effects discussed there stand out more clearly; but this must not be taken to mean that this effect on capital movements is not, at any rate in the short run, perhaps the most important effect of these changes.
+
+25 The only argument against this view which I find at all intelligible is that, under the gold standard, movements to one of the gold points will create a certain expectation that the movement will soon be reversed and thus provides a special inducement to speculative shifts of funds. But while this is perfectly true, it only shows that the defects of the traditional gold standard were due to the fact that it was not a homogeneous international currency. If the same arrangements applied to international as to infranational payments the problem would disappear. This would be the case either if within the country as much as between countries the costs of transfers of money were not borne by some institution like the central banks and consequently (as in the United States before the establishment of the Federal Reserve System) rates of exchange between the different towns were allowed to fluctuate, and if at the same time gold were freely obtainable near the frontier as well as in the capital, or on the other hand, if the system of par clearance were applied to international as well as national payments. On the last point compare below, Lecture 5, p. 413.
+
+26 Since it is being more and more forgotten that the period before 1931 was, on pre-war standards, already one of marked instability—and uncertainty about the future—of exchange rates, it is perhaps worth stressing that in particular the accumulation of foreign balances in London during that period was almost entirely a consequence of the fact that Sterling was regarded as relatively the most safe of the European currencies. Cf. on this T.E. Gregory, The Gold Standard and Its Future, 3rd ed. (New York: E.P. Dutton, 1932), pp. 48 et seq.
+
+27 Cf. Report of the Proceedings of the Meeting of Economists held at the Antwerp Chamber of Commerce on July 11–13, 1935, published by the Antwerp Chamber of Commerce, p. 107.
+
+28 The Improvement of Commercial Relations between Nations: The Problem of Monetary Stabilization. Separate Memoranda from the Economists consulted by the Joint Committee of the Carnegie Endowment and the International Chamber of Commerce and practical Conclusions of the Expert Committee appointed by the Joint Committee (Paris, 1936), pp. 352 et seq.
+
+29 Ibid., p. 360
+
+30 Cf. N.G. Pierson, “The Problem of Value in a Socialist Community,” Collectivist Economic Planning (London: Routledge and Kegan Paul, 1935).
+
+31 Cf. on this L. Robbins, The Great Depression (London: Macmillan, 1934), p. 175.
+
+32 Cf. on this Robbins, Economic Planning and International Order, pp. 68 et seq.
+
+33 I feel I must remind the reader here that limitations of time made it impossible for me to dwell in these lectures on the tremendously important practical effects of a policy of monetary nationalism on commercial policy as long as I should have wished. Although this is well-trodden ground, it cannot be too often reiterated that without stability of exchange rates it is vain to hope for any reduction of trade barriers.
+
+34 Cf.W. Bagehot, and V.G. Smith, The Rationale of Central Banking (London, 1936).
+
+35 Cf. L. v. Mises, Geldwertstabilisierung und Konjunkturpolitik (Jena: Gustav Fischer, 1928).
+
+36 Cf. particularly J.R. Hicks, “A Suggestion for the Simplification of the Theory of Money,” Economica n.s. 2, no. 6 (February 1936), and F. Lavington, The English Capital Market (London: Methuen, 1921), p. 30.
+
+37 L. Currie, The Supply and Control of Money in the United States (Cambridge, Mass.: Harvard University Press, 1934), pp. 130 et seq.
+
+38 On the significance of the “Chicago Plan” compare particularly the interesting and stimulating article by H.C. Simons, “Rule versus Authority in Monetary Policy,” Journal of Political Economy 44, no. 1 (February 1936), and F. Lutz, Das Grundproblem der Geldverfassung (Stuttgart: Kohlhammer, 1936), where references to the further literature on the proposal will be found.
+
+39 Cf. Simons, “Rule versus Authority in Monetary Policy,” p. 5, note 3.
+
+40 A perhaps somewhat less impracticable alternative might be international bimetallism at a suitable ratio.
+
+41 Cf. Simons, “Rule versus Authority in Monetary Policy,” p. 16.
+
+42 Ibid., p. 17.
+
+43 Ibid., p. 17.
+
+44 Ibid., p. 17.
+
+45 Ibid.
+
+46 The founders of the Bank for International Settlements definitely contemplated that the bank might establish such a fund, and article 24 of its statutes specifically states that the bank may enter into special agreements with central banks to facilitate the settlement of international transactions between them.
+
+	For this purpose it may arrange with central banks to have gold earmarked for their account and transferable on their order, to open accounts through which central banks can transfer their assets from one currency to another and to take such other measures as the Board may think advisable within the limits of the powers granted by these Statutes.
+
+
+
+47 In a book which has appeared since these lectures were delivered (Whittlesey, International Monetary Issues) the author, after pointing out that a widening of the gold points would have the effects of increasing the volume of short-term capital movements of this sort (p. 116) concludes that “the only way of overcoming this factor would be to eliminate the gold points” (p. 117). But the only way of eliminating the gold points of which he can think is to abolish the gold standard!
+
+48 At the present value of gold the world’s stock of monetary gold (at the end of 1936) amounts to 73.5 percent, of all sight liabilities of the central banks plus the circulation of government paper money. The percentage would of course be considerably lower if, as would be necessary for this purpose, the comparison were made with the total of sight deposits with commercial banks plus bank notes, etc., in the hands of the public. But there can be no doubt that even if the price of gold should be somewhat lowered (say, by one seventh, i.e., from 140 to 120 shillings or from $35 to $30 per ounce) there would still be ample gold available to provide sufficient reserves.
+
+49 If in spite of this in an individual case the gold reserves of a country should be nearly exhausted, the necessary remedy would be to acquire the necessary amount of gold through an external loan and to give this amount to the central bank in repayment of part of the state debt which presumably will constitute at least part of its non-gold assets (or in payments of any other assets which the bank would have to sell to the government). The main point here is that the acquisition of this gold must be paid for out of taxation and not by the creation of additional credit by the central bank.
+
+50 Monetary Reconstruction (London: Longmans, Green, 1923), p. 144.
+
+
+
+
+

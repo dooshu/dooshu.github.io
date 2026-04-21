@@ -1,0 +1,790 @@
+7 CALL ME ISHMAEL: Point of View
+
+7: Call Me Ishmael
+
+
+
+POINT OF VIEW
+
+
+
+Who Speaks?
+
+Third Person
+
+Second Person
+
+First Person
+
+To Whom?
+
+The Reader
+
+Another Character
+
+The Self
+
+In What Form?
+
+At What Distance?
+
+Distance and the Author-Reader Relationship
+
+Consistency: A Caution
+
+A Word about Appropriation
+
+Point of view is the most complex element of fiction. We can label and analyze it in a number of different ways, but however we describe it, point of view ultimately concerns the relationship among writer, characters, and reader.
+
+The first thing to do is to set aside the common use of the phrase “point of view” as synonymous with “opinion,” as in It’s my point of view that they all ought to be shot. Begin instead with the more literal synonym “vantage point.” Who is standing where to watch the scene?
+
+Since we are dealing with words on a page, these questions might be better translated as: Who speaks? To whom? In what form? At what distance from the action?
+
+
+
+WHO SPEAKS?
+
+The primary point-of-view decision, which you as author must make before you can set down the first sentence of the story, is person. This is the simplest and crudest subdivision that must be made in deciding who speaks. The story can be told
+
+
+
+in the third person (she walked out into the harsh sunlight),
+
+in the second person (you walked out into the harsh sunlight), or
+
+in the first person (I walked out into the harsh sunlight).
+
+
+
+From the reader’s perspective, third- and second-person stories are told by an author, first-person stories by the character acting as “I.”
+
+
+Third Person
+
+Third person, in which the author is telling the story, can be subdivided again according to the degree of knowledge the author assumes.
+
+Omniscience
+
+The omniscient author has total knowledge and tells us directly what we are supposed to think. As omniscient author you are God. You can
+
+
+
+1. objectively report the action of the story;
+
+2. go into the mind of any character;
+
+3. interpret for us that character’s appearance, speech, actions, and thoughts, even if the character cannot do so;
+
+4. move freely in time or space to give us a panoramic, telescopic, microscopic, or historical view, telling us what has happened elsewhere or in the past or what will happen in the future; and
+
+5. provide general reflections, judgments, and truths.
+
+
+
+In all of these aspects, we will accept what the omniscient author tells us. If you tell us that Ruth is a good woman, that Jeremy doesn’t really understand his own motives, that the moon is going to explode in four hours, and that everybody will be better off for it, we will believe you. Here is a paragraph that blatantly exhibits all five of these areas of knowledge:
+
+
+(1) Joe glared at the screaming baby. (2) Frightened by his scowl, the baby gulped and screamed louder. I hate that thing, Joe thought. (3) But it was not really hatred that he felt. (4) Only two years ago he himself had screamed like that. (5) Children can’t tell hatred from fear.
+
+
+
+
+
+This illustration is awkwardly compressed, but authors well in control of their craft can move easily from one area of knowledge to another. In the first scene of War and Peace, Tolstoy describes Anna Scherer:
+
+
+To be an enthusiast had become her social vocation, and sometimes even when she did not feel like it, she became enthusiastic in order not to disappoint the expectations of those who knew her. The subdued smile which, though it did not suit her faded features, always played around her lips, expressed as in a spoiled child, a continual consciousness of her charming defect, which she neither wished, nor could, nor considered it necessary to correct.
+
+
+
+
+
+In two sentences Tolstoy tells us what is in Anna’s mind, what her acquaintances expect of her, what she looks like, what suits her, and what she can and cannot do; and he offers a general reflection on spoiled children.
+
+The omniscient voice is the voice of the classical epic (“And Meleager, far-off, knew nothing of this, but felt his vitals burning with fever”), of the Bible (“So the Lord sent a pestilence upon Israel; and there fell seventy thousand men”), and of most nineteenth-century novels (“Tito put out his hand to help him, and so strangely quick are men’s souls that in this moment, when he began to feel that his atonement was accepted, he had a darting thought of the irksome efforts it entailed”). But it is one of the manifestations of modern literature’s movement downward in class from heroic to common characters, and from external action to psychological action, that authors of realistic fiction have largely avoided the godlike stance of the omniscient author and restricted themselves to fewer areas of knowledge.
+
+Limited Omniscience
+
+The limited omniscient viewpoint is one in which the author may move with some, but not all, of the omniscient author’s freedom. The most commonly used form of the limited omniscient point of view is one in which the author can see events objectively and also has access to the mind of one character, but not to the minds of the others, nor to any explicit powers of judgment. Limited omniscience is particularly useful for the short story because it very quickly establishes the point-of-view character or means of perception. The short story is so compressed a form that there is rarely time or space to develop more than one consciousness. Staying with external observation and one character’s thoughts helps control the focus and avoid awkward point-of-view shifts. A further advantage of limited omniscience is that it mimics our individual experience of life, that is, our own inability to penetrate the minds and motivations of others, which can lead to the kinds of conflicts or struggles for connection that inspire much fiction.
+
+Limited omniscience is also frequently used for the novel, as in Gail Godwin’s The Odd Woman.
+
+
+It was ten o’clock on the evening of the same day, and the permanent residents of the household on the mountain were restored to routines and sobriety. Jane, on the other hand, sat by herself in the kitchen, a glass of Scotch before her on the cleanly wiped table, going deeper and deeper into a mood she could recognize only as unfamiliar. She could not describe it; it was both frightening and satisfying. It was like letting go and being taken somewhere. She tried to trace it back. When, exactly, had it started?
+
+
+
+
+
+It is clear here that the author has limited her omniscience. She is not going to tell us the ultimate truth about Jane’s soul, nor is she going to define for us the unfamiliar mood that the character herself cannot define. The author has the facts at her disposal, and she has Jane’s thoughts, and that is all.
+
+The advantage of the limited omniscient voice is immediacy. Here, because we are not allowed to know more than Jane does about her own thoughts and feelings, we grope with her toward understanding. In the process, a contract has been made between the author and the reader, and this contract must not now be broken. If at this point the author should step in and answer Jane’s question “When, exactly, had it started?” with “Jane was never to remember this, but in fact it had started one afternoon when she was two years old,” we would feel it as an abrupt and uncalled-for authorial intrusion. Nevertheless, within the limits the author has set herself, there is fluidity and a range of possibilities.
+
+The Objective Author
+
+As an objective author, you restrict your knowledge to the external facts that might be observed by a human witness: to the senses of sight, sound, smell, taste, and touch. In the story “Hills Like White Elephants,” Ernest Hemingway reports what is said and done by a quarreling couple, both without any direct revelation of the characters’ thoughts and without comment.
+
+
+“What should we drink?” the girl asked. She had taken off her hat and put it on the table.
+
+
+
+
+
+“It’s pretty hot,” the man said.
+
+
+
+
+
+“Let’s drink beer.”
+
+
+
+
+
+“Dos cervezas,” the man said into the curtain . . .
+
+
+
+
+
+The woman brought two glasses of beer and two felt pads. She put the felt pads and the beer glasses on the table and looked at the man and the girl. The girl was looking off at the line of hills. They were white in the sun and the country was brown and dry.
+
+
+
+
+
+In the course of this story we learn, entirely by inference, that the girl is pregnant and that she feels herself coerced by the man into having an abortion. Neither pregnancy nor abortion is ever mentioned. The narrative remains clipped, austere, and external. What does Hemingway gain by this pretense of objective reporting? The reader is allowed to discover what is really happening. The characters avoid the subject, prevaricate, and pretend, but they betray their real meanings and feelings through gestures, repetitions, and slips of the tongue. The reader, focus directed by the author, learns by inference, as in life, so that we finally have the pleasure of knowing the characters better than they know themselves.
+
+
+Second Person
+
+First and third persons are most common in literature; the second person remains an idiosyncratic and experimental form, but it is worth mentioning because several contemporary authors have been attracted to its possibilities.
+
+Han Kang’s novel Human Acts has recurring sections in the second person, illustrating how a reader is made into a character through this technique.
+
+
+“Looks like rain,” you mutter to yourself.
+
+
+
+
+
+What we do if it really chucks it down?
+
+
+
+
+
+You open your eyes so that only a slender chink of light seeps in, and peer at the gingko trees in front of the Provincial Office. As though there, between those branches, the wind is about to take on visible form. As though the raindrops suspended in the air, held breath before the plunge, are on the cusp of trembling down, glittering like jewels.
+
+
+
+
+
+When you open your eyes properly, the trees’ outlines dim and blur. You’re going to need glasses before long. . . . Perhaps your sight’s now as bad as it’s going to get, and you’ll be able to get away without glasses after all?
+
+
+
+
+
+Here the author makes you, the reader, into the character by assigning you specific characteristics and reactions, and thereby—assuming that you go along with her characterization—pulls you deeper and more intimately into the story.
+
+Some writers choose second person to depict trauma, as its slight sense of detachment mutes possible melodrama and mirrors the sense of shock; others may use it to make a highly individual experience feel more universal.
+
+What I really want is that intimacy in which the reader is under the impression that he isn’t really reading this; that he is participating in it as he goes along.
+
+
+
+—Toni Morrison
+
+
+
+The second person is the basic mode of the story only when a character is referred to as you. When one character addresses “you” in letter or monologue, that narrative is still told by the “I” character. When an omniscient author addresses the reader as you (You will remember that John Doderring was left dangling on the cliff at Dover), this is called “direct address” and does not alter the basic third-person mode of the piece. Only when “you” becomes an actor in the drama, so designated by the author, is the story or novel written in second person.
+
+Unlike third or first person, second person draws attention to itself, and it can also be difficult to maintain—it’s easy to slip back into third or first person. Also, some readers may resist second person because they don’t identify with the character they are supposed to be in the story. (You’re going to need glasses before long.) It is unlikely that the second person will ever become a major mode of narration as the first and third person are, but for precisely that reason you may find it an attractive experiment.
+
+
+First Person
+
+A story is told in the first person when one of its characters relates the story’s action and events. The term “narrator” is sometimes loosely used to refer to any teller of a tale, but strictly speaking a story has a narrator only when it is told in the first person by one of the characters. This character may be the protagonist, the I telling my story, in which case that character is a central narrator; or the character may be telling a story about someone else, in which case he or she is a peripheral narrator.
+
+In either case it’s important to indicate early which kind of narrator we have so that we know who the story’s protagonist is, as in the first paragraph of Paul Beatty’s The Sellout:
+
+
+This may be hard to believe, coming from a black man, but I’ve never stolen a thing. Never cheated on my taxes or at cards. Never snuck into the movies or failed to give back the extra change to a drugstore cashier indifferent to the ways of mercantilism and minimum-wage expectations. I’ve never burgled a house. Held up a liquor store.
+
+
+
+
+
+The focus here is immediately thrown on the I of the story, and we now expect that I to be the central character whose desires and decisions impel the action. Here is an even more insistent example, in Lauren Groff’s “Ghosts and Empties,” of an I on whom we infer the trouble of the story will surely fall:
+
+
+I have somehow become a woman who yells, and because I do not want to be a woman who yells, whose little children walk around with frozen, watchful faces, I have taken to lacing on my running shoes after dinner and going out into the twilit streets for a walk, leaving the undressing and sluicing and reading and singing and tucking in of the boys to my husband, a man who does not yell.
+
+
+
+
+
+In contrast to these self-directed narratives, the opening lines of Amy Bloom’s “Silver Water” establish Violet as a peripheral narrator, an observer and protector of her sister, Rose, who is brought alive through the description of her marvelous singing voice:
+
+
+My sister’s voice was like mountain water in a silver pitcher; the clear, blue beauty of it cools you and lifts you up beyond your heat, beyond your body. After we went to see La Traviata, when she was fourteen and I was twelve, she elbowed me in the parking lot and said, “Check this out.” And she opened her mouth unnaturally wide and her voice came out, so crystalline and bright that all the departing operagoers stood frozen by their cars, unable to take out their keys or open their doors until she had finished, and then they cheered like hell.
+
+
+
+
+
+That’s what I like to remember and that’s the story I told to all of her therapists. I wanted them to know her, to know that who they saw was not all there was to see.
+
+
+
+
+
+The central narrator is always, as the term implies, at the center of the action; the peripheral narrator may be in virtually any position other than the center. He or she may be the second most important character in the story (as is Violet) or may appear to be a bystander for much of the story. It is even possible to make the first-person narrator plural, as William Faulkner does in “A Rose for Emily,” where the story is told by a narrator identified only as one of “us,” the people of the town in which the action has taken place; or as in recurring sections of Scott Blackwood’s We Agreed to Meet Just Here.
+
+
+This is what we imagined the night Odie disappeared: he and Ruth had a fight over the chemotherapy, Odie saying he didn’t see the point and Ruth doing what she always did when distressed, driving to the fish market for prawns to sauté with a green mango curry.
+
+
+
+
+
+Notice how indirect dialogue and summary are used to suggest the-kind-of-thing-that-usually-happened, and therefore the kind of thing “we” could guess at.
+
+That a narrator may be either central or peripheral, that a character may tell either his or her own story or someone else’s, is both commonly assumed and obviously logical. But the author and editor Rust Hills, in Writing in General and the Short Story in Particular, takes interesting and persuasive exception to this idea. When point of view fails, Hills argues, it is always because the perception we are using for the course of the story is different from that of the character who is moved or changed by the action. Even when a narrator seems to be a peripheral observer and the story is “about” someone else, in fact it is the narrator who is changed, and must be, in order for us to be satisfied by our emotional identification with him or her.
+
+
+This, I believe, is what will always be the case in successful fiction: that either the character moved by the action will be the point-of-view character, or else the point-of-view character will become the character moved by the action. Call it Hills’ Law.
+
+
+
+
+
+Obviously, this view does not mean we have to throw out the useful fictional device of the peripheral narrator. Hills uses the familiar example of The Great Gatsby to illustrate his meaning. Nick Carraway as a peripheral narrator observes and tells the story of Jay Gatsby, but by the end of the book it is Nick’s life that has been changed by what he has observed. Likewise, Gish Jen’s story “No More Maybe” begins by making clear that the focus is to be on the narrator’s in-laws:
+
+
+Since my mother-in-law came to visit America she is quite busy. First she has to eat many blueberries. Because in China they are expensive! While here they are comparatively cheap. Then she has to breath the clean air. My husband, Wuji, and I have lived here for five years, so we are used to the air. But my mother-in-law has to take many fast walks. Breathing, breathing. Trying to clean out her lungs, she says, trying to get all the healthy oxygen inside her. She also has to look at the sky.
+
+
+
+
+
+Yet by the end of the story it is the narrator who is in tears, because she sees that her in-laws’ aging, which she has been busy satirizing, can have only one outcome.
+
+Anton Chekhov (as paraphrased by Tobias Wolff) cautioned, “The narrator cannot escape the consequences of the story he is telling. If he does, it’s not a story. It’s an anecdote, a tale, or something else.”
+
+Central or peripheral, a first-person narrator is a character, so it’s vital to remember that she or he has all the limitations of a human being and cannot be omniscient. The narrator is confined to reporting what she or he could realistically know. More than that, although the narrator may certainly interpret actions, deliver dictums, and predict the future, these remain the fallible opinions of a human being. We are not bound to accept them as we are bound to accept the interpretations, truths, and predictions of the omniscient author. You may want us to accept the narrator’s word, and then the most difficult part of your task, and the touchstone of your story’s success, will be to convince us to trust and believe the narrator. On the other hand, it may be an important part of your purpose that we should reject the narrator’s opinions and form our own. If the answer to Who speaks? is a child, a bigot, a jealous lover, an animal, a schizophrenic, a murderer, a liar, the implications may be that the narrator speaks with limitations we do not necessarily share. To the extent that the narrator displays and betrays such limitations, she or he is an unreliable narrator, a phenomenon that is discussed later in the chapter, under the heading “At What Distance?”
+
+
+
+TO WHOM?
+
+In choosing a point of view, the author implies an identity not only for the teller of the tale but also for the intended audience. To whom is the story being told?
+
+
+The Reader
+
+Most fiction is addressed to a literary convention, “the reader.” When we open a book, we tacitly accept our role as a member of this unspecified audience and don’t pause to ask, Why are you telling me all this? The most common assumption of the tale-teller, whether omniscient author or narrating character, is that the reader is an open and amenable Everyman, and that the telling needs no justification.
+
+The use of point of view is to bring the reader into immediate and continuous contact with the heart of the story and sustain him there. Point of view is the proscenium, the transparent window through which the reader views the story.
+
+
+
+—Tom Jenks
+
+
+
+
+My mother died at the moment I was born, and so for my whole life there was nothing standing between myself and eternity; at my back was always a bleak, black wind. I could not have known at the beginning of my life that this would be so; I only came to know this in the middle of my life, just at the time when I was no longer young and realized that I had less of some of the things I used to have in abundance and more of some of the things I had scarcely had at all.
+
+
+
+
+
+—Jamaica Kincaid, The Autobiography of My Mother
+
+
+
+
+Another Character
+
+On the other hand, the story may be told to another character, or characters, in which case we as readers “overhear” it; the teller of the tale does not acknowledge us even by implication.
+
+In the epistolary novel or story, the narrative consists entirely of letters written from one character to another, or between characters. The recipient of the letter may be a stranger or a close friend or relative, like the near-annual readers of The Christmas Letters, by Lee Smith.
+
+
+First, my apologies for not writing a Christmas letter last year (for not returning calls, for not returning letters, etc.). The fact is, for a long time I couldn’t do anything. Not a damn thing. Nothing. I was shell-shocked, immobilized. This was followed by a period when I did too many things. Marybeth, who has been through it, wrote to me about this time, saying, “Don’t make any big decisions”—very good advice, and I wish I’d followed it. Instead, I agreed to a separation agreement, then to a quick no-fault divorce, then to Sandy’s plan of selling the house P.D.Q. I just wanted everything over with—the way you feel that sudden irresistible urge to clean out your closet sometimes.
+
+
+
+
+
+Or the convention of the story may be that of a monologue, spoken aloud by one character to another:
+
+
+Those are the offices and these are the cubicles. That’s my cubicle there, and this is your cubicle. This is your phone. Never answer your phone. Let the Voicemail System answer it. This is your Voicemail System Manual. There are no personal phone calls allowed. We do, however, allow for emergencies. If you must make an emergency phone call, ask your supervisor first. If you can’t find your supervisor, ask Phillip Spiers, who sits over there. He’ll check with Clarissa Nicks, who sits over there. If you make an emergency phone call without asking, you may be let go.
+
+
+
+
+
+—Daniel Orozco, “Orientation”
+
+
+
+
+Again, the possible variations are infinite: the narrator may speak in intimate confessional to a friend or lover, or may present his case to a jury or a mob; she may be writing a highly technical report on the welfare situation, designed to hide her emotions; he may be pouring out his heart in a love letter he knows (and we know) he will never send. Robin Hemley’s “Reply All” is written entirely in emails.
+
+Just as often, I find myself writing about disturbing or socially questionable acts and states of mind that have no real basis in my life at all, but which, I am afraid, people will quite naturally attribute to me when they read what I have written.
+
+
+
+—Michael Chabon
+
+
+
+In any of these cases, the convention employed is the opposite of that employed in a story told to “the reader.” The listener as well as the teller is involved in the action; the assumption is not that we readers are there but that we are not. We are eavesdroppers, with all the ambiguous intimacy that position implies.
+
+
+The Self
+
+An even greater intimacy is implied if the character’s story is as secret as a diary or as private as a mind, addressed to the self and not intended to be heard by anyone inside or outside the action.
+
+In a diary or journal, the convention is that the thoughts are written but not expected to be read by anyone except the writer. Here is an entry from the private diary kept by a campaign manager in my novel The Buzzards:
+
+
+August 11
+
+
+
+
+
+One day I will throttle that woman. Delicious fantasies of wringing a chicken’s neck—no bird she more resembles. Yet the comparison misleading and the product of my own will. Must not be taken in by it.
+
+
+
+
+
+I looked up this afternoon to see her in the patio of the Booker T. Secondary School in Shreveport, in full view through the double doors—reporters with Alex in the cafeteria could have seen her by taking two steps backward.
+
+
+
+
+
+The character here is clearly using his diary to vent his feelings and does not intend it to be read by anyone else. Still, he has deliberately externalized his secret thoughts.
+
+Interior Monologue
+
+Because the author has the power to enter a character’s mind, the reader also has the power to eavesdrop on that character’s thoughts. Overheard thoughts are generally of two kinds, of which the more common is interior monologue, the convention being that we follow the character’s thoughts in their sequence.
+
+
+I must organize myself. I must, as they say, pull myself together, dump this cat from my lap, stir—yes, resolve, move, do. But do what? My will is like the rosy dustlike light in this room: soft, diffuse, and gently comforting. It lets me do . . . anything . . . nothing. My ears hear what they happen to; I eat what’s put before me; my eyes see what blunders into them; my thoughts are not thoughts, they are dreams. I’m empty or I’m full . . . depending; and I cannot choose. I sink my claws in Tick’s fur and scratch the bones of his back until his rear rises amorously. Mr. Tick, I murmur, I must organize myself, I must pull myself together. And Mr. Tick rolls over on his belly, all ooze.
+
+
+
+
+
+—William H. Gass, “In the Heart of the Heart of the Country”
+
+
+
+
+This interior monologue ranges, as human thoughts do, from sense impression to self-admonishment, from cat to light to eyes and ears, from specific to general and back again. But the logical connections between these things are all provided; the mind “thinks” logically and grammatically, as if the character were trying to express himself.
+
+Stream of Consciousness
+
+Stream of consciousness acknowledges the fact that the human mind does not operate with the order and clarity of the monologue just quoted. Even what little we know of its operations makes clear that it skips, elides, makes and breaks images, leaps faster and further than any mere sentence can suggest. Any mind at any moment is simultaneously accomplishing dozens of tasks that cannot be conveyed simultaneously. As you read this sentence, part of your mind is following the sense of it; part of your mind is directing your hand to hold the book open or scroll down the screen; part of it is twisting your spine into a more comfortable position; part of it is still lingering on the last interesting image of this text, Mr. Tick rolling over on his belly, which reminds you of a cat you had once that was also all ooze, which reminds you that you’re nearly out of milk and have to finish this chapter before the store closes—and so forth.
+
+In Ulysses, James Joyce tried to catch the speed and multiplicity of the mind with the technique that has come to be known as stream of consciousness. The device is difficult and in many ways thankless: since the speed of thought is so much faster than that of writing or speaking, and stream of consciousness tries to suggest the process as well as the content of the mind, it requires a much more—not less—rigorous selection and arrangement than ordinary grammar requires. But Joyce and a very few other writers have handled stream of consciousness as an ebullient and exciting way of capturing the mind.
+
+
+Im sure Im not going to take in lodgers off the street for him if he takes a gesabo of a house like this Id love to have a long talk with an intelligent welleducated person Id have to get a nice pair of red slippers like those Turks with the fez used to sell or yellow and a nice semitransparent morning gown that I badly want or a peachblossom dressing jacket like the one long ago in Walpoles only 8/6 . . .
+
+
+
+
+
+—James Joyce, Ulysses
+
+
+
+
+The preceding two examples, of interior monologue and stream of consciousness, respectively, are written in the first person, so that we overhear the minds of narrator characters. We may also overhear the thoughts of characters through the third-person omniscient and limited omniscient authors, as in John Edgar Wideman’s tour de force story “The Tambourine Lady.” Here, Wideman succeeds in the challenging fusion of third-person narrative and stream of consciousness, so that although the answer to the question Who speaks? is technically “the author,” we are nevertheless aware of the point-of-view character speaking to herself in rapid-fire associative thought:
+
+
+She thinks about how long it takes to get to the end of your prayers, how the world might be over and gone while you are still saying the words to yourself. Words her mama taught her, words her mama said her mother had taught her so somebody would always be saying them world without end amen. So God would not forget his children . . .
+
+
+
+
+
+IN WHAT FORM?
+
+The form of the story also contributes to the overall point of view. That form may announce itself as a generalized story, either written or spoken; or it may suggest reportage, confessional, interior monologue, or stream of consciousness; or it may be overtly identified as monologue, oratory, journal, or diary. This list is not exhaustive; you can tell your story in the form of a catalog or a television commercial as long as you can also contrive to give it the form of a story.
+
+Form is important to point of view because the form in which a story is told indicates the degree of self-consciousness on the part of the teller; this will in turn affect the language chosen, the intimacy of the relationship, and the honesty of the telling. A written account will imply less spontaneity, on the whole, than one that appears to be spoken aloud, which in turn suggests less spontaneity than thought. A narrator writing a letter to his grandmother may be less honest than he is when he tells the same facts aloud to his friend.
+
+Certain relationships established by the narrative between teller and audience make certain forms more likely than others, but almost any combination of answers is possible to the questions Who speaks? To whom? In what form? If you are speaking as an omniscient author to the literary convention of “the reader,” we may assume that you are using the convention of “written story” as your form. But you might say:
+
+
+Wait, step over here a minute. What’s this in the corner, stuffed down between the bedpost and the wall? Is that a dust rag or—is it? A pair of underpants?
+
+
+
+
+
+If you do this, you slip at least momentarily into the different convention of the spoken word—the effect is that we are drawn more immediately into the scene—and the point of view of the whole is slightly altered. A central narrator might be thinking, and therefore “talking to herself,” while actually angrily addressing her thoughts to another character. Conversely, one character might be writing a letter to another but letting the conscious act of writing deteriorate into a betrayal of his own secret thoughts. Any complexities such as these will alter and inform the total point of view.
+
+
+
+AT WHAT DISTANCE?
+
+As with the chemist at her microscope and the lookout in his tower, fictional point of view always involves the distance, small or great, of the perceiver from the thing perceived. Distance may be temporal or spatial, involving a literal distance from the events narrated.
+
+
+That spring, when I had a great deal of potential and no money at all, I took a job as a janitor. That was when I was very young and spent money very freely, and when, almost every night, I drifted off to sleep lulled by sweet anticipation of that time when my potential would suddenly be realized and there would be capsule biographies of my life on the dust jackets of many books.
+
+
+
+
+
+I was extremely nervous about writing a character of another race. I’d never tried it before, and worried, as well I might have, that it would come off as some white guy writing about his idea of what it might be like to be a black woman . . . so I went ahead and did it.
+
+
+
+—Michael Cunningham
+
+
+
+
+—James Alan McPherson, “Gold Coast”
+
+
+
+
+Here, the distance is one of decades, the point of view that of the narrator regarding his younger self. We are invited to identify with the older writing self, and mockingly clued in to the fact that the sweet anticipation of potential has not been borne out.
+
+By closing the literal distance between the reader and the subject, an intangible distance can be closed as well, as in this passage from my novel Raw Silk:
+
+
+Her face was half an inch from my face. The curtain flapped at the open window and her pupils pulsed with the coming and going of the light. I know Jill’s eyes; I’ve painted them. They’re violent and taciturn . . . a detonation under glass.
+
+
+
+
+
+Authorial distance, sometimes called psychic distance, is the degree to which we as readers feel, on the one hand, intimacy and identification with and, on the other hand, detachment and alienation from the characters. A sense of distance may be increased through the use of abstract nouns, summary, typicality, and apparent objectivity. Such techniques, which in other contexts might be seen as writing flaws, are employed purposefully in the following passage to detach readers from characters in a series of details that amount to historical sweep.
+
+
+It started in the backyards. At first the men concentrated on heat and smoke, and on dangerous thrusts with long forks. Their wives gave them aprons in railroad stripes, with slogans on the front—HOT STUFF, THE BOSS—to spur them on. Then it began to get all mixed up with who should do the dishes, and you can’t fall back on paper plates forever, and around that time the wives got tired of making butterscotch brownies and Jell-o salads with grated carrots and baby marshmallows in them and wanted to make money instead, and one thing led to another.
+
+
+
+
+
+—Margaret Atwood, “Simmering”
+
+
+
+
+Conversely, closeness and sympathy can be achieved by concrete detail, scene, a character’s thoughts, and so forth.
+
+
+She dreams she does not already have three children. A squeeze around the flowers in her hands chokes off three and four and five years of breath. Instantly she is ashamed and frightened in her superstition. She looks for the first time at the preacher, forces humility into her eyes, as if she believes he is, in fact, a man of God. She can imagine God, a small black boy, timidly pulling the preacher’s coattail.
+
+
+
+
+
+—Alice Walker, “Roselily”
+
+
+
+
+Or a combination of techniques may make us feel simultaneously sympathetic and detached—a frequent effect of comedy—as in this example:
+
+
+I’m a dishwasher in a restaurant. I’m not trying to impress anybody. I’m not bragging. It’s just what I do. It’s not the glamorous job people make it out to be. Sure, you make a lot of dough and everybody looks up to you and respects you, but then again there’s a lot of responsibility. It weighs on you. It wears on you. Everybody wants to be a dishwasher these days, I guess, but they’ve got an idealistic view of it.
+
+
+
+
+
+—Robert McBrearty, “The Dishwasher”
+
+
+
+
+As author you may ask us to identify completely with one character and totally condemn another. One character may judge another harshly while you as author suggest that we should qualify that judgment. If there is also a narrator, that narrator may think himself morally superior while behind his back you make sure that we will think him morally deficient. In that case, you have created a moral distance in the narration, and an unreliable narrator.
+
+Here is a first-person narration in which a woman, imperious and sour, tells her story from her point of view:
+
+
+I have always, always, tried to do right and help people. It’s a part of my community duty and my duty to God. But I can tell you right now, you don’t never gets no thanks for it! . . .
+
+
+
+
+
+Use to be a big ole fat sloppy woman live cross the street went to my church. She had a different man in her house with her every month! She got mad at me for tellin the minister on her about all them men! Now, I’m doin my duty and she got mad! I told her somebody had to be the pillar of the community and if it had to be me, so be it! She said I was the pill of the community and a lotta other things, but I told the minister that too and pretty soon she was movin away. Good! I like a clean community!
+
+
+
+
+
+—J. California Cooper, “The Watcher”
+
+
+
+
+We mistrust every judgment this woman makes, but we are also aware of an author we do trust, manipulating the narrator’s tone to expose her. The outburst is fraught with ironies, but because the narrator is unaware of them, they are directed against herself. We can hear that interference is being dressed up as duty. When she brags in cliché, we agree that she’s more of a pill than a pillar. When she appropriates biblical language—“so be it!”—we suspect that even the minister might agree. Punctuation itself, the self-righteous overuse of the exclamation point, suggests her inappropriate intensity. It occurs to us we’d probably like the look of that “big ole fat sloppy” neighbor, and we know for certain why that neighbor moved away.
+
+In this case the narrator is wholly unreliable, and we’re unlikely to accept any judgment she could make. But it is also possible for a narrator to be reliable in some areas of value and unreliable in others. Mark Twain’s Huckleberry Finn is a famous case in point. Here Huck has decided to free his friend Jim, and he is astonished that Tom Sawyer is going along with the plan.
+
+
+Here was a boy that was respectable, and well brung up; and had a character to lose; and folks at home that had characters; and he was bright and not leather-headed; and knowing and not ignorant; and not mean, but kind; and yet here he was, without any more pride, or rightness, or feeling, than to stoop to this business, and make himself a shame, and his family a shame, before everybody. I couldn’t understand it, no way at all.
+
+
+
+
+
+The extended irony in this excerpt is that slavery should be defended by the respectable, the bright, the knowing, the kind, and those of character. We reject Huck’s assessment of Tom as well as the implied assessment of himself as worth so little that he has nothing to lose by freeing a slave. Huck’s moral instincts are better than he himself can understand. (Notice, incidentally, how Huck’s lack of education is communicated by word choice and syntax and how sparse the misspellings are.) So author and reader are in intellectual opposition to Huck the narrator, but morally identify with him. Similarly reliable “unreliable” narrators, whose distorted views reveal a strangely accurate portrait of the social institutions that confine them, include Chief Bromden, the narrator of Ken Kesey’s One Flew Over the Cuckoo’s Nest, and the “hysterical” wife and patient, forbidden to write, who relates Charlotte Perkins Gilman’s 1892 story “The Yellow Wallpaper.”
+
+Given enough time, for most writers, point-of-view choices become intuitive. You hear a voice, and you follow.
+
+
+
+—Elizabeth Strout
+
+
+
+The unreliable narrator—who has become one of the most popular characters in modern fiction—is far from a newcomer to literature and in fact predates fiction. Every drama contains characters who present their own cases, and from whom we are partly or wholly distanced in one area or another. So we admire Oedipus’s intellect but are exasperated by his lack of intuition, we identify with Othello’s morality but mistrust his logic, we trust Mr. Spock’s brain but not his heart. As these examples suggest, the unreliable narrator often presents us with an example of consistent inconsistency and always presents us with dramatic irony, because we always “know” more than he or she does about the characters, the events, and the significance of both.
+
+
+Distance and the Author-Reader Relationship
+
+The one relationship in which there must not be any distance, however, is between author and reader.
+
+It is a frustrating experience for many beginning (and established) authors to find that, whereas they meant the protagonist to appear sensitive, their readers find him self-pitying; whereas the author meant her to be witty, the readers find her vulgar. When this happens there is a failure of authorial or psychic distance: the author did not have sufficient perspective on the character to convince us to share his or her judgment. I recall one class in which a student author had written, with excellent use of image and scene, the story of a young man who fell in love with an exceptionally beautiful young woman, and whose feelings turned to revulsion when he found out she had had a mastectomy. The most vocal feminist in the class loved this story, which she described as “the exposé of a skuzzwort.” This was not, from the author’s point of view, a successful reading of his story. He had meant for the young man in the story to be seen as a sympathetic character.
+
+You are going to write about that incident. You are the main character in the story. But . . . you are going to disguise things in a big way.
+
+
+
+—Ira Wood
+
+
+
+A writer may also create either distance or closeness through the use of time, space, tone, and irony. A story that happened long ago in a faraway land, told by a detached narrator, won’t feel the same as one happening in present tense, told by one of the characters. A story’s tone and use of irony are also indications of how the reader should view the characters and their situations. For example, in Daniel Orozco’s story “Orientation,” quoted on page 164, we can’t help but view the office workers from a distance because of the narrator’s tone, and that tone remains flat as the distance increases:
+
+
+Amanda Pierce also has a husband, who is a lawyer. He subjects her to an escalating array of painful and humiliating sex games, to which Amanda Pierce reluctantly submits. She comes to work exhausted and freshly wounded each morning, wincing from the abrasions to her breasts, or the bruises on her abdomen, or the second-degree burns on the backs of her thighs.
+
+
+
+
+
+Choosing and controlling the psychic distance that best suits a given story is one of the most elusive goals a writer pursues. The good news for novice writers feeling overwhelmed by all of these considerations is that point-of-view choices, like plot and theme, are seldom calculated and preplanned. Rather, point of view tends to evolve organically as a story develops, and you can usually trust intuition to guide you through several drafts. It is when a story is well under way that analysis of its specific point-of-view issues becomes most useful, and the feedback of other writers may be of particular value.
+
+
+
+CONSISTENCY: A CAUTION
+
+In establishing the story’s point of view, you make your own rules, but having made them, you must stick to them. Your position as a fiction writer is analogous to that of a poet, who may choose whether to write free verse or a ballad stanza. If the poet chooses the stanza, then he or she is obliged to rhyme. Similarly, once you signal a point of view to the reader, you are obliged to stick with it. Beginning writers of prose fiction are often tempted to shift viewpoint when it is both unnecessary and disruptive for readers.
+
+
+Leo’s neck flushed against the prickly weave of his uniform collar. He concentrated on his buttons and tried not to look into the face of the bandmaster, who, however, was more amused than angry.
+
+
+
+
+
+This is an awkward point-of-view shift: having felt Leo’s embarrassment with him, we are suddenly asked to leap into the bandmaster’s feelings. The shift can be corrected by moving instead from Leo’s mind to an observation he might make:
+
+
+Leo’s neck flushed against the prickly weave of his uniform collar. He concentrated on his buttons and tried not to look into the face of the bandmaster, who, astonishingly, was smiling.
+
+
+
+
+
+The rewrite is easier to follow because we remain in Leo’s mind as he observes that the bandmaster is not angry. It further serves to imply that Leo fails to concentrate on his buttons, and so intensifies his confusion.
+
+Apart from the use of significant detail, there is no more important skill for a writer of fiction to grasp than this, the control of point of view. Sometimes it may be hard simply to recognize that your narrative has leaped from one point of view to another—often, in workshop, students are troubled by a point-of-view shift in someone else’s story but can’t spot one in their own. In other cases there’s a healthy desire to explore every possibility in a scene, and a mistaken sense that this can’t be done without changing point of view. Indeed, some practiced and skillful writers break this rule of consistency in point of view to original and inventive effect. Yet the general rule holds, and a writer shows his amateurism in unintended and ineffective point of view shifts. Once established, point of view constitutes a contract between author and reader, and it will be difficult to break the contract gracefully. If you have restricted yourself to the mind of James Lordly for five pages, as he observes the actions of Mrs. Grumms and her cats, you will violate the contract by suddenly dipping into Mrs. Grumms’s mind to let us know what she thinks of James Lordly. We are likely to feel misused, and likely to cancel the contract altogether, if you then suddenly give us the thoughts of the cats.
+
+
+
+A WORD ABOUT APPROPRIATION
+
+In the early decades of the twenty-first century there has been an outcry about cultural appropriation—writing about, and especially from the point of view of, persons of another race, gender, or ethnicity. What right have these, especially middle-class, especially Western, especially white, especially male writers to write about the lives and desires, fears and hopes of people whose experience is totally other—especially blacks, Muslims, victimized women, immigrants—people who have been colonized, conquered, ghettoized, and discriminated against?
+
+The questions are deep and many. There exists, without doubt, the phenomenon of cultural theft, where the unacknowledged and unrewarded arts of one culture are exploited for fame and money (minstrels, blaxploitation films, mother-in-law jokes; and Elvis? hip-hop?). There are also serious attempts to learn from other cultures and bring them to a larger audience, or to bridge cultures (Ladysmith Black Mambazo, cool jazz, Black Panther). The difference is often difficult to parse, and particularly so in fiction, where it is the specific intent of the story to inhabit another mind, a mind that is not the author’s but nevertheless a product of the author’s. This intent, deliberately and of its nature empathetic, can be distorted, and the result can be crude and demeaning. If it is so, it is bad art, or not art. It must be called out and condemned.
+
+Of course, there are ancillary advantages to writing fiction. You get to leave your body, for instance, so you can have experiences that a person with your physical characteristics couldn’t actually have.
+
+
+
+—Deborah Eisenberg
+
+
+
+But the empathetic effort is both necessary and urgent. We need to imagine each other. As the world becomes more interracial and interethnic, more and more writers will need to imagine themselves more and more deeply into the minds and lives of a multipopulated society. Playwright Lynn Nottage, in her declared desire to dismantle the “white male gaze,” set her Pulitzer Prize–winning drama Sweat in the steel mills of Reading, Pennsylvania. There, in order to represent the issues of racial and class difference, she could not do otherwise than write from the viewpoint of white as well as black, male as well as female, immigrant as well as native. Annie Proulx, in order to write about the devastation of American forests in Barkskins, had to “become” several dozen French trappers, Native Americans, powerful axe-handlers, hard-nosed exploiters, and savvy businesswomen to represent the sweep of the history. These necessities are immemorial requirements of the imaginative art. The “appropriation” and representation of other minds is, and will become increasingly, the business of writers seeking to imagine their truth. Yet the questions will continue to be asked and the charge of appropriation raised until that mythic future in which the experience of all people is shared and equal.
+
+POINT OF VIEW: A SUMMARY
+
+
+
+
+
+WHO SPEAKS?
+
+Third person: Authoreditorial omniscientlimited omniscientobjective
+
+Second person: Author
+
+First person: Charactercentral narratorperipheral narrator
+
+
+
+TO WHOM?
+
+Third person: Reader
+
+Second person: “You”as characteras reader-turned-character
+
+First person: Selfor: another character
+
+
+
+IN WHAT FORM?
+
+Story, monologue, letter, journal, interior monologue, stream of consciousness, etc.
+
+
+
+AT WHAT DISTANCE?
+
+Complete identification
+
+to
+
+complete opposition
+
+
+
+between speaker and reader (in time, space, intelligence, morality, diction, sanity, etc.)
+
+
+
+
+In the meantime, on the flawed planet we inhabit, there can be, it seems to me, only one way forward, which is to embrace a proposition parallel to the concept of free speech: that the imagination is by its nature free and cannot be censored. As with speech, the writer’s imagination can have no boundary imposed except in cases of threat, hate, or sedition. She is free to imagine anyone, anywhere, in the past, the future, or a time that never could exist; he may set his fiction in a country he has never seen or a town he has passed through only once. And then, as with free speech, the imagination may be critiqued: this rings true, you got that wrong, you caught it exactly, you don’t understand, how could you know that?, your imagining is too feeble. The writer’s only obligation to the imagination is, perpetually, to imagine better.
+
+
+
+SUGGESTED STORIES
+
+
+
+“Rape Fantasies”
+
+Margaret Atwood
+
+
+
+
+
+“Gryphon”
+
+Charles Baxter
+
+
+
+
+
+“Jealous Husband Returns in Form of Parrot”
+
+Robert Olen Butler
+
+
+
+
+
+“Story”
+
+Lydia Davis
+
+
+
+
+
+“Hills Like White Elephants”
+
+Ernest Hemingway
+
+
+
+
+
+“Who’s Irish?”
+
+Gish Jen
+
+
+
+
+
+“Love and Lethe”
+
+Samuel Beckett
+
+
+
+
+
+“Orientation”
+
+Daniel Orozco
+
+
+
+
+
+“Victory Lap”
+
+George Saunders
+
+
+
+
+
+“The Excursion”
+
+Joy Williams
+
+
+
+
+
+WRITING PROMPTS
+
+
+
+1. Write down a patently false statement about yourself: I have a pet snake or I take my feet off at night or I cleared two million in the heist last week—the farther from the truth the better. Carry on about it. Begin to develop the personality of a person of whom this statement would be true. You probably won’t write a great story out of this prompt, but you may feel more imaginative freedom than you do when the “I” you start from is yourself.
+
+2. Write a scene about the birth or death of anything (person, plant, animal, machine, scheme, passion). Use all five areas of knowledge of the editorial omniscient author. Be sure to give the thoughts of more than one character, tell us something about at least one character that she or he doesn’t realize, include the past or future, and deliver a universal truth.
+
+3. Take any scene you have previously written and recast it from another point of view, altering not just the person but the means of perception, so that we have an entirely different perspective on the events.
+
+4. Write a scene in the second person, in which you ask the reader to become a fool, a bigot, a criminal, or some other unsavory type. Try to convince the reader to go along.
+
+5. Write a scene from the point of view of anything nonhuman—animal, vegetable, mineral, mythic monster, angel. Try to imagine yourself into the terms, frame of reference, morals, and language that this creature would use.
+
+6. Write a scene from the point of view of a character whose views we totally reject.
+
+
+
+
+

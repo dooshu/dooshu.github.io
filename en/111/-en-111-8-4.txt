@@ -1,0 +1,27 @@
+4. THE NATURE OF EXPLANATION
+
+
+8.48. What remains now is to restate briefly what the theory outlined in the preceding pages is meant to explain, and how far it can be expected to account for particular mental processes. This makes it necessary to make more precise than we have yet done what we mean by ‘explanation’. This is a peculiarly relevant question since ‘explanation’ is itself one of the mental processes which the theory intends to explain.
+
+8.49. It has been suggested before (5.44–5.48) that explanation consists in the formation in the brain of a ‘model’ of the complex of events to be explained, a model the parts of which are defined by their position in a more comprehensive structure of relationships which constitutes the semi-permanent framework from which the representations of individual events receive their meaning.
+
+8.50. This notion of the ‘model’, which the brain is assumed to be capable of building, has, of course, been often used in this connexion,10 and by itself it does not get us very far. Indeed, if it is conceived, as is usually the case, as a separate model of the particular phenomenon to be explained, it is not at all clear what is meant by it. The analogy with a mechanical model is not directly applicable. A mechanical model derives its significance from the fact that the properties of its individual parts are assumed to be known and in some respects to correspond to the properties of the parts of the phenomenon which it reproduces. It is from this knowledge of the different properties of the parts that we derive our knowledge of how the particular combination of these parts will function.
+
+8.51. In general, the possibility of forming a model which explains anything presupposes that we have at our disposal distinct elements whose action in different circumstances is known irrespective of the particular model in which we use them. In the case of a mechanical model it is the physical properties of the individual parts which are supposed to be known. In a mathematical ‘model’ the ‘properties’ of the parts are defined by functions which show the values they will assume in different circumstances, and which are capable of being combined into various systems of equations which constitute the models.
+
+8.52. The weakness of the ordinary use of the concept of the model as an account of the process of explanation consists in the fact that this conception presupposes, but does not explain, the existence of the different mental entities from which such a model could be built. It does not explain in what sense or in which manner the parts of the model correspond to the parts of the original, or what are the properties of the elements from which the model is built.
+
+8.53. The concept of a model that is being formed in the brain is helpful only after we have succeeded in accounting for the different properties of the parts from which it is built. Such an account is provided by the explanation of the determination of sensory (and other mental) qualities by their position in the more comprehensive semi-permanent structure of relationships, the ‘map’ of the world which past experience has created in the brain, which has been described in the preceding pages. It is the position of the impulse in the connected network of fibres which brings it about that its occurrence together with other impulses will produce certain further impulses. The formation of the model appears thus merely a particular case of that process of joint or simultaneous classification of a group of impulses of which each has its determined significance apart from the particular combination or model in which it now occurs.
+
+8.54. We can schematically represent this process of joint classification which produces a model in the following manner: the different elements, the mental qualities from which the model is built, are classes of impulses which we may call A, B, C, etc., and which are defined as an a (member of A) producing x (and perhaps some other impulses) when it occurs in company with o, p, . . . , but producing v, z, . . . when it occurs in company with r, s, . . . etc., etc., and similarly for all members of the classes B, C, etc. In this definition any given class of impulses may, of course, occur both in a ‘primary’ character, that is as an element of a class to be defined by the impulses which any element of this class will evoke, and in a ‘secondary’ character as an evoked impulse which determines the class to which some other impulses belong. (3.38, 3.55ff.) Impulses of the class A will appear not only in statements like ‘if (a, o, p) then x‘ and ‘if (a, r, s) then(y, z . . . ), but also in statements like ‘if (b, c, q) then (a, t) etc.
+
+8.55. Given such a determination of the different significance of impulses of the different classes, it follows that any given combination of such impulses will produce impulses standing for other classes, and these in turn others, and so on, somewhat as in the following schematic representation:
+
+
+
+8.56. The particular result produced is thus recognized to be the effect of the simultaneous occurrence of certain elements in a particular constellation which, if we had known of their presence, would have enabled us to predict the result. Once we have formed such a model we are in a position to say on which of the various elements in the actual situation the observed result depends, and how it would be modified if any of these elements were changed; this is what an explanation enables us to do.
+
+
+
+
+

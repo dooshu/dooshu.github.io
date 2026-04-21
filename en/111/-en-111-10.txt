@@ -1,0 +1,384 @@
+NOTES
+
+Chapter 1
+
+1 See E. G. Boring 1933, pp. 22–23 and 1942, p. 42.
+
+2 Cf., e.g., M. Planck, 1926, p. 5: ‘The sense perceptions have been definitely eliminated from physical acoustics, optics and heat. The physical definitions of sound, colour, and temperature are to-day in no way associated with the immediate perception of the respective senses, but sound and colour are defined respectively by the frequency and wavelength of oscillations, and temperature is measured theoretically on the absolute temperature scale corresponding to the second law of thermodynamics.’ See also 1949 (1941), p. 108. On the fact that this applies not only to the ‘secondary’ qualities see H. Margenau, 1950, pp. 7 and 49.
+
+3 Since, as we shall see, the movement from the sensory to the physical order is a gradual one, there is, strictly speaking, an infinite range of such orders of which the naïve picture of the sensory world and the latest scientific knowledge are merely the most significant types.
+
+4 Cf., J. von Kries, 1923, p. 67, and E. G. Boring, 1942, p. 97. As late as 1935 the latter author could still write (p. 236) that ‘it is the traditional view of psychology that the attributes of sensation show a one-to-one correspondence to the dimensions of the stimulus.’
+
+5 In German often by the not fully translatable word anschaulich.
+
+6 To prevent confusion it should perhaps be pointed out that the ‘physical language’ of the logical positivists refers to the phenomenal and not to the physical order.
+
+7 These doubts have not been dispelled by the careful distinction of various kinds and degrees of ‘reality’ (Wirklichkeit) by W. Metzger, 1941, Chapter 2.
+
+8 On the gradual evolution of the scientific world picture from the efforts of the child, and on the use of the term ‘real’, see M. Planck, 1949 (1941), especially pp. 90 and 95–105.
+
+9 Cf., K. Koffka, 1934, pp. 75ff.
+
+10 Cf., F. A. Hayek, 1942, p. 279.
+
+11 Cf., E. G. Boring, 1942, p. 120: ‘Nowadays we consider first the dimensions of the stimulus, and then seek to discover what phenomenal consequences they yield. We used to inquire about the physical causes of hue: now we ask about the effects of monochromatic light.’
+
+12 R. S. Woodworth, 1938, p. 451.
+
+13 K. Koffka, 1935, p. 80.
+
+14 C. T. Morgan, 1943, pp. 297–8.
+
+15 Johannes Müller, 1838, I. p. 780 and II, p. 262. What we regard as the illegitimate interpretation of the theory of the specific energy of nerves was later explicitly formulated by G. E. Müller (1896) in the second of his five ‘psychophysical axioms’ (see E. G. Boring, 1942, p. 89) and became widely known mainly in the form in which it was expounded by H. Hering, 1885, 1913. The basic idea has recently been revived by P. Weiss, 1941, and R. W. Sperry, 1945.
+
+16 C. T. Morgan, 1943, p. 298; R. S. Woodworth, 1938, p. 465.
+
+17 E. G. Boring, 1942, p. 84.
+
+18 E. Hering, 1885, (1913) p. 26.
+
+19 H. Head, 1920, II p. 807.
+
+20 R. W. Moncrieff, 1944, p. 32.
+
+21 See, e.g., S.S. Stevens, 1934; S. S. Stevens and H. Davis, 1938, p. 160; E. G. Boring, 1942, pp. 89, 376; F. L. Dimmick in Boring, Langfeld and Weld, 1948, pp. 2 70–280.
+
+22 V. v. Weizsaecker, 1947 [1940], pp. 15–16.
+
+23 It is, perhaps, not inappropriate at this point explicitly to remind the reader that in this context ‘physical order’ refers exclusively to the order of the external stimuli and not to the order of the physiological impulses which, of course, also form part of the physical order in a wider sense. The nature of this order of the impulses will be considered in the next chapter.
+
+24 Cf., G. Ryle, 1949, p. 167: ‘When we speak of a person’s mind . . . [we are speaking of] . . . certain ways in which some of the incidents of his life are ordered.’
+
+25 H. Klüver, 1933, especially pp. 330–332; 1935, p. 109; and 1949, p. 404. A clear statement is also to be found in E. R. Hilgard and D. G. Marquis, 1940, p. 176: ‘The basic facts of stimulus equivalence and response equivalence are not limited in application to conditioned responses, but are true of reflexes and of complex voluntary responses. Every response is elicitable not just by one stimulus but by a class of stimuli. Correspondingly, every stimulus elicits, not just one response, but one of a class of responses.’ (Italics ours).
+
+26 C. T. Morgan, 1943, p. 514.
+
+27 E. D. Adrian, 1947, p. 82.
+
+28 That this is the consistent development of the approach started by John Locke was clearly seen by T. H. Green who argued (1884, p. 23) that ‘if we take him [Locke] at his word and exclude from what we have considered real all qualities constituted by relation, we find that none are left. Without relation any simple idea would be undistinguished from other simple ideas, undermined by its surroundings in the cosmos of existence.’ See also ibid., p. 31.
+
+29 This distinction is probably the same as, or closely related to, that between ‘Knowing How’ and ‘Knowing That’ so well brought out by G. Ryle, 1945 and 1949.
+
+30 E. M. von Hornbostel, 1925, p. 290.
+
+31 Some doubt has recently been thrown even on the complete continuity of the qualities within one modality and the existence of sensory ‘quanta’ suggested by S. S. Stevens and J. Volkman, 1940 and 1941.
+
+32 See especially M. Schiller, 1932, and the instances of terms borrowed from other modalities to describe smells given by F. W. Hazzard, 1930, p. 318. It is also interesting to note that the meaning of the German word hell (bright) has shifted from its original reference to auditory experience to the visual field.
+
+33 Very characteristic in this connexion is the categorical statement by M. Planck, 1949 (1941), p. 87, that the experiences of the different sensory fields ‘are totally different from each other, and have initially nothing in common. There is no immediate, direct bridge between the perception of colours and the perception of sounds. An affinity, such as may be assumed by many art lovers to exist between a certain shade of colour and a certain musical pitch, is not directly given but is the creation, stimulated by personal experiences, of our reflective powers of imagination.’ The fact seems to be the other way round that sophistication makes us overlook what is obvious to naïve experience.
+
+34 On this and the following see G. M. Hartmann, 1935, pp. 141–151.
+
+35 E. M. Edmonds and M. E. Smith, 1923.
+
+36 H. Werner, 1948, p. 86. On Synaesthesia see also H. Kleint, 1940, pp. 56–61, K. Goldstein, 1939, p. 267 and for bibliographies of the extensive literature on the subject, F. Mahling, 1926, A. Argelander, 1927, and A. Wellek, 1931.
+
+37 This is the interpretation given to E. M. von Hornbostel’s conception of the Unity of the Senses by E. G. Boring, 1942, p. 27.
+
+38 For the fact that this applies even to responses to configurations see K. Lorenz, 1943, p. 323; and on subconscious discrimination (‘subception’) R. A. McCleary and R. S. Lazarus, 1949, p. 178.
+
+39 G. Révész, 1924, and C. N. Winslow, 1933.
+
+40 Cf., E. B. Holt, 1937, p. 41: ‘Every school of psychology since certainly before the time of Herbart has found that by far the greater portion of the sensations, ideas and processes which must be called “mental” never become explicitly conscious: they are not perceived and cannot by any known process of introspection be perceived.’ Also the passage quoted by Holt from S. Freud, 1918, p. 9, where the latter says that ‘mental processes in and of themselves are unconscious and the conscious are merely isolated acts and passages in the total life of the mind.’ Cf., also E. G. Boring, 1948, on the use of the term ‘unconscious mind.’
+
+41 Several examples of the identification of ‘mental’ and ‘conscious’ are given by J. G. Miller, 1942, pp. 24ff. C.J. Herrick, 1926, p. 280 says that ‘the dynamic view of consciousness here adopted makes such expressions as “the unconscious mind” impossible contradictions.’ H. Head, 1920, II, p. 747, states that ‘sensation, in the strict sense of the term, demands the existence of consciousness.’ M. Planck, 1949, p. 66 also describes a ‘science of the unconscious or subconscious mind’ as ‘a contradiction in terms, a self-contradiction.’
+
+42 By ‘Behaviourism’ we shall mean throughout this discussion not only the original doctrines of J. Watson but also the views represented in the nineteen-twenties and early ‘thirties by men like E. B. Holt, A. P. Weiss, E. C. Tolman, W. S. Hunter and particularly K. S. Lashley, who in 1923 defined the position by the statement that ‘the behaviourist denies sensations, images, and all other phenomena which the subjectivist claims to find by introspection.’ More recently this radically objectivist attitude has been greatly modified and one may doubt whether the Lashley who (1942, p. 304) has ‘come to doubt that any progress will be made towards a genuine understanding of nervous integration until the problem of equivalent nervous connexions, as it is more generally termed, of stimulus equivalence, is solved,’ can still be described as a behaviourist. See also K. W. Spence, 1948, p. 67.
+
+43 Cf., F. A. Hayek, 1943, pp. 34–39.
+
+44 W. Köhler, 1929 p. 180: 66. C.f., Also E. G. Boring, 1930, p. 121: ‘Green light of 505 millimicrons wave-length may be a stimulus but my grandmother is not a stimulus’, and W. Metzger, 1941, p. 283.
+
+45 As they ultimately did—see the passage from Lashley quoted to 1.76 above. One might indeed date the end of behaviourism at the time of a general recognition of the central importance of the problem of equivalence of stimuli, i.e., soon after the appearance of H. Klüver, 1933.
+
+46 This would require more than that co-ordination of the dimensions of individual stimuli and the dimensions of the various ‘elementary’ sensory qualities which recently has been successfully attempted, especially with regard to hearing, by S. S. Stevens, 1934. It would require a similar co-ordination also for the instances where the same stimulus in different combinations with others produces different sensations.
+
+47 W. James, 1890, II, p. 12.
+
+48 John Locke, 1690, Bk. III, Chap IV, Sec. xi.
+
+49 C. E. K. Mees, 1947, p. 59
+
+Chapter 2
+
+1 W. Köhler, 1929 p. 61 f., K. Koffka, 1935, p. 62. For the different sense in which this concept is used by E. G. Boring, see below, 2.10.
+
+2 G. Ryle, 1945.
+
+3 E. G. Boring 1935, p. 244, 1936, pp. 574—575, and 1942, pp. 83–90.
+
+4 W. Köhler, 1913, p. 52; K. Koffka, 1935, pp. 85 ff.; and D. Katz 1944 for a clear distinction between this ‘constancy hypothesis’ and the ‘constancy phenomenon’, i.e. the fact that different stimuli and different combinations of stimuli can produce the same sensory qualities.
+
+5 B. Russell, 1921, p. 144. Cf., also ibid p. 139.
+
+6 For an account of these historical antecedents see Chapter VI.
+
+7 See Chapter VIII below.
+
+8 D. W. Thompson, 1942, p. 309. Cf., also E. G. Boring, 1946, p. 178 where he argues that ‘it is enough for our purpose if we can produce the function in kind‘ and ‘if we could get the principle of [the suggested synthetic professor of psychology] without actually producing him.’ (Italics ours.)
+
+9 G. T. Morgan, 1943, p. 476.
+
+10 C. C. Pratt, 1939, p. 147. 45
+
+11 We are deliberately not using here the even greater number of examples of an order existing irrespective of the character of the elements of which it consists in which in any way mental factors are involved, such as, e.g., in the relation between a poem in its printed and in its spoken form, etc.
+
+12 E. G. Boring, 1933, p. 233.
+
+13 H. Woodger, 1929, p. 291 and passim; L. von Bertalanffy, 1942 and 1949.
+
+14 ‘Grouping’ was used somewhat in this same sense by G. H. Lewes, 1880, Problem III, Chapter 3, §§ 33 and 34, and more recently by J. Piaget, 1947.
+
+15 J. Piaget, 1947, p. 45: ‘Un concept de classe n’est psycholiquement que l’expression de l’identité de réaction du sujet vis-a-vis des objets qu’il reunit en une classe.’
+
+16 For a somewhat similar statement of the problems of the order of sensory qualities see R. Carnap, 1928.
+
+17 More recently the occurrence of such connexions between sensory impulses has also been established by psychological experiments by W. J. Brogden 1939, 1942, 1947 and 1950.
+
+18 For an account of these newer views see E. R. Hilgard and D. G. Marquis, 1940, p. 330.
+
+19 The closest approximation to the theory developed here seems to have been reached by D. O. Hebb, 1949, a work which came to my knowledge only after the present book was completed in all essentials.
+
+20 The quotation is a translation from the early German draft of the present work (1920) referred to in the Preface.
+
+Chapter 3
+
+1 For a brief summary of the recent German work on the alleged ‘continuity of the nervous system’ see W. Bargmann, 1947, and for a criticism, N. A. Hillarp, 1947.
+
+2 Cf. E. D. Adrian, 1947, p. 92: ‘The notion that memories might be related to structural changes of this kind has often been rejected on the ground that no one has been able to detect them with the microscope, but the chance of doing so would be so remote that the objection need not be taken very seriously.’
+
+3 C. T. Morgan, 1943, pp. 297–8.
+
+4 See, however, now D. O. Hebb, 1949.
+
+5 We cannot, without going more deeply into the physiological problems involved than seems expedient, examine the question whether the group of connected impulses which thus form the following of any particular primary impulses may not come to form relatively stable aggregations in the sense that, by the individual impulses mutually evoking each other, they may maintain themselves for some time beyond the duration of the stimulus. Such a conception appears to underlie the construction of a ‘cell assembly’ used by D. O. Hebb, 1949.
+
+6 It is significant for our purposes that this common spatial order extends only as far as the same physical events give rise to the stimulation of different senses and that, e.g., as William James has pointed out, our perception of size within the cavity of the mouth, which in the nature of the case is not co-ordinated with visual stimuli, does not fully form part of the same spatial order as our visual experiences.
+
+7 See C. T. Morgan, 1943, pp. 467, 476.
+
+8 Cf. E. D. Adrian, 1947, p. 82, and especially V. von Weizsaecker, 1947, passim.
+
+9 Cf., e.g., G. F. Stout, 1915, p. 88, and E. D. Adrian, 1947, p. 82; ‘The nervous system reacts to relations between stimuli and performs the appropriate task with any part of the motor system that is available. We cannot represent it as a series of machines for operating upon the map of events unless we add a number of devices to make good this fundamental difference. On the sensory side there must be something to abstract the significant element of a pattern and on the motor side something to do just the reverse, to convert the abstraction into concrete movement.’
+
+10 See W. McDougall, 1923, p. x, where James Ward, F. H. Bradley, Dawes Hicks and G. F. Stout are mentioned as protagonists of the fight against the ‘mosaic psychology’. A similar list of German writers of that period could be given.
+
+11 On the apparent conflict with the views of the gestalt school in which we have been led by explaining the formations of gestalt qualities by a sort of experience see 5.16 below.
+
+Chapter 4
+
+1 See H. S. Jennings, 1906.
+
+2 W. B. Cannon, 1932; L. V. Bertalanffy, 1942, 1949. See also J. H. Woodger, 1929.
+
+3 V. von Weizsaecker, 1940, p. 48.
+
+4 E. R. Hilgard and D. G. Marquis, 1940, p. 46.—The conditioned reflex is usually represented as a comparatively recent discovery, but the bare facts have been known for a very long time and were already described by M de Montaigne in the chapter on “The Force of Imagination” of his Essais (1580, Book I, Chapter 20). He there describes the case of a man who, after he had for a long time regularly tested with his hand the temperature of the water prepared for an enema, found that the actual injection had become unnecessary because his taking up the appropriate posture together with his placing the hand in the water already produced the desired effect.
+
+5 V. von Weizsaecker, 1940, p. 55, points out that, e.g., to the more than four million points on the skin below the neck which produce distinct sensations correspond at most one half million fibres conducting the impulses set up by these stimuli beyond the spinal level. That in spite of this these individual stimuli can be distinguished is presumably due to the fact that with the report of any stimulus acting on the skin there will also arrive reports of the low level reflexes caused by them, reflexes which may be different for stimuli whose direct report arrives in the brain through the same last common path.
+
+6 See C. T. Morgan, 1943, p. 476.
+
+7 V. von Weizsaecker, 1940. See also K. Goldstein, 1939; and E. G. Boring, 1942, p. 563: ‘In the twentieth century it eventually became apparent that the organism behaves first and feels afterwards, just as James, speaking of emotions, said it does.’
+
+8 K. Lorenz, 1943, passim.
+
+9 C. T. Morgan, 1943, p. 411.
+
+10 N. Wiener, 1948 a and b; W. S. McCulloch, 1948; W. R. Ashley, 1947, 1948, and 1949.
+
+11 C. T. Morgan, 1943.
+
+12 See J. J. Gibson, 1941.
+
+Chapter 5
+
+1 See, however, the very important contributions to this problem by K. Lorenz, 1943.
+
+2 This concept of pre-sensory experience must not be confused with the conception of ‘pre-sensation’ as used by F. R. Bichowski, 1925, and R. B. Cattel, 1930, to describe the ‘first conscious effect that can be traced to a stimulus . . . which does not yet possess spatial or temporal quality, that is to say, is not felt to be located in space or time, or to have the definite qualities and relations usually associated with sensations’. (Bichowski, p. 589.)
+
+3 Cf., H. Margenau, 1950, p. 54; and H. Werner, 1948, pp. 222–225, 234–236.
+
+4 For similar uses of the concept of the map see, e.g., E. D. Adrian, 1947, pp. 16–18, and E. C. Tolman, 1948.
+
+5 H. Kleint, 1940, p. 40.
+
+6 This important point can here only just be touched upon since a fuller discussion would require a more detailed consideration of physiological detail than would be appropriate here. For an important attempt at elaboration in this direction see now D. O. Hebb, 1949.
+
+7 This manner of stating the difference is correct only on the assumption that the connexions involve structural changes and are not merely ‘functional’, i.e. produced by something like a continuous circuit of impulses (2.47). If the connexions should prove to be based not on structural changes but on some functional change of the latter kind, this would probably not affect the principle of the distinction made above but would make the description of the mechanism much more difficult.
+
+8 Any mechanical model of this kind is misleading in suggesting a transmission of substance or energy, while in the transmission of nervous impulses we have, of course, to deal with a case of ‘trigger action’ where the connexions between the neurons merely effect a release of energy stored up in the individual neuron (3.8).
+
+9 Cf., R. Dodge, 1933, V. von Weizsaecker, 1947, p. 136.
+
+10 Cf., C. T. Morgan, 1943, p. 112.
+
+11 On this and the following see K. J. W. Craik, 1934, pp. 51 ff.
+
+12 Cf., K. J. W. Craik, 1943, p. 57: ‘as a result of such interactive or associative processes we might have, for example, A=B, B=C, A=C, where A, B, and C are neural patterns claiming to represent external things or processes. These patterns clearly cannot remain simultaneously excited; inconsistency means a clash in the interaction patterns’.
+
+13 See also W. G. Walter, 1950.
+
+14 C. Sherrington, 1949.
+
+15 K. J. W. Craik, 1943, p. 51. See also N. Wiener, 1948a and 1948b and W. S. McCulloch, 1948.
+
+Chapter 6
+
+1 J. G. Miller, 1942, p. 43, treats ‘awareness of discrimination’ as a definition of consciousness (or rather, unawareness of discrimination as a definition of unconsciousness). It is the last of sixteen definitions of consciousness which he lists, and he describes it as ‘the golden meaning of the word for those who admit the validity of introspective testimony,’ and later (p. 294) as ‘the fundamental meaning of conscious’ to most behaviourists. But while this distinguishes this meaning from others, it hardly defines the concept, since ‘aware’ seems merely a synonym for ‘conscious’ in this sense.
+
+2 J. G. Miller, 1942, p. 166.
+
+3 See above (5.10–5.12) and J. G. Miller, 1940.
+
+4 Cf., E. G. Boring, 1933, pp. 231–2: ‘Consciousness is attentive, attention is selective; consciousness is selective. Attention and consciousness are almost synonymous, and selection is the fundamental principle of both.’
+
+5 Cf., W. Stern, 1938, p. 474.
+
+6 Cf., J. G. Miller, 1942, p. 159: ‘Closely related to attention, perhaps its outward manifestation, is the phenomenon of set’.
+
+7 Cf., C. T. Morgan, 1942, p. 283 et seq.
+
+8 Cf., H. Henning, 1924, p. 304.
+
+9 Cf., E. G. Boring, 1933, p. 30: ‘The thesis of this book is that nothing is “directly observed”, that every fact is an implication.’ It is curious that an author holding this view should still describe himself as a positivist.
+
+10 I owe this way of putting it to my friend K. R. Popper, who, however, may not entirely agree with this use I am making of his ideas.
+
+11 J. von Kries, 1923, p. 99.
+
+12 Cf., H. Margenau, 1950, pp. 54–56, and H. Werner, 1948, p. 222, 224.
+
+13 Cf., F. A. Hayek, 1942, p. 271 et seq.
+
+Chapter 7
+
+1 In view of what has been said before (4.37–4.42) about the rôle of the low-level responses it is, however, not entirely inconceivable that in the case of a local destruction of the cortical endings of particular sensory fibres, the proprioceptive fibres recording short-arc responses may come to deputize for them.
+
+2 See K. S. Lashley, 1929, and already J. von Kries, 1898.
+
+3 K. S. Lashley, 1929.
+
+4 R. A. McCleary and R. S. Lazarus, 1949, p. 178.
+
+5 F. R. Bichowski, 1925, p. 589, R. B. Cattell, 1930.
+
+6 H. Henning, 1922, p. 71.
+
+7 See on this now the German works by W. Metzger, 1940, and V. von Weizsaecker, 1941.
+
+8 I cannot now trace the source of this quotation, but similar statements can be found in many passages of Helmholtz, e.g., 1866 (1925) III. p. 12. W. Wundt’s theory of ‘assimilation,’ which ought also to be mentioned in this connexion, is essentially a development of these ideas.
+
+9 H. von Helmholtz 1866 (1925) III, p. 4, where ‘unbewusster Schluss’ is, however, inadequately translated as ‘unconscious conclusions’. The correct translation ‘unconscious inference’ is suggested by E. G. Boring.
+
+10 H. von Helmholtz 1866 (1925) III, p. 13.
+
+11 B. Erdmann, 1886, 1907 and especially 1920, pp. 7, 16, 18, 63–64, 74–75, and 127; R. Dodge, 1931, p. 126; H. Henning, 1917, p. 198, 1924, pp. 303–304; F. Schumann, 1908, II, p. 19, 1922, pp. 207, 216. It may be worth mentioning that the fullest exposition of this view, Erdmann’s Reproduktions-psychologie, appeared in the same year, 1920, when the first draft of the present theory was completed.
+
+12 This applies particularly to the formulation of the basic problems by K. Koffka, 1935.
+
+13 J. Mill, 1829 (1869), 1, p. in.
+
+14 G. H. Lewes, 1879.
+
+15 In addition to such older studies as the classic investigation of J. N. Czermak, 1855, and the more recent works of J. T. Williams, 1922, and M. von Senden, 1932, see the recent summary by E. von Skramlik, 1937, p. 173, which seems to show that the predominant evidence is against the contrary results obtained by some investigators.
+
+16 H. Henning, 1924, p. 55.
+
+17 H. Binns, 1926.
+
+18 G. W. S. Blair and F. M. V. Coppen, 1939.
+
+19 R. W. Moncrieff, 1942, pp. 9, 76.
+
+20 F. L. Dimmick, 1946, p. 19.
+
+21 E. G. Boring, 1942, pp. 339–340.
+
+22 K. W. Braly, 1933; R. W. Leeper, 1935; K. Duncker, 1939.
+
+23 As R. S. Woodworth rightly points out with regard to form perception (1938, p. 624), ‘the empiricist theory aims to get along with a minimum number of concepts: it uses only the concept of a pure mosaic of elementary sensation and the concept of associations established by experience. To the associations are assigned the functions (a) of combining the elements into forms and (b) of giving objective meaning to these forms.’
+
+24 A. H. Riesen, 1947.
+
+25 M. von Senden, 1932.
+
+26 J. B. Miner, 1905, p. 103.
+
+27 G. M. Stratton, 1897; P. H. Ewert, 1930 and 1936; T. Erismann, 1948.
+
+28 P. T. Young, 1928.
+
+29 W. James, 1890, I, pp. 508, 510. For other similar earlier references see O. Külpe 1895, pp. 42, 302, 340; L. J. Martin and G. E. Müller, 1899, pp. 128ff; E. B. Titchener, 1905 I, ii, p. 57; E. L. Thorndike, 1913, p. 152; F. Krueger, 1915, pp. 95–96; J. von Kries, 1923, p. 144. The explicit and categorical denial of any improvement of the capacity of sensing, or sensory acuity, by H. L. Kingsley, 1946, p. 265, is rather exceptional and apparently based on as little precise information as the prevalent contrary view.
+
+30 A. W. Volkmann, 1858.
+
+31 See V. Henri, 1898, and the summary of the work of F. B. Dressler, G. A. Tawney, and L. Solomons in C. L. Friedline, 1918.
+
+32 H. T. Moore, 1914; J. F. Humes, 1930; A. A. Capurso, 1934; E. Connette, 1941; C. H. Wedell, 1945; R. Wyatt, 1945; B. L. Ricker, 1946.
+
+33 E.g., B. J. Underwood, 1949, p. 118.
+
+34 It is interesting to note that E. G. Boring, who at one stage had defined consciousness as discrimination (1933, p. 187), later came to the conclusion that it is ‘probably best to abandon the word discrimination, which implies a freely acting, conscious observer, and to limit ourselves to the descriptive terms of successive differentiation and relations between them’. (1937, p. 451.)
+
+35 G. L. Walls, 1942, p. 472.
+
+36 J. von Kries, 1923, p. 80.
+
+37 H. Henning, 1927, p. 745.
+
+38 See, however, the reports on recent work by L. H. Beck and W. H. Miles, 1947.
+
+39 W. J. Brogden, 1939, etc.
+
+40 J. T. Williams, 1922, p. 1333. This deserves examination, especially in view of the recent conclusions of Beck and Miles concerning the radiation character of olfactory stimulation.
+
+41 E. Cyon, quoted by E. G. Boring, 1942, p. 544.
+
+42 R. Semon, 1909, 1912.
+
+43 P. Weiss, 1941.
+
+44 W. Köhler and R. Held, 1949.
+
+Chapter 8
+
+1 K. Lorenz, 1943, p. 352.
+
+2 H. von Helmholtz, 1910 (1925), III, p. 14: ‘Here we still have to explain how experience counteracts experience, and how illusions can be produced by factors derived from experiences, when it might seem as if experience could not teach anything except what was true. In this matter we must remember, as we intimated above, that the sensations are interpreted just as they arise when they are stimulated in the normal way, and when the organ of sense is used normally.’ (Italics ours.)
+
+3 Cf., M. Planck, 1942 (1949), p. 108.
+
+4 Fundamental Mathematics, 1948, I, p. 92.
+
+5 This changeability of the sensory qualities apparently was already recognized by Protagoras, who according to Sextus Empiricus taught that the sensations ‘are transformed and altered according to the times of life and to all the other conditions of the body.’ Outlines of Pyrrhonianism, translation R. G. Bury, Loeb Classical Library, I, Book I, 218.
+
+6 Cf., K. Koffka, 1935, p. 63: ‘Mach was an excellent psychologist, who saw many of the most fundamental problems of psychology which, a whole generation later, many psychologists failed even to understand; at the same time he had a philosophy which made it impossible to give fruitful solutions to these problems.’
+
+7 B. Russell, 1921, p. 144.
+
+8 This seems to me to be true in spite of the efforts of C. D. Broad, 1925, to give ‘substance’ a meaning independent of its material connotations. On the mind substance theory see now G. Ryle, 1949.
+
+9 Cf., N. Metzger, 1941, p. 23: ‘Diese, im eigentlich Sinn “materialistische” Auffassung . . . lebt in der Psychologie bis an die Schwelle unserer Zeit fort: in der Alltagspsychologie in der kaum ausrottbaren Ansicht von der Seele als zweitem, stofflichen Etwas, das mit dem Körper während des Lebens “verbunden sei”, in ihm wohne . . . ’
+
+10 See particularly K. J. W. Craik, 1943, and K. Lorenz, 1943, pp. 343 and 351.
+
+11 Gf., M. Petrovitch, 1921, passim.
+
+12 See also F. A. Hayek, 1942, p. 290.
+
+13 H. Margenau, 1950, pp. 60, 69, 450.
+
+14 The term ‘physical’ must here be understood in the strict sense in which it has been defined in the first chapter and not be confused with the sense in which it is used, e.g., by O. Neurath or R. Carnap when they speak of the ‘physical language’. In our sense their ‘physical language’, since it refers to the phenomenal or sensory qualities of the objects, is not ‘physical’ at all. Their use of this term rather implies a metaphysical belief in the ultimate ‘reality’ and constancy of the phenomenal world for which there is little justification. Cf., O. Neurath, 1933, and R. Carnap, 1934.
+
+15 On this and the subject of the next paragraph cf., F. A. Hayek, 1944, pp. 31 et seq.
+
+16 It may also be mentioned, although this has little immediate connexion with our main subject, that since the word ‘free’ has been formed to describe a certain subjective experience and can scarcely be defined except by reference to that experience, it could at most be asserted that the term is meaningless. But this would make any denial of the existence of free will as meaningless as its assertion.
+
+17 For a fuller discussion of this point see F. A. Hayek, 1942, p. 290 ff.
+
+
+
+
+

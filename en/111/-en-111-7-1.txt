@@ -1,0 +1,25 @@
+1. OBSERVED FACTS FOR WHICH THE THEORY ACCOUNTS
+
+
+7.1. The value of a theory of the kind presented here may prove itself by accounting for known facts as consequences of other known phenomena, by enabling us to eliminate phantom problems, by showing that certain earlier theories are special cases of a more general principle, or, finally, by suggesting new questions which can be experimentally investigated. On all these scores our theory appears to have a certain amount of prima facie evidence in its favour.
+
+7.2. The main aim of the theory presented is to show that the range of mental phenomena such as discrimination, equivalence of response to different stimuli, generalization, transfer, abstraction, and conceptual thought, may all be interpreted as different forms of the same process which we have called classification, and that such classifications can be effected by a network of connexions transmitting nervous impulses. From the fact that this classification is determined by the position of the individual impulse or group of impulses in a complex structure of connexions, extending through a hierarchy of levels, follow certain important conclusions concerning the effects which physiological or anatomical changes must be expected to have on mental functions. We shall confine ourselves here to point out a few of the more important consequences of our theory which are in accordance with observed fact.
+
+7.3. Since the qualities of mental events produced by particular impulses or groups of impulses according to this view depend not on any property which these impulses possess by themselves, but on their position in the whole network of connexions, it would follow that the different mental functions need not be localized in any particular part of the cortex.
+
+7.4. While the possibility of a peripheral stimulus producing a sensory quality will in general1 depend on the preservation of the central endings of the corresponding afferent fibres, there is no reason for expecting that beyond this the capacity of experiencing particular qualities will depend on particular parts of the cortex. We should rather expect to find, as in fact we do find, that a destruction of a limited part of the cortex will lead to some weakening of most or all mental functions, rather than to the extinction of some particular capacities.2
+
+7.5. Similar considerations would lead us also to expect that particular mental functions will not depend entirely on the existence of particular nervous connexions but will be capable of being produced by alternative channels. If the complete classification which determines the peculiar mental quality of an impulse depends on a multiplicity of connexions extending throughout the greater part of the cortex, this does not mean that for any particular effect any one of these connexions will be indispensable. Partial classifications based on certain bundles of connexions may often alternatively be capable of bringing about a discrimination sufficient to maintain the particular effect.
+
+7.6. This may mean either that certain mental processes which are normally based on impulses proceeding in certain fibres may, after these fibres have been destroyed, be relearned by the use of some other fibres, or that certain associations may be effectively brought about through several alternative bundles of connexions, so that, if any one of these paths is severed, the remaining ones will still be able to bring about the result. Such effects have been observed and described under the names of ‘vicarious functioning’ and ‘equipotentiality’.3
+
+7.7. Our account of the translation of the neural impulse into a mental event as a process of classification leads us to expect that we will find that this process not only takes perceptible time but also that it can be observed in different successive stages in which the classification or evaluation is developed to different degrees. This expectation is amply borne out by observation. From the unconscious responses to stimuli and the still unconscious ‘subception’4 through the ‘pre-sensation’5 and the various degrees of clarity of the sensation,6 perception and ‘apperception’, to judgements and concept formation, there exists clearly a chain of events in which the full evaluation of any mental quality gradually unfolds itself.
+
+7.8. From the account we have given of the determination of sensory qualities it would further follow that the quality of any sense experience attached to certain impulses or group of impulses will not always be the same but will be different in different circumstances. The same individual stimulus, affecting the same receptor organs, must thus be expected to produce different sensory qualities according as different other stimuli operate at the same time.
+
+7.9. As we have already seen (4.45–4.47), this expectation is fully borne out by experimental work. Many stimuli are perceived ‘correctly’ only if received under normal conditions, but lead to different sensations if the setting is not normal.7
+
+
+
+
+

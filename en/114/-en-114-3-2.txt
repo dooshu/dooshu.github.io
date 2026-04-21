@@ -1,0 +1,42 @@
+II
+
+There is hardly any explanation of the business cycle—I hesitate a little to say “theory of the business cycle,” because many people have developed a certain prejudice against this term—in which the monetary factor does not play a very decisive role. The following consideration shows that this must necessarily be so: Still abstracting from the previously mentioned accessory phenomena, one of the most outstanding external symptoms of the business cycle is the rise of prices during prosperity and the fall of prices during depression. On the other hand, there is an increase of the volume of production during the upward and a decrease during the downward swing. But not only more commodities are produced and sold but also in other branches of the economy there is an increase of transactions—e.g., on the stock exchange. Therefore, we can safely say there is a considerable increase of the volume of payments during the upward swing of the cycle and a distinct decrease of this volume during depression.
+
+Now, it is clear that, in order to handle this increased volume of payments, an augmentation of the means of payment is necessary—means of payment in the widest sense of the term. One of the following things must happen:
+
+(a) An increase of gold and legal tender money.
+
+
+
+(b) An increase of banknotes.
+
+
+
+(c) An increase of bank deposits and bank credits.
+
+
+
+(d) An increase in the circulation of checks, bills, and other means of payment which are regularly or occasionally substituted for ordinary money.
+
+
+
+(e) An increase of the velocity of circulation of one or all of these means of payments.
+
+
+
+I do not claim that this enumeration is exhaustive or quite systematic. It is largely a matter of terminological convenience, as one likes to express oneself. One writer prefers to call bank deposits, on which checks may be drawn, money, bank money, credit money. Other writers restrict the term “money” to legal-tender money and speak then of bank deposits as means to save money or to make it more efficient in making payments by increasing its velocity of circulation. Still others have an aversion against the term “velocity of circulation” and prefer to speak of changes in the requirement for money and means of payment.
+
+Without going more deeply into these technical details, it is, I hope, clear that there must occur in one way or another during the upward swing of the cycle an expansion of the means of payment and during the downward swing a corresponding contraction.
+
+No serious theory, no explanation of the cycle, can afford to overlook, disregard, or deny this fact. Differences can arise only (a) in respect to the particular way in which the expansion takes place—whether it is primarily an increase in the quantity of credit money or legal-tender money or gold or just of the velocity of circulation of one of these—and (b) as to the causal sequence.
+
+As to the causal relation, broadly speaking, two possibilities seem to be open:
+
+1. One might assume that the impulse comes from the side of money, that the circulation is expanded by a deliberate action of the banks or other monetary authority, and that this sets the whole chain of events going, or
+
+2. One may hold the opinion that the monetary authorities take a passive role; that the initiative comes from the commodity side, that changes of demand for certain commodities, changes in the structure of production, inventions and improvements, large crops, or psychological forces, a wave of optimism and pessimism—that one of these phenomena and its repercussions makes for an increase or decrease of the volume of production, and that this, in turn, draws into circulation a greater amount of means of payment. The greater flow of goods induces a larger flow of money.
+
+The theories of the first group, which maintain that the active cause of the cycle lies on the side of money, may be called “monetary theories” of the business cycle. In a wider sense, however, we may include in the group of monetary theorists also all those who admit that the impulse might also come from the commodity side, but hold that an appropriate policy of the monetary authorities, an effective and elastic regulation of the volume of the circulating medium, can forestall every serious disturbance.
+
+As you all know, the most frequently recommended criterion for such a policy is the “stabilization of the price level” in the one or other of the many meanings of this ambiguous term. You all will agree that it is impossible to discuss this problem exhaustively in one hour. So I shall confine myself to pointing out the insufficiencies of this type of monetary theory and of its recommendations for the remedy of the business cycle, which center around changes in the price level. I shall try, then, to indicate a more refined monetary theory of the cycle, which has been developed in the last few years, although it is not so well known in this country as it deserves to be. This refined theory seems to explain some features of the cycle, especially of the last one, which are not entirely compatible with the cruder form of the monetary approach, which identifies monetary influences with changes in the general price level.
+

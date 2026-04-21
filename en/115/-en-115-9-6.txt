@@ -1,0 +1,131 @@
+The Mythology of Capital (1936)
+
+
+This article first appeared in the Quarterly Journal of Economics 50 (February 1936): 199–228.
+
+1 The following are the main articles in which Professor Knight has recently discussed the problem in question, and to which I shall refer in the course of this article by the numbers given in brackets []:
+
+[1] “Capitalist Production, Time and the Rate of Return,” Economic Essays in Honour of Gustav Cassel (London: George Allen and Unwin, 1933): 327–42.
+
+[2] “Capital Time, and the Interest Rate,” Economica n.s. 1, no. 3 (August 1934): 257–86.
+
+[3] “Professor Hayek and the Theory of Investment,” Economic Journal 45, no. 177 (March 1935): 77–94.
+
+In addition, certain other articles by Professor Knight which bear closely on the subject and to some of which I may occasionally refer may also be mentioned.
+
+[4] “Professor Fisher’s Interest Theory: A Case in Point,” Journal of Political Economy 39, no. 2 (April 1931): 176–212.
+
+[5] Article on “Interest,” Encyclopaedia of Social Sciences 8 (1932), pp. 131–44.
+
+[6] “The Ricardian Theory of Production and Distribution,” The Canadian Journal of Economics and Political Science 1, no. 1 (February 1935): 3–25.
+
+The classical “Austrian” position has recently been ably and lucidly restated and defended against Professor Knight’s criticism by Professor Fritz Machlup in an article, “Professor Knight and the ‘Period of Production’,” which appeared, together with a comment by Professor Knight, in the Journal of Political Economy for October 1935. But this as well as Professor Knight’s answer to Mr. Boulding (“The Theory of Investment Once More: Mr. Boulding and the Austrians,” in the last issue of this Journal) reached me too late to refer to them in the body of the article. But one or two references to these latest publications have been added in footnotes where I refer to the comment and the reply to Mr. Boulding with the numbers [7] and [8], respectively.
+
+2 Cf. particularly articles [4] and [5] quoted above.
+
+3 Cf. H.S. Ellis, “Die Bedeutung der Productionsperiode für die Krisentheorie,” and P. Joseph and K. Bode, “Bemerkungen zur Kapitalund Zinstheorie,” both articles in Zeitschrift für Nationalökonomie 4 (1935). R. Nurkse, “The Schematic Representation of the Structure of Production,” Review of Economic Studies 2 (1935). S. Carison, “On the Notion of Equilibrium in Interest Theory,” Economic Studies 1 (Krakow, 1935).
+
+4 [2], p. 259; a few pages later (p. 266) the treatment of capital once invested as “perpetual” is even described as the “realistic” way of looking at the matter.
+
+5 [2], p. 264. At one point Professor Knight does indeed say that “the most important fact requiring clarification is the nature of capital maintenance” ([3], p. 84). But instead of the patient analysis of how and why capital is maintained, which after this we feel entitled to expect, we get nothing but a concept of capital as a mystical entity, an “integrated organic conception” which maintains itself automatically. Professor Knight does not actually use the word “automatic” in this connection, but his insistence on the supposed fact that the replacement of capital “has to be taken for granted as a technological detail can hardly have any other meaning but that it needs no explanation in economic terms and is, therefore, from the point of view of the economist “automatic.”
+
+6 [3], p. 78, cf. also [8], p. 64.
+
+7 [2], p. 275.
+
+8 [3], p. 84.
+
+9 [2], p. 268.
+
+10 [2], p. 270.
+
+11 [2], p. 268.
+
+12 [3], p. 81.
+
+13 [6], p. 82. An attempt to clear up by correspondence at least some of the differences between us has only had the effect of making the gulf which divides our opinion appear wider than ever. In a letter written after reading an earlier draft of the present paper, Professor Knight emphasizes that he “categorically denies that there is any determinate time interval”... “which elapses between the time when some product might have been obtained from the available factors and the time the product actually accrues.” This can hardly mean anything more than either that no postponement whatever of consumption is possible, or at least that, once such a postponement has taken place, it is impossible to use for current consumption any of the factors which would be needed to maintain or replace the capital goods created by the first investment. I find it difficult to believe that Professor Knight should want to assert either. Quite apart from the fact that such statements would, as it seems to me, stand in flagrant contrast to all empirical evidence, the contrary has been asserted by Professor Knight himself as the first of “the three empirical facts that form the basis of a sound theory of capital.” This, in his words ([2], p. 258), is
+
+	the simple “technological” fact that it is possible to increase the volume (time rate) of production after any interval by the use during that interval of a part of existing productive resources—in large part the same resources previously and subsequently used for producing “current consumption income”—to produce, instead of current consumption income, instruments of agencies of various sorts, tangible or intangible, which when produced become “productive” of additional current income. This activity or process we call investment.
+
+
+
+In giving permission to quote the above sentence from his letter Professor Knight adds:
+
+	It would induce to clearness to add that it is my view that the interval in question approaches determinateness as we impose stationary or given conditions in a sense so rigid that such an expression as “might have been obtained” loses all meaning.” I am afraid this explanation leaves me more perplexed than ever. As I have tried to show in the last section of this paper, all Professor Knight’s former argument against the concept of a determinate investment period depends exactly on the most rigid static assumptions of this kind.
+
+
+
+14 For an effective criticism of related earlier views, cf. particularly F.W. Taussig, “Capital, Interest and Diminishing Returns,” Quarterly Journal of Economics 12 (May 1908): 339–44.
+
+15 “On the Relationship between Investment and Output,” Economic Journal (June 1934), cf. particularly p. 212, note 1, and p. 226 for point (2), p. 217 for (3), p. 210, note 1, and p. 227 for (4), p. 230, note for (5), and p. 228 for (6).
+
+16 A similar case is that where an addition to the supply of capital makes it possible to employ factors (say, labor) which before were unemployed. The first question to ask here is how exactly is it that an increase of capital makes their employment possible. We shall have to assume that without this capital the marginal product of this labor would have been lower than the wage at which they would have been willing to work. In what sense can it now be said that an increase of their marginal product is conditional upon more capital becoming available, i.e., why was it impossible, without this increase of capital, to employ them in the more productive processes? I cannot see that the necessity of previous accumulation can mean anything but an increase of the periods for which either the factors immediately concerned, or some other factors employed in providing the former with equipment, are invested.
+
+In the traditional exposition of the theory of roundabout production, this case, where only total capital, but not necessarily capital per head of those employed, has been increased, has been taken account of by saying that the average period of production (i.e., the average period for which the labor actually employed is invested) will only increase when capital per head increases, but will remain constant when capital is increased by an extension of its “labor dimension” instead of its “time dimension.” Although this mode of expression is sometimes useful, I think it has to be abandoned together with the concept of the average period of production.
+
+17 [2], p. 278. Cf. also [8], p. 45. The disagreement here concerns the question whether it is true that men directly and irrevocably exchange “short segments of income flow” against “thinner streams reaching into the indefinite future” or whether it is not essential to take into account that the immediate result of the sacrifice of present income is an equally limited income flow of a different time shape which must be clearly defined as regards size and shape in order to make it possible to decide in the particular case whether the sacrifice is justified. And this limited income stream which is the result of the first investment becomes a permanent income stream only by an infinite series of further decisions when the opportunity of consuming more now and less in the future has to be considered every time. By jumping directly to the desired result, the permanent income stream, Professor Knight slurs over so much that is essential for an understanding of the process that any use of his concept of capital for an analysis of the role of this capital in the course of further changes becomes quite impossible.
+
+18 As Professor Knight now admits “that insofar as any single investment, negligible in size in comparison with the economic system of which it is a part, represents things consumed and reproduced in a regular cycle, the quantity of capital in that investment does bear a mathematical relation to the length of the cycle” and that in this connection some of his “previously published statements have been too sweeping,” there is perhaps some hope that ultimately some sort of agreement can be reached along these lines. (Cf. [7], p. 627.)
+
+19 Insofar as Professor Knight’s aim is merely to drive out the remnants of a cost-of-production theory of value which still disfigure many expositions of the theory of capital (cf. [8], p. 45), I am all with him. But while I fully agree that there is no necessary connection between the present value of capital and the volume of past investment, I do maintain that there is a very close connection between the present and anticipated future values of capital on the one hand and the periods for which resources are invested at present on the other.
+
+20 A peculiar confusion in this respect occurs in the article of Miss Joseph and Mr. Bode quoted above (p. 174), where it is asserted that if all existing productive resources were taken into account, the period of production would “of course” become zero. It is true that the impossibility of drawing a fundamental distinction between the “original factors” and the “intermediate products” is one of the considerations which invalidate the construction of an “average” period of production. But whether we describe the investment structure by an expression representing the rate at which the product of all resources existing at any one moment will mature during the future, or by an expression representing the rate at which the marginal additions will mature which are due to the services of the permanent factors applied at that moment, is merely a difference of exposition. As will be easily seen, the former is simply the integral of the latter and can be represented by the area of the figure which is bounded by the investment curve which represents the latter.
+
+21 It is perhaps necessary, in order to forestall further misunderstandings, to add as point (7) the main conclusion of the article of mine which Professor Knight attacked. It is that the periods of investment are not in all cases given as technical data but can in many instances only be determined by a process of value imputation. This is particularly true in the case of durable goods, where the technical data only tell us how long we have to wait for a particular unit of its services, but not to what share of the factors invested in it this unit has to be attributed. This attribution, however, involves an imputation purely in value terms.
+
+22 [3], p. 81.
+
+23 I am afraid I am unable to see to what case the sentence in the same paragraph beginning with “in the third case” refers.
+
+24 My meaning would have been expressed better if, instead of speaking of the production of more goods of the kind, I had said “a greater quantity of the relatively more durable goods will be produced,” or “goods of still greater durability made in place of those produced before.”
+
+25 I am afraid I feel compelled to disregard the special meaning which Professor Knight wants to attach to the term “production.” A concept of production which would compel us to say that a man engaged in the production of some instrument which is to replace some similar existing instrument, and which at some time in the future will contribute to the satisfaction of a desire, either produces not at all or produces not the final product in whose manufacture the instrument he makes is actually used, but a similar product which is consumed at the moment when he applies his labor to the instrument, seems to me an absurd abuse of words. But it is on this “concept” and nothing else that the assertion that production and consumption are simultaneous is based (like J.B. Clark’s theorem of the “synchronization” of production and consumption).
+
+26 On the general subject of the amortization of capital Professor Knight is not only rather obscure but his different pronouncements are clearly inconsistent. In [2], p. 273 he writes:
+
+	In reality most investments not only begin at a fairly early date to yield their income in consumable services... but in addition they begin fairly soon to yield more than interest on cost in this form, and entirely liquidate themselves in a moderate period of time. This additional flow of consumable services is ordinarily treated as a replacement fund, but is available for consumption or for reinvestment in any form and field of use at the will of the owner.
+
+
+
+But in [3], p. 83, in order to support his thesis about the perpetuity of capital, this periodic liquidation is denied:
+
+	It cannot now escape observation that “capital” is an integrated, organic conception, and the notion that the investment in a particular instrument comes back periodically in the form of product, giving the owner freedom to choose whether he will re-invest or not, is largely a fiction and a delusion.
+
+
+
+27 [3], p. 90, footnote.
+
+28 “The Maintenance of Capital,” Economica (August 1935).
+
+29 [3], p. 86, note: “Wealth, which is identical with capital, can be treated quantitatively only by viewing it as capacity to render service.” Also [2], p. 267: “As long as capital is maintained by replacing the capital goods, if their life is limited, by others of any form with equal earning capacity in imputed income.”
+
+30 Professor Knight, however, by no means consistently adheres to this view. The idea that the quantity of capital which is to be regarded as “perpetual” is a quantity of value occurs again and again. He says, for example, that “there is ‘of course’ no product yielded by an agency until after full provision has been made for maintaining it, or the investment in it, intact, in the value sense” ([2], p. 280). And similarly, a few pages later (p. 283): “New investments represent additions to all the investment previously made in past time. The amount of such investment cannot indeed be stated quantitatively in any other way than as the capitalized value of existing income sources under existing conditions.”
+
+31 [8], p. 57:
+
+	The basic issue is the old and familiar one of choice between two conceptions of capital. In one view, it consists of “things” of limited life which are periodically worn out or used up and reproduced; in the other, it is a “fund” which is maintained intact tho the things in which it is invested may come and go to any extent. In the second view, which of course is the one advocated here, the capital “fund” may be thought of as either a value or a “capacity” to produce a perpetual flow of value.
+
+
+
+32 It is not surprising that Professor G. Cassel, to whom we owe this particular version of the mythology of capital, should now have joined forces with Professor Knight. Cf. his book On Quantitative Thinking in Economics (Oxford: Clarendon Press, 1935), p. 20.
+
+33 If, as seems generally to be the case, one can never be certain that one will not be carried away occasionally by the construction of a quantitatively fixed “fund” which undoubtedly attaches to the term capital, it would probably be advisable to follow Professor Schumpeter’s suggestion and avoid the use of the term altogether. (Cf. article “Kapital,” in Handwörterbuch der Staatswissenschaften, 4th ed. (1923), vol. 5, p. 582.)
+
+34 [4], p. 198: “It has long been my contention that the best form of statement to indicate the essential fact on the technical side is simply to say that time as such is a factor of production—the only really distinct, homogeneous ‘factor,’ as a matter of fact.”
+
+35 [2], p. 284.
+
+36 Cf. particularly [2], pp. 264 (n. 2), 270, 273, and 277. In his latest articles ([7] and [8]) Professor Knight seems however inclined to concede that the period of production analysis has some limited application to static conditions most rigidly defined, and is inapplicable under dynamic conditions! Are we to understand that Professor Knight now wants to abandon all that part of his earlier criticism which was based on the most extreme static assumptions imaginable, i.e., on the assumption of perfect foresight?
+
+37 It might be mentioned, incidentally, that this would not be a problem of the preservation of natural resources in the usual sense, i.e., of preservation of the particular resource, but only of its replacement by some produced means of production which will render services of equivalent value. This applies equally to the practical problem of the preservation of exhaustible natural resources where it is by no means necessarily most economical to extend their life as far as possible rather than to use their amortization fund for the creation of some new capital goods.
+
+38 [4], p. 206: “The one important difference between price analysis in the case of interest and that of ordinary prices arises from the fact that saving and investment is a cumulative process. It is a phase of economic growth, outside the framework of the conventional ‘static’ system, unfortunately so called.”
+
+39 [2], p. 270.
+
+40 H. Neisser, “Monetary Expansion and the Structure of Production,” Social Research 1, no. 4 (November 1934).
+
+
+
+
+

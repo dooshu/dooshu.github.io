@@ -1,0 +1,69 @@
+Reflections on the Pure Theory of Money of Mr. J.M. Keynes (1931, 1932)
+
+
+This article was originally published in two parts. Part one first appeared in Economica 33 (August 1931): 270–95; part two in Economica 35 (February 1932): 22–44.
+
+1 J.M. Keynes, A Treatise on Money, 2 vols. (London: Macmillan, 1930).
+
+2 If at any point my own analysis seems to English readers to take too much for granted, perhaps I may be permitted to refer to my Prices and Production (London: Routledge and Sons, 1931) in chaps. 2 and 3; also included in this volume, of which I have attempted to provide a broad outline of the general theoretical considerations which seem to me indispensable in any approach to this problem.
+
+3 The difference between Mr. Keynes’s viewpoint and my own here is not, as may seem in the first instance, due to any neglect on my part of the fact that Mr. Keynes is dealing only with a short-run problem. It is Mr. Keynes, rather, with his implied assumption that the real factors are in equilibrium, who is unconsciously introducing a long-run view of the subject.
+
+4 Of course such changes need not only affect entrepreneurs. They may also affect other owners of capital.
+
+5 According to Böhm-Bawerk (Positive Theory of Captial, 3rd. ed. [Jena: Gustav Fischer, 1921], p. 535; English translation [New York: Macmillan, 1923], p. 328) the stock of capital must be as great as the amount of consumption goods consumed during a period of time if x stands for the total length of the production process and if the original factors of production are applied at a steady rate. Mr. Keynes calls the magnitude which Böhm-Bawerk called x, 2r – 1 and, as , comes to the conclusion that the working capital (to which, for unaccountable reasons, he confines his formula) amounts to r times the earnings per unit of time.
+
+6 Vol. 1, p. 141. Some readers may find it confusing that Mr. Keynes uses “bank deposits “and “savings deposits” interchangeably, in this connection without explaining why a few lines after having introduced the term “bank deposits” in a special technical sense, he substitutes “savings deposits” for it. But as savings deposits are defined (vol. 1, p. 36) as bank deposits “held, not for the purpose of making payments, but as means of employing savings, i.e., as an investment,” this substitution is quite consistent with the definition, though it is certainly irritating that the employment of savings “as an investment” in this sense is to be contrasted with their other possible use for “securities” which again means investment, but in another, special sense.
+
+7 On page 211 (vol. 1) it is expressly stated in connection with some special problem that “in this case interest is simply the money-rate of earnings of one of the factors of production,” but as E includes interest, and the money-rate of efficiency earnings of the factors of production is expressed by this must be true generally and not only in that particular context.
+
+8 Cf., e.g., on page 158 of vol. 1, where Mr. Keynes speaks simply of the “condition for the stability of the purchasing power” where he obviously does not mean absolute stability but permanent coincidence with the “equilibrium level.”
+
+9 Cf. on page 138 of vol. 1, where it is said that “these equations tell us that the price of consumption goods is equal to the rate of earnings of the factors of production plus the rate of profits per unit of output of consumption goods.”
+
+10 D.H. Robertson, Money, new revised edition (London: Macmillan, 1928), p. 99.
+
+11 Geldtheorie und Konjuncturtheorie (Vienna: Holder-Pichler-Tempsky, 1929), pp. 61, 131 et seq.
+
+12 Considerations of space have compelled the splitting up of this article. But there are other reasons which make me welcome the opportunity of delaying the second part of my criticism. As I had to confess at the beginning of this article, it is sometimes extremely difficult to find out exactly what the meaning of Mr. Keynes’s concepts is. On several occasions, I have had to point out that several conflicting definitions are given for the same concept, and on many other points I am by no means certain whether I have understood Mr. Keynes correctly. It is very difficult to follow his subsequent complicated analysis so long as these ambiguities are not cleared up. One has to distinguish at every point the different meanings the exposition assumes according to concepts like investment, etc., are interpreted according to this or to that of the several possible meanings it is given. There have accumulated so many questions of this kind which Mr. Keynes could certainly clear up that it is probably wiser to stop for the moment in the hope that further elucidations will in the meanwhile provide a firmer basis on which discussion may proceed. (Part 2 of this article will probably appear in Economica [November 1931].)
+
+13 Treatise on Money, pp. 183–84 of vol. 1. Unless otherwise stated, all page references in this article are to vol. 1 of the Treatise.
+
+14 I do not refer here to certain passages (e.g., on pp. 198, 272; vol. 2, p. 100) where this assumption is quite explicitly expressed; these are probably accounted for by the fact that Mr. Keynes actually believed something of this sort when he first began working on book 3 of the Treatise (see his reply to the first part of this article, p. 389).
+
+15 As regards the inclusion of such sums in Mr. Keynes’s concept of saving, cf. Treatise, vol. 1, p. 139, and my “Rejoinder,”Economica 34 (1931): 400. That Mr. Keynes actually wants additional new investments to correspond to savings in this sense has now become quite clear from his definition of net investment, to be found at the top of page 397 of the same issue of Economica.
+
+16 This tendency is likely to be modified only to the extent that the cost of carrying goods makes it advisable to reduce prices so as to dispose of them more quickly. But it must be remembered that these costs, also, will be reduced as a consequence of the fall of interest and that this will act as an inducement to merchants to carry larger stocks.
+
+17 Cf. vol. 1, p. 283, and my Prices and Production, p. 79; p. 261 in this volume.
+
+18 I neglect in this connection, as Mr. Keynes neglects, the third possible case where entrepreneurs reduce their balances in order to continue production. The effect here would, obviously, be similar to that of an increase in the quantity of money.
+
+19 Professor J.H. Williams in The Quarterly Journal of Economics 45, no. 4 (August 1931): 569.
+
+20 It should be remembered, throughout the following discussion, that, in Mr. Keynes’s theoretical exposition, it is assumed that bank deposits are the only form of money in general circulation and that the cash, held by the banks as reserve against these deposits, never enters the general circulation (p. 31).
+
+21 If, for instance, the reserve held against current accounts (demand deposits) is 9 percent, and the reserve held against deposit accounts (time deposits) is only 3 percent, then the transfer of any given amount from current account to deposit account will free two-thirds of the reserves formerly held and enable the bank to create additional demand deposits equal to two-thirds of the amount transferred to deposit account. Mr. Keynes would, therefore, be quite consistent if he thought it desirable that banks should not be compelled to hold any reserves against deposit accounts (see vol. 2, p. 13).
+
+22 There is considerable obscurity and contradiction with regard to the relation between the price level of “investment goods” and the price level of “securities.” In the passage quoted in the text (and in many other places as, for example, at the top of page 418 in the Economic Journal article) the two are, obviously, treated as identical and the sub-section which deals with the determination of the prices of “securities,” from which this passage is taken, is headed “The Price-level of New Investment goods” (p. 140). Here “securities” are expressly defined as “loan or real capital” (p. 141) and the conclusion of the section is summarized in the following sentence: “The price level of investments as a whole and hence of new investments, is that price level at which the desire of the public to hold savings deposits is equal to the amount of savings deposits which the banking system is willing and able to create.” Essentially the same statement is made on page 413 of Mr. Keynes’s Economic Journal article, regarding the determination of the price of “nonliquid assets” which, as we know, is only another name for “securities.” But on page 253 it is said that, when security prices are rising, “this is likely—in general, but not necessarily—to stimulate a rise in P′, the price level of new investment,” and on page 219 the following statement occurs: “Nor does the price of existing securities depend at all closely, over short periods, either on the cost of production or on the price of new fixed capital” (my italics). This last passage is the more remarkable in view of the fact that, in the sections dealing with the effect of the bank rate on investment, the effect on the production of fixed capital was alone considered—to the exclusion of all other kinds of investment goods (p. 202).
+
+23 “The amount of inactive deposits or hoards actually held, is determined by the banking system, since it is equal to the excess of total bank money created over what is required for the active deposits,” Economic Journal 41 (1931): 413; cf. also Ibid., pp. 414, 415, and 419.
+
+24 Vol. 2, p. 198.
+
+25 Ibid., p. 202.
+
+26 While reading the proofs of this article, I notice that Professor Irving Fisher himself, in his new Theory of Interest (New York: Macmillan, 1930), pp. 417 et seq., uses the very same figures of Mr. Gibson, which are used by Mr. Keynes, as evidence confirming his theory.
+
+27 Cf. his Essays in Persuasion (London: Macmillan, 1931), p. 148 et seq.
+
+28 Cf. my Prices and Production (London: Routledge and Sons, 1931); and “The Paradox of Saving,” Economica 32 (May 1931). Both are included in this volume.
+
+29 For example, when he says (p. 289) that “the incentive to an increased output of capital goods should diminish, just as the incentive to the production of consumption goods increases,” or again in the passage at the top of page 310, which clearly implies that it is the quick, and therefore less capitalistic, production of consumers’ goods which has become relatively more profitable as a consequence of their higher prices.
+
+30 Something like this seems to be going on at the present time in Russia where, after the burden imposed by the Five Years’ Plan on the consumer was found to be intolerable, the authorities have decided to change their arrangements and speed up the output of consumers’ goods. I should not have been surprised if this had led to unemployment just as in a capitalistic society; and in fact, if I have been informed correctly, this has already taken place. This does not, however, lead to an increase in the figure for unemployment, but only in the numbers of so-called unemployable—since workmen are only dismissed on the pretence of inefficiency.
+
+
+
+
+

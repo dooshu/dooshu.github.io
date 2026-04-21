@@ -1,0 +1,682 @@
+4 THE FLESH MADE WORD: Characterization, Part II
+
+4: The Flesh Made Word
+
+
+
+
+
+CHARACTERIZATION, PART II
+
+
+
+The Indirect Methods of Character Presentation
+
+Authorial Interpretation
+
+Interpretation by Another Character
+
+Conflict between Methods of Presentation
+
+Credibility
+
+Purpose
+
+Complexity
+
+Change
+
+Reinventing Character
+
+Creating a Group or Crowd
+
+The Character Journal
+
+
+
+INDIRECT METHODS OF CHARACTER PRESENTATION
+
+The four methods of direct characterization are forms of “showing” that bring character alive on the page. But there may also be times that you wish to shape our knowledge of and reaction to your characters by “telling” us about them, judging and interpreting for the reader. In some formulations these categories, direct and indirect, are reversed (for after all, the argument runs, in interpreting the author speaks directly to the reader), but to my mind there is a direct parallel here with the distinction between direct and indirect dialogue: in one the reader takes in directly the character’s speech, or thoughts, actions, and appearance; in the other, and in dialogue summary, the author steps in to interpret or summarize (indeed, indirect and summary dialogue can be considered forms of indirect character presentation.)
+
+There are two methods of indirect characterization—indirect in the sense that the character is described in summary, abstract, or judgmental terms by either the author or another speaker. Both of these methods are forms of “telling,” and both may shape our overall view.
+
+
+Authorial Interpretation
+
+The first indirect method of presenting a character is authorial interpretation—“telling” us the character’s background, motives, values, virtues, and the like. The advantages of this indirect method are enormous, for its use leaves you as the author free to move in time and space; to know anything you choose to know, whether the character knows it or not; and, godlike, to tell us what we are to feel. It allows you to convey a great deal of information in a short time.
+
+
+The most excellent Marquis of Lumbria lived with his two daughters, Carolina, the elder, and Luisa; and his second wife, Doña Vicenta, a woman with a dull brain, who, when she was not sleeping, was complaining of everything, especially of the noise . . .
+
+
+
+
+
+The Marquis of Lumbria had no male children, and this was the most painful thorn in his existence. Shortly after having become a widower, he had married Doña Vicenta, his present wife, in order to have a son, but she had proved sterile.
+
+
+
+
+
+The Marquis’ life was as monotonous and as quotidian, as unchanging and regular, as the murmur of the river below the cliff or as the liturgic services in the cathedral.
+
+
+
+
+
+—Miguel de Unamuno, “The Marquis of Lumbria”
+
+
+
+
+The disadvantage of this indirect method is that it distances the reader, as all generalizations and abstractions tend to do. Indeed, in the passage above, it may well be part of Unamuno’s purpose to convey the “monotonous” and “quotidian” quality of the Marquis’s life by this terse and distanced rehearsal of facts, motives, and judgments. Nearly every author uses the indirect method, and you will find it useful when you want to cover the exposition quickly. However, direct presentation of the characters—showing them in action and allowing readers to draw their own conclusions—will more actively engage the reader.
+
+The authorial introduction of a character need not be distanced, however, and may, on the contrary, give us precisely the specifics of character and situation that will begin to draw us in. Here is an example from Anthony Doerr’s All the Light We Cannot See in which the narrative, beginning in a neutral tone at a factual distance, literally draws us closer and closer, as in camera movement toward a close-up:
+
+
+In a corner of the city, inside a tall narrow house at Number 4 rue Vauborel, on the sixth and highest floor, a sightless sixteen-year-old named Marie-Laure LeBlanc kneels over a low table covered entirely with a model. The model is a miniature of the city she kneels within, and contains scale replicas of the hundreds of houses and shops and hotels within its walls. There’s the cathedral with its perforated spire, and the bulky old Château de Saint-Malo . . .
+
+
+
+
+
+The narrative rests on and caresses this intricate model for a few more lines, after which it is not surprising that we see the blind girl “run[ning] her fingertips along the centimeter-wide parapet,” whispering to it as she lets “her fingers walk down a little staircase.” And we are already half in love with her.
+
+Note that although the “author” may be summarizing a period or a life, that voice may be half in the mind of the narrated character, giving us the flavor as well as the facts of the person:
+
+
+He’d never been asked to wear a suit for a job interview. Never been told to bring along a copy of his résumé. He hadn’t even owned a résumé until the previous week when he’d gone to the library on Thirty-Fourth and Madison and a volunteer career counselor had written one for him, detailed his work history to suggest he was a man of grand accomplishments: farmer responsible for tilling land and growing healthy crops; street cleaner responsible for making sure the town of Limbe looked beautiful and pristine . . .
+
+
+
+
+
+—Imbolo Mbue, Behold the Dreamers
+
+
+
+
+Interpretation by Another Character
+
+A character may also be presented through the opinions of other characters, which may be considered a second indirect method. When this method is employed, however, the second character must express his or her opinions in speech, action, or thought. In the process, the observing character is inevitably also characterized. Whether we accept the opinion depends on what we think of that character as he or she is thus directly characterized. In this scene from Jane Austen’s Mansfield Park, for example, the busybody Mrs. Norris gives her opinion of the heroine:
+
+
+“There is a something about Fanny, I have often observed it before,—she likes to go her own way to work; she does not like to be dictated to; she takes her own independent walk whenever she can; she certainly has a little spirit of secrecy, and independence, and nonsense, about her, which I would advise her to get the better of.”
+
+
+
+
+
+As a general reflection on Fanny, Sir Thomas thought nothing could be more unjust, though he had been so lately expressing the same sentiments himself, and he tried to turn the conversation, tried repeatedly before he could succeed.
+
+
+
+
+
+Here Mrs. Norris’s opinion is directly presented in her speech and Sir Thomas’s in his thoughts, each of them being characterized in the process. It is left to the reader to decide (without much difficulty) whose view of Fanny is the more reliable.
+
+In this passage from Stephen Graham Jones’s Ledfeather, four different judgments are implied toward a woman’s violence: those of “the old days,” the woman herself, a pack of local boys, and the woman’s son:
+
+
+In the old days, the boy’s mom would have gotten a name for what she did: Shoots the Car Twice or Four Holes in the Glass or Doesn’t Ever Learn or Can’t Stop Fighting.
+
+
+
+
+
+Now, though, everybody just calls here by her usual name. But some of the kids still hold up imaginary rifles when she’s around. Growing up, the boy won’t understand this, will think at first, without telling anybody, or asking, that his mom is marked in some tribal way . . . that his mom’s a chief of some kind, if the Blackfeet even let women do that. But they probably would, for her.
+
+
+
+
+
+Notice that a conflict is economically set up between the boy and his tribe, the woman and the tribe, the boy’s beliefs and the truth that he will soon know.
+
+Be aware also that if we are dealing with a narrator—that is, a character-as-teller of her or his own story—the hybrid author-character is likely to make generalizations with which we may or may not agree, judgments with which we may sympathize or not. This phenomenon of the narrator will be discussed more fully in chapter 7 on point of view. Meanwhile, here is an example of a narrator-author who has large opinions to give, which may tell us more about him than about the scene he reacts to:
+
+
+Everybody looks better singing, especially fifteen-year-olds.
+
+
+
+
+
+The same dutiful adults turn up at these high school musicals. I’m early tonight. Claiming two front-row seats, I spread my sogged overcoat. . . .
+
+
+
+
+
+This freezing November evening, the rain-ponchos crinkling indoors looked doused, not attractive. Kids onstage grow annually more slim and gifted. In their fringe and songs, how lithe each one. Why does such zest make us, their adult sponsorship, look ever more bushed? Just once I’d like some glamour here among the grown-ups smelling tonight of wet wool.
+
+
+
+
+
+—Allan Gurganus, “Overture”
+
+
+
+
+
+CONFLICT BETWEEN METHODS OF PRESENTATION
+
+The conflict that is the essence of character can be effectively achieved in fiction by producing a conflict between methods of presentation. It may come automatically, or be done quite consciously. A character can be directly revealed to us through appearance, dialogue, action, and thought. If you set one of these methods (most frequently thought) at odds with the others, then dramatic tension will be produced. Imagine, for example, a character who is impeccably and expensively dressed, who speaks eloquently, who acts decisively, and whose mind is revealed to us as full of order and determination. He is inevitably a flat character. But suppose he is impeccable, eloquent, decisive, yet his mind is a mess of wounds and panic. He is at once interesting.
+
+Never present ideas except in terms of temperaments and characters.
+
+
+
+—André Gide
+
+
+
+Here is the opening passage of Saul Bellow’s Seize the Day, in which appearance and action are blatantly at odds with thought:
+
+
+When it came to concealing his troubles, Tommy Wilhelm was not less capable than the next fellow. So at least he thought, and there was a certain amount of evidence to back him up. He had once been an actor—no, not quite, an extra—and he knew what acting should be. Also, he was smoking a cigar, and when a man is smoking a cigar, wearing a hat, he has an advantage: it is harder to find out how he feels. He came from the twenty-third floor down to the lobby on the mezzanine to collect his mail before breakfast, and he believed—he hoped—that he looked passably well: doing all right.
+
+
+
+
+
+Tommy Wilhelm is externally composed but mentally anxious. By contrast, in the next passage, from Samuel Beckett’s Murphy, the landlady, Miss Carridge, who has just discovered a suicide in one of her rooms, is anxious in speech and action but is mentally composed.
+
+
+She came speeding down the stairs one step at a time, her feet going so fast that she seemed on little caterpillar wheels, her forefinger sawing horribly at her craw for Celia’s benefit. She slithered to a stop on the steps of the house and screeched for the police. She capered about in the street like a consternated ostrich, with strangled distracted rushes towards the York and Caledonian Roads in turn, embarrassingly equidistant from the tragedy, tossing up her arms, undoing the good work of the samples, screeching for police aid. Her mind was so collected that she saw clearly the impropriety of letting it appear so.
+
+
+
+
+
+In this third example, from Zora Neale Hurston’s “The Gilded Six-Bits,” it is the very intensity of the internal that both prevents and dictates action:
+
+
+Missie May was sobbing. Wails of weeping without words. Joe stood, and after awhile he found out that he had something in his hand. And then he stood and felt without thinking and without seeing with his natural eyes. Missie May kept on crying and Joe kept on feeling so much; and not knowing what to do with all his feelings, he put Slemmon’ watch charm in his pants pocket and took a good laugh and went to bed.
+
+
+
+
+
+I have said that thought is most frequently at odds with one or more of the other three methods of direct presentation—reflecting the difficulty we have expressing ourselves openly or accurately—but this is by no means always the case. A character may be successfully, calmly, even eloquently expressing fine opinions while betraying himself by pulling at his ear, or herself by crushing her skirt. Captain Queeg of Herman Wouk’s The Caine Mutiny is a memorable example of this, maniacally clicking the steel balls in his hand as he defends his disciplinary code.
+
+Often we are not privy to the thoughts of a character at all, so that the conflict must be expressed in a contradiction between the external methods of direct presentation, appearance, speech, and action. Character A may be speaking floods of friendly welcome but betraying his real feeling by backing steadily away. Character B, dressed in Valentino silk and Jimmy Choo sandals, may wail pityingly over the miseries of the poor. Notice that the notion of “betraying oneself” is important here: We’re more likely to believe the evidence unintentionally given than deliberate expression.
+
+A classic example of such self-betrayal is found in Leo Tolstoy’s The Death of Ivan Ilyich, where the widow confronts her husband’s colleague at the funeral:
+
+
+Noticing that the table was endangered by his cigarette ash, she immediately passed him an ashtray, saying as she did so: “I consider it an affectation to say that my grief prevents my attending to practical affairs. On the contrary, if anything can—I won’t say console me, but—distract me, it is seeing to everything concerning him.” She again took out her handkerchief as if preparing to cry, but suddenly, as if mastering her feeling, she shook herself and began to speak calmly. “But there is something I want to talk to you about.”
+
+
+
+
+
+It is no surprise either to the colleague or to us that Praskovya Federovna wants to talk about money.
+
+Finally, character conflict can be expressed by creating a tension between direct and indirect methods of presentation, and this is a source of much irony. The author presents us with a judgment of the character and then lets him or her speak, appear, act, or think in contradiction to this judgment.
+
+
+Sixty years had not dulled his response; his physical reactions, like his moral ones were guided by his will and strong character, and these could be seen plainly in his features. He had a long tube-like face with a long rounded open jaw and a long depressed nose.
+
+
+
+
+
+—Flannery O’Connor, “The Artificial Nigger”
+
+
+
+
+What we see here in the details of Mr. Head’s features are not will and strong character but grimly unlikable qualities. “Tube-like” is an ugly image, an “open jaw” suggests stupidity, and “depressed” connotes more than shape, while the repetition of “long” stretches the face grotesquely.
+
+Though critics often praise literature for exhibiting characteristics of the individual, the typical, and the universal all at the same time, I don’t think this is of much use to the practicing writer. For though you may labor to create an individual character, and you may make that character a credible example of type, I don’t think you can set out to be “universal.”
+
+Even though my initial drafts might look like a chaotic mess on the page, even though those drafts might end up being three times as long as the final drafts will be, the process of exploring my characters’ lives fully helps me to understand what the story is really about.
+
+
+
+—Andrew Porter
+
+
+
+It is true, I believe, that if literature has any social justification or use it is that readers can identify the common humanity in, and can therefore identify with, characters vastly different from themselves in century, geography, gender, culture, and beliefs; and that this enhances the scope of the reader’s sympathy. Yet, paradoxically, if you aim for the universal, you’re likely to achieve the pompous, whereas if you aim for the individual, you’re more apt to create a character in whom a reader can see aspects of himself or herself.
+
+Imagine this scene: The child chases a ball into the street. The tires screech, the bumper thuds, the blood geysers into the air, the pulp of the small body lies inert on the asphalt. How would a bystander react? (Is it universal?) How would a passing doctor react? (Is it typical?) How would Dr. Henry Lowes, coming home from the maternity ward of his own hospital, where his wife just had her fourth miscarriage, react? (Is it individual?) Each question narrows the range of convincing reaction, and as a writer you want to convince in each range. If you succeed in the third, you are likely to have succeeded in the other two.
+
+My advice, then, is to labor in the range of the particular. If you aim for a universal character you may end up with a vague or dull or windy one. If you set out to write a typical character you’re likely to produce a caricature, because people are typical only in the generalized qualities that lump them together. Typical is the most provincial adjective in a writer’s vocabulary, signaling that you’re writing only for those who share your assumptions. A “typical” schoolgirl in Dar es Salaam is a very different type from one in San Francisco. Furthermore, every person is typical of many things successively or simultaneously. She may be in turn a typical schoolgirl, bride, divorcée, and feminist. He may be at one and the same time a typical New Yorker, math professor, doting father, and adulterer. It is in the confrontation and convolution of types that much of our individuality is produced.
+
+Writing in generalities and typicalities is akin to bigotry—we see only what’s alike about people, not what’s unique. When effective, a description of type blames the character for the failure to individualize, and if an author sets out deliberately to produce types rather than individuals, then that author invariably wants to condemn or ridicule those types. Mark Helprin, in “The Schreuderspitze,” takes the ridicule of type to comic extreme:
+
+
+In Munich are many men who look like weasels. Whether by genetic accident, meticulous crossbreeding, an early and puzzling migration, coincidence, or a reason that we do not know, they exist in great numbers. Remarkably, they accentuate this unfortunate tendency by wearing mustaches, Alpine hats, and tweed. A man who resembles a rodent should never wear tweed.
+
+
+
+
+
+This is not to say that all characters must be fully drawn or “round.” Flat characters—who exist only to exhibit a function or a single characteristic—can be useful and necessary. Eric Bentley suggests in The Life of the Drama that if a messenger’s function in a play is to deliver his message, it would be tedious to stop and learn about his psychology. The same is true in fiction: in Margaret Atwood’s “Happy Endings,” the character of James, “who has a motorcycle and a fabulous record collection,” exists for no purpose other than to make Mary’s adulterous lover John jealous, and we do not want to hear about his adventures “away on his motorcycle, being free.” Nevertheless, onstage even a flat character has a face and a costume, and in fiction detail can give even a flat character a few angles and contours. The motorcycle and record collection swiftly give us an image of James, and are as much as we need to know. The servant classes in the novels of Henry James are notoriously absent as individuals because they exist only in their functions (that excellent creature had already assembled the baggage, etc.), whereas Charles Dickens, who peoples his novels with dozens of flat characters, brings even these alive in detail:
+
+
+And Mrs. Miff, the wheezy little pew opener—a mighty dry old lady, sparely dressed, with not an inch of fullness anywhere about her—is also here.
+
+
+
+
+
+—Dombey and Son
+
+
+
+
+To borrow a notion from George Orwell’s Animal Farm, all good characters are created round, but some are created rounder than others.
+
+
+
+CREDIBILITY
+
+Though you aim at individuality and not typicality in characters, your characters will exhibit typicality in the sense of “appropriateness.” A Texan Baptist behaves differently from an Italian nun; a rural schoolboy behaves differently from a professor emeritus at Harvard. If you are to succeed in creating an individual character, particular and alive, you will have to know what is appropriate to that sort of person and to let us know as much as we need to know to feel the appropriateness of the behavior.
+
+For instance, we need to know early on, preferably in the first paragraph, the character’s gender identification, age, and race or ethnicity. We need to know something of this character’s class, period, and region. A profession (or the clear lack of one) and a marital status help, too. Almost any reader can identify with almost any character; what no reader can identify with is confusion. When some or several of the fundamentals of type are withheld from us—when we don’t know whether we’re dealing with a man or a woman, an adult or a child—the process of identifying cannot begin, and the story is slow to move us.
+
+None of this information need come as information; it can be implied by appearance, tone, action, or detail. In the next example, from The Poisonwood Bible, Barbara Kingsolver plunges the character of Leah Price and her family into a new life for which they are ill-prepared, practically and politically. Although they are focused on their destination, by the end of the first two paragraphs, we know a lot about the family and the culture its members carry with them.
+
+
+We came from Bethlehem, Georgia, bearing Betty Crocker cake mixes into the jungle. My sisters and I were all counting on having one birthday apiece during our twelve-month mission. “And heaven knows,” our mother predicted, “they won’t have Betty Crocker in the Congo.”
+
+
+
+
+
+“Where we are headed, there will be no buyers and sellers at all,” my father corrected. His tone implied that Mother failed to grasp our mission, and that her concern with Betty Crocker confederated her with the coin-jingling sinners who vexed Jesus till he pitched a fit and threw them out of the church. “Where we are headed,” he said, to make things perfectly clear, “not so much as a Piggly Wiggly.” Evidently Father saw this as a point in the Congo’s favor. I got the most spectacular chills, just from trying to imagine.
+
+
+
+
+
+We know that the family is Southern, not only because their town of origin is named, but also from expressions such as “vexed” and “pitched a fit”; we know something about their class because they shop at the Piggly Wiggly. Not only do we know that they are missionaries, but we hear the father’s sermonizing voice in his repetition of the phrase “where we are headed,” preaching that is echoed in the implication that the mother is “confederated” with “the coin-jingling sinners.” We hear hints also of the harsh pleasure the father will take in the family’s hardship. The Betty Crocker mixes tell us that the women are trying to hang on to a little bit of home comfort, yet at the same time they are taking all-American 1950s culture to a place where it is irrelevant and ultimately destructive—indeed, the cake mixes are quickly ruined by jungle humidity. And although we don’t know the exact age of the narrator, she seems to be a teenager old enough to hear the subtext of her father’s reprovals and to relish the false sophistication of phrases like “the most spectacular chills.” In a very short space, Kingsolver has sketched the family, their dangerous ignorance, and the father’s divisive, single-minded determination.
+
+The following passage is an even more striking example of implied information:
+
+
+Every time the same story. Your Barbie is roommates with my Barbie, and my Barbie’s boyfriend comes over and your Barbie steals him, okay? Kiss kiss kiss. Then the two Barbies fight. You dumbbell! He’s mine. Oh no he’s not, you stinky! Only Ken’s invisible, right? Because we don’t have money for a stupid-looking boy doll when we’d both rather ask for a new Barbie outfit next Christmas. We have to make do with your mean-eyed Barbie and my bubblehead Barbie and our one outfit apiece not including the sock dress.
+
+
+
+
+
+—Sandra Cisneros, “Barbie-Q”
+
+
+
+
+Here there is no description whatever of the characters, and no direct reference to them except for the designations you and I. What do we nevertheless know about their gender, their age, their financial status, the period in which they live, their personalities, their attitudes, their relationship, the narrator’s emotions?
+
+Unlike even those closest to us in real life—our spouses, our lovers, our kin, whom we can never know completely—fictional people retain only as much privacy and secrecy as those who create them decide to let them keep.
+
+
+
+—Douglas Bauer
+
+
+
+Students of writing are sometimes daunted by the need to give so much information immediately. The thing to remember is that credibility consists in the combination of appropriateness and specificity. The trick is to find telling details that will convey the information while our attention remains on the desire or emotion of the character. Nobody wants to read a story that begins, “She was a twenty-eight-year-old suburban American woman, relatively affluent, who was extremely distressed when her husband, Peter, left her.” But most of that, and much more besides, could be contained in a few details:
+
+
+After Peter left with the VCR, the microwave, and the key to the garage, she went down to the kitchen and ate three jars of peanut butter without tasting a single spoonful.
+
+
+
+
+
+I don’t mean to imply that it is necessarily easy to signal the essentials of type immediately. It would be truer to say that it is necessary and hard. The opening paragraph of a story is its second strongest statement (the final paragraph is the strongest) and sets the tone for all that follows. If the right words don’t come to you as a gift, you may have to sit sifting and discarding the inadequate ones for a long time before you achieve both clarity and interest.
+
+
+
+PURPOSE
+
+Your character’s purpose—that is, the desire that impels her or him to action—will determine our degree of identification and sympathy, on the one hand, or judgment, on the other.
+
+Aristotle, in The Poetics, says that “there will be an element of character if what a person says or does reveals a certain moral purpose; and a good element of character, if the purpose so revealed is good.” It might seem that the antiheroes, brutes, hoods, whores, perverts, and bums who people modern literature do very little in the way of revealing good moral purpose. The history of Western literature shows a movement downward and inward: downward through society from royalty to gentry to the middle classes to the lower classes to the dropouts; inward from heroic action to social drama to individual consciousness to the subconscious to the unconscious. What has remained consistent is that, for the time spent in an author’s world, we stand with the protagonist or protagonists, we “see their point of view,” and the fiction succeeds largely because we are willing to grant them a goodness that we would not grant them in life. While you read, you expand your mental scope by identifying with, temporarily “becoming,” a character, borrowing a different mind. Fiction, as critic Laurence Gonzales says of rock music, “lets you wander around in someone else’s hell for a while and see how similar it is to your own.”
+
+The older we get . . . As life becomes more and more limiting, there is something wonderful about being able to get inside the skin of people unlike yourself.
+
+
+
+—Lee Smith
+
+
+
+Obviously we don’t identify with all characters, and those whose purpose is revealed as ambiguous or evil will invite varying degrees of judgment. In Elizabeth Strout’s novel My Name Is Lucy Barton, the protagonist of that name is admitted to hospital.
+
+
+I was pushed into a room and someone put a small tube in my arm and another small tube down my throat. “Hold still,” they said. I couldn’t even nod.
+
+
+
+
+
+After a long time—but what I mean by that, I don’t know in real time or terms—I was pushed into the CAT scan circle and there were some clicks and then it went dead. “Shit,” said a voice behind me. For another long time I lay there. “The machine’s broken,” the voice said, “but we need this scan or the doctor will kill us.” I lay there a long time, and I was very cold. I learned that hospitals are often cold. I was shivering, but no one noticed; I’m sure they would have brought me a blanket. They only wanted the machine to work, and I understood that.
+
+
+
+
+
+Here without delivering any overt judgment the author leads us to be exasperated at the insensitivity of the nurses, then to understand that they are also treated insensitively, then to ask ourselves if Lucy’s magnanimity isn’t just a little over the top.
+
+
+
+COMPLEXITY
+
+If the characters of your story are credible through being appropriate and individual, and if they invite identification or judgment through a sense of their purpose, they also need to be complex. They need to exhibit enough conflict and contradiction that we can recognize them as belonging to the contradictory human race, and they should exhibit a range of possibility, so that a shift of power in the plot can also produce a shift of purpose or morality. That is, they need to be capable of change.
+
+Conflict is at the core of character, as it is of plot. If plot begins with trouble, then character begins with a person in trouble, and trouble most dramatically occurs because we all have traits, tendencies, and desires that are at war, not simply with the world and other people, but with other traits, tendencies, and desires of our own. All of us probably know a woman of the strong, striding, independent sort, attractive only to men who like a strong and striding woman. And when she falls in love? She becomes a clinging sentimentalist. All of us know a father who is generous, patient, and dependable. And when the children cross the line? He smashes crockery and wields a strap. All of us are gentle, violent; logical, schmaltzy; tough, squeamish; lusty, prudish; sloppy, meticulous; energetic, apathetic; manic, depressive. Perhaps you don’t fit that particular list of contradictions, but you are sufficiently in conflict with yourself that as an author you have characters enough in your own psyche to people the work of a lifetime; you need only identify, heighten, and dramatize these conflicts within character, which Aristotle called “consistent inconsistencies.”
+
+If you think of the great characters of literature, you can see how inner contradiction—consistent inconsistency—brings each to a crucial dilemma. Hamlet is a strong and decisive man who procrastinates. Dorothea Brooke of Middlemarch is an idealistic and intellectual young woman, and a total fool in matters of the heart. Ernest Hemingway’s Francis Macomber wants to test his manhood against a lion and cannot face the test. In the opening moment of crisis from Mom Kills Self and Kids, Alan Saperstein reveals with great economy the consistent inconsistency of his protagonist, a man who hadn’t much time for his family until their absence makes clear how dependent he has been on them.
+
+
+When I arrived home from work I found my wife had killed our two sons and taken her own life.
+
+
+
+
+
+I uncovered a blast of foul, black steam from the pot on the stove and said, “Hi, hon, what’s for dinner?” But she did not laugh. She did not bounce to her feet and pirouette into the kitchen to greet me. My little one didn’t race into my legs and ask what I brought him. The seven-year-old didn’t automatically beg me to play a game knowing my answer would be a tired, “Maybe later.”
+
+
+
+
+
+In “The Self as Source,” Cheryl Moskowitz proposes a fiction technique that relies specifically on identifying conflicting parts of the writer’s personality. She points to Robert Louis Stevenson’s The Strange Case of Dr. Jekyll and Mr. Hyde as a fairly blatant model for such fiction:
+
+
+I thus drew steadily nearer to that truth . . . that man is not truly one, but two. I say two, because the state of my own knowledge does not pass beyond that point. . . . I hazard the guess that man will ultimately be known for a mere polity of multifarious, incongruous and independent denizens.
+
+
+
+
+
+It is, of course, impossible to know to what degree Shakespeare, Eliot, Hemingway, or Saperstein consciously used their own inner contradictions to build and dramatize their characters. An author works not only from his or her own personality but also from observation and imagination, and I fully believe that you are working at full stretch only when all three are involved. The question of autobiography is a complicated one, and as a writer you frequently won’t know yourself how much you have experienced, how much you have observed, and how much you have invented. Actress Mildred Dunnock, as we heard in chapter 2, once observed that drama is possible “because people can feel what they haven’t experienced,” an observation that surely extends to the writing and reading of fiction. If you push yourself to write at the outer edge of your emotional experience—what you can imagine yourself doing, even if you might not risk such actions in life—then all of your writing is autobiographical in the sense that it has passed through your mind.
+
+
+
+CHANGE
+
+In a story, as opposed to a sketch or anecdote, people and situations significantly change. The easiest way to check the plot of your story is to ask, Does my character change from opening to end? Do I give the sense that his or her life will never be quite the same again? Or as novelist Charles Baxter more eloquently puts it, “You just ask yourself, ‘What is visible now at the end of this story that wasn’t visible when the story started?’ Sometimes the characters can’t see what’s come up to the surface, but the reader can.”
+
+Often the notion of change is misunderstood by new writers to mean change that is abrupt and absolute, from Scrooge to do-gooder—but this rarely happens in life or in convincing fiction. Rather, change can be as subtle as a step in a new direction, a slight shift in belief, or a willingness to question a rigid view or recognize previously unseen value in a person or situation. Something is visible that was not visible before. One of the vicarious pleasures fiction offers is the chance to experience the workings of change within a character’s consciousness.
+
+John L’Heureux offers a psychological framework for viewing change: “A story is about a single moment in a character’s life when a definitive choice is made, after which nothing is the same.” The decision the main character makes at this pivotal moment regards—and determines—his or her essential integrity. L’Heureux emphasizes this concept, integrity in its primal sense of “wholeness,” since at the moment of choice the character elects to live either more in harmony or more at odds with his or her best self. The decision made in that moment affects the character’s relationship with the self forever.
+
+“What we do determines what we become,” Nancy Huddleston Packer affirms. “The consequences of the story come from the character who determines events. Our decisions make us who we are forever afterward.”
+
+
+
+REINVENTING CHARACTER
+
+There are others ways to make a character fresh and forceful in your mind before you start writing. Here are a couple of them:
+
+If the character is based on you or on someone you know, drastically alter the model in some external way: change blond hair to dark or thin to thick; imagine the character as different in gender or radically alter the setting in which the character must act. Part of the trouble with writing directly from experience is that you know too much about it—what “they” did, how you felt. Under such circumstances it’s hard to know whether everything in your mind is getting onto the page. An external alteration forces you to re-see, and so to see more clearly, and so to convey more clearly what you see.
+
+We are not unitary selves . . . we are very polymorphous. To make characters in a book interesting and alive they have to be like that—if they are only one thing they are dead.
+
+
+
+—Salman Rushdie
+
+
+
+On the other hand, if the character is created primarily out of your observations or invention and is unlike yourself, try to find an internal area that you have in common with the character. If you are a blond, slender young woman and the character is a fat, balding man, do you nevertheless have in common a love of French haute cuisine? Are you haunted by the same sort of dream? Do you share a fear of public performance or a susceptibility to fine weather?
+
+I can illustrate these techniques only from my own writing, because I am the only author whose self I can identify with any certainty in fictional characters. In one novel, I wanted to open with a scene in which the heroine buries a dog in her backyard. I had recently buried a dog in my backyard. I wanted to capture the look and feel of red Georgia earth at sunrise, the tangle of roots, and the smell of decay. But I knew that I was likely to make the experience too much my own, too little my character’s. So I set about making her not-me. I have straight dark hair and an ordinary figure, and I tend to live in jeans. I made Shaara Soole
+
+
+big boned, lanky, melon-breasted, her best feature was a head of rusty barbed-wire hair that she tried to control with a wardrobe of scarves and headband things. Like most costume designers, she dressed with more originality than taste, usually on the Oriental or Polynesian side, sometimes with voluminous loops of thong and matte metal over an ordinary shirt. This was somewhat eccentric in Hubbard, Georgia, but Shaara was oblivious to her eccentricity, being so concerned to keep her essential foolishness in check.
+
+
+
+
+
+Having thus separated Shaara from myself, I was able to bury the dog with her arms and through her eyes rather than my own. Then a few pages later I was faced with the quite different problem of introducing her ex-husband, Boyd Soole. I had voluminous notes on this character, and I knew that he was almost totally unlike me. A man, to begin with, and a huge man, a theater director with a natural air of power and authority and very little interest in domestic affairs. I sat at my desk for several days, unable to make him move convincingly. My desk oppressed me, and I felt trapped and uncomfortable, my work thwarted, it seemed, by the very chair and typewriter. Then it occurred to me that Boyd was also sitting at a desk trying to work.
+
+
+The dresser at the Campus Side was some four inches too narrow and three inches too low. If he set his feet on the floor his knees would sit free of the drawer but would be awkwardly constricted left and right. If he crossed his legs, he could hook his right foot comfortably outside the left of the kneehole but would bruise his thigh at the dresser. If he shifted back he was placed at an awkward distance from his script. And in this position he could not work.
+
+
+
+
+
+This passage did not instantly allow me to live inside Boyd Soole’s skin, nor did it solve all my problems with his characterization. But it did let me get on with the story, and it gave me a flash of sympathy for him that later grew much more profound than I had foreseen.
+
+Often, identifying what you have in common with the feelings of your character will also clarify what about her or him is important to the story—why, in fact, you chose to write about such a person at all. Even if the character is presented as a villain, you have something in common, and I don’t mean something forgivable. If he or she is intolerably vain, watch your own private gestures in front of the mirror and borrow them. If he or she is cruel, remember how you enjoyed hooking the worm.
+
+I have a hard time imagining that we would still be staging or reading a Chekhov whose characters were always more busy, cheerful and resourceful than we are. . . . Because for me it’s usually when a character begins to be thorny that he or she turns interesting.
+
+
+
+—Rosellen Brown
+
+
+
+There is no absolute requirement that a writer behave honestly in life; there is absolutely no such requirement. Great writers have been public hams, domestic dictators, emotional con artists, and Nazis. What is required for fine writing is honesty on the page—not how the characters should react at the funeral, the surprise party, in bed, but how they would. In order to develop such honesty of observation on the page, you must begin with a willing honesty of observation (though mercifully not of behavior) in yourself.
+
+
+
+CREATING A GROUP OR CROWD
+
+Sometimes it is necessary to introduce several or many people in the same scene. This needn’t present a problem, because the principle is pretty much the same in every case, and is the same as in film: pan, then close-up. In other words, give us a sense of the larger scene first, then a few details to characterize individuals. If you begin by concentrating too long on one character, we will tend to see that person as being alone.
+
+
+Herm peered through the windshield and eased his foot up off the gas. Damn, he thought, it’s not going to let up. The yellow lights made slick pools along the shoulder. He fiddled with the dial, but all he could get was blabber-radio and somebody selling vinyl siding. His back ached. His eyes itched. A hundred and forty miles to go.
+
+
+
+
+
+At this point, if you introduce a wife, two children, and a dog to the scene, we will have to make rapid and uncomfortable adjustments in our mental picture. Better to begin with the whole carful and then narrow it down to Herm:
+
+
+Herm peered through the windshield and glanced over at Inga, who was snoring lightly against the window. The kids hadn’t made a sound for about half an hour either, and only Cheza was wheezing dogbreath now and then on the back of his neck. He eased his foot up off the gas. Damn, he thought . . .
+
+
+
+
+
+If the action involves several characters who therefore need to be seen right away, introduce them as a group and then give us a few characterizing details:
+
+
+All the same there were four guns on him before he’d focused enough to count. “Peace,” he said again. There were three old ones, one of them barely bigger than a midget, and the young one was fat. One of the old ones had on a uniform jacket much too big for him, hanging open on his slack chest. The young one spun a string of their language at him.
+
+
+
+
+
+If the need is to create a crowd, it is still important, having established that there is a crowd, to give us a few details. We will believe more thoroughly in large numbers of people if you offer us an image. Here, for example, in a passage from Underworld, Don LeLillo introduces two parts of a crowd, the boys who are waiting to sneak into the ballpark and the last legitimate arrivals:
+
+
+They have found one another by means of slidy looks that detect the fellow foolhard and here they stand, black kids and white kids up from the subways or off the local Harlem streets, bandidos, fifteen in all, and according to topical legends maybe four will get through for every one that’s caught.
+
+
+
+
+
+They are waiting nervously for the ticket holders to clear the turnstiles, the last loose cluster of fans, the stragglers and loiterers. They watch the late-arriving taxis from downtown and the brilliantined men stepping dapper to the windows, policy bankers and supper club swells and Broadway hotshots, high aura’d, picking lint off their mohair sleeves.
+
+
+
+
+
+Notice in the first paragraph how deftly unexpected or slangy language—slidy looks, foolhard, bandidos, topical legends—shows the particularity of this familiar batch of boys; and in the second how details—cluster of fans, brilliantined, dapper, supper club swells, Broadway hotshots—make us see a crowd of men personally unidentified. Note also that DeLillo saves the very most focused image—picking lint off their mohair sleeves—for last, a little click of the narrative lock on that paragraph.
+
+The bore is meeting people who say the usual things.
+
+
+
+—Virginia Woolf
+
+
+
+Note the still more erudite character of the crowd in this scene: “It is relatively calm in the lobby of Pitié-Salpêtrière,” where the philosopher Roland Barthes lies in a coma. Here the coming-in-for-the-closeup technique is similar:
+
+
+Friends, admirers, acquaintances, and the merely curious line up to sit at the great man’s bedside; they fill the hospital foyer, conversing in undertones, a cigarette or a sandwich or a newspaper in hand, or a book by Guy Debord or a Milan Kundera novel.
+
+
+
+
+
+—Laurent Binet, The Seventh Function of Language
+
+
+
+
+Again, notice how the details grow increasingly specific, how they move us closer to understanding the kind of person who is likely to be found in this crowd—from undertones to cigarettes, newspapers, and sandwiches to high-minded reading matter for a precise taste.
+
+If the crowd is introduced by a narrating character, it will inevitably characterize the narrator as much as the crowd. The excerpt from Allan Gurganus’s “Overture” on page 79 is a good example of this technique.
+
+
+
+THE CHARACTER JOURNAL
+
+Whether indirect, direct, or, most commonly, both direct and indirect methods are used, a full and rich fictional character will need to be both credible and complex, to show purpose (and that purpose will reveal something about his or her morality), and in the course of the story to undergo some change, perhaps small but nonetheless significant. In exploring these elements of character, your journal can be an invaluable help.
+
+As a writer you may have the lucky, facile sort of imagination to which characters spring full-blown, complete with gestures, histories, and passions. Or it may be that you need to explore at length, to draw your characters out gradually and coax them into being. That can be lucky too.
+
+For either kind of writer, but especially the latter, the journal lets you coax and explore without committing yourself to anything or anyone. It allows you to know everything about your character, whether you use it or not. Before you put a character in a story, know how well that character sleeps, what he eats for lunch, what she buys and how the bills get paid. Know how your character would prefer to spend evenings and weekends and why such plans get thwarted, what memories the character has of pets and parents, cities, snow, or school. You may end up using none of this information, but knowing it may teach you how your bookperson taps a pencil or twists a lock of hair, and when and why. When you know these things, you will have taken a step past invention toward the moment of imagination in which you become your character, live in his or her skin, and produce an action that, for the reader, rings universally true.
+
+Use the journal to note your observations of people. Try writing down your impressions of the library assistant who annoys you or the loner at the bar who intrigues you. Try to capture a gesture or the messages that physical features and clothing send. Invent a reason for that harshness or that loneliness; invent a past. Then try taking the character out of that context and setting her or him in another. Get your character in trouble, and you may be on your way to a short story.
+
+CHARACTER: A SUMMARY
+
+It may be helpful to summarize the practical advice on character in this and the previous chapter.
+
+
+
+1. Be aware of the four methods of direct character presentation—appearance, speech, action, and thought—and of the indirect methods, authorial interpretation and presentation by another character.
+
+2. Reveal the character’s conflicts by presenting attributes in at least one of these methods that contrast with attributes you present in the others.
+
+3. Know all the influences that go into the making of your character’s type: age, gender, race, nationality, marital status, region, education, religion, profession.
+
+4. Focus sharply on how the character looks, on what she or he wears and owns, and on how she or he moves. Let us focus on it, too.
+
+5. Examine the character’s speech to make sure it does more than convey information. Does it characterize, accomplish exposition, and reveal emotion, intent, or change? Does it advance the conflict through “no” dialogue? Speak it aloud: does it “say”?
+
+6. Use your journal to explore and build ideas for characters. Know the details of your character’s life: what he or she does during every part of the day, thinks about, remembers, wants, likes and dislikes, eats, says, means.
+
+7. Know what your character wants, both generally out of life, and specifically in the context of the story. Keeping that desire in mind, “think backward” with the character to decide what he or she would do in any situation presented.
+
+8. Identify, heighten, and dramatize consistent inconsistencies. What does your character want that is at odds with whatever else she wants? What patterns of thought and behavior work against his primary goal?
+
+9. If the character is based on a real model, whether yourself or someone else, make a dramatic external alteration.
+
+10. If the character is unlike or alien to you, identify a mental or emotional point of contact.
+
+11. Build action by making your characters discover and decide. Make sure that what happens is action and not mere event or movement, that is, that it contains the possibility for human change.
+
+
+
+
+
+SUGGESTED STORIES
+
+
+
+“Girls at War”
+
+Chinua Achebe
+
+
+
+
+
+“Aren’t You Happy for Me”
+
+Richard Bausch
+
+
+
+
+
+“Saint Marie”
+
+Louise Erdrich
+
+
+
+
+
+“Girl”
+
+Jamaica Kincaid
+
+
+
+
+
+“Kindness”
+
+Yiyun Li
+
+
+
+
+
+“Orbiting”
+
+Bharati Mukherjee
+
+
+
+
+
+“St. Lucy’s Home for Girls Raised by Wolves”
+
+Karen Russell
+
+
+
+
+
+“Love and Hydrogen”
+
+Jim Shepard
+
+
+
+
+
+“A Different Road”
+
+Elizabeth Strout
+
+
+
+
+
+“The Flowers”
+
+Alice Walker
+
+
+
+
+
+WRITING PROMPTS
+
+
+
+1. One character is trying to teach another how to do something specific (practical, domestic, mechanical, or technological). The teacher is not much of a teacher, and the pupil is not much of a learner. Present one of them through authorial interpretation and the other through dialogue.
+
+2. Write a scene in which a man (or boy) questions a woman (or girl) about her mother. Characterize all three.
+
+3. Write a scene using the four direct elements of presentation: appearance, action, speech and thought. Put one element in conflict with the other three.
+
+4. Write a character sketch describing the character in authorial interpretation, both general and judgmental, and also in specific details. Let the details contradict the generalizations. (Larry was the friendliest kid on the block. He had a collection of brass knucks he would let you see for fifty cents, and he would let you cock his BB gun for him as long as you were willing to hold the target.) What does this character say? To whom? What action ensues?
+
+5. Have your character accept a ride from someone he or she doesn’t know well. Using indirect authorial voice, let us know all about the car—make, model, color, condition, and so forth. Using direct presentation, let us know who these people are, what they say, and what happens. You as author may tell us the outcome.
+
+6. As author, create a crowd. Then pick two characters from it (or in it), show them directly, and let us know from their dialogue how differently each sees the event or experience. When you move back to the crowd, move back to the authorial voice. Make this switch several times.
+
+
+
+

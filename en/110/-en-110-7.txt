@@ -1,0 +1,164 @@
+Chapter 7: Commitment and Consistency: Hobgoblins of the Mind
+
+I am today what I established yesterday or some previous day.
+
+—James Joyce
+
+
+Every year, Amazon ranks near or at the top of the wealthiest and best-performing companies in the world. Yet every year it gives each of its fulfillment-center employees, who helped the company reach these heights, an incentive of up to $5,000 to leave. The practice, in which employees receive a cash bonus if they quit, has left many observers mystified, as the costs of employee turnover are significant. Direct expenses associated with turnover of such employees—stemming from the recruitment, hiring, and training of replacements—can extend to 50 percent of the employee’s annual compensation package; plus, the costs escalate even further when indirect expenses are taken into account in the form of loss of institutional memory, productivity disruptions, and lowered morale of remaining team members.
+
+How does Amazon justify its “Pay to Quit” program from a business standpoint? Spokesperson Melanie Etches is clear on the point: “We only want people working at Amazon who want to be here. In the long-run term, staying somewhere you don’t want to be isn’t healthy for our employees or for the company.” So Amazon figures that providing unhappy, dissatisfied, or discouraged employees an attractive escape route will save money in terms of the proven higher health costs and lower productivity of such workers. I don’t doubt the logic. But I do doubt it is Amazon’s sole rationale for the program. A significant additional reason applies. I know of its potency from the results of behavioral-science research and from the fact that I have seen it, and still do see it, operating forcefully all around me.
+
+Take, for example, the story of my neighbor Sara and her live-in boyfriend, Tim. After they met, they dated for a while and eventually moved in together. Things were never perfect for Sara. She wanted Tim to marry her and stop his heavy drinking; Tim resisted both ideas. After an especially contentious period, Sara broke off the relationship, and Tim moved out. Around the same time, an old boyfriend phoned her. They started seeing each other exclusively and quickly became engaged. They had gone so far as to set a wedding date and issue invitations, when Tim called. He had repented and wanted to move back in. When Sara told him her marriage plans, he begged her to change her mind; he wanted to be together with her as before. Sara refused, saying she didn’t want to live like that again. Tim even offered to marry her, but she still said she preferred the other boyfriend. Finally, Tim volunteered to quit drinking if she would only relent. Feeling that under those conditions, Tim had the edge, Sara decided to break her engagement, cancel the wedding, retract the invitations, and have Tim move back in with her.
+
+Within a month, Tim informed Sara that he didn’t think he needed to stop drinking, because he now had it under control. A month later, he decided that they should “wait and see” before getting married. Two years have since passed; Tim and Sara continue to live together exactly as before. Tim still drinks, and there are still no marriage plans, yet Sara is more devoted to him than ever. She says that being forced to decide taught her that Tim really is number one in her heart. So after choosing Tim over her other boyfriend, Sara became happier, even though the conditions under which she had made her decision have never been consummated.
+
+Note that Sara’s bolstered commitment came from making a hard personal choice for Tim. I believe it’s for the same reason that Amazon wants employees to make such a choice for it. The election to stay or leave in the face of an incentive to quit doesn’t serve only to identify disengaged workers, who, in a smoothly efficient process, weed themselves out. It also serves to solidify and even enhance the allegiance of those who, like Sara, opt to continue.
+
+How can we be so sure that this latter outcome is part of the Pay to Quit program’s purpose? By paying attention not to what the company’s public-relations spokesperson, Ms. Etches, has to say on the matter but, rather, to what its founder, Jeff Bezos, says—a man whose business acumen had made him the world’s richest person. In a letter to shareholders, Mr. Bezos wrote that the program’s purpose was simply to encourage employees “to take a moment and think about what they really want.” He’s also pointed out that the headline of the annual proposal memo reads, “Please Don’t Take This Offer.” Thus, Mr. Bezos wants employees to think about leaving without choosing to do so, which is precisely what happens, as very few take the offer. In my view, it’s the resultant decision to stay that the program is primarily designed to foster, and for good reason: employee commitment is highly related to employee productivity.
+
+Mr. Bezos’s keen understanding of human psychology is confirmed in a raft of studies of people’s willingness to believe in the greater validity of a difficult selection once made. I have a favorite. A study done by a pair of Canadian psychologists uncovered something fascinating about people at the horse track. Just after placing bets, they become much more sure of the correctness of their decision than they were immediately before laying down the bets. Of course, nothing about the horse’s chances actually shifts; it’s the same horse, on the same track, in the same field; but in the minds of those bettors, their confidence that they made the right choice improves significantly once the decision is finalized. Similarly, in the political arena, voters believe more strongly in their choice immediately after casting a ballot. In yet another domain, upon making an active, public decision to conserve energy or water, people become more devoted to the idea of conservation, develop more reasons to support it, and work harder to achieve it.
+
+In general, the main reason for such swings in the direction of a choice has to do with another fundamental principle of social influence. Like the other principles, this one lies deep within us, directing our actions with quiet power. It is our desire to be (and to appear) consistent with what we have already said or done. Once we make a choice or take a stand, we encounter personal and interpersonal pressures to think and behave consistently with that commitment. Moreover, those pressures will cause us to respond in ways that justify our decision.1
+
+
+
+
+
+Streaming Along
+
+
+Psychologists have long explored how the consistency principle guides human action. Indeed, prominent early theorists recognized the desire for consistency as a motivator of our behavior. But is it really strong enough to compel us to do what we ordinarily would not want to do? There is no question about it. The drive to be (and look) consistent constitutes a potent driving force, often causing us to act in ways contrary to our own best interest.
+
+Consider what happened when researchers staged thefts on a New York City area beach to see if onlookers would risk personal harm to halt the crime. In the study, an accomplice of the researchers would put a beach blanket down five feet from the blanket of a randomly chosen individual—the experimental subject. After several minutes of relaxing on the blanket and listening to music from a portable radio, the accomplice would stand up and leave the blanket to stroll down the beach. Soon thereafter, a researcher, pretending to be a thief, would approach, grab the radio, and try to hurry away with it. Under normal conditions, subjects were reluctant to put themselves in harm’s way by challenging the thief—only four people did so in the twenty times the theft was staged. But when the same procedure was tried another twenty times with a slight twist, the results were drastically different. In these incidents, before leaving the blanket, the accomplice would simply ask the subject to please “watch my things,” something everyone agreed to do. Now, propelled by the rule of consistency, nineteen of the twenty subjects became virtual vigilantes, running after and stopping the thief, demanding an explanation, often restraining the thief physically or snatching the radio away.
+
+To understand why consistency is so powerful a motive, we should recognize that in most circumstances, it is valued and adaptive. Inconsistency is commonly thought to be an undesirable personality trait. The person whose beliefs, words, and deeds don’t match is seen as confused, two-faced, even mentally ill. On the other side, a high degree of consistency is normally associated with personal and intellectual strength. It is the heart of logic, rationality, stability, and honesty. A quote attributed to the great British chemist Michael Faraday suggests the extent to which being consistent is approved—sometimes more than being right is. When asked after a lecture if he meant to imply that a hated academic rival was always wrong, Faraday glowered at the questioner and replied, “He’s not that consistent.”
+
+Certainly, then, good personal consistency is highly valued in our culture—and well it should be. Most of the time, we are better off if our approach to things is well laced with consistency. Without it, our lives would be difficult, erratic, and disjointed.
+
+
+
+
+
+The Quick Fix
+
+
+Because it is typically in our best interests to be consistent, we fall into the habit of being automatically so, even in situations where it is not the sensible way to be. When it occurs unthinkingly, consistency can be disastrous. Nonetheless, even blind consistency has its attractions.
+
+First, like most other forms of automatic responding, consistency offers a shortcut through the complexities of modern life. Once we have made up our minds about an issue, stubborn consistency allows us an appealing luxury: we don’t have to think hard about the issue anymore. We don’t have to sift through the blizzard of information we encounter every day to identify relevant facts; we don’t have to expend the mental energy to weigh the pros and cons; we don’t have to make any further tough decisions. Instead, all we have to do when confronted with the issue is click on our consistency program, and we know just what to believe, say, or do. We need only believe, say, or do whatever is congruent with our earlier decision.
+
+The allure of such a luxury is not to be minimized. It allows us a convenient, relatively effortless, and efficient method for dealing with the complexities of daily life that make severe demands on our mental energies and capacities. It is not hard to understand, then, why automatic consistency is a difficult reaction to curb. It offers a way to evade the rigors of continuing thought. With our consistency programs running, we can go about our business happily excused from having to think too much. And, as Sir Joshua Reynolds noted, “There is no expedient to which a man will not resort to avoid the real labor of thinking.”
+
+
+
+
+
+The Foolish Fortress
+
+
+There is a second, more perverse attraction of mechanical consistency. Sometimes it is not the effort of hard, cognitive work that makes us shirk thoughtful activity but the harsh consequences of that activity. Sometimes it is the cursedly clear and unwelcome set of answers provided by straight thinking that makes us mental slackers. There are certain disturbing things we simply would rather not realize. Because it is a preprogrammed and mindless method of responding, automatic consistency can supply a safe hiding place from troubling realizations. Sealed within the fortress walls of rigid consistency, we can be impervious to the sieges of reason.
+
+One night at an introductory lecture given by the Transcendental Meditation (TM) program, I witnessed an illustration of the way people hide inside the walls of consistency to protect themselves from the troublesome consequences of thought. The lecture itself was presided over by two earnest young men and was designed to recruit new members into the program. The men claimed the program offered a unique brand of meditation that would allow us to achieve all manner of desirable things, ranging from simple inner peace to more spectacular abilities—to fly and pass through walls, for example—at the program’s advanced (and more expensive) stages.
+
+I had decided to attend the meeting to observe the kind of compliance tactics used in recruitment lectures of this sort and had brought along an interested friend, a university professor whose areas of specialization were statistics and symbolic logic. As the meeting progressed and the lecturers explained the theory behind TM, I noticed my logician friend becoming increasingly restless. Looking more and more pained and shifting about in his seat, he was finally unable to resist. When the leaders called for questions, he raised his hand and gently but surely demolished the presentation we had just heard. In less than two minutes, he pointed out precisely where and why the lecturers’ complex argument was contradictory, illogical, and unsupportable. The effect on the discussion leaders was devastating. After a confused silence, each attempted a weak reply only to halt midway to confer with his partner and finally to admit that my colleague’s points were good ones “requiring further study.”
+
+More interesting to me was the effect upon the rest of the audience. At the end of the question period, the recruiters were faced with a crowd of audience members submitting their $75 down payments for admission to the TM program. Shrugging and chuckling to one another as they took in the payments, the recruiters betrayed signs of giddy bewilderment. After what appeared to have been an embarrassingly clear collapse of their presentation, the meeting had somehow turned into a success, generating inexplicably high levels of compliance from the audience. Although more than a bit puzzled, I chalked up the audience’s response to a failure to understand the logic of my colleague’s arguments. As it turned out, just the reverse was true.
+
+Outside the lecture room after the meeting, we were approached by three members of the audience, each of whom had given a down payment immediately after the lecture. They wanted to know why we had come to the session. We explained and asked the same question of them. One was an aspiring actor who wanted desperately to succeed at his craft and had come to the meeting to learn if TM would allow him to achieve the necessary self-control to master the art; the recruiters assured him it would. The second described herself as a severe insomniac who hoped TM would provide her a way to relax and fall asleep easily at night. The third served as unofficial spokesman. He was failing his college courses because there wasn’t enough time to study. He had come to the meeting to find out if TM could help by training him to need fewer hours of sleep each night; the additional time could then be used for study. It is interesting to note that the recruiters informed him, as well as the insomniac, that TM techniques could solve their respective, though opposite, problems.
+
+Still thinking the three must have signed up because they hadn’t understood the points made by my logician friend, I began to question them about aspects of his arguments. I found that they had understood his comments quite well, in fact, all too well. It was precisely the cogency of his claims that drove them to sign up for the program on the spot. The spokesman put it best: “Well, I wasn’t going to put down any money tonight because I’m really broke right now; I was going to wait until the next meeting. But when your buddy started talking, I knew I’d better give them my money now, or I’d go home, start thinking about what he said and never sign up.”
+
+At once, things began to make sense. These were people with real problems, and they were desperately searching for a way to solve them. They were seekers who, if our discussion leaders were right, had found a potential solution in TM. Driven by their needs, they very much wanted to believe that TM was their answer. Now, in the form of my colleague, intrudes the voice of reason, showing the theory underlying their newfound solution to be unsound.
+
+Panic! Something must be done at once before logic takes its toll and leaves them without hope once again. Quickly, quickly, walls against reason are needed, and it doesn’t matter that the fortress to be erected is a foolish one. “Quick, a hiding place from thought! Here, take this money. Whew, safe in the nick of time. No need to think about the issues any longer.” The decision has been made, and from now on the consistency program can be run whenever necessary: “TM? Certainly I think it will help me; certainly I expect to continue; certainly I believe in TM. I already put my money down for it, didn’t I?” Ah, the comforts of mindless consistency. “I’ll just rest right here for a while. It’s so much nicer than the worry and strain of that hard, hard search.”
+
+
+
+
+
+Seek and Hide
+
+
+If, as it appears, automatic consistency functions as a shield against thought, it should not be surprising that such consistency can be exploited by those who would prefer we respond to their requests without thinking. For the profiteers, whose interest will be served by an unthinking, mechanical reaction to their requests, our tendency for automatic consistency is a gold mine. So clever are they at arranging to have us run our consistency programs when it profits them that we seldom realize we have been taken. In fine jujitsu fashion, they structure their interactions with us so our need to be consistent leads directly to their benefit.
+
+Certain large toy manufacturers use just such an approach to reduce a problem created by seasonal buying patterns. Of course, the boom time for toy companies occurs before and during the Christmas holiday season. Their problem is that toy sales then go into a terrible slump for the next couple of months. Their customers have already spent the amount in their toy budgets and are stiffly resistant to their children’s pleas for more.
+
+The toy manufacturers are faced with a dilemma: how to keep sales high during the peak season and, at the same time, retain a healthy demand for toys in the immediately following months? The difficulty certainly doesn’t lie in motivating kids to want more toys after Christmas. The problem lies in motivating postholiday spent-out parents to buy another plaything for their already toy-glutted children. What could the toy companies do to produce that unlikely behavior? Some have tried greatly increased advertising campaigns, while others have reduced prices during the slack period, but neither of those standard sales devices has proved successful. Both tactics are costly and have been ineffective in increasing sales to desired levels. Parents are simply not in a toy-buying mood, and the influences of advertising or reduced expense are not enough to shake that stony resistance.
+
+Certain large toy manufacturers think they have found a solution. It’s an ingenious one, involving no more than a normal advertising expense and an understanding of the powerful pull of the need for consistency. My first hint of the way the toy companies’ strategy worked came after I fell for it and then, in true patsy form, fell for it again.
+
+It was January, and I was in the town’s largest toy store. After purchasing all too many gifts there for my son a month before, I had sworn not to enter that store or any like it for a long, long time. Yet there I was, not only in the diabolical place but also in the process of buying my son another expensive toy—a big, electric road-race set. In front of the road-race display, I happened to meet a former neighbor who was buying his son the same toy. The odd thing was that we almost never saw each other anymore. In fact, the last time had been a year earlier in the same store when we were both buying our sons an expensive post-Christmas gift—that time a robot that walked, talked, and laid waste to all before it. We laughed about our strange pattern of seeing each other only once a year at the same time, in the same place, while doing the same thing. Later that day, I mentioned the coincidence to a friend who, it turned out, had once worked in the toy business.
+
+“No coincidence,” he said knowingly.
+
+“What do you mean, ‘No coincidence’?”
+
+“Look,” he said, “let me ask you a couple of questions about the road-race set you bought this year. First, did you promise your son that he’d get one for Christmas?”
+
+“Well, yes, I did. Christopher had seen a bunch of ads for them on the Saturday-morning cartoon shows and said that was what he wanted for Christmas. I saw a couple of ads myself and it looked like fun, so I said, OK.”
+
+“Strike one,” he announced. “Now for my second question. When you went to buy one, did you find all the stores sold out?”
+
+“That’s right, I did! The stores said they’d ordered some but didn’t know when they’d get any more in. So I had to buy Christopher some other toys to make up for the road-race set. But how did you know?”
+
+“Strike two,” he said. “Just let me ask one more question. Didn’t this same sort of thing happen the year before with the robot toy?”
+
+“Wait a minute . . . you’re right. That’s just what happened. This is incredible. How did you know?”
+
+“No psychic powers; I just happen to know how several of the big toy companies jack up their January and February sales. They start prior to Christmas with attractive TV ads for certain special toys. The kids, naturally, want what they see and extract Christmas promises for these items from their parents. Now here’s where the genius of the companies’ plan comes in: they undersupply the stores with the toys they’ve gotten the parents to promise. Most parents find those toys sold out and are forced to substitute other toys of equal value. The toy manufacturers, of course, make a point of supplying the stores with plenty of these substitutes. Then, after Christmas, the companies start running the ads again for the other, special toys. That jacks up the kids to want those toys more than ever. They go running to their parents whining, ‘You promised, you promised,’ and the adults go trudging off to the store to live up dutifully to their words.”
+
+“Where,” I said, beginning to seethe now, “they meet other parents they haven’t seen for a year, falling for the same trick, right?”
+
+“Right. Uh, where are you going?”
+
+“I’m going to take the road-race set right back to the store.” I was so angry I was nearly shouting.
+
+“Wait. Think for a minute first. Why did you buy it this morning?”
+
+“Because I didn’t want to let Christopher down and because I wanted to teach him that promises are to be lived up to.”
+
+“Well, has any of that changed? Look, if you take his toy away now, he won’t understand why. He’ll just know that his father broke a promise to him. Is that what you want?”
+
+“No,” I said, sighing, “I guess not. So, you’re telling me the toy companies doubled their profits on me for the past two years, and I never even knew it; and now that I do, I’m still trapped—by my own words. So, what you’re really telling me is, ‘Strike three.’”
+
+He nodded, “And you’re out.”
+
+In the years since, I have observed a variety of parental toy-buying sprees similar to the one I experienced during that particular holiday season—for Beanie Babies, Tickle Me Elmo dolls, Furbies, Xboxes, Wii consoles, Zhu Zhu Pets, Frozen Elsa dolls, PlayStation 5s, and the like. But, historically, the one that best fits the pattern is that of the Cabbage Patch Kids, $25 dolls that were promoted heavily during mid-1980s Christmas seasons but were woefully undersupplied to stores. Some of the consequences were a government false-advertising charge against the Kids’ maker for continuing to advertise dolls that were not available, frenzied groups of adults battling at toy outlets or paying up to $700 apiece at auction for dolls they had promised their children, and an annual $150 million in sales that extended well beyond the Christmas months. During the 1998 holiday season, the least available toy everyone wanted was the Furby, created by a division of toy giant Hasbro. When asked what frustrated, Furby-less parents should tell their kids, a Hasbro spokeswoman advised the kind of promise that has profited toy manufacturers for decades: tell the kids, “I’ll try, but if I can’t get it for you now, I’ll get it for you later.”2
+
+
+
+Figure 7.1: No pain, no (ill-gotten) gain
+
+Jason, the gamer in this cartoon, has gotten the tactic for holiday-gift success right, but, I think he’s gotten the reason for that success wrong. My own experience tells me that his parents will overcompensate with other gifts not so much to ease his pain but to ease their own pain at having to break their promise to him.
+
+FOXTROT © 2005 Bill Amend. Reprinted with permission of UNIVERSAL PRESS SYNDICATE. All rights reserved.
+
+
+
+
+
+Commitment Is the Key
+
+
+Once we realize that the power of consistency is formidable in directing human action, an important practical question immediately arises: How is that force engaged? What produces the click that activates the run of the powerful consistency program? Social psychologists think they know the answer: commitment. If I can get you to make a commitment (that is, to take a stand, to go on record), I will have set the stage for your automatic and ill-considered consistency with that earlier commitment. Once a stand is taken, there is a natural tendency to behave in ways that are stubbornly aligned with the stand.
+
+As we’ve already seen, social psychologists are not the only ones who understand the connection between commitment and consistency. Commitment strategies are aimed at us by compliance professionals of nearly every sort. Each of the strategies is intended to get us to take some action or make some statement that will trap us into later compliance through consistency pressures. Procedures designed to create commitments take various forms. Some are bluntly straightforward; others are among the most subtle compliance tactics we will encounter. On the blunt side, consider the approach of Jack Stanko, used-car sales manager for an Albuquerque auto dealership. While leading a session called “Used Car Merchandising” at a National Auto Dealers Association convention in San Francisco, he advised one hundred sales-hungry dealers as follows: “Put ’em on paper. Get the customer’s OK on paper. Control ’em. Ask ’em if they would buy the car right now if the price is right. Pin ’em down.” Obviously, Mr. Stanko—an expert in these matters—believes that the way to customer compliance is through commitments, which serve to “control ’em.”
+
+Commitment practices involving substantially more finesse can be just as effective. Suppose you wanted to increase the number of people in your area who would agree to go door to door collecting donations for your favorite charity. You would be wise to study the approach taken by social psychologist Steven J. Sherman. He simply called a sample of Bloomington, Indiana, residents as part of a survey he was taking and asked them to predict what they would say if asked to spend three hours collecting money for the American Cancer Society. Of course, not wanting to seem uncharitable to the survey-taker or to themselves, many of these people said that they would volunteer. The consequence of this subtle commitment procedure was a 700 percent increase in volunteers when, a few days later, a representative of the American Cancer Society did call and ask for neighborhood canvassers.
+
+Using the same strategy, but this time asking citizens to predict whether they would vote on Election Day, other researchers have been able to increase significantly the turnout at the polls among those called. Courtroom combatants appear to have adopted this practice of extracting a lofty initial commitment designed to spur future consistent behavior. When screening potential jurors before a trial, Jo-Ellen Demitrius, reputed to be the best consultant in the business of jury selection, asks an artful question: “If you were the only person who believed in my client’s innocence, could you withstand the pressure of the rest of the jury to change your mind?” How could any self-respecting prospective juror say no? And having made the public promise, how could any self-respecting selected juror repudiate it later?
+
+Perhaps an even more crafty commitment technique has been developed by telephone solicitors for charity. Have you noticed that callers asking you to contribute to some cause or another these days seem to begin things by inquiring about your current health and well-being? “Hello, Mr./Ms. Targetperson,” they say. “How are you feeling this evening?,” or “How are you doing today?” The caller’s intent with this sort of introduction is not merely to seem friendly and caring. It is to get you to respond—as you normally do to such polite, superficial inquiries—with a polite, superficial comment of your own: “Just fine” or “Real good” or “Doing great, thanks.” Once you have publicly stated that all is well, it becomes much easier for the solicitor to corner you into aiding those for whom all is not well: “I’m glad to hear that because I’m calling to ask if you’d be willing to make a donation to help the unfortunate victims of . . .”
+
+The theory behind this tactic is that people who have just asserted that they are doing/feeling fine—even as a routine part of a sociable exchange—will consequently find it awkward to appear stingy in the context of their own admittedly favorable circumstances. If all this sounds a bit far-fetched, consider the findings of consumer researcher Daniel Howard, who put the theory to the test. Residents of Dallas, Texas, were called on the phone and asked if they would agree to allow a representative of the Hunger Relief Committee to come to their homes to sell them cookies, the proceeds from which would be used to supply meals for the needy. When tried alone, that request (labeled the standard solicitation approach) produced only 18 percent agreement. However, if the caller initially asked, “How are you feeling this evening?” and waited for a reply before proceeding with the standard approach, several noteworthy things happened. First, of the 120 individuals called, most (108) gave the customary favorable reply (“Good,” “Fine,” “Real well,” etc.). Second, 32 percent of the people who got the “How are you feeling this evening?” question agreed to receive the cookie seller at their homes, nearly twice the success rate of the standard solicitation approach. Third, true to the consistency principle, almost everyone (89 percent) who agreed to such a visit did in fact make a cookie purchase when contacted at home.
+
+There is still another behavioral arena, sexual infidelity, in which relatively small verbal commitments can make a substantial difference. Psychologists warn that cheating on a romantic partner is a source of great conflict, often leading to anger, pain, and termination of the relationship. They’ve also located an activity to help prevent the occurrence of this destructive sequence: prayer—not prayer in general, though, but of a particular kind. If one romantic partner agrees to say a brief prayer for the other’s well-being every day, he or she becomes less likely to be unfaithful during the period of time while doing so. After all, such behavior would be inconsistent with daily active commitments to the partner’s welfare.3
+
+
+
+* * *
+
+
+
+
+

@@ -1,0 +1,512 @@
+8 IS AND IS NOT: Comparison
+
+8: Is and Is Not
+
+
+
+COMPARISON
+
+
+
+Metaphor and Simile
+
+Types of Metaphor and Simile
+
+Dead Metaphors
+
+Metaphoric Faults to Avoid
+
+Allegory
+
+Symbol
+
+The Objective Correlative
+
+
+
+METAPHOR AND SIMILE
+
+Every reader reading is a self-deceiver: We simultaneously “believe” a story and know that it is a fabrication. Our belief in the reality of the story may be so strong that it produces physical reactions—tears, trembling, sighs, gasps, a headache. At the same time, as long as the fiction is working for us, we know that our submission is voluntary, that we have, as Samuel Taylor Coleridge pointed out, suspended disbelief. “It’s just a movie,” says the exasperated father as he takes his shrieking six-year-old out to the lobby. For the father the fiction is working; for the child it is not.
+
+Simultaneous belief and awareness of illusion are present in both the content and the craft of literature, and what is properly called artistic pleasure derives from the tension of this is and is not. The content of a plot, for instance, tells us that something happens that does not happen, that people who do not exist behave in such a way, and that the events of life—which we know to be random, unrelated, and unfinished—are necessary, patterned, and come to closure. Pleasure in artistry comes precisely when the illusion rings true without destroying the knowledge that it is an illusion.
+
+The techniques of every art offer us this tension of things that are and are not alike. This is true of poetry, in which rhyme is interesting because tend sounds like mend but not exactly like. It is true of music, whose interest lies in variations on a theme. And it is the fundamental nature of metaphor, from which literature derives.
+
+Metaphor is the literary device by which we are told that something is, or is like, something that it clearly is not, or is not exactly, like. It is a way of showing, in that it particularizes the essential nature of one thing by comparing it to another. A good metaphor surprises us with the unlikeness of the two things compared while at the same time convincing us of the truth of the likeness. In the process it may also illuminate the meaning of the story and its theme. A bad metaphor fails to surprise or convince or both—and so fails to illuminate.
+
+
+Types of Metaphor and Simile
+
+The simplest distinction between kinds of comparison, and usually the first one grasped by beginning students of literature, is between metaphor and simile. A simile makes a comparison with the use of like or as, a metaphor without. Though this distinction is technical, it is not trivial, for a metaphor demands a more literal acceptance. If you say, “A woman is a rose,” you ask for an extreme suspension of disbelief, whereas “A woman is like a rose” acknowledges the artifice in the statement.
+
+In both metaphor and simile, the resonance of comparison is in the essential or abstract quality that the two objects share. When a writer speaks of “the eyes of the houses” or “the windows of the soul,” the comparison of eyes to windows contains the idea of transmitting vision between the inner and the outer. When we speak of “the king of beasts,” we don’t mean that a lion wears a crown or sits on a throne (although in children’s stories the lion often does precisely that, in order to suggest a primitive physical likeness); we mean that king and lion share abstract qualities of power, position, pride, and bearing.
+
+In both metaphor and simile a physical similarity can yield up a characterizing abstraction. So if “a woman” is either “a rose” or “like a rose,” the significance lies not in the physical similarity but in the essential qualities that such similarity implies: slenderness, suppleness, fragrance, beauty, color—and perhaps the threat of thorns.
+
+Every metaphor and simile I have used so far is either a cliché or a dead metaphor (a metaphor so familiar that it has acquired a new meaning). Each may at one time have surprised with its aptness, but the surprise is long since gone. I wished to use familiar examples in order to clarify that resonance of comparison depends on the abstractions conveyed in the likeness of the things compared. A good metaphor reverberates with the essential; this is the writer’s principle of choice.
+
+So Flannery O’Connor, in “A Good Man Is Hard to Find,” describes the mother as having “a face as broad and innocent as a cabbage.” A soccer ball is roughly the same size and shape as a cabbage; so is a schoolroom globe; so is a street lamp. But if the mother’s face were as broad and innocent as any of these things, she would be a different woman altogether. A cabbage is also rural, heavy, dense, and cheap, and so conveys a whole complex of abstractions about the woman’s class and mentality. There is, on the other hand, no innocence in the face of Shrike, in Nathanael West’s Miss Lonelyhearts, who “buried his triangular face like a hatchet in her neck.”
+
+Unless you are at home in the metaphor, unless you have had your proper poetical education in the metaphor, you are not safe anywhere.
+
+
+
+—Robert Frost
+
+
+
+Sometimes the aptness of a comparison is achieved by taking it from an area of reference relevant to the thing compared. In Dombey and Son, Charles Dickens describes the ships’ instrument maker, Solomon Gills, as having “eyes as red as if they had been small suns looking at you through a fog.” The simile suggests a seascape, whereas in One Flew Over the Cuckoo’s Nest, Ken Kesey’s Ruckly, rendered inert by shock therapy, has eyes “all smoked up and gray and deserted inside like blown fuses.” But the metaphor may range further from its original, though the abstraction conveyed must still strike us as strongly and essentially appropriate. William Faulkner’s Emily Grierson in “A Rose for Emily” has “haughty black eyes in a face the flesh of which was strained across the temple and about the eyesockets as you imagine a lighthouse-keeper’s face ought to look.” Miss Emily has no connection with the sea, but the metaphor reminds us not only of her sternness and self-sufficiency, but also that she has isolated herself in a locked house. The same character as an old woman has eyes that “looked like two pieces of coal pressed into a lump of dough,” an image that domesticates her, robs her of her light.
+
+Both metaphors and similes can be extended, meaning that the writer continues to present aspects of likeness in the things compared.
+
+
+There was a white fog . . . standing all around you like something solid. At eight or nine, perhaps, it lifted as a shutter lifts. We had a glimpse of the towering multitude of trees, of the immense matted jungle, with the blazing little ball of sun hanging over it—all perfectly still—and then the white shutter came down again, smoothly, as if sliding in greased grooves.
+
+
+
+
+
+—Joseph Conrad, Heart of Darkness
+
+
+
+
+Notice that Conrad moves from a generalized image of “something solid” to the specific simile “as a shutter lifts”; reasserts the simile as a metaphor, “then the shutter came down again”; and becomes still more specific in the extension “as if sliding in greased grooves.”
+
+Also note that Conrad emphasizes the dumb solidity of the fog by comparing the larger natural phenomenon with the smaller manufactured object. This is a technique that contemporary writers have used to effects both comic and profound, as when Frederick Barthelme in The Brothers describes a young woman “with a life stretching out in front of her like so many unrented videos” or a man’s head “bobbing like an enormous Q-Tip against the little black sky.”
+
+In a more usual metaphoric technique, the smaller or more ordinary image is compared with one more significant or intense, as in this example from Louise Erdrich’s “Matchimanito,” where the narrator invokes the names of Anishinabe Indians dead of tuberculosis:
+
+
+Their names grew within us, swelled to the brink of our lips, forced our eyes open in the middle of the night. We were filled with the water of the drowned, cold and black—airless water that lapped against the seal of our tongues or leaked slowly from the corners of our eyes. Within us, like ice shards, their names bobbed and shifted.
+
+
+
+
+
+A conceit, which can be either metaphor or simile, is a comparison of two things radically and startlingly unlike—in Samuel Johnson’s words, “yoked by violence together.” A conceit is as far removed as possible from the purely sensuous comparison of “the eyes of the potato.” It compares two things that have very little or no immediately apprehensible similarity, and so it is the nature of the conceit to be long. The author must explain to us, sometimes at great length, why these things can be said to be alike. When John Donne compares a flea to the Holy Trinity, the two images have no areas of reference in common, and we don’t understand. He must explain to us that the flea, having bitten both the poet and his lover, now has the blood of three souls in its body.
+
+The conceit is more common to poetry than to prose because of the density of its imagery, but it can be used to good effect in fiction. In The Day of the Locust, Nathanael West uses a conceit in an insistent devaluation of love. The screenwriter Claude Estee says:
+
+
+Love is like a vending machine, eh? Not bad. You insert a coin and press home the lever. There’s some mechanical activity inside the bowels of the device. You receive a small sweet, frown at yourself in the dirty mirror, adjust your hat, take a firm grip on your umbrella and walk away, trying to look as though nothing had happened.
+
+
+
+
+
+“Love is like a vending machine” is a conceit; if the writer didn’t explain to us in what way love is like a vending machine, we’d founder trying to figure it out. So he goes on to develop the vending machine in images that suggest not “love” but seamy sex. The last image—“trying to look as though nothing had happened”—has nothing to do with the vending machine; we accept it because by this time we’ve fused the two ideas in our minds.
+
+
+Dead Metaphors
+
+At the opposite end of the scale is the dead metaphor, one so familiar that it has in effect ceased to be a metaphor; it has lost the force of the original comparison and acquired a new definition. Fowler’s Modern English Usage uses the word “sift” to demonstrate the dead metaphor, one that has “been used so often that speaker and hearer have ceased to be aware that the words used are not literal.
+
+
+Thus, in the men were sifting the meal we have a literal use of sift; in Satan hath desired to have you, that he may sift you as wheat, sift is a live metaphor; in the sifting of evidence, the metaphor is so familiar that it is about equal chances whether sifting or examination will be used, and that a sieve is not present to the thought.
+
+
+
+
+
+English abounds in dead metaphors. Abounds is one, where the overflow of liquid is not present to the thought. When a person runs for office, legs are not present to the thought, nor is an arrow when we think of someone’s aim, nor are hot stones when we go through an ordeal. There is a residual resonance from the original metaphor but no pointless effort on the part of the mind to resolve the tension. English is fertile with metaphors (including fertile in this sentence, and the eyes of those potatoes) that have died and been resurrected as idiom, a “manner of speaking.” It is scarcely possible to speak in English without using dead metaphors, a fact that makes it especially difficult for adults to learn as a second language.
+
+The metaphor is perhaps one of man’s most fruitful potentialities. Its efficacy verges on magic, and it seems a tool for creation which God forgot inside one of His creatures when He made him.”
+
+
+
+—José Ortega y Gasset
+
+
+
+Linguist and philospher Steven Pinker, in The Language Instinct, demonstrates the ubiquity of dead metaphor as he illustrates how we try to speak of language as if “ideas are objects, sentences are containers, and communication is sending”:
+
+
+We “gather” our ideas to “put” them “into” words, and if our verbiage is not “empty” or “hollow,” we might “convey” or “get” these ideas “across” “to” a listener, who can “unpack” our words to “extract” their “content.”
+
+
+
+
+
+Similarly, my heroine in Raw Silk, trying to communicate in English in Japan, discovers the difficulties of dead metaphor as idiom:
+
+
+Are you put out, do you put out, I put him out, he put me up, he put it off, you are put off, put ’er there, he put in, he put it in, he put it to me; put ’em up. I wonder that anybody learns English, including the English.
+
+
+
+
+
+Metaphoric Faults to Avoid
+
+Comparison is not a frivolity. It is, on the contrary, the primary business of the brain. Some eighteenth-century philosophers spoke of the human mind as a tabula rasa, a “blank slate” on which sense impressions are recorded, compared, and grouped. Now we’re more likely to speak of the mind as a computer “storing” and “processing” “data.” What both metaphors acknowledge is that comparison is the basis of all learning and all reasoning. When a child burns his hand on the stove and hears his mother say, “It’s hot,” and then goes toward the radiator and again hears her say, “It’s hot,” the child learns not to burn his fingers. The implicit real-life comparison is meant to convey a fact, and it teaches a mode of behavior. By contrast, the goal of literary comparison is to convey not a fact but a perception, and thereby to enlarge our scope of understanding. When we speak of “the flames of torment,” our impulse is comprehension and compassion.
+
+Metaphor was the clay the great physicists used to mold new theories of the universe. Einstein first talked of trains and clocks, then expanded the images to weave time and space into a single fabric.
+
+
+
+—Jack Hart
+
+
+
+Nevertheless, metaphor is a dirty word in some critical circles, because of the strain of the pursuit. Clichés, mixed metaphors, and similes that are inept, unapt, obscure, or done to death mar good prose and tax the patience of the most willing reader. If a metaphor is too familiar it operates as an abstraction rather than a particularizing detail. If it is too far-fetched, it calls attention to the writer rather than the meaning and causes a hiccup in the reader’s involvement. A good metaphor fits so neatly that it fuses to and illuminates the meaning. Generally speaking, where metaphors are concerned, less is more and, if in doubt, don’t.
+
+Notice now, the preceding paragraph is full of dead metaphors, all giving the weight of an object or action to an idea: strain, pursuit, done to death, mar, tax, operates, far-fetched, calls, fits, fuses, and illuminates. Each has acquired a new meaning and so settles into its context with minimal strain. But at the same time the metaphoric echoes of these concrete words make them more interesting than their abstract synonyms: used too many times . . . , make the prose less interesting . . . , and so forth. I have used one live metaphor, “a hiccup in the reader’s involvement,” and I’ll leave it there to defend itself.
+
+Certainly there are more don’ts than dos to list for the writing of metaphor and simile, because every good comparison is its own justification by virtue of being apt and original.
+
+To study good metaphor, read. In the meantime, avoid the following:
+
+Cliché metaphors are so familiar that they have lost the force of their original meaning. They are inevitably apt comparisons; if they were not, they wouldn’t have been repeated often enough to become clichés. But such images fail to surprise, and we blame the writer for this expenditure of energy without a payoff. Or, to put it a worse way:
+
+Clichés are the last word in bad writing, and it’s a crying shame to see all you bright young things spoiling your deathless prose with phrases as old as the hills. You must keep your nose to the grindstone, because the sweet smell of success comes only to those who march to the tune of a different drummer.
+
+It’s a sad fact that at this stage of literary history, you may not say that eyes are like pools or stars, and you should be very wary of saying that they flood with tears. These have been so often repeated that they’ve become shorthand for emotions (attraction in the first and second instances, grief in the third) without the felt force of those emotions. Anytime you as a writer record an emotion without convincing us to feel that emotion, you introduce a fatal distance between author and reader. Therefore, neither may your characters be hawk-eyed or eagle-eyed, nor may they have ruby lips or pearly teeth or peaches-and-cream complexions or necks like swans or thighs like hams. Let them not shed single tears or freeze like deer caught in headlights. And putting the cliché in quotation marks to signal that you know it’s a cliché does not excuse it; it just makes blatant your failure of invention. If you sense—and you may—that the moment calls for the special intensity of metaphor, you may have to sift through a whole stock of clichés that come readily to mind. Or it may be time for freewriting and giving the mind room to play. Sometimes your internal critic may reject as fantastic the comparison that, on second look, proves fresh and apt.
+
+In any case, pools and stars have become clichés for eyes because they capture and manifest something essential about the nature of eyes. As long as eyes continue to contain liquid and light, there will be a new way of saying so. And a metaphor freshly pursued can even take advantage of the shared writer-reader consciousness of familiar images. Here William Golding, in The Inheritors, describes his Neanderthal protagonist’s first tears, which mark his evolution into a human being:
+
+
+There was a light now in each cavern, lights faint as the starlight reflected in the crystals of a granite cliff. The lights increased, acquired definition, brightened, lay each sparkling at the lower edge of a cavern. Suddenly, noiselessly, the lights became thin crescents, went out, and streaks glistened on each cheek. The lights appeared again, caught among the silvered curls of the beard. They hung, elongated, dropped from curl to curl and gathered at the lowest tip. The streaks on the cheeks pulsed as the drops swam down them, a great drop swelled at the end of a hair of the beard, shivering and bright. It detached itself and fell in a silver flash.
+
+
+
+
+
+In this sharply focused and fully extended metaphor of eyes as caverns, Golding asks us to draw on a range of familiar light imagery: starlight, crystal, the crescent moon, silver. The light imagery usually associated with eyes attaches to the water imagery of tears, though neither eyes nor tears are named. There is a submerged acknowledgment of cliché, but there is no cliché; Golding has reinvested the familiar images with their comparative and emotional force.
+
+In both serious and comic writing, consciousness of the familiar can be a peripheral advantage if you find a new way of exploiting it. Although you may not say her eyes are like pools, you may probably say her eyes are like the scummy duck pond out back, and we’ll find it comic partly because we know the cliché is lurking under the scum.
+
+Cliché can be useful as a device, however, for establishing authorial distance from a character or narrator. If the author tells us that Rome wasn’t built in a day, we’re likely to think the author has little to contribute to human insight; but if a character says so, in speech or thought, the judgment attaches to the character rather than to the author.
+
+In Phil Klay’s “Money as a Weapons System,” a young foreign service officer blunders in Iraq because he hasn’t learned the military-political jargon with which things are “accomplished.” At one point he receives boxes of baseball uniforms and an email from a “Representative Goodwin” who is also “the mattress king of northern Kansas” and who proposes to pacify Iraqis by having the boys taught to play.
+
+
+What I’m saying is, you’ve got to change the CULTURE first. And what’s more AMERICAN than baseball, where one man takes a stand against the world, bat in hand, ready to make history, every moment a one-on-one competition. Batter versus pitcher. Runner versus first baseman. . . . And YET!!! It’s a team sport! You’re nothing without the team!!!!
+
+
+
+
+
+. . . It’s like we say in the mattress business. SUCCESS = DRIVE + DETERMINATION + MATTRESSES.
+
+
+
+
+
+In the bittersweet denouement of the story, paralleling these cliches in his actions, the officer learns how to get what he wants by faking a photograph of children at the plate.
+
+Far-fetched metaphors are the opposite of clichés: they surprise but are not apt. As the dead metaphor far-fetched suggests, the mind must travel too far to carry back the likeness, and too much is lost on the way. When such a comparison does work, we speak laudatorily of a “leap of the imagination.” But when it does not, what we face is in effect a failed conceit: the explanation of what is alike about these two things does not convince. Very good writers in the search for originality sometimes fetch too far. Ernest Hemingway’s talent was not for metaphor, and on the rare occasions that he used a metaphor, he was likely to strain. In this passage from A Farewell to Arms, the protagonist has escaped a firing squad and is fleeing the war.
+
+
+You had lost your cars and your men as a floorwalker loses the stock of his department in a fire. There was, however, no insurance. You were out of it now. You had no more obligation. If they shot floorwalkers after a fire in the department store because they spoke with an accent they had always had, then certainly the floorwalkers would not be expected to return when the store opened again for business. They might seek other employment; if there was any other employment and the police did not get them.
+
+
+
+
+
+Always surprised on these days when the mind makes her shotgun, metaphoric leaps for reasons I’ve never been able to trace. Remembered that Wang Wei said a thousand years ago, “Who knows what causes the opening and closing of the door?”
+
+
+
+—Jim Harrison
+
+
+
+Well, this doesn’t work. We may be willing to see the likeness between stock lost in a department store fire and men and cars lost in a military retreat, but “they” don’t shoot floorwalkers as the Italian military shot defeated line officers. And although a foreign accent might be a disadvantage in a foreign war, it’s hard to see how a floorwalker could be killed because of one, although it might make it hard for him to get hired in the first place, if . . . The mind twists trying to find any illuminating or essential logic in the comparison of a soldier to a floorwalker, and fails, so that the protagonist’s situation is trivialized in the attempt.
+
+Mixed metaphors are so called because they ask us to compare the original image with things from two or more different areas of reference: As you walk the path of life, don’t founder on the reefs of ignorance. Life can be a path or a sea, but it cannot be both at the same time. The point of the metaphor is to fuse two images in a single tension. The mind is adamantly unwilling to fuse three.
+
+Separate metaphors or similes that are too close together, especially if they come from areas of reference very different in value or tone, disturb in the same way the mixed metaphor does. The mind doesn’t leap; it staggers.
+
+
+They fought like rats in a Brooklyn sewer. Nevertheless her presence was the axiom of his heart’s geometry, and when she was away you would see him walking up and down the street dragging his cane along the picket fence like an idle boy’s stick.
+
+
+
+
+
+Any of these metaphors or similes might be acceptable by itself, but rats, axioms, and boys’ sticks connote three different areas and tones, and two sentences cannot contain them all. Pointed in too many directions, a reader’s attention follows none. Writers are sometimes tempted to mix metaphors and then apologize for it in some such phrase as “to mix the metaphor” or “if I may be permitted a mixed metaphor.” It doesn’t work. Don’t apologize and don’t mix.
+
+Too much of any of these devices makes for ridiculous reading—and the line is thin between too much and just enough. Here’s one good guideline: If readers start noticing cause more than consequence, it’s probably too much.
+
+
+
+—Paula LaRocque
+
+
+
+Obscure and overdone metaphors falter because the author has misjudged the difficulty of the comparison. The result is either confusion or an insult to the reader’s intelligence. In the case of obscurity, a similarity in the author’s mind isn’t getting onto the page. One student described the spines on a prickly pear cactus as being “slender as a fat man’s fingers.” I was completely confused by this. Was it ironic, meaning the spines weren’t slender at all? Ah no, he said, hadn’t I noticed how startling it was when someone with a fleshy body had bony fingers and toes? The trouble here was that the author knew what he meant but had left out the essential abstraction in the comparison, the startling quality of the contrast: “the spines of the fleshy prickly pear, like slender fingers on a fat man.”
+
+In this case, the simile was underexplained. It’s probably a more common impulse—we’re so anxious to make sure the reader gets it—to explain the obvious. In the novel Raw Silk, I had the narrator describe quarrels with her husband, “which I used to face with my dukes up in high confidence that we’d soon clear the air. The air can’t be cleared now. We live in marital Los Angeles. This is the air—polluted, poisoned.” A critic friend pointed out to me that anybody who didn’t know about LA smog wouldn’t get it anyway, and that all the last two words did was ram the comparison down the reader’s throat. He was right. “The air can’t be cleared now. We live in marital Los Angeles. This is the air.” The rewrite is much stronger because it neither explains nor exaggerates, and the reader can enjoy supplying the metaphoric link.
+
+Metaphors using topical references, including brand names, esoteric objects, or celebrity names, can work as long as a sense of the connection is given; don’t rely for effect on knowledge that the reader may not have. To write, “The group looked a lot like the Pussy Riot” is to make the young Russians do your job—and if the reader happens to be a Beethoven buff, or is reading your story twenty years from now, there may be no way of knowing what the reference refers to. “They had the hard beat and in-your-face political courage of Pussy Riot” will convey the sense even for someone who doesn’t follow the news. Likewise, “She was as beautiful as Theda Bara” may not mean much to you, whereas if I say, “She had the saucer eyes and satin hair of Theda Bara,” you’ll get it, close enough.
+
+
+
+ALLEGORY
+
+Allegory is a narrative form in which comparison is structural rather than stylistic. An allegory is a continuous fictional comparison of events, in which the action of the story represents a different action or a philosophical idea. The simplest illustration of an allegory is a fable, in which, for example, the race between the tortoise and the hare is used to illustrate the philosophical notion that “the race is not always to the swift.” Such a story can be seen as an extended simile, with the original figure of the comparison suppressed: the tortoise and the hare represent types of human beings, but people are never mentioned and the comparison takes place in the reader’s mind. George Orwell’s Animal Farm is a less naive animal allegory, exploring ideas about corruption in a democratic society. Muriel Spark’s The Abbey is a historical allegory, representing, without any direct reference to Richard Nixon, the events of Nixon’s presidential tenure through allegorical machinations in a nunnery. The plots of such stories are self-contained, but their significance lies in the reference to outside events or ideas.
+
+Allegory is a tricky form. In the hands of Dante, John Bunyan, Edmund Spenser, John Keats, Franz Kafka, Henrik Ibsen, and Samuel Beckett, it has yielded works of the highest philosophical insight. But most allegories seem to smirk. A naive philosophical fable leads to a simpleminded idea that can be stated in a single phrase; a historical allegory relies on our familiarity with, for example, the Watergate scandal or the tribulations of the local football team, and so appeals to a limited and insular readership.
+
+
+
+SYMBOL
+
+A symbol differs from metaphor and simile in that it need not contain a comparison. A symbol is an object or event that, by virtue of association, represents something more or something other than itself. Sometimes an object is invested arbitrarily with such meaning, as a flag represents a nation and patriotism. Sometimes a single event stands for a whole complex of events, as the crucifixion of Christ stands as well for resurrection and redemption. Sometimes an object is invested with a complex of qualities through its association with the event, like the cross itself. These symbols are not metaphors; the cross represents redemption but is not similar to redemption, which cannot be said to be wooden or T-shaped. In “Everything That Rises Must Converge” by Flannery O’Connor, the protagonist’s mother encounters a black woman wearing the same absurd hat of which she has been so proud. The hat can in no way be said to “resemble” desegregation, but in the course of the story it comes to represent the tenacious nostalgia of gentility and the aspirations of the new black middle class, and therefore the unacknowledged “converging” of equality. Nevertheless, most literary symbols, including this one, do in the course of the action derive their extra meaning from some sort of likeness on the level of emotional or ideological abstraction. The hat is not “like” desegregation, but the action of the story reveals that both women are able to choose such a hat and buy it; this is a concrete example of equality, and so represents the larger concept of equality.
+
+Margaret Drabble’s novel The Garrick Year recounts the disillusionment of a young wife and mother who finds no escape from her situation. The book ends with a family picnic in an English meadow and the return home.
+
+
+On the way back to the car, Flora dashed at a sheep that was lying in the path, but unlike all the others it did not get up and move: it stared at us instead with a sick and stricken indignation. Flora passed quickly on, pretending for pride’s sake that she had not noticed its recalcitrance; but as I passed, walking slowly, supported by David, I looked more closely and I saw curled up and clutching at the sheep’s belly a real snake. I did not say anything to David: I did not want to admit that I had seen it, but I did see it, I can see it still. It is the only wild snake that I have ever seen. In my book on Herefordshire it says that that part of the country is notorious for its snakes. But “Oh, well, so what,” is all that one can say, the Garden of Eden was crawling with them too, and David and I managed to lie amongst them for one whole pleasant afternoon. One just has to keep on and to pretend, for the sake of the children, not to notice. Otherwise one might just as well stay at home.
+
+
+
+
+
+The sheep is a symbol of the young woman’s emotional situation. It does resemble her, but only on the level of abstractions: sickness, indignation, and resignation to the fatal dangers of the human condition. There is here a metaphor that could be expressed as such (she was sick and resigned as the sheep), but the strength of the symbol is that such literal expression does not take place: we let the sheep stand in the place of the young woman while we reach out to the larger significance.
+
+A symbol may also begin as and grow from a metaphor, so that it finally contains more qualities than the original comparison. In John Irving’s novel The World According to Garp, the young Garp mishears the word “undertow” as “under toad” and compares the danger of the sea to the lurking fantasies of his childish imagination. Throughout the novel the “under toad” persists, and comes symbolically to represent all the submerged dangers of ordinary life, ready to drag Garp under just when he thinks he is swimming under his own power. Likewise, the African continent in Heart of Darkness is dark like the barbaric reaches of the soul; but in the course of the novella we come to understand that darkness is shot with light and light with darkness, that barbarity and civilization are inextricably intermixed, and that the heart of darkness is the darkness of the heart.
+
+One important distinction in the use of literary symbols is between a symbol of which the character is aware and which therefore “belongs” to him or her, and symbols of which only writer and reader are aware, which therefore belong to the work. This distinction is often important to characterization, theme, and distance. In the passage from The Garrick Year, the narrator is clearly aware of the import of the sheep, and her awareness suggests her intelligence and the final acceptance of her situation; the result is that we identify with her in recognizing the symbol. The mother in “Everything That Rises Must Converge,” on the other hand, does not recognize the hat as a symbol, and this distances us from her perception. She is merely disconcerted and angered that a black woman can dress in the same style she does, whereas for author and reader the coincidence symbolizes a larger convergence.
+
+When characters are aware of their own symbols, that awareness can develop and define relationship. In Lisa Halliday’s Asymmetry, a woman in her twenties and her much older, famous lover betray in their banter his wide experience and unwillingness to commit, and her resentment yet, nevertheless, acceptance of the situation:
+
+
+“I love you,” purred Alice.
+
+
+
+
+
+“You love Vicodin is what you love. We’re out of film.” He went to the closet.
+
+
+
+
+
+“What else have you got in there?”
+
+
+
+
+
+“You don’t wanna know.”
+
+
+
+
+
+“Yes I do.”
+
+
+
+
+
+“More girls. Tied up.”
+
+
+
+
+
+“How many?”
+
+
+
+
+
+“Three.”
+
+
+
+
+
+“What are their names? . . . Let me guess. Katie and . . . Emily? Is Emily in there?”
+
+
+
+
+
+“Yep.”
+
+
+
+
+
+“And Miranda?”
+
+
+
+
+
+“That’s right”
+
+
+
+
+
+“Those girls are incorrigible.”
+
+
+
+
+
+“Incorrigible,” he repeated, as though she had made up the word.
+
+
+
+
+
+Sometimes the interplay between these types of symbol—those recognized by the characters and those seen only by writer and reader—can enrich the story in scope or irony. In The Inheritors, Golding’s Neanderthal tribe has its own religious symbols—a root, a grave, shapes in the ice cap—that represent its life-cycle worship. But in the course of the action, flood, fire, and a waterfall recall biblical symbols that allow the reader to supply an additional religious interpretation, which the characters would be incapable of doing. Likewise the exchange above may represent the novel’s title, Asymmetry, as a metaphor not, or not yet, acknowledged by the characters. Again, in “Everything That Rises Must Converge,” the mother sees her hat as representing, first, her taste and pride and, later, the outrageousness of black presumption. For the reader it has the opposite and ironic significance, as a symbol of equality.
+
+Symbols are subject to all the same faults as metaphor: cliché, strain, obscurity, obviousness, and overwriting. For these reasons, and because the word “symbolism” also describes a particular late nineteenth-century movement in French poetry, with connotations of obscurity, dream, and magical incantation, symbolism as a method has sometimes been treated with scorn in the hard-nosed contemporary canon, while prose that is flat, spare, and plain has been praised as more truthful.
+
+Yet is seems to me incontrovertible that the writing process is inherently and by definition symbolic. In the structuring of events, the creation of character and atmosphere, the choice of object, detail, and language, you are selecting and arranging toward the goal that these elements should signify more than their mute material existence. If this were not so, then you would have no principle of choice and might just as well write about any other set of events, characters, and objects. If you so much as say, “as innocent as a cabbage,” the image is minutely symbolic, not a statement of fact but selected to mean something more and something other than itself.
+
+People constantly function symbolically. We must do so because we rarely know exactly what we mean, and if we do we are not willing to express it, and if we are willing we are not able, and if we are able we are not heard, and if we are heard we are not understood. Words are unwieldy and unyielding, and we leap past them with intuition, body language, tone, and symbol. “Is the oven supposed to be on?” he asks. He is only peripherally curious about whether the oven is supposed to be on. He is really complaining: You’re scatterbrained and extravagant with the money I go out and earn. “If I don’t preheat it, the muffins won’t crest,” she says, meaning: You didn’t catch me this time! You’re always complaining about the food and God knows I wear myself out trying to please you. “We used to have salade niçoise in the summertime,” he recalls, meaning: Don’t be so damn triumphant. You’re still extravagant, and you haven’t got the class you used to have when we were young. “We used to keep a garden,” she says, meaning: You’re always away on weekends and never have time to do anything with me because you don’t love me anymore; I think you have a mistress. “What do you expect of me!” he explodes, and neither of them is surprised that ovens, muffins, salads, and gardens have erupted. When people say “we quarreled over nothing,” this is what they mean—they quarreled over symbols.
+
+
+
+THE OBJECTIVE CORRELATIVE
+
+But the conflict in a fiction cannot be “over nothing,” and as a writer you must search for concrete external manifestations that are adequate to the inexpressible feeling. In The Sacred Wood, T. S. Eliot used the term “objective correlative” to describe this process and this necessity:
+
+
+The only way of expressing emotion in the form of art is by finding an “objective correlative”; in other words, a set of objects, a situation, a chain of events which shall be the formula of that particular emotion; such that when the external facts, which must terminate in sensory experience, are given, the emotion is immediately invoked.
+
+
+
+
+
+Some critics have argued that Eliot’s objective correlative is no more than a synonym for symbol, but the term and its definition make several important distinctions:
+
+1. An “objective correlative” contains and evokes an emotion. Unlike many other sorts of symbols—scientific formulae, notes of music, the letters of the alphabet—the purpose of artistic symbol is to invoke emotion.
+
+2. Some kinds of symbol—religious or political, for example—also arouse emotion, but they do so by virtue of one’s acceptance of a general community of belief not specific to the context in which that symbol is used. The wine that represents the blood of Christ will evoke the same general emotion in Venice, Buenos Aires, and New York. But an artistic symbol arouses an emotion specific to the work and does not rely on sympathy or belief outside that work. Mentioning the wine of the Communion ceremony in a story cannot be relied on to produce religious emotion in the reader; indeed, the author may choose to make it arouse some other emotion entirely.
+
+3. The elements of a story are interrelated in such a way that the specific objects, situation, and events produce a specific emotion. The “romance” and “pity” invoked by Romeo and Juliet are not the same romance and pity invoked by Anna Karenina or Gone with the Wind, because the external manifestations in each work (which, being external, “terminate in sensory experience”) define the nature of the emotion.
+
+4. The objects, situation, and events of a particular work contain its particular effect; conversely, if they do not contain the desired emotional effect, that effect cannot be produced in that work, either by its statement in abstractions or by appeal to outside symbols. The “objective” sensory experience (objects, situation, events) must be “co-relative” to the emotion, each corresponding to the other, for that is the only way of expressing emotion in the form of art.
+
+When literary symbols fail, it is most often in this difficult and essential mutuality. In a typical example, we begin the story in the room of a dying woman alone with her collection of perfume bottles. The story ranges back over her rich and sensuous life, and at the end we focus on an empty perfume bottle. It is meant to move us at her death, but it does not. Yet the fault is not in the perfume bottle. Presumably a perfume bottle may express mortality as well as a hat may express racial equality. The fault is in the use of the symbol, which has not been integrated into the texture of the story. As Bonnie Friedman puts it in Writing Past Dark, “Before a thing can be a symbol it must be a thing. It must do its job as a thing in the world before and during and after you have projected your meaning all over it.” In the case of the perfume bottle we would need to be convinced, perhaps, of the importance this woman placed on scent as essence, need to know what part the collection has played in the conflicts of her life, perhaps need to see her fumbling now toward her favorite, so that we could emotionally equate the spilling or evaporation of the scent with the death of her own spirit.
+
+A symbolic object, situation, or event may err because it is insufficiently integrated into the story, and so seems to exist for its own sake rather than to emanate naturally from the characters’ lives. It may err because the objective correlative is inadequate to the emotion it is supposed to evoke. Or it may err because it is too heavy or heavy-handed; that is, the author keeps pushing the symbol at us, nudging us in the ribs to say, Get it? In any of these cases we will say that the symbol is artificial—a curious word in the critical vocabulary, analogous to the charge of a formulaic plot, since art, like form, is a word of praise. All writing is “artificial,” and when we charge it with being so, we mean that it isn’t artificial enough, that the artifice has not concealed itself so as to give the illusion of the natural, and that the artificer must go back to work.
+
+
+
+SUGGESTED STORIES
+
+
+
+“Lost in the Funhouse”
+
+John Barth
+
+
+
+
+
+“San”
+
+Lan Samantha Chang
+
+
+
+
+
+“The Crane Child”
+
+David Leavitt
+
+
+
+
+
+“The Ones Who Walked Away from Omelas”
+
+Ursula K. Le Guin
+
+
+
+
+
+“Menagerie”
+
+Charles Johnson
+
+
+
+
+
+“Before the Change”
+
+Alice Munro
+
+
+
+
+
+“Underground Women”
+
+Jesse Lee Kercheval
+
+
+
+
+
+“Eyes of a Blue Dog”
+
+Gabriel García Márquez
+
+
+
+
+
+“Wolf of White Forest”
+
+Anthony Marra
+
+
+
+
+
+“Signs and Symbols”
+
+Vladimir Nabokov
+
+
+
+
+
+WRITING PROMPTS
+
+
+
+1. Comb through your journal to find clichés. In each case, replace them with concrete details or more original similes or metaphors.
+
+2. Write two one-page scenes, each containing an extended metaphor. In one, compare an ordinary object to something of great size and significance; in the other, compare a major thing or phenomenon to something smaller and more mundane.
+
+3. List all the clichés you can think of to describe a pair of eyes. Then write a paragraph in which you find a fresh new metaphor for eyes.
+
+4. Write your own interpretation of a fairy tale, setting it in the present to construct an allegory. How might you incorporate the ideas of contemporary technology, politics, relationships, or other social concerns, and still keep recognizable the core of the tale?
+
+5. Let an object smaller than a breadbox symbolize hope, redemption, or love to the central character. Let it symbolize something else entirely to the reader.
+
+6. Take any dead metaphor and write a serious or comic scene that reinvests the metaphor with its original comparative force. (Sifting the evidence: the lawyer uses a colander, a tea strainer, two coffee filters, and a garlic press to decide the case.) Try one of these, or make up your own:
+
+• Bus terminal
+
+• Reality show
+
+• Don’t spoil your lunch
+
+• Nothing but net
+
+• Deadline
+
+• Broken home
+
+
+
+
+

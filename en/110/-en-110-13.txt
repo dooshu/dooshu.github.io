@@ -1,0 +1,5 @@
+Index
+
+
+A specific form of pagination for this digital edition has been developed to match the print edition from which the index was created. If the application you are reading this on supports this feature, the page references noted in this index should align. At this time, however, not all digital devices support this functionality. Therefore, we encourage you to please use your device’s search capabilities to locate a specific entry.
+

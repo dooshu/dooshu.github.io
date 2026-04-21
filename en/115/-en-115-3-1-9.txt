@@ -1,0 +1,11 @@
+(9)
+
+It will be the object of the following lectures to show how it is possible to solve at least some of the most important problems of monetary theory without recourse to the concept of a value of money in general. It will then remain for you to make up your mind whether we can conceivably entirely dispense with it. For the moment, I wish only to remind you of one further reason why it seems that, in the case of money, in contrast to any other good, the question of its value in general is of no consequence.
+
+We are interested in the prices of individual goods because these prices show us how far the demand for any particular good can be satisfied. To discover the causes why certain needs, and the needs of certain persons, can be satisfied to a greater degree than others is the ultimate object of economics. There is, however, no need for money in this sense—the absolute amount of money in existence is of no consequence to the well-being of mankind—and there is, therefore, no objective value of money in the sense in which we speak of the objective value of goods. What we are interested in is only how the relative values of goods as sources of income or as means of satisfaction of wants are affected by money.
+
+The problem is never to explain any “general value” of money but only how and when money influences the relative values of goods and under what conditions it leaves these relative values undisturbed, or, to use a happy phrase of Wicksell, when money remains neutral relatively to goods.38 Not a money which is stable in value but a neutral money must therefore form the starting point for the theoretical analysis of monetary influences on production, and the first object of monetary theory should be to clear up the conditions under which money might be considered to be neutral in this sense. We stand as yet at the very beginning of this kind of investigation. And, though I hope that what I say in the next lectures may help a little, I am fully conscious that all results we obtain at this stage should only be regarded as tentative. So far as I am concerned, it is the method of approach more than the details of the results which is of importance in what follows.
+
+
+
+

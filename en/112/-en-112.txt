@@ -1,0 +1,259 @@
+Writing Fiction A Guide to Narrative Craft (TENTH EDITION) by JANET BURROWAY with ELIZABETH STUCKEY-FRENCH and NED STUCKEY-FRENCH
+
+
+
+
+
+Writing Fiction
+
+TENTH EDITION
+
+
+
+ALSO BY JANET BURROWAY
+
+Descend Again
+
+But to the Season
+
+The Dancer from the Dance
+
+Eyes
+
+The Buzzards
+
+Raw Silk
+
+Material Goods
+
+Opening Nights
+
+Cutting Stone
+
+Embalming Mom: Essays in Life
+
+Imaginative Writing: The Elements of Craft
+
+From Where You Dream: The Process of Writing Fiction
+
+Bridge of Sand
+
+A Story Larger Than My Own: Women Writers Look Back on Their Lives and Careers
+
+Losing Tim
+
+FOR CHILDREN
+
+The Truck on the Track
+
+The Giant Jam Sandwich
+
+The Perfect Pig
+
+
+
+
+
+Permissions, A Survival Guide
+
+Susan M. Bielstein
+
+The Craft of Translation
+
+John Biguenet and Rainer Schulte, editors
+
+The Chicago Guide to Fact-Checking
+
+Brooke Borel
+
+Writing Abroad
+
+Peter Chilson and Joanne B. Mulcahy
+
+Immersion
+
+Ted Conover
+
+The Architecture of Story
+
+Will Dunne
+
+Character, Scene, and Story
+
+Will Dunne
+
+The Dramatic Writer’s Companion
+
+Will Dunne
+
+The Business of Being a Writer
+
+Jane Friedman
+
+The Art of Creative Research
+
+Philip Gerard
+
+What Editors Do
+
+Peter Ginna, editor
+
+Storycraft
+
+Jack Hart
+
+Behind the Book
+
+Chris Mackenzie Jones
+
+A Poet’s Guide to Poetry
+
+Mary Kinzie
+
+The Subversive Copy Editor
+
+Carol Fisher Saller
+
+Write Your Way In
+
+Rachel Toor
+
+
+
+
+
+Writing Fiction
+
+
+A GUIDE TO NARRATIVE CRAFT
+
+Tenth Edition
+
+
+JANET BURROWAY
+
+with ELIZABETH STUCKEY-FRENCH and NED STUCKEY-FRENCH
+
+
+
+
+THE UNIVERSITY OF CHICAGO PRESS
+
+Chicago and London
+
+
+
+
+
+The University of Chicago Press, Chicago 60637
+
+
+The University of Chicago Press, Ltd., London
+
+© 2019 by Janet Burroway, Elizabeth Stuckey-French, and Ned Stuckey-French
+
+All rights reserved. No part of this book may be used or reproduced in any manner whatsoever without written permission, except in the case of brief quotations in critical articles and reviews. For more information, contact the University of Chicago Press, 1427 E. 60th St., Chicago, IL 60637.
+
+Published 2019
+
+Printed in the United States of America
+
+28 27 26 25 24 23 22 21 20 19 1 2 3 4 5
+
+ISBN-13: 978-0-226-61655-1 (cloth)
+
+ISBN-13: 978-0-226-61669-8 (paper)
+
+ISBN-13: 978-0-226-61672-8 (e-book)
+
+DOI: https://doi.org/10.7208/chicago/9780226616728.001.0001
+
+Library of Congress Cataloging-in-Publication Data
+
+Names: Burroway, Janet, author. | Stuckey-French, Elizabeth, author. | Stuckey-French, Ned, author.
+
+Title: Writing fiction : a guide to narrative craft / Janet Burroway ; with Elizabeth Stuckey-French and Ned Stuckey-French.
+
+Other titles: Chicago guides to writing, editing, and publishing.
+
+Description: Tenth edition. | Chicago ; London : The University of Chicago Press, 2019. | Series: Chicago guides to writing, editing, and publishing | Includes index.
+
+Identifiers: LCCN 2018050263 | ISBN 9780226616551 (cloth : alk. paper) | ISBN 9780226616698 (pbk. : alk. paper) | ISBN 9780226616728 (e-book)
+
+Subjects: LCSH: Fiction—Technique. | Fiction—Authorship.
+
+Classification: LCC PN3355 .B79 2019 | DDC 808.3—dc23
+
+LC record available at https://lccn.loc.gov/2018050263
+
+This paper meets the requirements of ANSI/NISO Z39.48-1992 (Permanence of Paper).
+
+
+
+
+
+In memory of David Daiches, mentor and friend
+
+
+
+
+
+
+
+
+Preface
+
+
+
+
+Writing Fiction came about by fluke. In 1972, I left England and Sussex University, where I had been teaching such things as Chaucer, Romantic Poetry, and Tragedy, and came to Florida State, where as a novelist and new hire in the embryonic Creative Writing Program I was assigned “Narrative Techniques,” the first course in fiction.
+
+I had no idea how to teach it. I was familiar with the form of the workshop from my undergraduate days at Barnard, but this was intended as an instructional first course, including lectures and the discussion of concepts. I inherited the subject from Michael Shaara, who was apparently very successful at it, but he had left as guidance no more than a couple of pages of cryptic notes. There were (it is difficult now to imagine) virtually no books to serve as guidance. Strunk and White’s Elements of Style was a mainstay, but it took, as White notes, a barking tone toward its writer novices. I reread E. M. Forster’s lovely Aspects of the Novel, but it was mostly too abstract and too advanced for my Florida eighteen-year-olds. I combed Eric Bentley’s The Life of the Drama for clues to plot. I read another how-to, the name and author of which I no longer remember, but which memorably assured me that women use a lot of exclamation points but men should not.
+
+For a few years I floundered toward coherence in the course, until it occurred to me that such concepts as character, plot, point of view, and setting—what we discussed in a literature class—were of necessity elements put there by the writer. If I could turn around and consider how the writer went about that putting—how do you develop a character, shape a plot, settle on a point of view, produce an atmosphere that is organic to the whole and not mere description?—I should be able to direct an intelligible and helpful classroom conversation. And, gradually, it worked. By the end of the seventies my students were learning how to ask about technique, critique each other’s style and structure, and adopt the vocabulary of craft as their own.
+
+My novels were at that point being published by Little, Brown in America, and my editor was friends with an editor in its textbook division who was headed to Tallahassee for a sales talk. My editor told Chris Christensen to take me out to lunch, which he did, and over shrimp and hush puppies I described my dilemma and my solution. Now that the burgeoning of creative writing programs was well established in America, I asked, did he think there might be a market for a college text in fiction writing? He said, “I don’t know, what do you think?” I said, “I don’t know, what do you think?” By the end of the meal he said, “Let’s try it”—which was all the contract I had when, the following year, as I guest-taught at the Iowa Writer’s Workshop, I put together the first draft of a college textbook at first called Narrative Techniques.
+
+The first edition of Writing Fiction: A Guide to Narrative Craft came out in 1982 and a second in 1987. Meanwhile, Little, Brown sold its textbook division to Scott Foresman and Scott Foresman to HarperCollins. By the time HarperCollins was bought by Addison Wesley Longman, sometime during the life of the fourth edition, the book had become a creative writing staple. By the sixth edition Addison had become Longman, which by the seventh became Pearson. For the sixth edition I took on one-time reviser Susan Weinberg, and for the seventh I engaged my colleague Elizabeth Stuckey-French to help with revision and especially with the onerous task of choosing new stories for the “anthology” section of the book. She was joined by her husband Ned Stuckey-French for the eighth and ninth editions, the latter published in 2014.
+
+Elizabeth, Ned, and I continually worried about the price of the book, which augmented with every edition and every new publishing house. The cost of permissions added to the problem, increasing in spite of the growing availability of stories on the internet. Some teachers, we knew, made course packets of their own favorite examples; some chose other anthologies, which only raised the amount their students spent on books; some told us that they could not in conscience ask their students to pay the price of our text. We worried that the expense also made the book less accessible to developing writers who were not enrolled in courses but who might want a self-guided course in writing fiction. It was always our hope to find a way to make it more affordable.
+
+So the tenth edition of Writing Fiction contains, rather than an anthology, a list of ten short stories at the end of each chapter, each of which could act as an exemplar of the contents of that chapter. Some of these are in the public domain and freely available online, some can be found in the archives of the literary magazines in which they appeared, and some will require a library search (a labor, perhaps, that students ought to learn). Of course, virtually all of the stories listed will demonstrate virtually all of the skills discussed in the book, as will virtually all of the stories teachers choose for themselves. Some teachers will prefer not to use any of them, or to use any at all, but to go directly to workshopping student work, in which case the lists remain a resource for the owners of the text.
+
+Like its previous manifestations, the tenth edition attempts to guide the new writer from first impulse to final revision, employing concepts of fiction’s elements familiar from literature study but shifting the perspective toward that of the practicing writer. I have wanted to address the student, however inexperienced, as a fellow artist, whose concerns are both frightening and, often, a question of understanding and developing technique. I have been aware that Writing Fiction is used by many instructors in both beginning and advanced writing courses and for students at very different levels of understanding, and I have tried to make it practical, comprehensive, and flexible, and to keep the focus on the student writer and the process of the writing.
+
+The new edition contains the whole of the ninth edition text, minus the anthology, with, in addition to the lists of stories, many updated examples within the text, exercises new and culled from previous editions, new quotations of advice from successful authors, and new sections on distraction, appropriation, genre, young adult and middle-grade fiction, and white space.
+
+As experienced instructors are aware, the idea of a text for writing fiction is itself problematic. Unlike such subjects as math and history, where a certain mass of information needs to be organized and conveyed, the writing of fiction is more often a process of trial and error—the learning is perpetual and, paradoxically, the writer needs to know everything at once. Over the years, my revisers and I have shuffled the chapters in a vain attempt to find the perfect sequence. In the new edition I have continued that effort, in some instances returning to an earlier order. At the same time, I have tried to keep the chapters sufficiently self-contained that teachers may assign them, and writers may consult them, in any order they prefer.
+
+The institutional necessity of dividing the study of writing into its types—fiction, nonfiction, poetry, drama—runs the risk of forcing (or at least persuading) those enrolled in writing programs to specialize too early, before their nascent talents are fully formed. I have always encouraged my students to try, early and often, writing in every genre. Likewise, teachers and individual readers will find in these pages an occasional encouragement toward genre-busting, hybrid writing and the short-short, a form that bends toward poetry.
+
+
+There has of late been a good deal of pushback against the explosion of creative writing as a college subject. The negative view has appeared in print, in both literary and glossy magazines and some full books, such as Mark McGurl’s The Program Era; the answering and further-analyzing collection After the Program Era, edited by Loren Glass; and MFA vs NYC, edited by Chad Harbach. It comes from academics who think creative writing undeserving of university credit, from writers who disdain academia, from celebrity authors who count fame as the only true success, and from self-styled outliers who disdain the notion of a “degree” as inimical to the calling. Such polemics may argue that only fiction writers read fiction, only poets read poetry, and only writers for “little” or literary magazines read those magazines, assuming that such closed communities must be pointless. Like the parents of many of my former students, they may argue that writing is a dead end if you can’t make a living or a fortune at it.
+
+All this is in error. We are, I believe, at a point in history where, the computer and the internet having reintroduced writing as a constant activity, the elite again becomes the demotic, with both good and bad consequences. In the eighteenth century, education was not widespread, but all the educated in the Western world wrote. People “naturally” learned to write by reading, though it was universally assumed that the more specialized arts—music, painting, sculpture—required apprenticeships and conservatories. Women of means, locked out of the profession of writing altogether, wrote diaries and letters often and at length—luckily, since much of our sense of daily life is now retrieved from such of their manuscripts as have survived.
+
+Over the last two centuries, society has experienced the increasing professionalization of authorship through agenting, marketing, and the takeover of the publishing industry by corporations not primarily concerned with literature. Film, television, and the internet have all had roles in promoting fame and fortune—or rather, celebrity and money—as the proper goals of authorship. At the same time and at the same pace, the respect with which society regards literature has declined. (Norman Mailer thought he could change the world. What contemporary author would make that claim?) Women of the fifties broke into the writing profession at just the moment when corporatization began to sour the industry. Movies and the sitcom became the major forms of storytelling. The popular authors of the Saturday Evening Post and the Ladies Home Journal became less popular, those sources of authorial income dried, and when some colleges and universities tried to teach their storytelling skills, the schools were decried as fostering pop and pap.
+
+In the face of this, it amazed me, as a young teacher, to find that my (by and large poorly read) students were passionate about writing fiction. What was it that motivated them? Was it a superficial and selfish fantasy? Or did they somehow perceive that their passive absorption of the sitcom and the soap had left them wanting? Was this a lazy alternative to academia, or were we in fact the monks of the new dark ages, keeping the culture alive?
+
+An answer is suggested in two interestingly contrasting articles that appeared in the Atlantic in December 2017: “What’s College Good for?” by Bryan Caplan, and “The Desirability of Storytellers” by Ed Yong.
+
+Caplan, a professor of economics, argues that college graduates earn more than non-college-educated people mainly because of the “signaling” of preexisting traits, not anything they’ve learned; a student who completes a PhD in philosophy, for example, has shown herself to be “brilliant, diligent, and willing to tolerate serious boredom,” all eminently employable traits. That philosophy might be a passion, or a desirable study in itself, does not figure in Caplan’s system of values. “Why do English classes focus on literature and poetry instead of business and technical writing?” he asks, not rhetorically. He complains that students spend twelve hours a week “socializing with friends.” It does not occur to him that, for young adults living on their own for the first time, socializing represents the process of socialization.
+
+Yong, on the other hand, recounts the experience of social scientists among preliterate societies of hunter-gatherers in the Philippines and Bolivia. Among the Tsimane of Bolivia, they showed that stories conveyed important information about food, weather, and animal behavior, as well as reinforcing norms and ethics. Among the Agta of the Philippines, they found to their surprise that storytellers were likely to be judged the most desirable living companions and mates, enjoying prestige greater than the best hunters and warriors. An analysis of the tales they told suggested that for nomadic people who had neither religion nor government, which rely on punitive methods of instilling good citizenship, it was the stories’ function to promote cooperation, gender equality, and the cementing of social bonds.
+
+A university has two distinct purposes. One is to get its students ready for life in the “real” world. The other is to keep, in a cool dry place, the knowledge and wisdom that the real world isn’t buying at the moment. In a world of global capitalism, I would argue, the desire to write well is to be celebrated, and creative writing must remain a college subject because, like philosophy and history (and similarly unremunerative studies), it is neither taught nor learned without pedagogical effort.
+
+People read a great deal, but they do not read skillfully written and edited text as a part of daily life. Of literary readers there may be precious few, but the computer and the internet have made writers of all the generations present and to come. To write emails, messages, posts, tweets, and blogs is all to the good. To write a grammatically accurate post, an alliterative tweet, a metaphorical blog entry, will salvage just a little of our culture. To recognize the tools of grammar, alliteration, and metaphor will salvage a little more.
+
+In Sapiens: A Brief History of Humankind, Yuval Noah Harari points out that it is not language itself but the related capacity to imagine what is not immediately present that distinguishes the human species. To imagine what is not immediately present allows us spirituality, nationhood, commerce, and law, and it is of course the essence of story. To write better and better stories may promote cooperation, gender equality, and the cementing of social bonds. If an aspiring writer has natural talent, so much the better. If she gets published, even paid—wonderful. Her mother is probably right that she’ll need a day job. She may even find one with her literary skills, in PR, marketing, or law. (My best friend in college, hoping to break into journalism, ended up as the first female chief justice of the Supreme Court of New York . . .) But in any case, it is good for a full-blooded life and good for the culture that human beings should continue to study the craft of fiction.
+
+I hope Writing Fiction will aid that study for many years to come.
+
+Janet Burroway
+
+
+
+
+

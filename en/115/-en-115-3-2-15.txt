@@ -1,0 +1,14 @@
+(15)
+
+Unfortunately, all names which might be used to designate this kind of monetary effectiveness have already been appropriated for designating different concepts of the velocity of money. Until somebody finds a fitting term, therefore, we shall have to speak somewhat clumsily of the proportion between the amount of goods exchanged against money and the total flow of goods or of the proportion of the total movements of goods which is effected by exchange against money.
+
+Now this proportion must on no account be confused with the proportion of the volume of money payments to the physical volume of trade. The proportion I have in mind may remain the same while the volume of trade increases relatively to the total of money payments and the price level falls, if only the same proportion of the total flow of goods is exchanged against money, and it may change though the proportion of the total of money payments to the physical volume of trade remains the same. It is, therefore, not necessarily influenced either by changes in the amount of money or by changes in the physical volume of trade; it depends only upon whether, in certain phases of the process of production, goods do or do not change hands.
+
+So far I have illustrated this concept only by instances from the sphere of production. It may be applied also to the sphere of consumption. Here, too, sometimes a larger and sometimes a smaller share of the total output of consumers’ goods is exchanged for money before it is consumed. Accordingly, here, too, we may speak about the proportion which the total output of consumers’goods in a period of time bears to the output which is sold for money. And this proportion may be different in the different stages of production. But in its effect upon the structure of production, the efficiency of a given amount of money spent in any stage of production (including the last stage—consumption) is determined by the proportion in that stage; and any change in that proportion has the same effects as an alteration in the amount of money spent in this particular stage of production.
+
+So much for the complications which arise when we drop the assumption that production is carried on in independent stages of equal length. It has been necessary to discuss them here at some length in order to clear the way for an investigation, into which I wish to enter in the last lecture, in connection with the arguments for and against an elastic money supply. But for the tasks which I shall have to face tomorrow, it will be expedient again to make use of the simplest assumption and to suppose that production is carried on in independent stages of equal length, as we did in our schematic representations, and that this proportion is not only the same in all stages of production, but also that it remains constant over time.
+
+
+
+
+

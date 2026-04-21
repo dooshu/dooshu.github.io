@@ -1,0 +1,54 @@
+XIV
+
+We have repeatedly had occasion while examining the theory of Messrs. Foster and Catchings to point to the effects that would ensue if the proposals based upon it were put into practice. But it may well be that the contrast between the real effects of such proposals and the expectations based upon them may not yet be sufficiently clear. And as similar demands are continually being brought forward everywhere for all kinds of reasons, it seems worthwhile finally attempting a systematic account of the actual consequences to be expected if they were really carried out.
+
+It has already been explained that Messrs. Foster and Catchings’s proposals for reform involve increasing the volume of money, either through consumers’ credits or the financing of state expenditure, in order to bring about the sale at unchanged prices of a volume of products enlarged by an increase of saving. The effects of such increases of money spent on consumption can best be demonstrated by contrasting them with the effects of additional productive credits. We shall work under the assumption used in the previous analysis, where the different stages of production are in the hands of different undertakings. The application of this reasoning to that of the completely integrated branch of production should follow more or less of itself.
+
+We may take as a starting point the result of our previous demonstration of the effect of saving, the volume of money remaining unchanged (Scheme B, p. 160). According to this the relation of the demand for consumers’ goods to the demand for means of production changed from £1,000:£8,000 to £900:£8,100, or from 1:8 to 1:9, so that the number of stages increased correspondingly from 9 to 10. Now let us assume that, in accordance with the proposal of Messrs. Foster and Catchings, at the moment when the enlarged product comes onto the market, the volume of money is increased by the same sum as the sums spent on production, i.e., by £10066 and that this additional sum is spent exclusively on consumption goods. Because of this, the demand for consumption goods again increases from £900 to £1,000, while the sums available for means of production remain unchanged, so that the relation between the demand for the two groups of goods changes from £900:£8,100 to £1,000:£8,100, i.e., the relative size of the demand for means of production in comparison with the demand for consumption goods falls from 9 times to 8.1 times the latter. The transformation of production conditioned by this, in the form of a shortening of the productive process, comes about in the manner represented in Scheme C. As the number of stages of production, under our assumption, must then be 8.1, the last stage (No. 10) must be represented by a value that is only one-tenth of the rest.
+
+
+SCHEME C
+
+(£100 is added to the circulation as credit to consumers.)
+
+
+
+
+Demand for consumption goods in relation to the demand for produced means of production—1:8.1.
+
+But this shortening of the production process to the point where it stood before the investment of new savings (cf. Scheme A, p. 158) need not be the final effect, if the increase in money occurs only once and is not repeated again and again. The extension of production became possible because producers consumed, instead of one-ninth (Scheme A), only one-tenth (Scheme B) of their total receipts, and utilized the rest for the purpose of keeping their capital intact. Insofar as they persist in their endeavor to keep their capital intact, in spite of the diminution of the purchasing power of those parts of their receipts which are conditioned by the appearance of new money, the demand for consumption goods in relation to that for means of production will again shift in favor of the latter as soon as the demand for the former is no longer artificially extended through additional spending power. To this extent the shortening of the production process and the devaluation of fixed plant connected with it will only be temporary; but this is contingent upon a cessation of the flow of additional money. What is important, however, is that (even in an expanding economic system) such an inflationist enlargement of the demand for consumption goods must, in itself, bring about at once similar phenomena of crisis to those that are necessarily brought about in consequence of an increase in productive credits, as soon as the latter cease to increase or their rate of flow diminishes.67 This will be best understood if we represent this case schematically also. We again take Scheme B (p. 160) as our starting point, assuming that, in accordance with prevalent opinion, the extension of production is taken as a justification for an extension in money supply. This extension, however, takes the form of productive credits. For simplicity, we assume that the additional money injected in the form of productive credits amounts to £900, and, therefore, the relation between the demand for consumption goods and the demand for production goods alters, as compared with the case represented in Scheme B, from £900:£8,100 to £900:£9,000, or from 1:9 to 1:10.
+
+The proportional increase in the demand for means of production as compared with the demand for consumption goods permits an extension of the production process as compared with the position in Scheme B, thus:
+
+
+SCHEME D
+
+(In the situation depicted in Scheme B £900 are added as credits to producers, first stage.)
+
+
+
+
+Demand for consumption goods in relation to the demand for produced means of production—1:10.
+
+This lengthening of the productive process, however, can continue only so long as the demand for means of production is kept at the same relative level through still further additions of producers’ credits; i.e., so long and so far as the durable production goods produced on account of the temporary increase in the demand for means of production suffice to carry on production of this extent. As soon and insofar as neither of these two assumptions remains true, all consumers whose real income was diminished through the competition of the increased demand for means of production will attempt to bring their consumption up again to the previous level, and to utilize a corresponding portion of their money income for the purchase of consumption goods. But that means that the demand for consumption goods will increase again to more than one-tenth of the total demand for goods of every stage. Accordingly, only a smaller proportion of the total money stream goes to buy produced means of production, and the following changes in the structure of production will occur:
+
+
+SCHEME E
+
+(Same as Scheme D, second stage.)
+
+
+
+
+Demand for consumption goods in relation to the demand for produced means of production—1:9.
+
+Without any further change in the volume of money, and only because the increase in the form of productive credits has ceased, the whole production process, and thus the length of the circuit velocity of money, tends again to contract to the old level. This contraction, which naturally involves the loss of those means of production which are adapted to the longer processes, and which is directly occasioned by the rise in the price of the means of production brought about by an increase in the demand for consumption goods, which renders the longer processes unprofitable, is a typical phenomenon of any crisis. As is easily seen, it is of the same nature as the effects of a relative increase in the demand for consumption goods brought about by consumers’ credits.
+
+It is just because with every increase in the volume of money, whether it is made available first for consumption or first for production, the relative size of the demand for those means of production that already exists or which has been directly enlarged by an increase in money must eventually contract in relation to the demand for consumption goods, that a more or less severe reaction will follow. This frantic game of now enlarging, now contracting the productive apparatus through increases in the volume of money injected, now on the production, now on the consumption side, is always going on under the present organization of currency. Both effects follow each other uninterruptedly and thus an extension or contraction of the productive process is brought about, according to whether credit creation for productive purposes is accelerated or retarded. So long as the volume of money in circulation is continually changing, we cannot get rid of industrial fluctuations. In particular, every monetary policy that aims at stabilizing the value of money and involves, therefore, an increase of its supply with every increase of production, must bring about those very fluctuations that it is trying to prevent.
+
+But least of all is it possible to bring about stability by that “financing of consumption” which Messrs. Foster and Catchings recommend, since there would be added to the contraction of the production process which automatically follows from increases of productive credits a still further contraction because of the consumptive credits, and thus crises would be rendered exceptionally severe. Only if administered with extraordinary caution and superhuman ability could it, perhaps, be made to prevent crises: if the artificial increase in the demand for consumption goods brought about by those credits were made exactly to cancel the increase in the demand for means of production brought about by the investment of the current flow of savings, thus preserving constant the proportion between the two, this might happen. But such a policy would effectively prevent any increase in capital equipment and completely frustrate any saving whatever.68 There can be no question, therefore, that in the long run, even a policy of this sort would bring about grave disturbances and the disorganization of the economic system as a whole. So that, we may say, in conclusion, that the execution of Messrs. Foster and Catchings’s proposals would not prevent, but considerably aggravate, crises; that is, it would punish every attempt at capital creation by a loss of a portion of the capital. Carried through to its logical conclusion, it would effectively prevent every real capital accumulation.
+
+
+
+
+

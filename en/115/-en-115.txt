@@ -1,0 +1,217 @@
+Prices and Production and Other Works on Money the Business Cycle and the Gold Standard (Friedrich August Hayek etc.)
+
+
+
+
+
+
+
+Prices and Production
+
+and Other Works:
+
+
+F.A. Hayek on Money,
+
+the Business Cycle, and the Gold Standard
+
+
+
+Preface by Danny Quah
+
+Foreword by Toby Baxendale
+
+Edited with an Introduction by Joseph T. Salerno
+
+
+
+
+
+Copyright 2008 Ludwig von Mises Institute
+
+Hayek photograph on back cover courtesy of The Cambridgeshire Collection, Cambridge Central Library.
+
+For information, write the Ludwig von Mises Institute, 518 West Magnolia Avenue, Auburn, Alabama 36832, U.S.A. mises.org.
+
+ISBN: 978-1-933550-22-0
+
+
+
+
+
+The Ludwig von Mises Institute thanks
+
+Toby Baxendale
+
+for his magnificent sponsorship
+
+of the publication of this book.
+
+
+
+
+
+Preface by Danny Quah
+
+Preface
+
+
+
+Economics never labels anything any more. Well, more accurately, it does; only now it hardly ever uses labels formed from people’s names.
+
+In part, this is due to the smorgasbord approach to ideas taken by economics. Like many other academic disciplines, economics ruthlessly mixes and matches, customizes and adapts, rips and mashes the most penetrating insights, the most appropriate models from all different sources, applying them to whichever economic problem is currently being addressed. In those circumstances the message gets through to the practitioner economist that it is more useful to know an idea itself, and how to apply and modify it, than to peer into its provenance or to understand how the originator of that idea thought about three or five other substantively different problems.
+
+In mathematics, this idea is taken even further. The most powerful and insightful practitioners are those whose names become so merged with a discovery that their surnames get lowercased whenever mentioned with the matching idea. The proper name disappears as anything distinctive, and instead becomes just vocabulary.
+
+In economics, perhaps partly at fault as well, those intellectual leaders in the profession now, whose names are most likely to deserve such adjectivization, themselves eschew debates that might lead to such identification. Thus, for instance, the same economists who argued that the money supply is the fundamental cause of inflation also argued for the importance of fiscal balance and discipline in determining, again, inflation. The same economists whose work set the agenda for decades of business cycles research were also the ones who provided calculations showing that such economic fluctuations are fundamentally insignificant for society’s well-being overall. Mainstream economics pragmatically emphasizes debate about results, not about methodologies.
+
+So, certainly, individuals’ names can be bolted onto specific curves, econometric estimators, statistical tests, probability inequalities, interest-rate rules, and mathematical equations and models—but not onto entire systems or ways of thinking.
+
+The case of Friedrich Hayek, however, provides a rare example of a consistent body of work in the profession where such identification might be justified.
+
+Living the frenetic cultured existence of the mid-1900s—as political events forever changed the global geography of intellectual endeavor—Hayek became one of the twentieth century’s most influential economists and political philosophers. In economics he made profound and enduring contributions in areas as diverse as monetary and business cycle theory, the social organization of dispersed knowledge, and the spontaneous emergence of order. But while seemingly varied, all these research questions were attacked by Hayek from a consistent, unified perspective. It is this single perspective then that potentially can be most identified with Hayek.
+
+However, matters are complex from the opposite direction as well.
+
+Hayek viewed business cycles as having their initiating impulse of central bank credit overexpansion and their propagation mechanism of misallocation of capital across short- and long-term investments. This is echoed in many modern technical treatments—both empirical and theoretical—of economic fluctuations.
+
+Hayek saw the price system as the single leading mechanism by which limited local knowledge and actions can be efficiently aggregated into optimal social outcomes—through human action, not human design. This is, in one guise, simply the fundamental theorem of welfare economics. But combining these two Hayek propositions—that on business cycles and that on local knowledge—also recovers critical ingredients of Robert Lucas’s rational expectations reconciliation of the short-run Phillips curve with monetary neutrality. Being clear about the distinction between monetary and credit overexpansion brings to the fore modern econometric investigations of the different roles of money and credit over business cycles. Exploring the full implications of whether markets perfectly aggregate imperfect information is precisely the idea underlying a rich seam of technical research in microeconomics.
+
+Hayek’s description of order emerging spontaneously, in a self-organized way, from out of seeming chaos—the application of which to economics he coined the term catallaxy—turns out to be the defining characteristic of the science of complex adaptive systems. It is an idea that sees profound application not only, again, in the fundamental theorems of welfare economics, but in areas as varied as Alan Turing’s explanation for the black and white speckled patterns on cattle, hypotheses on the emergence of peaks and troughs in economic activity across not just time but geographical space, and indeed is embedded deeply in speculations on the origins of life itself, in research on computational and mathematical biology.
+
+While pre-Thatcher, pre-Reagan mainstream politics and social policy worldwide might have grown interventionist with fine-tuning and demand management, and thus distant from Hayek’s intellectual position, by contrast, many mainstream economists and social scientists never really left Hayek. Instead, the great majority have absorbed his ideas so implicitly that the name has been not just lowercased but left unmentioned altogether. Hayek’s ideas are seamlessly intertwined with so much of modern academic economics that, indeed, practically everyone in the profession has come into contact with or uses Hayekian insights. What this does for intellectual history is likely unfortunate. But, on the other hand, it might be the ultimate accolade for Friedrich Hayek, an intellectual concerned with ideas and knowledge, and their use for good in society.
+
+I congratulate the Ludwig von Mises Institute for bringing back into print Hayek’s writings on business cycles. This collection will be a critical touchstone for future thinking in the area.
+
+Danny Quah
+
+London School of Economics
+
+March 2007
+
+
+
+
+
+Foreword by Toby Baxendale
+
+
+Foreword
+
+
+
+It is with great pleasure that I fully support the reproduction of these works. I congratulate Lew Rockwell and his team for having the foresight to do this in honor of Hayek, one of the most important economists of the last century.
+
+An old Polish soldier who had settled in London after World War II exposed me to the teachings of Hayek when I was sixteen years old. He had fought the Nazi machine as a member of the Royal Air Force. An equally nasty totalitarian force subsequently occupied his country: the Stalinist Communists. After the war, he settled in my neighborhood, and I got talking to him. He was adamant that I read Hayek as Hayek could show me all that was wrong with totalitarianism. The book offered was The Road to Serfdom. I did. I dedicate this reproduction to all those people who have suffered untold hardship under various totalitarian regimes.
+
+Setting my sights on the London School of Economics, where Hayek had taught for twenty-plus years in the 1930s through the 1950s, as a place to study, to my great pleasure, we could study, as part of our political theory course, The Constitution of Liberty. Although Hayek had taught at the LSE in the economics department, none of his economic works were taught. Indeed, I was totally ignorant, up until my mid-twenties (i.e., post-university) of his economic works, which needless to say were the works cited in the awarding of his Nobel Prize. Further, it was Hayek who led me to the works of Ludwig von Mises, about whom I am certain that I would have otherwise known nothing.
+
+Just as my Polish friend sparked my social and political interest in Hayek, I hope this volume can do the same for others concerning his economic work. This volume intends to revitalize Hayek’s contribution to the study of economic fluctuations (more commonly now called business cycles) and monetary theory. Hayek demonstrated an entrepreneurial and empirical attitude toward his work. Just as his social, political, and legal work is rich with warning about too much well-meaning government interference, so too are his neglected economic works.
+
+After his time at the Institute for Business Cycle Research in Vienna, he funded his own trip to the United States to interview economists and develop his work. Hayek understood the importance of statistical verification but was also committed to getting the theory right rather than counting on empirics to generate their whole result. His legacy should be to complement theoretical quibbles with hard facts, and these essays contain rich avenues to pursue.
+
+One particular area I would like to draw the reader to is his works contained here on the business cycle, which was the work that grew from Mises’s initial work on the matter in 1912, which has become known as the Austrian theory of the business cycle. Most contemporary economists have dismissed this work as not being in accordance with the observable facts and thus not worthy of being taught; hence, perhaps why I never saw sight nor sound of his teachings as an undergraduate.
+
+In brief Hayek contends that an artificial manipulation by government of the interest rate creates a subsidy of credit that causes entrepreneurs to bring forth projects that were hitherto marginal. In reality, the consumers do not want the goods of these projects, so there is a misallocation (malinvestment) of resources. A careful reading of these early Hayek essays pre-empts the modern debate over rational expectations and shows that the cluster of errors can be avoided by his steadfast commitment to methodological individualism. Entrepreneurs are neither lemmings nor computers because they are heterogeneous.
+
+If we extend the assumption of heterogeneity from capital to entrepreneurs, the question is, which type of entrepreneur is creating the cyclical activity of interest? Standard economic theory suggests that it is the marginal entrepreneur who moves the market, and Hayek points us in a direction that very few scholars have acted upon. I would find great value in subjecting this point to empirical evidence, to see who these marginal entrepreneurs are (the ones who are exposed when their credit subsidy is removed in a monetary contraction), and the conditions of their entry and exit. Perhaps moral hazard is not the greatest problem created by subsidized credit, and the effects of adverse selection create even larger inefficiencies.
+
+Hayek stressed the role of relative price movements and focused attention on the interest rate. But he also provided a rich and accomplished critique of the use of abstract, aggregate variables. This presents a temptation for theorists to overemphasize interest rate changes, despite the fact that they only affect the risk of highly leveraged firms. In many cases the volume of credit, raw money creation by the Central Bank, seems a more realistic variable than the rate of interest.
+
+Hayek’s faculty position at the LSE (1931–1950) not only raised the profile of the Austrian School, but also elevated capital theory to one of the key economic issues, by highlighting (and translating) the key Swedish and Austrian insights for the English-speaking orthodoxy. During this period the LSE was the frontier of the continental tradition, and Hayek, Keynes, Robinson, Sraffa, Shackle, Robbins, et al. were at the peak of their discipline. This volume reminds us of a time when Austrian theory sat at the top of the table of debate, and offers us the way to return there.
+
+Hayek was writing in a tradition where economists were conscious of the practical relevance of their work. To be sure, Hayek utilized grand thought experiments and abstraction, but his theoretical work always sought to understand the real world. Since then a divergence has occurred between self-referential academics and a generation of business consultants who lack the rigor of price theory. I am sure that a reassessment of the likes of Hayek is of fundamental importance to any young economist seeking to bridge these two spheres and return to a science of commerce.
+
+In fact, the critical problem of how individuals coordinate is the thread that runs throughout Hayek’s work, and the monetary aspect returns with his late attention to the nationalization of money. In these works we see Hayek as a price theorist, and as a facilitator of economic inquiry. As an entrepreneur I recognize deep insights throughout Hayek’s work, but also several points that have to be expanded and verified. This volume should not be seen as an example of preservation, but an engine of discovery.
+
+Toby Baxendale
+
+London
+
+March 2007
+
+
+
+
+
+Introduction by Joseph T. Salerno
+
+
+Introduction
+
+
+
+Friedrich A. Hayek was barely out of his twenties in 1929 when he published the German versions of the first two works in this collection, Monetary Theory and the Trade Cycle and “The Paradox of Saving.” The latter article was a long essay that was to become the core of his celebrated book and the third work in this volume, Prices and Production, the publication of which two years later made him a world-renowned economist by the age of thirty-two. But the young Hayek did not pause to savor his success. He was already hard at work on “Reflections on the Pure Theory of Money of Mr. J.M. Keynes,” a lengthy critical review of John Maynard Keynes’s two-volume Treatise on Money, which had been published in 1930. Hayek’s two-part review appeared in late 1931 and 1932. There followed within a few years the other three works collected in this volume. “The Mythology of Capital” appeared in 1936 and was a response to Frank Knight’s hostile criticisms of the Austrian theory of capital. A short article on “Investment That Raises the Demand for Capital” and the monograph Monetary Nationalism and International Stability were published in 1937.
+
+These seven works taken together represent the first integration and systematic elaboration of the Austrian theories of money, capital, business cycles, and comparative monetary institutions, which constitute the essential core of Austrian macroeconomics. Indeed these works have profoundly influenced postwar expositions of Austrian or “capital-based” macroeconomics down to the present day.1 The creation of such an oeuvre is a formidable intellectual feat over an entire lifetime; it is an absolute marvel when we consider that Hayek had completed it in the span of eight years (1929–1937) and still well shy of his fortieth birthday.
+
+Hayek’s amazingly precocious intellect and creative genius are on full display in these works. Thus, before the age of thirty, Hayek already had fully mastered and begun to synthesize and build upon the major contributions of his predecessors in the Austrian tradition. These included, in particular: Eugen von Böhm-Bawerk’s theory of capital and interest; Knut Wicksell’s further elaborations on Böhm-Bawerk’s capital theory and his own insights into the “cumulative process” of changes in money, interest rates, and prices; Ludwig von Mises’s groundbreaking theories of money and business cycles; and the general analytical approach of the broad Austrian School from Menger onward that focused on both the subjective basis and the dynamic interdependence of all economic phenomena.
+
+There is something else about Hayek that becomes apparent when reading his contributions in this volume. The young Hayek was a great economic controversialist, perhaps the greatest of the twentieth century. His entire macroeconomic system was forged within the crucible of the great theoretical controversies of the era. His opponents were some of the great (and not so great) figures in interwar economics: Keynes, W.T. Foster and W. Catchings, Ralph Hawtrey, Irving Fisher, Frank Knight, Josef Schumpeter, Gustav Cassel, Alvin Hansen, A.C. Pigou, and Arthur Spiethoff to name a few. Hayek took on all comers without fear or favor and inevitably emerged victorious. As Alan Ebenstein notes, “Hayek came to be seen in Cambridge, as Robbins’s and LSE’s point man in intellectual combat with Cambridge.”2
+
+Hayek’s prodigious dialectical skills and his relentless drive to root out and correct even the most entrenched economic errors are exhibited throughout this volume. Hayek’s review of Keynes’s Treatise on the Pure Theory of Money is the exemplar of disputation in theoretical economics. Keynes was Hayek’s senior by a generation and at the time the leading economist in Great Britain and among the most famous public intellectuals in the Anglophone world. Keynes worked hard and long on his treatise, and clearly intended it to be his magnum opus, a dazzling leap forward in the theory of money based on “a novel means of approach to the fundamental problems of monetary theory.” But Keynes’s reach far exceeded his grasp given his parochial and stunted training in economic theory—one course in economics and the study of Alfred Marshall’s clunky and disjointed textbook. Keynes’s Treatise never stood a chance. For the brilliant and courageous young Hayek was waiting, pen in hand, to show up the Treatise as a theoretical dead end rather than the new departure in monetary theory Keynes had hoped for.
+
+Hayek’s blistering review essay is a positive thrill to read. He relentlessly scrutinizes and exposes the shaky and patchwork structure of Keynes’s theoretical arguments and then dismantles it brick by brick, leaving nothing standing. Keynes’s reaction reveals just how deeply Hayek’s review cut as well as his own cavalier attitude toward intellectual pursuits. Keynes’s reply to the first part of Hayek’s essay, which dealt with the first, purely theoretical volume of the Treatise, was not properly a reply at all but a critique of Hayek’s book Prices and Production. Upon publication six months later of the second part of Hayek’s article, which focused on the second, applied volume of the Treatise and in which Hayek was a bit more complimentary, Keynes remarked to Hayek, “Oh never mind, I no longer believe all that.”3 Yet Keynes was not done. A month later, Keynes, as chief editor of the Economic Journal, published a nasty review of Hayek’s Prices and Production written by one of Keynes’s more uncomprehending and rabid disciples, Piero Sraffa. Keynes’s fellow Cambridge economist, Arthur C. Pigou, was aghast at this behavior. Without naming names, Pigou wrote,
+
+
+A year or two ago, after the publication of an important book, there appeared an elaborate and careful critique of a number of passages in it. The author’s answer was, not to rebut the criticism, but to attack with violence another book, which the critic had himself written several years before. Body-line bowling. The methods of the duello. That kind of thing is surely a mistake.4
+
+
+
+
+In the “The Mythology of Capital,” Hayek took on the long and bitter crusade against the Austrian theory of capital waged by Frank Knight, fifteen years Hayek’s senior, an eminent American economist and the founder and leader of the early Chicago School. Hayek fittingly adopted as the introductory quotation of his article a statement by Eugen von Böhm-Bawerk, not coincidentally the greatest economic disputant of the nineteenth century and Hayek’s chief influence in capital theory. Hayek’s quotation of Böhm-Bawerk read, “With every respect for the intellectual qualities of my opponent, I must oppose his doctrine with all possible emphasis, in order to defend a solid and natural theory of capital against a mythology of capital.” This is actually a concise statement of the early Hayek’s general method of attaining theoretical breakthroughs: he would carefully develop the correct theoretical position and then use it as a weapon with which to strike down the fallacies of his opponents. In this article he proceeded to demolish Knight’s claim that capital, once accumulated, was a permanent fund that perpetually and automatically reproduced itself without regard to human purposes and the prevailing conditions of scarcity. Hayek trenchantly characterized Knight’s notion of capital as “a pseudo-concept devoid of content and meaning, which threatens to shroud the whole problem in a mist of words.”
+
+“The Paradox of Saving,” which was for Hayek “the beginning of a continuous development of thought” that shaped his research agenda throughout the 1930s, was a critique of the underconsumptionist approach to depression. Specifically, Hayek was responding to two American writers, Waddill Catchings and William Trufant Foster who had coauthored a series of essays and tracts on the topic in the 1920s and even offered a $5,000 prize for the best critique of their doctrine in 1925. In the course of his point-by-point refutation of their argument, Hayek integrated Böhm-Bawerk’s analysis of the period of production with Mises’s theory of the business cycle and provided the latter theory with an explicit basis in capital theory for the first time.
+
+The other works in this volume, although they were not overtly controversial pieces, followed much the same pattern as his critiques of Keynes, Knight, and Foster and Catchings. Hayek wrote Monetary Theory and the Trade Cycle as an explication of the monetary causes of the business cycle. However, in order to do so, he believed that he had to “save the sound elements in the monetary theories of the trade cycle” by refuting those naïve quantity theorists who posited a simplistic and mechanical connection between the aggregate money supply and the average price level. Thus he took after the price “stabilizers” like Irving Fisher and Gustav Cassel who were the forerunners of the modern monetarists. He identified “the critique of the program of the ‘stabilizers’” as “the central theme of this book.” Nor did Hayek tread lightly in verbalizing his criticisms. He placed the blame for “the exceptional severity and duration of the depression” squarely on central banks’, particularly the Fed’s, “experiment” in “forced credit expansion,” first to stabilize prices in the 1920s, and then to combat the depression in the early 1930s. Hayek defiantly declared:
+
+
+We must not forget that, for the last six or eight years [up to 1932] monetary policy all over the world has followed the advice of the stabilizers. It is high time that their influence, which has already done harm enough, should be overthrown.
+
+
+
+
+Prices and Production, often seen as the companion volume to Monetary Theory and the Trade Cycle, developed in much greater detail the synthesis of Misesian business-cycle and Böhm-Bawerkian capital theory that Hayek first sketched out in “The Paradox of Saving.” Once again, Hayek’s positive contribution, i.e., a fully developed statement of Austrian business cycle theory, was at least partially motivated by his intent to engage and refute what he regarded as an economic fallacy, specifically, the Anglo-American version of the quantity theory. After summarizing that theory in three propositions, he referred to them as “delusions” that “make it possible to assume that we can neglect the influence of money [on the real structure of production] so long as the value of money is assumed to be stable.” In the short article on “Investment That Raises the Demand for Capital,” Hayek drew out the subtle implications of an accepted proposition regarding the sunk costs of already invested capital to show the complete inadequacy of simplistic monetary explanations of the business cycle that treat capital as an abstract homogeneous aggregate and ignore the intricate interrelationships among the concrete goods composing the capital structure. Again, Hayek was not gentle in his rhetoric. He insisted that his positive restatement of the proposition in question rendered it “so obvious as to put its logical correctness beyond dispute,” which meant that “much of the purely monetary analysis of the trade cycle now current is built on very insufficient foundations.”
+
+In Monetary Nationalism and International Stability, Hayek extended Mises’s monetary theory to provide a groundbreaking analysis of the international operation of the pure gold standard and the widely misunderstood role of international monetary flows therein. Hayek also identified the systemic flaw in the classical gold standard—a centralization of gold reserves in the hands of national central banks or “the national reserve system”—that led to its destruction by monetary policy. Thus Hayek argued that the demise of the gold standard in 1931 was caused by the influence on monetary policy achieved by the ideas of “Monetary Nationalism” after World War I. Wrote Hayek, “[L]ong before the breakdown of the international gold standard in 1931, monetary policy all over the world was guided by the ideas of monetary nationalism.” In critically analyzing the proposals of the monetary nationalists for a regime of fluctuating national fiat currencies, Hayek presented the first comprehensive case against so-called freely fluctuating exchange rates, which has yet to be improved upon. Integrating his argument with Austrian business cycle theory, he demonstrated that fluctuating exchange rates do not prevent the international transmission of macroeconomic fluctuations as long as there exists free trade in all orders of capital goods as well as in consumer goods—even if governments under the influence of monetary nationalism are able to impede international capital flows.
+
+As always, Hayek was not shy about identifying the individuals to whom his critical remarks applied. Thus he characterized Keynes’s disciple and later biographer Roy Harrod as “one of the most ardent advocates of monetary nationalism.” Hayek also harshly criticized Charles R. Whittlesey for whom “almost the whole argument in favor of monetary nationalism is based on the assumption that different national currencies are different commodities and that consequently there ought to be variable prices of them in terms of each other.” Ever the dialectician, Hayek proceeded to point out the naïve fallacy vitiating Whittlesey’s argument:
+
+
+No attempt is made to explain why or under what conditions and in what sense the different national moneys ought to be regarded as different commodities, and one can hardly avoid the impression that the author has uncritically accepted the difference in denomination as proof of a difference in kind.
+
+
+
+
+This last work, which was a slight volume of fewer than one hundred pages, was basically the reproduction of a series of lectures that Hayek delivered at the Graduate Institute of International Studies in Geneva. We can only speculate what course the Keynesian Revolution and, indeed, the economic history of the Western world would have taken had Hayek abandoned work on his abortive Pure Theory of Capital to “undertake the larger investigation” that his friends (viz., LSE economists Lionel Robbins, Frank Paish, and Frederic Benham) advised “the subject deserves.” Hayek himself believed that it “would certainly have been a much bigger and much better book” had he incorporated their suggestions. If Hayek, who was at the peak of his academic fame and analytical and rhetorical powers, had revised and expanded the lectures into a proper book, Monetary Nationalism and International Stability may have become the Austrian tract for the times that rivaled the General Theory and derailed the Keynesian juggernaut right at the outset. This was Hayek’s great missed opportunity and not, as he often later lamented, the narrowly technical review of the General Theory he failed to write.
+
+The present volume thus presents the combative and assertive, yet always polite, Hayek, fully confident in the superiority of the intellectual armamentarium supplied by his great predecessors in the Austrian tradition and in his own ability to wield it. Here we look in vain for the irenic and temporizing Hayek who was later to dedicate a book to “the Socialists of All Parties.”5 The former Hayek seemed to completely disappear sometime after the publication of the Pure Theory of Capital in 1941. It is an open question whether this radical change in attitude was the result of a strategic choice that corresponded to Hayek’s shift out of economics into the broader field of social theory. Hayek himself lent credence to this interpretation in later reflections:
+
+
+When it proved that... the General Theory... conquered most of the professional opinion, and when in the end even some of the colleagues I most respected supported the wholly Keynesian Bretton Woods agreement, I largely withdrew from the debate, since to proclaim my dissent from the near unanimous views of the orthodox phalanx would merely have deprived me of a hearing on other matters about which I was more concerned at the time.6
+
+
+
+
+Hayek’s transformation may also have been a temperamental response to the crushing blow to his reputation as an economist caused by the overwhelming success of the Keynesian Revolution. Hayek also provided some evidence for this view of the matter in another one of his reminiscences:
+
+
+I had a period of twenty years in which I bitterly regretted having once mentioned to my wife after Keynes’s death that now Keynes was dead, I was probably the best-known economist living. But ten days later it was probably no longer true. At that very moment, Keynes became the great figure, and I was gradually forgotten as an economist.7
+
+
+
+
+Many laboring in the thriving cottage industry of Hayek biographers, critics, and interpreters have commented on the transition from a “Hayek I” to a “Hayek II” that began in the late 1930s, portraying it as almost wholly an intellectual reorientation and change in research interests. Few, if any, have recognized the radical alteration in analytical procedure and rhetorical style that characterized this transformation. This is evident by comparing the works in this volume with later essays penned by Hayek II, e.g., those anthologized in his Studies in Philosophy, Politics and Economics.8 However Hayek I re-emerged almost immediately after receiving the Nobel Prize in 1974 fully armed and with renewed passion for intellectual combat. In a remarkable flurry of articles, pamphlets, booklets, and interviews, he aggressively demolished the intellectual case for postwar Keynesianism and confidently offered new and radical proposals for extricating the Western industrial nations from the stagflationary mire into which they had foundered under the guidance of Keynes’s disciples.9
+
+The re-publication of these works in a single volume is a magnificent event that fills a yawning gap in the Austrian macro-economic literature and provides modern Austrians with a model of how to advance economic theory through reasoned debate and criticism.
+
+Joseph T. Salerno
+
+Pace University
+
+April 2007
+
+
+
+
+
